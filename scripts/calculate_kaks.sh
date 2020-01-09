@@ -1,9 +1,9 @@
 #!/bin/bash --login
-#SBATCH --time=3:55:00
+#SBATCH --time=24:00:00
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=2
-#SBATCH --mem=50GB
+#SBATCH --mem=10GB
 #SBATCH --job-name calculate_KaKs
 #SBATCH --output=job_reports/%x-%j.SLURMout
 
@@ -18,11 +18,12 @@ export PERL5LIB="$HOME/miniconda3/envs/seq/lib/perl5/site_perl/5.22.0"
 #Combine duplicate pairs
 cd dupgen/results-unique
 echo "Combining duplicate gene pairs"
-head -1 "$sample".wgd.pairs-unique > "$sample".duplicate.pairs-unique
+head -1 "$sample".wgd.pairs-unique > "$sample".all_duplicate.pairs
 for i in *pairs-unique
 do
-	sed '1d' $i >> "$sample".duplicate.pairs-unique
+	sed '1d' $i >> "$sample".all_duplicate.pairs
 done
+mv "$sample".all_duplicate.pairs "$sample".all_duplicate.pairs-unique
 
 #Calculate KaKs
 mkdir kaks_results

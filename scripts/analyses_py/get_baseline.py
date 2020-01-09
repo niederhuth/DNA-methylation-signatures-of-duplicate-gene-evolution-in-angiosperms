@@ -2,7 +2,7 @@ import os
 import sys
 import pandas as pd
 
-functionsfile = '../../../scripts/functions.py'
+functionsfile = '../scripts/functions.py'
 sys.path.append(os.path.dirname(os.path.expanduser(functionsfile)))
 
 import functions
@@ -14,14 +14,11 @@ cutoff=10
 calc_baseline='True'
 min_sites=0
 qvalue=0.05
-df='results/all_genes_CDS_methylation.txt'
-output='results/binomial_test.txt'
-output2='results/classified_genes.txt'
+df='tmp'
+output='tmp2'
 
 #run binomial test
-print('Running the binomial test')
+print('Calculating the baseline')
 functions.gene_binom_test(df,output=output,mc_type=mc_type,
 	baseline=baseline,cutoff=cutoff,calc_baseline=calc_baseline)
-print('Classifying genes')
-functions.classify_genes(output,output=output2,min_sites=min_sites,qvalue=qvalue)
 

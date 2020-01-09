@@ -18,7 +18,7 @@ cutoff=0
 first_feature='gene'
 second_feature='CDS'
 filtered_output="all_CDS_filtered_allc.tmp"
-output='results/all_genes_CDS_methylation.txt'
+output='results/all_genes_CDS_methylation.tsv'
 
 #get chromosome list
 chrs = list(pd.read_csv(genome_file,header=None,usecols=[0],dtype='str',sep="\t")[0])
