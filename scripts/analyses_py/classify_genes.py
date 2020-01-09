@@ -14,7 +14,7 @@ cutoff=10
 calc_baseline=False
 min_sites=10
 qvalue=0.05
-df='results/all_genes_CDS_methylation.tsv'
+df='results/CDS_methylation.tsv'
 output='results/binomial_test.tsv'
 output2='results/'+sys.argv[1]+'_classified_genes.tsv'
 

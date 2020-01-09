@@ -468,7 +468,7 @@ def FDR(df,column,new_col):
 	#Return the new data frame
 	return df
 
-#Performe binomial test on number of methylated sites in a gene
+#Perform binomial test on number of methylated sites in a gene
 def gene_binom_test(df,output=(),mc_type=['CG','CHG','CHH'],baseline={},cutoff=10,calc_baseline=True):
 	#read the table
 	a = pd.read_csv(df,sep='\t')
@@ -502,7 +502,7 @@ def gene_binom_test(df,output=(),mc_type=['CG','CHG','CHH'],baseline={},cutoff=1
 	else:
 		return a
 
-#
+#Subscript for classifying genes based on binomial test results
 def classify(row,min_sites=0,qvalue=0.05):
 	if row['CHH_qvalue'] <= qvalue and row['CHH_Total_C'] >= min_sites:
 		return 'TE-like'
@@ -518,7 +518,7 @@ def classify(row,min_sites=0,qvalue=0.05):
 	else:
 		return 'NA'
 
-#
+#Script for calling "classify" subscript and applying to table
 def classify_genes(df,output=(),min_sites=0,qvalue=0.05):
 	a = pd.read_table(df,sep="\t")
 	a['Classification'] = a.apply(classify,axis=1,min_sites=min_sites,qvalue=qvalue)
