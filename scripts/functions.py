@@ -100,7 +100,8 @@ def allc2bed(allc,return_bed=True):
 	return a
 
 #Collect mC data for a context
-def get_mC_data(a,mc_type='C',cutoff=0):
+#If site_cutoff_only is set to "True", then the cutoff will only apply to tallying number of sites & methylated reads called by methylpy
+def get_mC_data(a,mc_type='C',cutoff=0,site_cutoff_only=False):
 	#expand nucleotide list for a given context
 	b = expand_nucleotide_code(mc_type=[mc_type])
 	d1 = d2 = d3 = d4 = 0
@@ -114,10 +115,12 @@ def get_mC_data(a,mc_type='C',cutoff=0):
 				d1 = d1 + 1
 				#add up number of sites called methylated by methylpy
 				d2 = d2 + int(c[7])
-				#add up total reads covering a site
-				d3 = d3 + int(c[6])
-				#add up total methylated reads covering a site
-				d4 = d4 + int(c[5])
+			if site_cutoff_only is False:
+				if int(c[6]) >= int(cutoff):
+					#add up total reads covering a site
+					d3 = d3 + int(c[6])
+					#add up total methylated reads covering a site
+					d4 = d4 + int(c[5])
 	#if no sites for that context, set to 'NA'
 	if d1 == 0:
 		d1 = d2 = d3 = d4 = 'NA'
@@ -127,7 +130,7 @@ def get_mC_data(a,mc_type='C',cutoff=0):
 	return e
 
 #Collect total methylation data for genome or sets of chromosomes
-def total_weighted_mC(allc,output=(),mc_type=['CG','CHG','CHH'],cutoff=0,chrs=[]):
+def total_weighted_mC(allc,output=(),mc_type=['CG','CHG','CHH'],cutoff=0,chrs=[],site_cutoff_only=False):
 	#read allc file
 	a = allc2bed(allc,return_bed=False)
 	#filter chromosome sequences
@@ -138,7 +141,7 @@ def total_weighted_mC(allc,output=(),mc_type=['CG','CHG','CHH'],cutoff=0,chrs=[]
 	b = pd.DataFrame(columns=columns)
 	#iterate over each mC type and run get_mC_data
 	for c in mc_type:
-		d = get_mC_data(a,mc_type=c,cutoff=cutoff)
+		d = get_mC_data(a,mc_type=c,cutoff=cutoff,site_cutoff_only=False)
 		#calculate weighted methylation
 		d += [(float64(d[4])/float64(d[3]))]
 		#add to data frame
@@ -150,7 +153,7 @@ def total_weighted_mC(allc,output=(),mc_type=['CG','CHG','CHH'],cutoff=0,chrs=[]
 		return b
 
 #for calculating methylation levels in windows across the genome
-def genome_window_methylation(allc,genome_file,output=(),mc_type=['CG','CHG','CHH'],window_size=100000,stepsize=50000,cutoff=0,chrs=[]):
+def genome_window_methylation(allc,genome_file,output=(),mc_type=['CG','CHG','CHH'],window_size=100000,stepsize=50000,cutoff=0,chrs=[],site_cutoff_only=False):
 	#read in allc file
 	print("Reading allc file")
 	a = allc2bed(allc)
@@ -195,7 +198,7 @@ def genome_window_methylation(allc,genome_file,output=(),mc_type=['CG','CHG','CH
 			j = [g,h]
 			#iterate over each mC type and run get_mC_data
 			for k in mc_type:
-				l = get_mC_data(i,mc_type=k,cutoff=cutoff)
+				l = get_mC_data(i,mc_type=k,cutoff=cutoff,site_cutoff_only=False)
 				#delete first line of list
 				del(l[0])
 				#Calculate weighted methylation and add this to list of data for other mc_types
@@ -252,7 +255,7 @@ def allc_annotation_filter(allc,annotations,genome_file,output=(),updown_stream=
 		remove(b)
 
 #output methylation data for making metaplots of features (e.g. genes, CDS, transposons), will not filter out data from introns, etc...use gene_metaplot for that
-def metaplot(allc,annotations,genome_file,output=(),mc_type=['CG','CHG','CHH'],window_number=60,updown_stream=2000,feature=(),cutoff=0,chrs=[]):
+def metaplot(allc,annotations,genome_file,output=(),mc_type=['CG','CHG','CHH'],window_number=60,updown_stream=2000,feature=(),cutoff=0,chrs=[],site_cutoff_only=False):
 	#read in allc file
 	print("Reading allc file")
 	a = allc2bed(allc)
@@ -320,7 +323,7 @@ def metaplot(allc,annotations,genome_file,output=(),mc_type=['CG','CHG','CHH'],w
 			j = [window]
 			#iterate over each mC type and run get_mC_data
 			for k in mc_type:
-				l = get_mC_data(i,mc_type=k,cutoff=cutoff)
+				l = get_mC_data(i,mc_type=k,cutoff=cutoff,site_cutoff_only=False)
 				#Calculate weighted methylation and add this to list of data for other mc_types
 				j += [(float64(l[4])/float64(l[3]))]
 			#append the results for that window to the dataframe
@@ -352,7 +355,7 @@ def gene_metaplot(allc,annotations,genome_file,output=(),mc_type=['CG','CHG','CH
 		remove(filtered_data_output)
 
 #Calculate methylation levels for features
-def feature_methylation(allc,annotations,genome_file,output=(),mc_type=['CG','CHG','CHH'],updown_stream=0,feature=(),cutoff=0,chrs=[]):
+def feature_methylation(allc,annotations,genome_file,output=(),mc_type=['CG','CHG','CHH'],updown_stream=0,feature=(),cutoff=0,chrs=[],site_cutoff_only=False):
 	#read in allc file
 	a = allc2bed(allc)
 	#create output data frame
@@ -413,7 +416,7 @@ def feature_methylation(allc,annotations,genome_file,output=(),mc_type=['CG','CH
 					j += ['NA','NA','NA','NA','NA']
 				#else if not empty
 				else:
-					l = get_mC_data(i,mc_type=k,cutoff=cutoff)
+					l = get_mC_data(i,mc_type=k,cutoff=cutoff,site_cutoff_only=False)
 					#Check if there are any sites
 					if l[1] == 'NA':
 						#If no sites, output 'NA'

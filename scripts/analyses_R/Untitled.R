@@ -2,44 +2,21 @@ library(ggplot2)
 library(reshape2)
 library(scales)
 
-species <- read.csv('../misc/genomes.csv',header=T)
-
-for( a in species[species$methylC == "yes",]$species){
-  path1 <- paste(a,"/dupgen/results-unique/classified_genes.tsv",sep="")
-  path2 <- paste(a,"/methylpy/results/",a,"_classified_genes.tsv",sep="")
-  df1 <- read.table(path1,header=TRUE,sep="\t")
-  df2 <- read.table(path2,header=TRUE,sep="\t")[1,23]
-  df3 <- merge(df1,df2,by.x="Feature",by.y="Feature")
-  df4 <- as.data.frame(table(df3[2:3]))
-  df4$Perc <- NA
-  df4$Perc2 <- NA
-  
-  for(i in df4$Duplication){
-    x = sum(df4[df4$Duplication==i,]$Freq)
-    df4[df4$Duplication==i,]$Perc = df4[df4$Duplication==i,]$Freq/x
-  }
-  
-  for(i in df4$Classification){
-    x = sum(df4[df4$Classification==i,]$Freq)
-    df4[df4$Classification==i,]$Perc2 = df4[df4$Classification==i,]$Freq/x
-  }
-  
-}
-
 #Test
 species="Athaliana"
 
 for( a in species){
-  path1 <- "../../figures_tables/"
-  dir.create(paste(path1,a,sep=""))
+  path1 <- paste("../../figures_tables/",a,sep="")
+  if(!file.exists(path1)){
+    dir.create(path1)
+  }
   path2 <- paste(a,"/dupgen/results-unique/classified_genes.tsv",sep="")
   path3 <- paste(a,"/methylpy/results/",a,"_classified_genes.tsv",sep="")
   df1 <- read.table(path2,header=TRUE,sep="\t")
   df2 <- read.table(path3,header=TRUE,sep="\t")
   df3 <- merge(df1,df2[,c(1,23)],by.x="Feature",by.y="Feature")
   df4 <- as.data.frame(table(df3[2:3]))
-  df4$Perc <- NA
-  df4$Perc2 <- NA
+  df4$Perc2 <- df4$Perc <- NA
   
   for(i in df4$Duplication){
     x = sum(df4[df4$Duplication==i,]$Freq)
@@ -52,10 +29,35 @@ for( a in species){
   }
  
   p <- ggplot(df4) + 
-    geom_bar(aes(x=Duplication,y=Perc2,fill=Classification),position="dodge",stat="identity") +
+    geom_bar(aes(x=Duplication,y=Perc,fill=Classification),position="dodge",stat="identity") +
     theme_bw() +
-    scale_y_continuous(labels=percent,expand=c(0,0),limits=c(0,0.35))
-  ggsave(paste(path1,a,"/",a,"_test1.pdf",sep=""),p,device="pdf")
+    scale_fill_discrete("Methylation Classification") +
+    scale_y_continuous(labels=percent,expand=c(0,0)) +
+    xlab("Duplication Type") +
+    ylab("Percentage of Genes")
+  ggsave(paste(path1,"/",a,"_test1.pdf",sep=""),p,device="pdf")
+  
+  p <- ggplot(df4) + 
+    geom_bar(aes(x=Classification,y=Perc2,fill=Duplication),position="dodge",stat="identity") +
+    theme_bw() +
+    scale_fill_discrete("Duplication Type") +
+    scale_y_continuous(labels=percent,expand=c(0,0)) +
+    xlab("Methylation Classification") +
+    ylab("Percentage of Genes")
+  ggsave(paste(path1,"/",a,"_test2.pdf",sep=""),p,device="pdf")
+  
+  for(d in unique(df4$Duplication)){
+   p <- ggplot(df4[df4$Duplication==d,],aes(x="",y=Perc,fill=Classification)) +
+          geom_bar(width = 1, stat = "identity")+
+          coord_polar("y", start=0) +
+          theme_void() +
+          theme(axis.text.x=element_blank()) +
+          geom_text(aes(y = Perc/4 + c(0, cumsum(Perc)[-length(Perc)]), 
+                    label = percent(sort(Perc))), size=5)
+    ggsave(paste(path1,"/",a,"_",d,"_pie.pdf",sep=""),p,device="pdf")
+  }
+
+  
   
   df8 <- data.frame(Classification.x.y=c("gbM-gbM","gbM-TE-like","gbM-Unclassified","gbM-Unmethylated","TE-like-TE-like",
                                 "TE-like-Unclassified","Unclassified-Unclassified","Unmethylated-TE-like",
@@ -71,9 +73,7 @@ for( a in species){
     df7$Classification.x.y <- "NA"
     
     for(row in 1:nrow(df7)){
-      if(df7[row,]$Classification.x == "NA" || df7[row,]$Classification.y == "NA"){
-        df7[row,]$Classification.x.y = df7[row,]$Classification.x.y
-      } else if(df7[row,]$Classification.x == df7[row,]$Classification.y){
+      if(df7[row,]$Classification.x == df7[row,]$Classification.y){
         df7[row,]$Classification.x.y = paste(df7[row,]$Classification.x,df7[row,]$Classification.y,sep="-")
       } else if(df7[row,]$Classification.x == "gbM" & df7[row,]$Classification.y == "Unclassified" || df7[row,]$Classification.x == "Unclassified" & df7[row,]$Classification.y == "gbM" ){
         df7[row,]$Classification.x.y = "gbM-Unclassified"
@@ -101,7 +101,7 @@ for( a in species){
       xlab("Duplicate 1") +
       ylab("Duplicate 2") + 
       geom_smooth(aes(x=log2((CG_Weighted_mC.y*100)),y=log2((CG_Weighted_mC.x*100))),method=lm)
-    ggsave(paste(path1,a,"/",a,"_",b,"_CG.pdf",sep=""),p,device="pdf")
+    ggsave(paste(path1,"/",a,"_",b,"_CG.pdf",sep=""),p,device="pdf")
     
     p <- ggplot(df7) +
       geom_point(aes(x=log2((CHG_Weighted_mC.y*100)),y=log2((CHG_Weighted_mC.x*100)),color=Classification.x.y)) +
@@ -109,7 +109,7 @@ for( a in species){
       xlab("Duplicate 1") +
       ylab("Duplicate 2") + 
       geom_smooth(aes(x=log2((CHG_Weighted_mC.y*100)),y=log2((CHG_Weighted_mC.x*100))),method=lm)
-    ggsave(paste(path1,a,"/",a,"_",b,"_CHG.pdf",sep=""),p,device="pdf")
+    ggsave(paste(path1,"/",a,"_",b,"_CHG.pdf",sep=""),p,device="pdf")
   
     p <- ggplot(df7) +
       geom_point(aes(x=log2((CHH_Weighted_mC.y*100)),y=log2((CHH_Weighted_mC.x*100)),color=Classification.x.y)) +
@@ -117,25 +117,19 @@ for( a in species){
       xlab("Duplicate 1") +
       ylab("Duplicate 2") + 
       geom_smooth(aes(x=log2((CHH_Weighted_mC.y*100)),y=log2((CHH_Weighted_mC.x*100))),method=lm)
-    ggsave(paste(path1,a,"/",a,"_",b,"_CHH.pdf",sep=""),p,device="pdf")
+    ggsave(paste(path1,"/",a,"_",b,"_CHH.pdf",sep=""),p,device="pdf")
   }    
   
   path4 <- paste(a,"/dupgen/results-unique/",a,".transposed.pairs-unique",sep="")
   b="transposed"
   df5 <- read.table(path4,header=TRUE,sep="\t")[,c(1,3)]
   df6 <- merge(df5,df2[,c(1,6,11,16,23)],by.x="Transposed",by.y="Feature")
-  df7 <- merge(df6,df2[,c(1,6,11,16,23)],by.x="Parental",by.y="Feature")
+  df7 <- na.omit(merge(df6,df2[,c(1,6,11,16,23)],by.x="Parental",by.y="Feature"))
   df7$Change <- ifelse(df7$Classification.x==df7$Classification.y,"Identical","Different")
-  
-  df7$Classification.x <- ifelse(is.na(df7$Classification.x),"NA",df7$Classification.x)
-  df7$Classification.y <- ifelse(is.na(df7$Classification.y),"NA",df7$Classification.y)
-  
   df7$Classification.x.y <- "NA"
   
   for(row in 1:nrow(df7)){
-    if(df7[row,]$Classification.x == "NA" || df7[row,]$Classification.y == "NA"){
-      df7[row,]$Classification.x.y = "NA"
-    } else if(df7[row,]$Classification.x == df7[row,]$Classification.y){
+    if(df7[row,]$Classification.x == df7[row,]$Classification.y){
       df7[row,]$Classification.x.y = paste(df7[row,]$Classification.x,df7[row,]$Classification.y,sep="-")
     } else if(df7[row,]$Classification.x == "gbM" & df7[row,]$Classification.y == "Unclassified" || df7[row,]$Classification.x == "Unclassified" & df7[row,]$Classification.y == "gbM" ){
       df7[row,]$Classification.x.y = "gbM-Unclassified"
@@ -163,7 +157,7 @@ for( a in species){
     xlab("Parental") +
     ylab("Transposed") +   
     geom_smooth(aes(x=log2((CG_Weighted_mC.y*100)),y=log2((CG_Weighted_mC.x*100))),method=lm)
-  ggsave(paste(path1,a,"/",a,"_",b,"_CG.pdf",sep=""),p,device="pdf")
+  ggsave(paste(path1,"/",a,"_",b,"_CG.pdf",sep=""),p,device="pdf")
   
   p <- ggplot(df7) +
     geom_point(aes(x=log2((CHG_Weighted_mC.y*100)),y=log2((CHG_Weighted_mC.x*100)),color=Classification.x.y)) +
@@ -171,7 +165,7 @@ for( a in species){
     xlab("Parental") +
     ylab("Transposed") + 
     geom_smooth(aes(x=log2((CHG_Weighted_mC.y*100)),y=log2((CHG_Weighted_mC.x*100))),method=lm)
-  ggsave(paste(path1,a,"/",a,"_",b,"_CHG.pdf",sep=""),p,device="pdf")
+  ggsave(paste(path1,"/",a,"_",b,"_CHG.pdf",sep=""),p,device="pdf")
   
   p <- ggplot(df7) +
     geom_point(aes(x=log2((CHH_Weighted_mC.y*100)),y=log2((CHH_Weighted_mC.x*100)),color=Classification.x.y)) +
@@ -179,14 +173,69 @@ for( a in species){
     xlab("Parental") +
     ylab("Transposed") + 
     geom_smooth(aes(x=log2((CHH_Weighted_mC.y*100)),y=log2((CHH_Weighted_mC.x*100))),method=lm)
-  ggsave(paste(path1,a,"/",a,"_",b,"_CHH.pdf",sep=""),p,device="pdf")
+  ggsave(paste(path1,"/",a,"_",b,"_CHH.pdf",sep=""),p,device="pdf")
   
+  df8 <- melt(df8)
+  df9 <- melt(df9)
   
+  df8$Perc2 <- df8$Perc <- NA
+  df9$Perc2 <- df9$Perc <- NA
+
+  for(i in df8$Classification.x.y){
+    x = sum(df8[df8$Classification.x.y==i,]$value)
+    df8[df8$Classification.x.y==i,]$Perc = df8[df8$Classification.x.y==i,]$value/x
+  }
   
-  df9 <- melt(df8)
+  for(i in unique(df8$variable)){
+    x = sum(df8[df8$variable==i,]$value)
+    df8[df8$variable==i,]$Perc2 = df8[df8$variable==i,]$value/x
+  }
+  
+  for(i in df9$Change){
+    x = sum(df9[df9$Change==i,]$value)
+    df9[df9$Change==i,]$Perc = df9[df9$Change==i,]$value/x
+  }
+  
+  for(i in unique(df9$variable)){
+    x = sum(df9[df9$variable==i,]$value)
+    df9[df9$variable==i,]$Perc2 = df9[df9$variable==i,]$value/x
+  }
+  
+  p <- ggplot(df8) +
+        geom_bar(aes(x=Classification.x.y,y=Perc,fill=variable),position="dodge",stat="identity") +
+        theme_bw() +
+    scale_y_continuous(labels=percent,expand=c(0,0)) +
+    scale_fill_discrete("Duplication Type") +
+    xlab("Methylation Classification") +
+    ylab("Percentage of Genes")
+  ggsave(paste(path1,"/",a,"_gene_pairs_class1.pdf",sep=""),p,device="pdf")
+  
+  p <- ggplot(df8) +
+    geom_bar(aes(x=variable,y=Perc2,fill=Classification.x.y),position="dodge",stat="identity") +
+    theme_bw() +
+    scale_fill_discrete("Methylation Classification") +
+    scale_y_continuous(labels=percent,expand=c(0,0)) +
+    xlab("Duplication Type") +
+    ylab("Percentage of Genes")
+  ggsave(paste(path1,"/",a,"_gene_pairs_class2.pdf",sep=""),p,device="pdf")
+
   p <- ggplot(df9) +
-        geom_bar(aes(x=Classification.x.y,y=value,fill=variable),position="dodge",stat="identity") +
-        theme_bw()
+    geom_bar(aes(x=Change,y=Perc,fill=variable),position="dodge",stat="identity") +
+    theme_bw() +
+    scale_fill_discrete("Duplication Type") +
+    scale_y_continuous(labels=percent,expand=c(0,0)) +
+    xlab("Methylation Classification") +
+    ylab("Percentage of Genes")
+  ggsave(paste(path1,"/",a,"_gene_pairs_change1.pdf",sep=""),p,device="pdf")
+  
+  p <- ggplot(df9) +
+    geom_bar(aes(x=variable,y=Perc2,fill=Change),position="dodge",stat="identity") +
+    theme_bw() +
+    scale_fill_discrete("Methylation Classification") +
+    scale_y_continuous(labels=percent,expand=c(0,0)) +
+    xlab("Duplication Type") +
+    ylab("Percentage of Genes")
+  ggsave(paste(path1,"/",a,"_gene_pairs_change2.pdf",sep=""),p,device="pdf")
 }
 
 
