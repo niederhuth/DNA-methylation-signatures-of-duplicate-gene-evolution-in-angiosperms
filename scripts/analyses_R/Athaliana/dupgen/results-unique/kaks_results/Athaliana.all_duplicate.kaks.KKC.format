@@ -1,7 +1,4 @@
-Gene pairs	Method	Ka	Ks	Ka/Ks	P-Value (Fisher)	Length	S-Sites	N-Sites	Fold-Sites (0:2:4)	Substitutions	 
-S-Substitutions	N-Substitutions	Fold-S-Substitutions (0:2:4)	Fold-N-Substitutions (0:2:4)	Divergence-Time	Substitution-Rate-Ratio (rTC:rAG:rTA:rCG:rTG:rCA/rCA)	 
-GC(1:2:3)	ML-Score	AICc	Akaike-Weight	Model
-Sequence	Method	Ka	Ks	Ka/Ks	P-Value(Fisher)	Length	S-Sites	N-Sites	Fold-Sites(0:2:4)	Substitutions	S-Substitutions	N-Substitutions	Fold-S-Substitutions(0:2:4)	Fold-N-Substitutions(0:2:4)	Divergence-Time	Substitution-Rate-Ratio(rTC:rAG:rTA:rCG:rTG:rCA/rCA)	GC(1:2:3)	ML-Score	AICc	Akaike-Weight	Model
+Gene pairs	Method	Ka	Ks	Ka/Ks	P-Value (Fisher)	Length	S-Sites	N-Sites	Fold-Sites (0:2:4)	Substitutions	 S-Substitutions	N-Substitutions	Fold-S-Substitutions (0:2:4)	Fold-N-Substitutions (0:2:4)	Divergence-Time	Substitution-Rate-Ratio (rTC:rAG:rTA:rCG:rTG:rCA/rCA)	 GC(1:2:3)	ML-Score	AICc	Akaike-Weight	Model
 AT1G01020-AT4G01510	GMYN	0.233177	0.71884	0.324379	2.66602e-09	684	186.571	497.429	NA	178	79.8561	98.1439	NA	NA	0.365649	2.22682:4.95011:1:1:1:1	0.345923(0.374101:0.28777:0.375899)	NA	NA	NA	NA
 AT1G01040-AT3G03300	GMYN	0.63076	5.0621	0.124604	1.46529e-123	4032	853.607	3178.39	NA	2060	729.791	1330.21	NA	NA	1.56891	0.882849:1.61654:1:1:1:1	0.361296(0.441688:0.311509:0.330691)	NA	NA	NA	NA
 AT1G01040-AT3G20420	GMYN	0.594771	4.17488	0.142464	3.56026e-36	1161	261.52	899.48	NA	580	217.219	362.781	NA	NA	1.4012	1.27009:2.10636:1:1:1:1	0.26101(0.322977:0.227676:0.232376)	NA	NA	NA	NA
