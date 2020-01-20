@@ -118,6 +118,19 @@ for( a in species){
       ylab("Duplicate 2") + 
       geom_smooth(aes(x=log2((CHH_Weighted_mC.y*100)),y=log2((CHH_Weighted_mC.x*100))),method=lm)
     ggsave(paste(path1,"/",a,"_",b,"_CHH.pdf",sep=""),p,device="pdf")
+    
+    #kaks
+    path5 <- paste(a,"/dupgen/results-unique/kaks_results","/",a,".",b,".kaks",sep="")
+    df10 <- read.table(path5,header=T,sep="\t")
+    df11 <- merge(df7,df10,by.x="Duplicate.1",by.y="Duplicate.1")
+    
+    p <- ggplot(df11) +
+      geom_boxplot(aes(x=Classification.x.y,y=Ka.Ks)) +
+      theme_bw() +
+      xlab("Methylation Classification") +
+      ylab("Ka/Ks")
+    ggsave(paste(path1,"/",a,"_",b,"_KaKs.pdf",sep=""),p,device="pdf")
+    
   }    
   
   path4 <- paste(a,"/dupgen/results-unique/",a,".transposed.pairs-unique",sep="")
@@ -236,6 +249,18 @@ for( a in species){
     xlab("Duplication Type") +
     ylab("Percentage of Genes")
   ggsave(paste(path1,"/",a,"_gene_pairs_change2.pdf",sep=""),p,device="pdf")
+  
+  #kaks
+  path5 <- paste(a,"/dupgen/results-unique/kaks_results","/",a,".",b,".kaks",sep="")
+  df10 <- read.table(path5,header=T,sep="\t")
+  df11 <- merge(df7,df10,by.x="Transposed",by.y="Duplicate.1")
+  
+  p <- ggplot(df11) +
+    geom_boxplot(aes(x=Classification.x.y,y=Ka.Ks)) +
+    theme_bw() +
+    xlab("Methylation Classification") +
+    ylab("Ka/Ks")
+  ggsave(paste(path1,"/",a,"_",b,"_KaKs.pdf",sep=""),p,device="pdf")
 }
 
 

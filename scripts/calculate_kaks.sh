@@ -36,6 +36,7 @@ do
 		-g "$i" \
 		-o kaks_results/"$sample"."$pairs".kaks \
 		-p $SCRIPTS/calculate_Ka_Ks_pipeline
+	sed -i '2d' kaks_results/"$sample"."$pairs".kaks
 done
 
 
