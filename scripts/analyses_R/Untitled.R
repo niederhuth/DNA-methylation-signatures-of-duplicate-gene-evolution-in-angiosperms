@@ -262,13 +262,60 @@ for( a in species){
     ylab("Ka/Ks")
   ggsave(paste(path1,"/",a,"_",b,"_KaKs.pdf",sep=""),p,device="pdf")
   
-  tmp <- read.table("Athaliana/mcscanx/results/Athaliana.transposed_epoch.pairs",header=T,sep="\t")[,c(1,6)]
-  tmp2 <- merge(df11,tmp,by.x="Transposed",by.y="Transposed")
-  ggplot(tmp2) + geom_boxplot(aes(x=reorder(as.character(epoch),epoch),y=Ka.Ks,fill=Classification.x),position="dodge")
-  ggplot(tmp2) + geom_bar(aes(x=epoch,fill=Classification.x),position="dodge")
-  
-  
-  
+  #Transposed Copy Age
+  path6 <- "Athaliana/mcscanx/results/Athaliana.transposed_epoch.pairs"
+  if(!file.exists(path6)){
+    df12 <- read.table(path6,header=T,sep="\t")[,c(1,6,7)]
+    df13 <- merge(df11,df12,by.x="Transposed",by.y="Transposed")
+    p <- ggplot(df13) + 
+      geom_boxplot(aes(x=reorder(epoch_species,epoch),y=Ka.Ks,fill=Classification.x),position="dodge") +
+      theme_bw() +
+      scale_fill_discrete("Methylation Classification") +
+      xlab("Since Divergence From") +
+      ylab("Ka/Ks")
+    #ggsave(paste(path1,"/",a,"_",b,"_KaKs.pdf",sep=""),p,device="pdf")
+    
+    p <- ggplot(df13) + 
+      geom_bar(aes(x=reorder(epoch_species,epoch),fill=Classification.x),position="dodge") +
+      theme_bw() +
+      scale_fill_discrete("Methylation Classification") +
+      xlab("Since Divergence From") +
+      ylab("Number of Genes")
+    #ggsave(paste(path1,"/",a,"_",b,"_KaKs.pdf",sep=""),p,device="pdf")
+    
+    df14 <- data.frame()
+    for(i in unique(df13$Classification.x)){
+      df14 <- rbind(df14,data.frame(Classification=i,table(df13[df13$Classification.x==i,]$epoch_species)))
+    }
+    df14$Perc <- NA
+    for(i in unique(df14$Classification)){
+      x=sum(df14[df14$Classification==i,]$Freq)
+      df14[df14$Classification==i,]$Perc = df14[df14$Classification==i,]$Freq/x
+    }
+    df14 <- merge(df14,unique(df13[,c("epoch","epoch_species")]),by.x="Var1",by.y="epoch_species")
+    df14$Perc2 <- NA
+    for(i in unique(df14$Var1)){
+      x=sum(df14[df14$Var1==i,]$Freq)
+      df14[df14$Var1==i,]$Perc2 = df14[df14$Var1==i,]$Freq/x
+    }
+    
+    p <- ggplot(df14) + 
+      geom_bar(aes(x=reorder(Var1,epoch),fill=Classification,y=Perc2),position="dodge",stat="identity") +
+      theme_bw() +
+      scale_fill_discrete("Methylation Classification") +
+      xlab("Since Divergence From") +
+      ylab("Percentage of Genes")
+    #ggsave(paste(path1,"/",a,"_",b,"_KaKs.pdf",sep=""),p,device="pdf")
+    
+    p <- ggplot(df14) + 
+      geom_bar(aes(x=Classification,fill=reorder(Var1,epoch),y=Perc),position="dodge",stat="identity") +
+      theme_bw() +
+      scale_fill_discrete("Since Divergence From") +
+      xlab("Methylation Classification") +
+      ylab("Percentage of Genes")
+    #ggsave(paste(path1,"/",a,"_",b,"_KaKs.pdf",sep=""),p,device="pdf")    
+  } 
+
 }
 
 
