@@ -2,7 +2,7 @@ species,version,source,refChr,methylC,outgroups,epochs,outgroup
 Aduranensis,,,ChrL,yes,,,Atrichopoda
 Aipaensis,,,ChrC,yes,,,Atrichopoda
 Acoerulea,,,NA,no,,,Atrichopoda
-Alyrata,,,ChrL,yes,Athaliana Crubella Esalsugineum Cviolacea Cpapaya Tcacao Egrandis Ptrichocarpa Vvinifera Atrichopoda,3,Atrichopoda
+Alyrata,,,ChrL,yes,Athaliana Crubella Esalsugineum Cviolacea Cpapaya Tcacao Egrandis Ptrichocarpa Vvinifera Atrichopoda,10,Atrichopoda
 Aofficinalis,,,NA,no,,,Atrichopoda
 Athaliana,,,ChrL,yes,Alyrata Crubella Esalsugineum Cviolacea Cpapaya Tcacao Egrandis Ptrichocarpa Vvinifera Atrichopoda,10,Atrichopoda
 Atrichopoda,,,ChrL,yes,,,Atrichopoda
@@ -21,9 +21,9 @@ Cviolacea,,,NA,no,,,Atrichopoda
 Egrandis,,,ChrL,yes,,,Atrichopoda
 Eguineensis,,,ChrC,yes,,,Atrichopoda
 Esalsugineum,,,ChrL,yes,,,Atrichopoda
-Fvesca,,,ChrC,yes,Fxananassa Rchinensis Roccidentalis Ppersica Zjujuba Ptrichocarpa Vvinifera Atrichopoda,3,Atrichopoda
-Fxananassa,,,ChrC,yes,Fvesca Rchinensis Roccidentalis Ppersica Zjujuba Ptrichocarpa Vvinifera Atrichopoda,3,Atrichopoda
-Gmax,,,ChrL,yes,Gsoja Pvulgaris Mtruncatula Aipaensis Fvesca Ptrichocarpa Vvinifera Atrichopoda,3,Atrichopoda
+Fvesca,,,ChrC,yes,Fxananassa Rchinensis Roccidentalis Ppersica Zjujuba Ptrichocarpa Vvinifera Atrichopoda,8,Atrichopoda
+Fxananassa,,,ChrC,yes,Fvesca Rchinensis Roccidentalis Ppersica Zjujuba Ptrichocarpa Vvinifera Atrichopoda,8,Atrichopoda
+Gmax,,,ChrL,yes,Gsoja Pvulgaris Mtruncatula Aipaensis Fvesca Ptrichocarpa Vvinifera Atrichopoda,8,Atrichopoda
 Graimondii,,,ChrL,yes,,,Atrichopoda
 Gsoja,,,NA,no,,,Atrichopoda
 Macuminata,,,ChrL,yes,,,Atrichopoda
@@ -40,19 +40,19 @@ Phallii,,,ChrL,yes,,,Atrichopoda
 Ppersica,,,ChrL,yes,,,Atrichopoda
 Ptrichocarpa,,,ChrL,yes,,,Atrichopoda
 Pvirgatum,,,ChrL,yes,,,Atrichopoda
-Pvulgaris,,,ChrL,yes,Gsoja Mtruncatula Aipaensis Fvesca Ptrichocarpa Vvinifera Atrichopoda,3,Atrichopoda
+Pvulgaris,,,ChrL,yes,Gsoja Mtruncatula Aipaensis Fvesca Ptrichocarpa Vvinifera Atrichopoda,7,Atrichopoda
 Pxbretschneideri,,,ChrL,yes,,,Atrichopoda
 Rchinensis,,,NA,no,,,Atrichopoda
 Roccidentalis,,,NA,no,,,Atrichopoda
-Sbicolor,,,ChrC,yes,Zmays Phallii Othomaeum Osativa Macuminata Eguineensis Aofficinalis Atrichopoda,3,Atrichopoda
+Sbicolor,,,ChrC,yes,Zmays Phallii Othomaeum Osativa Macuminata Eguineensis Aofficinalis Atrichopoda,8,Atrichopoda
 Sitalica,,,ChrC,yes,,,Atrichopoda
-Slycopersicum,,,ChrC,yes,Stuberosum Cannuum Nattenuata Paxillaris Mguttatus Vcorymbosum Bvulgaris Atrichopoda,3,Atrichopoda
+Slycopersicum,,,ChrC,yes,Stuberosum Cannuum Nattenuata Paxillaris Mguttatus Vcorymbosum Bvulgaris Atrichopoda,8,Atrichopoda
 Smelongena,,,NA,no,,,Atrichopoda
 Spolyrhiza,,,NA,no,,,Atrichopoda
-Stuberosum,,,ChrL,yes,Slycopersicum Cannuum Nattenuata Paxillaris Mguttatus Vcorymbosum Bvulgaris Atrichopoda,3,Atrichopoda
+Stuberosum,,,ChrL,yes,Slycopersicum Cannuum Nattenuata Paxillaris Mguttatus Vcorymbosum Bvulgaris Atrichopoda,8,Atrichopoda
 Sviridis,,,ChrL,yes,,,Atrichopoda
 Tcacao,,,ChrL,yes,,,Atrichopoda
 Vcorymbosum,,,NA,no,,,Atrichopoda
 Vvinifera,,,ChrL,yes,,,Atrichopoda
 Zjujuba,,,NA,no,,,Atrichopoda
-Zmays,,,ChrC,yes,Sbicolor Phallii Othomaeum Osativa Macuminata Eguineensis Aofficinalis Atrichopoda,3,Atrichopoda
+Zmays,,,ChrC,yes,Sbicolor Phallii Othomaeum Osativa Macuminata Eguineensis Aofficinalis Atrichopoda,8,Atrichopoda
