@@ -261,6 +261,14 @@ for( a in species){
     xlab("Methylation Classification") +
     ylab("Ka/Ks")
   ggsave(paste(path1,"/",a,"_",b,"_KaKs.pdf",sep=""),p,device="pdf")
+  
+  tmp <- read.table("Athaliana/mcscanx/results/Athaliana.transposed_epoch.pairs",header=T,sep="\t")[,c(1,6)]
+  tmp2 <- merge(df11,tmp,by.x="Transposed",by.y="Transposed")
+  ggplot(tmp2) + geom_boxplot(aes(x=reorder(as.character(epoch),epoch),y=Ka.Ks,fill=Classification.x),position="dodge")
+  ggplot(tmp2) + geom_bar(aes(x=epoch,fill=Classification.x),position="dodge")
+  
+  
+  
 }
 
 
