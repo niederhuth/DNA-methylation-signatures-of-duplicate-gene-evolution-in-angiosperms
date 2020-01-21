@@ -48,18 +48,21 @@ perl MCScanX-transposed.pl \
 rm *
 
 cd results
-head -1 "$sample".transposed.pairs | awk -v OFS="\t" '{print $0,"epoch"}' >"$sample".transposed_epoch.pairs
+head -1 "$sample".transposed.pairs | \
+awk -v OFS="\t" '{print $0,"epoch","epoch_species"}' >"$sample".transposed_epoch.pairs
 count=1
 for i in $species
 do
 	if [ $count -lt 2 ]
 	then
-		sed '1d' "$sample".transposed_after_"$i".pairs | awk -v b=$count -v OFS="\t" '{print $0,b}' >> "$sample".transposed_epoch.pairs
+		sed '1d' "$sample".transposed_after_"$i".pairs | \
+		awk -v b=$count -v c=$i -v OFS="\t" '{print $0,b,c}' >> "$sample".transposed_epoch.pairs
 		count=`expr $count + 1`
 		a=$i
 	else
 				
-		sed '1d' "$sample".transposed_between_"$a"_"$i".pairs | awk -v b=$count -v OFS="\t" '{print $0,b}' >> "$sample".transposed_epoch.pairs
+		sed '1d' "$sample".transposed_between_"$a"_"$i".pairs | \
+		awk -v b=$count -v c=$i -v OFS="\t" '{print $0,b,c}' >> "$sample".transposed_epoch.pairs
 		count=`expr $count + 1`
 		a=$i
 	fi
