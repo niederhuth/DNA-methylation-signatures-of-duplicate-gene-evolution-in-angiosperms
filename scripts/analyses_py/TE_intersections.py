@@ -11,8 +11,8 @@ import functions
 
 #Set Variables
 updown_stream=[0,100,250,500,750,1000,1500,2000,3000,4000,5000,7500,10000]
-annotations="ref/annotations/'+sys.argv[1]+'.gff"
-TEs="ref/annotations/'+sys.argv[1]+'-repeats.gff"
+annotations='ref/annotations/'+sys.argv[1]+'.gff'
+TEs='ref/annotations/'+sys.argv[1]+'-repeats.gff'
 genome_file='ref/'+sys.argv[1]+'.fa.fai'
 feature='gene'
 filter_chr=['ChrL','ChrC']
@@ -20,7 +20,7 @@ output='methylpy/results/TE_mapping.tsv'
 
 #get chromosome list
 chrs = list(pd.read_csv(genome_file,header=None,usecols=[0],dtype='str',sep="\t")[0])
-chrs = list(set(chrs).difference(functions.filter_chr))
+chrs = list(set(chrs).difference(filter_chr))
 
 #
 g_bed = pbt.BedTool(annotations).filter(functions.feature_filter,feature).filter(functions.chr_filter,chrs).saveas('g_bed.tmp')
@@ -58,7 +58,7 @@ TE_table.to_csv(output, sep='\t', index=True)
 
 tmp=['g_bed.tmp','s_bed.tmp']
 for b in tmp:
-	remove(b)
+	os.remove(b)
 
 
 
