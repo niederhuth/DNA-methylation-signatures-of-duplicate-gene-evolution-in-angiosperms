@@ -64,7 +64,7 @@ for( a in species){
                                 "Unmethylated-Unclassified","Unmethylated-Unmethylated"))
   df9 <- data.frame(Change=c("Identical","Different"))
   
-  for(b in c("wgd","tandem","proximal","dispersed")){
+  for(b in c("wgd","proximal","dispersed","tandem")){
     path4 <- paste(a,"/dupgen/results-unique/",a,".",b,".pairs-unique",sep="")
     df5 <- read.table(path4,header=TRUE,sep="\t")[,c(1,3)]
     df6 <- merge(df5,df2[,c(1,6,11,16,23)],by.x="Duplicate.1",by.y="Feature")
@@ -133,6 +133,16 @@ for( a in species){
     
   }    
   
+  #Tandem Gene Orientation
+  path7 <- paste(a,"/dupgen/results-unique/orientation.tsv",sep="")
+  df15 <- read.table(path7,header=F,sep="\t")
+  df11$Duplicate.2.strand <- df15[df15$V1 %in% df11$Duplicate.2,]$V2
+  df11$Duplicate.2.strand <- df15[df15$V1 %in% df11$Duplicate.2.x,]$V2
+  df11$strand.switch <- ifelse(df11$Duplicate.1.strand == df11$Duplicate.2.strand,"Identical","Opposite")
+  df11$strand.switch2 <- ifelse(df11$Duplicate.1.strand == "+" & df11$Duplicate.2.strand == "-",
+                                "Inverted","Not-Inverted")
+  
+  #Transposed Genes
   path4 <- paste(a,"/dupgen/results-unique/",a,".transposed.pairs-unique",sep="")
   b="transposed"
   df5 <- read.table(path4,header=TRUE,sep="\t")[,c(1,3)]
@@ -263,7 +273,7 @@ for( a in species){
   ggsave(paste(path1,"/",a,"_",b,"_KaKs.pdf",sep=""),p,device="pdf")
   
   #Transposed Copy Age
-  path6 <- "Athaliana/mcscanx/results/Athaliana.transposed_epoch.pairs"
+  path6 <- paste(a,"/mcscanx/results/Athaliana.transposed_epoch.pairs",sep="")
   if(!file.exists(path6)){
     df12 <- read.table(path6,header=T,sep="\t")[,c(1,6,7)]
     df13 <- merge(df11,df12,by.x="Transposed",by.y="Transposed")
