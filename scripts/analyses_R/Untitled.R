@@ -57,8 +57,6 @@ for( a in species){
     ggsave(paste(path1,"/",a,"_",d,"_pie.pdf",sep=""),p,device="pdf")
   }
 
-  
-  
   df8 <- data.frame(Classification.x.y=c("gbM-gbM","gbM-TE-like","gbM-Unclassified","gbM-Unmethylated","TE-like-TE-like",
                                 "TE-like-Unclassified","Unclassified-Unclassified","Unmethylated-TE-like",
                                 "Unmethylated-Unclassified","Unmethylated-Unmethylated"))
