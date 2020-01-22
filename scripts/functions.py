@@ -529,3 +529,44 @@ def classify_genes(df,output=(),min_sites=0,qvalue=0.05):
 		a.to_csv(output, sep='\t', index=False)
 	else:
 		return a
+
+#Prepares allc files as input for HOME DMR calling
+def allc2HOME(allc,output=()):
+	#get first line
+	if allc.endswith('gz'):
+		#assign first line as "header"
+		header = gzopen(allc).readline().rstrip()
+		#open allc in text mode
+		a = gzopen(allc,'rt')
+	else:
+		#assign first line as "header"
+		header = open(allc).readline().rstrip()
+		#open allc
+		a = open(allc)
+	#open output file
+	b = open(output, 'w')
+	#iterate over allc file
+	with a:
+		#check if there is a header line, if so, skip that line
+		if header == 'chr\tpos\tstrand\tmc_class\tmc_count\ttotal\tmethylated':
+			next(a)
+		#iterate over each line
+		for c in a:
+			#split the line by tabs
+			d = c.split('\t')
+			#check if column 4 is CG, CHG, CHH, or CN, set variable e to that
+			if d[3].startswith("CG"):
+				e = 'CG'
+			elif d[3].endswith("G"):
+				e = 'CHG'
+			elif d[3].startswith("CN") or c[3].endswith("N"):
+				e = 'CNN'
+			else:
+				e = 'CHH'
+			#output needed lines
+			b.write(d[0]+'\t'+d[1]+'\t'+d[2]+'\t'+e+'\t'+d[4]+'\t'+d[5]+'\n')
+	#cloese the files
+	b.close()
+	a.close()
+
+
