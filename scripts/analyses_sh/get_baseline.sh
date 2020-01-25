@@ -15,10 +15,10 @@ export LD_LIBRARY_PATH="$HOME/miniconda3/envs/gene-duplication/lib:$LD_LIBRARY_P
 #Get baseline values for DNA methylation contexts
 samples=$(awk -v FS="," '$5=="yes"' ../misc/genomes.csv | cut -d ',' -f 1 | tr '\n' ' ')
 header=$(echo $samples | cut -d ' ' -f 1)
-head -1 $header/methylpy/results/all_genes_CDS_methylation.txt > tmp
+head -1 $header/methylpy/results/CDS_methylation_cutoff.tsv > tmp
 for i in $samples
 do
-	sed '1d' $i/methylpy/results/all_genes_CDS_methylation.txt >> tmp
+	sed '1d' $i/methylpy/results/CDS_methylation_cutoff.tsv >> tmp
 done
 
 python ../scripts/analysis_py/get_baseline.py
