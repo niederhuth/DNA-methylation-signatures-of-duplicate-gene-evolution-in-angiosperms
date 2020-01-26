@@ -10,7 +10,6 @@ import functions
 #define variables
 mc_type=['CG','CHG','CHH']
 baseline={}
-cutoff=10
 calc_baseline='True'
 min_sites=0
 qvalue=0.05
@@ -20,5 +19,5 @@ output='tmp2'
 #run binomial test
 print('Calculating the baseline')
 functions.gene_binom_test(df,output=output,mc_type=mc_type,
-	baseline=baseline,cutoff=cutoff,calc_baseline=calc_baseline)
+	baseline=baseline,min_sites=min_sites,calc_baseline=calc_baseline)
 

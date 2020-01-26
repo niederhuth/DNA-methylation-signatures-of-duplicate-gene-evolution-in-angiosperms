@@ -9,19 +9,18 @@ import functions
 
 #define variables
 mc_type=['CG','CHG','CHH']
-baseline={'CG':0.25923622072638297,'CHG':0.09003913246531817,'CHH':0.0523978371478389}
-cutoff=10
+baseline={'CG':0.3091839068294276,'CHG':0.09958004363767052,'CHH':0.05489450117127309}
 calc_baseline=False
-min_sites=10
+min_sites=20
 qvalue=0.05
-df='results/CDS_methylation.tsv'
+df='results/CDS_methylation_cutoff.tsv'
 output='results/binomial_test.tsv'
 output2='results/'+sys.argv[1]+'_classified_genes.tsv'
 
 #run binomial test
 print('Running the binomial test')
 functions.gene_binom_test(df,output=output,mc_type=mc_type,
-	baseline=baseline,cutoff=cutoff,calc_baseline=calc_baseline)
+	baseline=baseline,min_sites=min_sites,calc_baseline=calc_baseline)
 print('Classifying genes')
 functions.classify_genes(output,output=output2,min_sites=min_sites,qvalue=qvalue)
 

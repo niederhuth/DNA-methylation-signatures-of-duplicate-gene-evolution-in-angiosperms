@@ -21,6 +21,7 @@ do
 	sed '1d' $i/methylpy/results/CDS_methylation_cutoff.tsv >> tmp
 done
 
-python ../scripts/analysis_py/get_baseline.py
+python ../scripts/analyses_py/get_baseline.py
 
 rm tmp tmp2
+

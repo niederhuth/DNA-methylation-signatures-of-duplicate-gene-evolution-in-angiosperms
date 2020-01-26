@@ -472,7 +472,7 @@ def FDR(df,column,new_col):
 	return df
 
 #Perform binomial test on number of methylated sites in a gene
-def gene_binom_test(df,output=(),mc_type=['CG','CHG','CHH'],baseline={},cutoff=10,calc_baseline=True):
+def gene_binom_test(df,output=(),mc_type=['CG','CHG','CHH'],baseline={},min_sites=20,calc_baseline=True):
 	#read the table
 	a = pd.read_csv(df,sep='\t')
 	#iterate through each listed methylation context
@@ -495,7 +495,7 @@ def gene_binom_test(df,output=(),mc_type=['CG','CHG','CHH'],baseline={},cutoff=1
 		#Perform the binomial test for each row and and return the p-value
 		a[b+'_pvalue'] = stats.binom.sf(a[b+'_Methylated_C']-1,a[b+'_Total_C'],BL)
 		#If not sufficient data to perform the test, return NaN
-		a[b+'_pvalue'] = [x if y >= cutoff else "NaN" for x,y in zip(a[b+'_pvalue'],a[b+'_Total_C'])]
+		a[b+'_pvalue'] = [x if y >= min_sites else "NaN" for x,y in zip(a[b+'_pvalue'],a[b+'_Total_C'])]
 		#Perform FDR correction
 		a = FDR(a,column=b+'_pvalue',new_col=b+'_qvalue')
 	#If output file specified, write to output
@@ -506,7 +506,7 @@ def gene_binom_test(df,output=(),mc_type=['CG','CHG','CHH'],baseline={},cutoff=1
 		return a
 
 #Subscript for classifying genes based on binomial test results
-def classify(row,min_sites=0,qvalue=0.05):
+def classify(row,min_sites=20,qvalue=0.05):
 	if row['CHH_qvalue'] <= qvalue and row['CHH_Total_C'] >= min_sites:
 		return 'TE-like'
 	elif row['CHG_qvalue'] <= qvalue and row['CHG_Total_C'] >= min_sites:
@@ -522,7 +522,7 @@ def classify(row,min_sites=0,qvalue=0.05):
 		return 'NA'
 
 #Script for calling "classify" subscript and applying to table
-def classify_genes(df,output=(),min_sites=0,qvalue=0.05):
+def classify_genes(df,output=(),min_sites=20,qvalue=0.05):
 	a = pd.read_table(df,sep="\t")
 	a['Classification'] = a.apply(classify,axis=1,min_sites=min_sites,qvalue=qvalue)
 	if output:
