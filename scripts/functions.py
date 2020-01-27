@@ -151,7 +151,7 @@ def total_weighted_mC(allc,output=(),mc_type=['CG','CHG','CHH'],cutoff=0,chrs=[]
 	b = pd.DataFrame(columns=columns)
 	#iterate over each mC type and run get_mC_data
 	for c in mc_type:
-		d = get_mC_data(a,mc_type=c,cutoff=cutoff,site_cutoff_only=False)
+		d = get_mC_data(a,mc_type=c,cutoff=cutoff,site_cutoff_only=site_cutoff_only)
 		#calculate weighted methylation
 		d += [(float64(d[4])/float64(d[3]))]
 		#add to data frame
@@ -208,7 +208,7 @@ def genome_window_methylation(allc,genome_file,output=(),mc_type=['CG','CHG','CH
 			j = [g,h]
 			#iterate over each mC type and run get_mC_data
 			for k in mc_type:
-				l = get_mC_data(i,mc_type=k,cutoff=cutoff,site_cutoff_only=False)
+				l = get_mC_data(i,mc_type=k,cutoff=cutoff,site_cutoff_only=site_cutoff_only)
 				#delete first line of list
 				del(l[0])
 				#Calculate weighted methylation and add this to list of data for other mc_types
@@ -333,7 +333,7 @@ def metaplot(allc,annotations,genome_file,output=(),mc_type=['CG','CHG','CHH'],w
 			j = [window]
 			#iterate over each mC type and run get_mC_data
 			for k in mc_type:
-				l = get_mC_data(i,mc_type=k,cutoff=cutoff,site_cutoff_only=False)
+				l = get_mC_data(i,mc_type=k,cutoff=cutoff,site_cutoff_only=site_cutoff_only)
 				#Calculate weighted methylation and add this to list of data for other mc_types
 				j += [(float64(l[4])/float64(l[3]))]
 			#append the results for that window to the dataframe
@@ -426,7 +426,7 @@ def feature_methylation(allc,annotations,genome_file,output=(),mc_type=['CG','CH
 					j += ['NA','NA','NA','NA','NA']
 				#else if not empty
 				else:
-					l = get_mC_data(i,mc_type=k,cutoff=cutoff,site_cutoff_only=False)
+					l = get_mC_data(i,mc_type=k,cutoff=cutoff,site_cutoff_only=site_cutoff_only)
 					#Check if there are any sites
 					if l[1] == 'NA':
 						#If no sites, output 'NA'
