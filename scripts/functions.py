@@ -118,12 +118,19 @@ def get_mC_data(a,mc_type='C',cutoff=0,site_cutoff_only=False):
 				d1 = d1 + 1
 				#add up number of sites called methylated by methylpy
 				d2 = d2 + int(c[7])
+			#if site_cutoff_only is false, then apply cutoff to methylated reads
 			if site_cutoff_only is False:
 				if int(c[6]) >= int(cutoff):
 					#add up total reads covering a site
 					d3 = d3 + int(c[6])
 					#add up total methylated reads covering a site
 					d4 = d4 + int(c[5])
+			#if site_cutoff_only is true, then do not cutoff to methylated reads
+			else:
+				#add up total reads covering a site
+				d3 = d3 + int(c[6])
+				#add up total methylated reads covering a site
+				d4 = d4 + int(c[5])
 	#if no sites for that context, set to 'NA'
 	if d1 == 0:
 		d1 = d2 = d3 = d4 = 'NA'
