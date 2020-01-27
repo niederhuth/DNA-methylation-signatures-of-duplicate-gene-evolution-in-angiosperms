@@ -129,6 +129,34 @@ for( a in species){
       ylab("Ka/Ks")
     ggsave(paste(path1,"/",a,"_",b,"_KaKs.pdf",sep=""),p,device="pdf")
     
+    #GC content stuff
+    path8 <- paste(a,"/ref/mcscanx/",a,"-gc123.tsv",sep="")
+    df16 <- read.table(path8,header=T,sep="\t")
+    df11$Duplicate.1.GC <- df16[df16$Transcript %in% df11$Duplicate.1,]$GC
+    df11$Duplicate.1.GC1 <- df16[df16$Transcript %in% df11$Duplicate.1,]$GC1
+    df11$Duplicate.1.GC2 <- df16[df16$Transcript %in% df11$Duplicate.1,]$GC2
+    df11$Duplicate.1.GC3 <- df16[df16$Transcript %in% df11$Duplicate.1,]$GC3
+    df11$Duplicate.2.GC <- df16[df16$Transcript %in% df11$Duplicate.2.x,]$GC
+    df11$Duplicate.2.GC1 <- df16[df16$Transcript %in% df11$Duplicate.2.x,]$GC1
+    df11$Duplicate.2.GC2 <- df16[df16$Transcript %in% df11$Duplicate.2.x,]$GC2
+    df11$Duplicate.2.GC3 <- df16[df16$Transcript %in% df11$Duplicate.2.x,]$GC3
+    
+    tmp <- df11[df11$Duplicate.1.GC > df11$Duplicate.2.GC | df11$Duplicate.1.GC == df11$Duplicate.2.GC,]
+    
+    tmp2 <- df11[df11$Duplicate.1.GC < df11$Duplicate.2.GC,c(2,1,7,8,9,10,3,4,5,6,11:17,22,23,24,25,18,19,20,21)]
+    colnames(tmp2) <- colnames(tmp)
+    df17 <- rbind(tmp,tmp2)
+    
+    ggplot(df17) + 
+      geom_point(aes(x=Duplicate.1.GC,y=Duplicate.2.GC)) 
+    
+    ggplot(df17) +
+      geom_boxplot(aes(x=Classification.x,y=Duplicate.1.GC))
+    
+    ggplot(df17) +
+      geom_boxplot(aes(x=Classification.y,y=Duplicate.2.GC))
+    
+    
   }    
   
   #Tandem Gene Orientation
@@ -223,8 +251,8 @@ for( a in species){
   }
   
   p <- ggplot(df8) +
-        geom_bar(aes(x=Classification.x.y,y=Perc,fill=variable),position="dodge",stat="identity") +
-        theme_bw() +
+    geom_bar(aes(x=Classification.x.y,y=Perc,fill=variable),position="dodge",stat="identity") +
+    theme_bw() +
     scale_y_continuous(labels=percent,expand=c(0,0)) +
     scale_fill_discrete("Duplication Type") +
     xlab("Methylation Classification") +

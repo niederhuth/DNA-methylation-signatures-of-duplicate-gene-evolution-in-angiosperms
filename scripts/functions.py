@@ -596,6 +596,30 @@ def gc123(fasta,output=()):
 	else:
 		return(a)
 
+Function for creating a bed file of motifs found in fasta
+#Example use: motif2bed("ATCG","test.fa",reverse_strand=True,output="test.bed")
+def motif2bed(motif,fasta,reverse_strand=True,output=()):
+	motif_bed = []
+	m = motifs.create([Seq(motif)])
+	#iterate over fasta file and search for motifs
+	for record in SeqIO.parse(open(fasta, "r"), "fasta"):
+		chrom = record.id
+		#Check forward strand
+		for pos, seq in m.instances.search(str(record.seq)):
+			start_pos = pos
+			stop_pos = pos + len(seq)
+			motif_bed = motif_bed + [[str(chrom),str(start_pos),str(stop_pos),str(motif),".","+"]]
+		#Check reverse strand
+		if reverse_strand:
+			for pos, seq in m.reverse_complement().instances.search(str(record.seq)):
+				start_pos = pos
+				stop_pos = pos + len(seq)
+				motif_bed = motif_bed + [[str(chrom),str(start_pos),str(stop_pos),str(motif),".","-"]]
+	if output:
+		with open(output, 'w') as file:
+			file.writelines('\t'.join(i) + '\n' for i in motif_bed)
+	else:
+		return(motif_bed)
 
 
 
