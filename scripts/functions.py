@@ -9,6 +9,9 @@ from subprocess import call
 from io import TextIOWrapper
 from itertools import product
 from gzip import open as gzopen
+from Bio import SeqIO
+from Bio.SeqUtils import GC
+from Bio.SeqUtils import GC123
 
 #split large files into temporary files of smaller size
 def split_file(input,line_number=10000000):
@@ -568,5 +571,26 @@ def allc2HOME(allc,output=()):
 	#cloese the files
 	b.close()
 	a.close()
+
+#Returns GC content and GC for each codon for a fasta file
+def gc123(fasta,output=()):
+	#create header
+	a=[['Transcript','GC','GC1','GC2','GC3']]
+	#parse and read over fasta file
+	for b in SeqIO.parse(open(fasta, "r"), "fasta"):
+		#use Biopython GC123 to calculate GC content and codon GC content
+		c = GC123(b.seq)
+		#for each sequence, add these values to the array
+		a = a + [[b.id,str(c[0]),str(c[1]),str(c[2]),str(c[3])]]
+	#output results
+	if output:
+		with open(output, 'w') as d:
+			d.writelines('\t'.join(e) + '\n' for e in a)
+	else:
+		return(a)
+
+
+
+
 
 
