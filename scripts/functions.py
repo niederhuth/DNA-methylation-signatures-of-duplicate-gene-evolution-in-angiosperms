@@ -596,7 +596,7 @@ def gc123(fasta,output=()):
 	else:
 		return(a)
 
-Function for creating a bed file of motifs found in fasta
+#Function for creating a bed file of motifs found in fasta
 #Example use: motif2bed("ATCG","test.fa",reverse_strand=True,output="test.bed")
 def motif2bed(motif,fasta,reverse_strand=True,output=()):
 	motif_bed = []
