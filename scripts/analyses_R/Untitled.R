@@ -62,6 +62,7 @@ for( a in species){
                                 "Unmethylated-Unclassified","Unmethylated-Unmethylated"))
   df9 <- data.frame(Change=c("Identical","Different"))
   
+  df19 <- data.frame()
   for(b in c("wgd","proximal","dispersed","tandem")){
     path4 <- paste(a,"/dupgen/results-unique/",a,".",b,".pairs-unique",sep="")
     df5 <- read.table(path4,header=TRUE,sep="\t")[,c(1,3)]
@@ -120,7 +121,7 @@ for( a in species){
     #kaks
     path5 <- paste(a,"/dupgen/results-unique/kaks_results","/",a,".",b,".kaks",sep="")
     df10 <- read.table(path5,header=T,sep="\t")
-    df11 <- merge(df7,df10,by.x="Duplicate.1",by.y="Duplicate.1")
+    df11 <- merge(df7,df10[,c(1,3:5)],by.x="Duplicate.1",by.y="Duplicate.1")
     
     p <- ggplot(df11) +
       geom_boxplot(aes(x=Classification.x.y,y=Ka.Ks)) +
@@ -132,38 +133,47 @@ for( a in species){
     #GC content stuff
     path8 <- paste(a,"/ref/mcscanx/",a,"-gc123.tsv",sep="")
     df16 <- read.table(path8,header=T,sep="\t")
-    df11$Duplicate.1.GC <- df16[df16$Transcript %in% df11$Duplicate.1,]$GC
-    df11$Duplicate.1.GC1 <- df16[df16$Transcript %in% df11$Duplicate.1,]$GC1
-    df11$Duplicate.1.GC2 <- df16[df16$Transcript %in% df11$Duplicate.1,]$GC2
-    df11$Duplicate.1.GC3 <- df16[df16$Transcript %in% df11$Duplicate.1,]$GC3
-    df11$Duplicate.2.GC <- df16[df16$Transcript %in% df11$Duplicate.2.x,]$GC
-    df11$Duplicate.2.GC1 <- df16[df16$Transcript %in% df11$Duplicate.2.x,]$GC1
-    df11$Duplicate.2.GC2 <- df16[df16$Transcript %in% df11$Duplicate.2.x,]$GC2
-    df11$Duplicate.2.GC3 <- df16[df16$Transcript %in% df11$Duplicate.2.x,]$GC3
+    df11 <- merge(df11,df16,by.x="Duplicate.1",by.y="Transcript")
+    df11 <- merge(df11,df16,by.x="Duplicate.2",by.y="Transcript")
     
-    tmp <- df11[df11$Duplicate.1.GC > df11$Duplicate.2.GC | df11$Duplicate.1.GC == df11$Duplicate.2.GC,]
-    
-    tmp2 <- df11[df11$Duplicate.1.GC < df11$Duplicate.2.GC,c(2,1,7,8,9,10,3,4,5,6,11:17,22,23,24,25,18,19,20,21)]
-    colnames(tmp2) <- colnames(tmp)
+    tmp <- df11[,c(2:6,11,12,15:19)]
+    tmp2 <- df11[,c(1,7:12,15,20:23)]
+    colnames(tmp2) <- colnames(tmp) <- c("Gene","CG_Weighted_mC","CHG_Weighted_mC","CHH_Weighted_mC",
+                                         "Classification","Change","Classification.x.y","Ka.Ks","GC",
+                                         "GC1","GC2","GC3")
     df17 <- rbind(tmp,tmp2)
     
-    ggplot(df17) + 
-      geom_point(aes(x=Duplicate.1.GC,y=Duplicate.2.GC)) 
+    p <- ggplot(df17[df17$Change=="Different",]) + 
+      geom_boxplot(aes(x=Classification.x.y,fill=Classification,y=GC),position="dodge") 
     
-    ggplot(df17) +
-      geom_boxplot(aes(x=Classification.x,y=Duplicate.1.GC))
+    p <- ggplot(df17[df17$Change=="Different",]) + 
+      geom_boxplot(aes(x=Classification.x.y,fill=Classification,y=GC3),position="dodge")
     
-    ggplot(df17) +
-      geom_boxplot(aes(x=Classification.y,y=Duplicate.2.GC))
-    
+    #test if different
+    for(c in unique(df11[df11$Change=="Different",]$Classification.x.y)){
+      d <- gsub("-.*","",c)
+      tmp <- df11[df11$Classification.x.y==c & df11$Classification.x==d,c(16:23)]
+      tmp2 <- df11[df11$Classification.x.y==c & df11$Classification.x!=d,c(20:23,16:19)]
+      colnames(tmp2) <- colnames(tmp)
+      df18 <- rbind(tmp,tmp2)
+      df19 <- rbind(df19,data.frame(Duplication_type=b,
+                                    mC_Class_Change=c,
+                                    GC=t.test(df18$GC.x,df18$GC.y,paired=T)$p.value,
+                                    GC1=t.test(df18$GC1.x,df18$GC1.y,paired=T)$p.value,
+                                    GC2=t.test(df18$GC2.x,df18$GC2.y,paired=T)$p.value,
+                                    GC3=t.test(df18$GC3.x,df18$GC3.y,paired=T)$p.value))
+    }
     
   }    
   
   #Tandem Gene Orientation
   path7 <- paste(a,"/dupgen/results-unique/orientation.tsv",sep="")
   df15 <- read.table(path7,header=F,sep="\t")
-  df11$Duplicate.2.strand <- df15[df15$V1 %in% df11$Duplicate.2,]$V2
-  df11$Duplicate.2.strand <- df15[df15$V1 %in% df11$Duplicate.2.x,]$V2
+  df11$Duplicate.1.strand <- df11$Duplicate.2.strand <- NA
+  for(row in 1:nrow(df11)){
+    df11[row,]$Duplicate.1.strand <- as.character(df15[df15$V1==as.character(df11[row,]$Duplicate.1),]$V2)
+    df11[row,]$Duplicate.2.strand <- as.character(df15[df15$V1==as.character(df11[row,]$Duplicate.2),]$V2)
+  }
   df11$strand.switch <- ifelse(df11$Duplicate.1.strand == df11$Duplicate.2.strand,"Identical","Opposite")
   df11$strand.switch2 <- ifelse(df11$Duplicate.1.strand == "+" & df11$Duplicate.2.strand == "-",
                                 "Inverted","Not-Inverted")
@@ -289,7 +299,7 @@ for( a in species){
   #kaks
   path5 <- paste(a,"/dupgen/results-unique/kaks_results","/",a,".",b,".kaks",sep="")
   df10 <- read.table(path5,header=T,sep="\t")
-  df11 <- merge(df7,df10,by.x="Transposed",by.y="Duplicate.1")
+  df11 <- merge(df7,df10[,c(1,3:5)],by.x="Transposed",by.y="Duplicate.1")
   
   p <- ggplot(df11) +
     geom_boxplot(aes(x=Classification.x.y,y=Ka.Ks)) +
@@ -298,9 +308,45 @@ for( a in species){
     ylab("Ka/Ks")
   ggsave(paste(path1,"/",a,"_",b,"_KaKs.pdf",sep=""),p,device="pdf")
   
+  #GC stuff
+  path8 <- paste(a,"/ref/mcscanx/",a,"-gc123.tsv",sep="")
+  df16 <- read.table(path8,header=T,sep="\t")
+  df11 <- merge(df11,df16,by.x="Transposed",by.y="Transcript")
+  df11 <- merge(df11,df16,by.x="Parental",by.y="Transcript")
+  
+  tmp <- df11[,c(2:6,11,12,15:19)]
+  tmp$Copy <- "Transposed"
+  tmp2 <- df11[,c(1,7:12,15,20:23)]
+  tmp2$Copy <- "Parental"
+  colnames(tmp2) <- colnames(tmp) <- c("Gene","CG_Weighted_mC","CHG_Weighted_mC","CHH_Weighted_mC",
+                                       "Classification","Change","Classification.x.y","Ka.Ks","GC",
+                                       "GC1","GC2","GC3","Copy")
+  df17 <- rbind(tmp,tmp2)
+  
+  p <- ggplot(df17[df17$Change=="Different",]) + 
+    geom_boxplot(aes(x=Classification.x.y,fill=Classification,y=GC),position="dodge") 
+  
+  p <- ggplot(df17[df17$Change=="Different",]) + 
+    geom_boxplot(aes(x=Classification.x.y,fill=Classification,y=GC3),position="dodge")
+  
+  #test if different
+  for(c in unique(df11[df11$Change=="Different",]$Classification.x.y)){
+    d <- gsub("-.*","",c)
+    tmp <- df11[df11$Classification.x.y==c & df11$Classification.x==d,c(16:23)]
+    tmp2 <- df11[df11$Classification.x.y==c & df11$Classification.x!=d,c(20:23,16:19)]
+    colnames(tmp2) <- colnames(tmp)
+    df18 <- rbind(tmp,tmp2)
+    df19 <- rbind(df19,data.frame(Duplication_type=b,
+                                  mC_Class_Change=c,
+                                  GC=t.test(df18$GC.x,df18$GC.y,paired=T)$p.value,
+                                  GC1=t.test(df18$GC1.x,df18$GC1.y,paired=T)$p.value,
+                                  GC2=t.test(df18$GC2.x,df18$GC2.y,paired=T)$p.value,
+                                  GC3=t.test(df18$GC3.x,df18$GC3.y,paired=T)$p.value))
+  }
+
   #Transposed Copy Age
   path6 <- paste(a,"/mcscanx/results/Athaliana.transposed_epoch.pairs",sep="")
-  if(!file.exists(path6)){
+  if(file.exists(path6)){
     df12 <- read.table(path6,header=T,sep="\t")[,c(1,6,7)]
     df13 <- merge(df11,df12,by.x="Transposed",by.y="Transposed")
     p <- ggplot(df13) + 
