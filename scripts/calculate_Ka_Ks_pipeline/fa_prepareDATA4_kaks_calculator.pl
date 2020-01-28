@@ -106,7 +106,7 @@ sub check_cds{
 		if($length % 3 == 0){
 			warn "++ \tNuleotide length is all right!\n" if $verbose;
 		}else{
-			die $_->display_id, ": Nucleotie length ERROR! $length % 3 = ".($length % 3)."!\n";
+			die $_->display_id, ": Nucleotide length ERROR! $length % 3 = ".($length % 3)."!\n";
 		}
 
 		if($strict_CDS){

@@ -15,16 +15,6 @@ export PATH="$SCRIPTS/calculate_Ka_Ks_pipeline:$PATH"
 export LD_LIBRARY_PATH="$HOME/miniconda3/envs/gene-duplication/lib:$LD_LIBRARY_PATH"
 export PERL5LIB="$HOME/miniconda3/envs/seq/lib/perl5/site_perl/5.22.0"
 
-#Combine duplicate pairs
-cd dupgen/results-unique
-echo "Combining duplicate gene pairs"
-head -1 "$sample".wgd.pairs-unique > "$sample".all_duplicate.pairs
-for i in *pairs-unique
-do
-	sed '1d' $i >> "$sample".all_duplicate.pairs
-done
-mv "$sample".all_duplicate.pairs "$sample".all_duplicate.pairs-unique
-
 #Calculate KaKs
 mkdir kaks_results
 for i in *pairs-unique
