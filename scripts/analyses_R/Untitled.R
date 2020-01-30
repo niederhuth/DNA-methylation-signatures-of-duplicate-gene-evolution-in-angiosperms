@@ -172,7 +172,7 @@ for( a in species){
     }
     colnames(df20) <- c("gbM","TE-like","Unclassified","Unmethylated")
     print(b)
-    for(f in c('gbM','TE-like','Unclassified','Unmethylated')){
+    for(f in colnames(df20)){
       print(f)
       df21 <- data.frame(table(df11$Classification.x)+table(df11$Classification.y))
       g <- df21[df21$Var1 == f,]$Freq
@@ -428,7 +428,7 @@ for( a in species){
   }
   colnames(df20) <- c("gbM","TE-like","Unclassified","Unmethylated")
   
-  for(f in c('gbM','TE-like','Unclassified','Unmethylated')){
+  for(f in colnames(df20)){
     print(f)
     df21 <- data.frame(table(df11$Classification.x)+table(df11$Classification.y))
     g <- df21[df21$Var1 == f,]$Freq
@@ -446,4 +446,27 @@ for( a in species){
 }
 
 
-
+#test over/under representation
+for(i in unique(df3$Classification)){
+  print(i)
+  df20 <- data.frame()
+  for(e in 1:10000){
+    df20 <- rbind(df20,as.data.frame(table(df3[df3$Feature %in% sample(df3$Feature,
+                                  nrow(df3[df3$Classification==i,]),replace=F),"Duplication"]))$Freq)
+    colnames(df20) <- c("dispersed","proximal","singletons","tandem","transposed","unclassified","wgd")
+  }
+  for(f in colnames(df20)){
+    print(f)
+    df21 <- data.frame(table(df3[df3$Classification==i,"Duplication"]))
+    g <- df21[df21$Var1 == f,]$Freq
+    if(g < mean(df20[,f])){
+      print("less")
+      h <- pnorm(g,mean=mean(df20[,f]),sd=sd(df20[,f]),lower.tail=T)*2
+      print(h)
+    } else {
+      print("more")
+      h <- pnorm(g,mean=mean(df20[,f]),sd=sd(df20[,f]),lower.tail=F)*2
+      print(h)
+    }  
+  }
+}
