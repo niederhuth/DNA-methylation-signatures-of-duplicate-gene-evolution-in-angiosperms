@@ -177,12 +177,10 @@ for( a in species){
       df21 <- data.frame(table(df11$Classification.x)+table(df11$Classification.y))
       g <- df21[df21$Var1 == f,]$Freq
       if(g < mean(df20[,f])){
-        h <- pnorm(g,mean=mean(df20[,f]),sd=sd(df20[,f]),lower.tail=F)*2
-        print(pnorm(g,mean=mean(df20[,f]),sd=sd(df20[,f]),lower.tail=F))
+        h <- pnorm(g,mean=mean(df20[,f]),sd=sd(df20[,f]),lower.tail=T)*2
         print(h)
       } else {
         h <- pnorm(g,mean=mean(df20[,f]),sd=sd(df20[,f]),lower.tail=F)*2
-        print(pnorm(g,mean=mean(df20[,f]),sd=sd(df20[,f]),lower.tail=F))
         print(h)
       }  
     }
