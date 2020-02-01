@@ -11,11 +11,11 @@ import functions
 allc='tmp.gz'
 annotations='../../ref/annotations/Athaliana.gff'
 genome_file='../../ref/Athaliana.fa.fai'
-filter_chr=['ChrL','ChrC']
+filter_chr=['ChrL','ChrC','ChrM']
 mc_type=['CG','CHG','CHH']
 updown_stream=0
 cutoff=3
-site_cutoff_only=False
+site_cutoff_only=True
 first_feature='gene'
 second_feature='CDS'
 filtered_output="CDS_filtered_allc.tmp"

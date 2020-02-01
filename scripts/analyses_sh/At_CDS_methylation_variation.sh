@@ -18,7 +18,6 @@ export TEMP=$PBS_O_WORKDIR
 
 #Fix header & chrs
 header=$(zcat GSM*tsv.gz | head -1 | cut -f1)
-echo $header
 if [ "$header" == "chrom" ]
 then
 	echo "Header line present, removing header line"
