@@ -25,11 +25,11 @@ for i in GSM*tsv.gz
 do
 	name=$(echo $i | sed s/_.*//)
 	mkdir $name
-	mv $i $name/
+	mv $i $name
 done
 
 #Remove tar files
-rm GSE43857_RAW.tar
+#rm GSE43857_RAW.tar
 
 echo "Done"
 
