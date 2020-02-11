@@ -9,11 +9,11 @@ import functions
 
 #define variables
 mc_type=['CG','CHG','CHH']
-baseline={'CG':0.3091839068294276,'CHG':0.09958004363767052,'CHH':0.05489450117127309}
+baseline={'CG':0.31490364762044254,'CHG':0.10840507446858585,'CHH':0.06220668638549682}
 calc_baseline=False
 min_sites=20
 qvalue=0.05
-df='results/CDS_methylation_cutoff.tsv'
+df='results/CDS_methylation.tsv'
 output='results/binomial_test.tsv'
 output2='results/'+sys.argv[1]+'_classified_genes.tsv'
 

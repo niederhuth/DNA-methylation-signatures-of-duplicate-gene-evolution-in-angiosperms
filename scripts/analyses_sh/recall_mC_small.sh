@@ -51,7 +51,7 @@ methylpy call-methylation-state \
 	--add-snp-info False \
 	--unmethylated-control $unmethylated_control \
 	--binom-test True \
-	--sig-cutoff 01 \
+	--sig-cutoff .01 \
 	--min-mapq 30 \
 	--min-cov 3 \
 	--min-base-quality 1 \
