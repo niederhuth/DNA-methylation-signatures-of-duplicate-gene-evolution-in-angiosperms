@@ -2,7 +2,7 @@ import os
 import sys
 import pandas as pd
 
-functionsfile = '../../../scripts/functions.py'
+functionsfile = '../../../../scripts/functions.py'
 sys.path.append(os.path.dirname(os.path.expanduser(functionsfile)))
 
 import functions
@@ -13,9 +13,9 @@ baseline={'CG':0.28348908688859714,'CHG':0.055574290523518824,'CHH':0.0114311205
 calc_baseline=False
 min_sites=20
 qvalue=0.05
-df='results/CDS_methylation.tsv'
-output='results/binomial_test.tsv'
-output2='results/'+sys.argv[1]+'_classified_genes.tsv'
+df='CDS_methylation.tsv'
+output='binomial_test.tsv'
+output2=sys.argv[1]+'_classified_genes.tsv'
 
 #run binomial test
 print('Running the binomial test')
