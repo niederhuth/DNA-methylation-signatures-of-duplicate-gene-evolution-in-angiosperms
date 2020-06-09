@@ -4,7 +4,7 @@
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=10
 #SBATCH --mem=80GB
-#SBATCH --job-name edta
+#SBATCH --job-name edta_restart
 #SBATCH --output=job_reports/%x-%j.SLURMout
 
 cd $PBS_O_WORKDIR
@@ -33,22 +33,14 @@ else
 	species="others"
 fi
 
-#Set up working directory
-cd ref/annotations
-mkdir edta
-cp $cds edta/
-#Create CDS bed file
-echo "Creating CDS bed file"
-awk '$3=="CDS"' $gff | convert2bed --input=gff - > edta/"$bed"
-cd edta
-
 #Run EDTA
+cd ref/annotations/edta
 echo "Running EDTA for $sample"
 perl $HOME/miniconda3/envs/edta/bin/EDTA.pl \
 	--genome $fasta \
 	--species $species \
 	--step all \
-	--overwrite 1 \
+	--overwrite 0 \
 	--cds $cds \
 	--sensitive 0 \
 	--anno 1 \
