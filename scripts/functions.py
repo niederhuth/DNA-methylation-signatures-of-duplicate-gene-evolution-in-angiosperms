@@ -177,7 +177,7 @@ def genome_window_methylation(allc,genome_file,output=(),mc_type=['CG','CHG','CH
 	b = pd.DataFrame(columns=c)
 	#make windows
 	print("Making genome windows")
-	w_bed = pbt.bedtool.BedTool.window_maker(pbt.BedTool(genome_file).filter(chr_filter,chrs),g=genome_file,w=window_size,s=stepsize,i='srcwinnum')
+	w_bed = pbt.bedtool.BedTool.window_maker(pbt.BedTool(genome_file),g=genome_file,w=window_size,s=stepsize,i='srcwinnum').filter(chr_filter,chrs)
 	#intersect bedfiles with pybedtools
 	print("Mapping DNA methylation data to windows")
 	mapping = pbt.bedtool.BedTool.intersect(a,w_bed,wa=True,wb=True)
