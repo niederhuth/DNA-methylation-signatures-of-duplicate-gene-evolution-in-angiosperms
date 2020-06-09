@@ -12,11 +12,11 @@ import functions
 #Set Variables
 updown_stream=[0,100,250,500,750,1000,1500,2000,3000,4000,5000,7500,10000]
 annotations='ref/annotations/'+sys.argv[1]+'.gff'
-TEs='ref/annotations/'+sys.argv[1]+'-repeats.gff'
+TEs='ref/annotations/'+sys.argv[1]+'-TEanno.gff'
 genome_file='ref/'+sys.argv[1]+'.fa.fai'
 feature='gene'
-filter_chr=['ChrL','ChrC']
-output='methylpy/results/TE_mapping.tsv'
+filter_chr=['ChrL','ChrC','ChrM']
+output='methylpy/results/TE_intersections.tsv'
 
 #get chromosome list
 chrs = list(pd.read_csv(genome_file,header=None,usecols=[0],dtype='str',sep="\t")[0])
