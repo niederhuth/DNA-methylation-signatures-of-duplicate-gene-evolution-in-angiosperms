@@ -16,15 +16,14 @@ mC_class='methylpy/results/'+sys.argv[1]+'_classified_genes.tsv'
 filter_chr=['ChrL','ChrC','ChrM']
 window_size=100000
 stepsize=50000
-output='methylpy/results'+sys.argv[1]+'_TE_gene_distribution.tsv'
+output='methylpy/results/'+sys.argv[1]+'_TE_gene_distribution.tsv'
 
 #Set chromosome list
 chrs = list(pd.read_csv(genome_file,header=None,usecols=[0],dtype='str',sep="\t")[0])
 chrs = list(set(chrs).difference(filter_chr))
 
 #Create bed file of sliding windows
-w_bed = pbt.bedtool.BedTool.window_maker(pbt.BedTool(genome_file),g=genome_file,w=window_size,s=stepsize,i='srcwinnum').filter(chr_filter,chrs)
-
+w_bed = pbt.bedtool.BedTool.window_maker(pbt.BedTool(genome_file),g=genome_file,w=window_size,s=stepsize,i='srcwinnum').filter(chr_filter,chrs).saveas('w_bed.tmp')
 #Read in genes & coordinates from mcscanx gff
 a = pd.read_csv(genes,header=None,sep="\t").replace(sys.argv[1]+'_','',regex=True,inplace=False)
 #Read in genes classified by methylation
@@ -58,14 +57,15 @@ for i in w_list:
 	#Count number of TE-like genes
 	TElike = len(c[(c[3]==i[0]) & (c[8]=='TE-like')])
 	#Count number of Unmethylated genes
-	Unmethylated = len(c[(f[3]==i[0]) & (c[8]=='Unmethylated')])
+	Unmethylated = len(c[(c[3]==i[0]) & (c[8]=='Unmethylated')])
 	#Count number of Unclassified genes
-	Unclassified = len(c[(f[3]==i[0]) & (c[8]=='Unclassified')])
+	Unclassified = len(c[(c[3]==i[0]) & (c[8]=='Unclassified')])
 	#Append to dataframe
 	e = e.append(pd.DataFrame([[i[0],Genes,TEs,TEnts,gbM,TElike,Unmethylated,Unclassified]],columns=columns),ignore_index=True)
 #Save the results
 e.to_csv(output,sep='\t',index=False)
-
+#Remove tmp files
+os.remove('w_bed.tmp')
 
 
 

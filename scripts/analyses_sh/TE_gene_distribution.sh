@@ -21,6 +21,6 @@ sample=$(pwd | sed s/.*data\\/// | sed s/\\/.*//)
 
 #Get TE & gene distributions
 echo "Get TE & gene distributions for $sample"
-python ../../../scripts/analyses_py/TE_gene_distribution.py $sample
+python ../../scripts/analyses_py/TE_gene_distribution.py $sample
 
 echo "Done"
