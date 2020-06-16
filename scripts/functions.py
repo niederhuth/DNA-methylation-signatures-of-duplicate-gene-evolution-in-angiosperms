@@ -188,7 +188,7 @@ def genome_window_methylation(allc,genome_file,output=(),mc_type=['CG','CHG','CH
 	del(mapping)
 	#split srcwinnum
 	print("Formatting names")
-	f = m[13].str.split('_', n = 1, expand = True)
+	f = m[13].str.rsplit('_', n = 1, expand = True)
 	#make new columns from srcwinnum
 	m['Chr'] = f[0]
 	m['Window'] = f[1]
@@ -318,7 +318,7 @@ def metaplot(allc,annotations,genome_file,output=(),mc_type=['CG','CHG','CHH'],w
 		m = pd.read_csv(mapping.fn,header=None,usecols=[13,6,7,8,9],sep="\t")
 		del(mapping)
 		#split srcwinnum
-		g = m[13].str.split('_', n = 1, expand = True)
+		g = m[13].str.rsplit('_', n = 1, expand = True)
 		#make new columns from srcwinnum
 		m['Name'] = g[0]
 		m['Window'] = g[1]
