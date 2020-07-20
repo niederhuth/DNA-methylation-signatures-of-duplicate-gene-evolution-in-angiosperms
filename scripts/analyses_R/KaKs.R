@@ -10,6 +10,9 @@ species = c("Aduranensis","Aipaensis","Alyrata","Athaliana","Atrichopoda",
 	"Sbicolor","Sitalica","Slycopersicum","Stuberosum","Sviridis","Tcacao",
 	"Vvinifera","Zmays")
 
+#Create empty dataframe for K-S test results
+KaKs <- Ks <- data.frame()
+
 #Loop over each species
 for(a in species){
 	#output path
@@ -26,9 +29,10 @@ for(a in species){
 	#Loop through each category of gene duplication
 	for(b in c("wgd","proximal","dispersed","tandem","transposed")){
 		#Read in appropriate kaks results
-		path4 <- paste(a,"/dupgen/results-unique/kaks_results","/",a,".",b,".kaks",
-			sep="")
+		path4 <- paste(a,"/dupgen/results/kaks_results","/",a,".",b,".kaks",sep="")
 		df4 <- read.table(path4,header=T,sep="\t")
+		#Rename colnames so "Duplicate.1" is "Feature"
+		colnames(df4) <- c("Feature","Duplicate.2","Ka","Ks","Ka.Ks","P.Value")
 		#Because df3 has 1 gene per line, while df4 is for each gene pair,need to 
 		#create a duplicate copy of df4 (df5), with columns 1 & 2 inverted and 
 		#combine this with df4 so that can merge with df3 without loss of genes
@@ -36,14 +40,29 @@ for(a in species){
 		#Make sure column names match for rbind to properly work
 		colnames(df5) <- colnames(df4)
 		df6 <- rbind(df4,df5)
+		#sometimes, a gene may be represented more than once, because it is ancestor
+		#to more than one gene. This will give it multiple Ka & Ks values and result
+		#in it being counted more than once. Here we will randomly select one of the
+		#values, so as to prevent it from being double counted. Alternatively you can
+		#select to use the lowest Ks or highest Ks, just unhash that line and add a 
+		#hash to the other.
+		df7 <- data.frame()
+		for(i in df3[df3$Duplication == b,]$Feature){
+			df7 <- rbind(df7,
+				df6[row.names(df6) == sample(row.names(df6[df6$Feature==i,]),1),])
+			#df7 <- rbind(df7,
+			#	df6[df6$Feature==i & df6$Ks == min(df6[df6$Feature==i,]$Ks),])
+			#df7 <- rbind(df7,
+			#	df6[df6$Feature==i & df6$Ks == max(df6[df6$Feature==i,]$Ks),])
+		}
 		#Merge with classified genes 
-		df7 <- merge(df3,df6,by.x="Feature",by.y="Duplicate.1")
+		df8 <- merge(df3,df7,by="Feature")
 		#Because some genes in a duplicate pair may have arisen by other mechanisms,
-		#need to remove genes in df7 that are not themselves classified as the type of 
+		#need to remove genes in df8 that are not themselves classified as the type of 
 		#duplication being analyzed
-		df7 <- df7[df7$Duplication==b,]
+		df8 <- df8[df8$Duplication==b,]
 		#Plot the density of genes for each methylation class based Ks
-		p <- ggplot(df7) +
+		p <- ggplot(df8) +
 			geom_density(aes(x=Ks,color=Classification),position="dodge",size=1) + 
 			geom_density(aes(x=Ks,color='Total'),size=1) +
 			theme_bw() +
@@ -56,9 +75,10 @@ for(a in species){
 				breaks=c("Total","gbM","TE-like","Unmethylated","Unclassified"))
 		ggsave(paste(path1,"/",a,"_",b,"_Ks.pdf",sep=""),p,device="pdf")
 		#Plot the density of genes for each methylation class based Ka/Ks ratio
-		p <- ggplot(df7) +
+		p <- ggplot(df8) +
 			geom_density(aes(x=Ka.Ks,color=Classification),position="dodge",size=1) + 
 			geom_density(aes(x=Ka.Ks,color='Total'),size=1) +
+			geom_vline(xintercept=1, linetype="longdash", color="grey55") +
 			theme_bw() +
 			theme(axis.text=element_text(color="black"),
 				axis.ticks=element_line(color="black"))+
@@ -68,10 +88,26 @@ for(a in species){
 				"TE-like"="#E69F00","Unmethylated"="#CC79A7","Unclassified"="#999999"),
 				breaks=c("Total","gbM","TE-like","Unmethylated","Unclassified"))
 		ggsave(paste(path1,"/",a,"_",b,"_KaKs.pdf",sep=""),p,device="pdf")
+		#Perform K-S test on each distribution
+		for(c in c("TE-like","gbM","Unmethylated")){
+			tmp <- ks.test(df8[df8$Classification == c,]$Ks,
+				sample(df8$Ks,size=nrow(df8[df8$Classification == c,]),replace=FALSE))
+			Ks <- rbind(Ks,data.frame(Species=a,Duplication=b,Methylation=c,
+				D.statistic=tmp$stat,p.value=tmp$p.value))
+			tmp <- ks.test(df8[df8$Classification == c,]$Ka.Ks,
+				sample(df8$Ka.Ks,size=nrow(df8[df8$Classification == c,]),replace=FALSE))
+			KaKs <- rbind(KaKs,data.frame(Species=a,Duplication=b,Methylation=c,
+				D.statistic=tmp$stat,p.value=tmp$p.value))
+		}
 	}
 }
 
-
+#Adjust p.values for K-S tests
+Ks$p.adjust <- p.adjust(Ks$p.value,method="BH")
+KaKs$p.adjust <- p.adjust(KaKs$p.value,method="BH")
+#Output K-S results
+write.csv(Ks,"../../figures_tables/Ks-distribution-test.csv",quote=FALSE)
+write.csv(KaKs,"../../figures_tables/KaKs-distribution-test.csv",quote=FALSE)
 
 
 
