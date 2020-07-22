@@ -1,19 +1,25 @@
-df <- read.table("methylpy/results/Athaliana_classified_genes.tsv",header=T,sep="\t")[c("Feature","Classification")]
+df <- read.table("methylpy/results/Athaliana_classified_genes.tsv",
+	header=T,sep="\t")[c("Feature","Classification")]
 df2 <- read.table("dupgen/results-unique/classified_genes.tsv",header=T,sep="\t")
 df3 <- merge(df,df2,by="Feature")
 
-df4 <- read.csv("methylpy/results/all_Athaliana_var.csv",header=TRUE,stringsAsFactors=FALSE)
+df4 <- read.csv("methylpy/results/all_Athaliana_var.csv",header=TRUE,
+	stringsAsFactors=FALSE)
 df4$Feature <- gsub(".Araport11.447","",df4$Feature)
 df4[is.na(df4)] <- "Missing"
-df5 <- data.frame(Feature=character(),gbM=numeric(),'TE-like'=numeric(),Unmethylated=numeric(),Unclassified=numeric(),Missing=numeric())
-for(i in c(1:nrow(df))){df[i,]
-  x <- as.data.frame(table(t(df4[i,])))
-  df5 <- rbind(df5,data.frame(Feature=df4[i,]$Feature,
-                              gbM=ifelse(x[x[1]=="gbM",]$Freq,x[x[1]=="gbM",]$Freq,NA)[1],
-                              'TE-like'=ifelse(x[x[1]=="TE-like",]$Freq,x[x[1]=="TE-like",]$Freq,NA)[1],
-                              Unmethylated=ifelse(x[x[1]=="Unmethylated",]$Freq,x[x[1]=="Unmethylated",]$Freq,NA)[1],
-                              Unclassified=ifelse(x[x[1]=="Unclassified",]$Freq,x[x[1]=="Unclassified",]$Freq,NA)[1],
-                              Missing=ifelse(x[x[1]=="Missing",]$Freq,x[x[1]=="Missing",]$Freq,NA)[1]))
+df5 <- data.frame(Feature=character(),gbM=numeric(),'TE-like'=numeric(),
+	Unmethylated=numeric(),Unclassified=numeric(),Missing=numeric())
+for(i in c(1:nrow(df))){
+	df[i,]
+	x <- as.data.frame(table(t(df4[i,])))
+	df5 <- rbind(df5,data.frame(Feature=df4[i,]$Feature,
+		gbM=ifelse(x[x[1]=="gbM",]$Freq,x[x[1]=="gbM",]$Freq,NA)[1],
+		'TE-like'=ifelse(x[x[1]=="TE-like",]$Freq,x[x[1]=="TE-like",]$Freq,NA)[1],
+		Unmethylated=ifelse(x[x[1]=="Unmethylated",]$Freq,
+			x[x[1]=="Unmethylated",]$Freq,NA)[1],
+		Unclassified=ifelse(x[x[1]=="Unclassified",]$Freq,
+			x[x[1]=="Unclassified",]$Freq,NA)[1],
+		Missing=ifelse(x[x[1]=="Missing",]$Freq,x[x[1]=="Missing",]$Freq,NA)[1]))
 }
 df5$Total <- rowSums(df5[2:5],na.rm=TRUE)
 df5$p_gbM <- df5$gbM/df5$Total
@@ -65,36 +71,37 @@ rm(df8)
 df8 <- data.frame()
 y=0
 for(i in df6[df6$Duplication != "unclassified" & df6$Duplication != "singletons",]$Feature){
-  x <- df6[df6$Feature == i,]$Duplication
-  if(nrow(df7[df7$Feature==i & df7$Duplication == x,]) != 0){
-    df8 <- rbind(df8,df7[row.names(df7) == sample(row.names(df7[df7$Feature==i & df7$Duplication == x,]),1),c(1:6)])
-  } else {
-    df8 <- rbind(df8,data.frame(Feature=i,Duplicate.2=NA,Ka=NA,Ks=NA,Ka.Ks=NA,P.Value=NA))
-    y = y + 1
-  }
+	x <- df6[df6$Feature == i,]$Duplication
+	if(nrow(df7[df7$Feature==i & df7$Duplication == x,]) != 0){
+		df8 <- rbind(df8,df7[row.names(df7) == sample(row.names(df7[df7$Feature==i & df7$Duplication == x,]),1),c(1:6)])
+	} else {
+		df8 <- rbind(df8,data.frame(Feature=i,Duplicate.2=NA,Ka=NA,Ks=NA,Ka.Ks=NA,P.Value=NA))
+		y = y + 1
+	}
 } 
 print(paste("Missing: ",y,sep=""))
 df9 <- data.frame()
 y=0
 for(i in df6[df6$Duplication != "unclassified" & df6$Duplication != "singletons",]$Feature){
-  x <- df6[df6$Feature == i,]$Duplication
-  if(nrow(df7[df7$Feature==i & df7$Duplication == x,]) != 0){
-    df9 <- rbind(df9,df7[row.names(df7) == sample(row.names(df7[df7$Feature==i & df7$Ks == min(df7[df7$Feature==i & df7$Duplication == x,]$Ks),]),1),c(1:6)])
-  } else {
-    df9 <- rbind(df9,data.frame(Feature=i,Duplicate.2=NA,Ka=NA,Ks=NA,Ka.Ks=NA,P.Value=NA))
-    y = y + 1
-  }
+	x <- df6[df6$Feature == i,]$Duplication
+	if(nrow(df7[df7$Feature==i & df7$Duplication == x,]) != 0){
+		df9 <- rbind(df9,df7[row.names(df7) == sample(row.names(df7[df7$Feature==i & df7$Ks == min(df7[df7$Feature==i & df7$Duplication == x,]$Ks),]),1),c(1:6)])
+	} else {
+		df9 <- rbind(df9,data.frame(Feature=i,Duplicate.2=NA,Ka=NA,Ks=NA,Ka.Ks=NA,P.Value=NA))
+		y = y + 1
+	}
 } 
 print(paste("Missing: ",y,sep=""))
 df10 <- data.frame()
 y=0
 for(i in df6[df6$Duplication != "unclassified" & df6$Duplication != "singletons",]$Feature){
-  if(nrow(df7[df7$Feature==i & df7$Duplication == x,]) != 0){
-    df10 <- rbind(df10,df7[row.names(df7) == sample(row.names(df7[df7$Feature==i & df7$Ks == max(df7[df7$Feature==i & df7$Duplication == x,]$Ks),]),1),c(1:6)])
-  } else {
-    df10 <- rbind(df10,data.frame(Feature=i,Duplicate.2=NA,Ka=NA,Ks=NA,Ka.Ks=NA,P.Value=NA))
-    y = y + 1
-  }
+	x <- df6[df6$Feature == i,]$Duplication
+	if(nrow(df7[df7$Feature==i & df7$Duplication == x,]) != 0){
+		df10 <- rbind(df10,df7[row.names(df7) == sample(row.names(df7[df7$Feature==i & df7$Ks == max(df7[df7$Feature==i & df7$Duplication == x,]$Ks),]),1),c(1:6)])
+	} else {
+		df10 <- rbind(df10,data.frame(Feature=i,Duplicate.2=NA,Ka=NA,Ks=NA,Ka.Ks=NA,P.Value=NA))
+		y = y + 1
+	}
 } 
 print(paste("Missing: ",y,sep=""))
 rm(y)
@@ -102,15 +109,15 @@ rm(y)
 df11 <- merge(df6,df8,by="Feature")
 labels <- c("0%","<25%","25-50%","50-75%",">75%")
 ggplot(df11) + geom_density(aes(x=Ks,color=as.character(gbMgroup)),size=1) + 
-  scale_color_discrete(labels=labels)
+	scale_color_discrete(labels=labels)
 ggplot(df11) + geom_density(aes(x=Ks,color=as.character(TEgroup)),size=1) + 
-  scale_color_discrete(labels=labels)
+	scale_color_discrete(labels=labels)
 ggplot(df11) + geom_density(aes(x=Ks,color=as.character(UnMgroup)),size=1) + 
-  scale_color_discrete(labels=labels)
+	scale_color_discrete(labels=labels)
 
 ggplot(df11) + geom_boxplot(aes(y=Ks,x=as.character(gbMgroup)),size=1) + 
-  scale_x_discrete(labels=labels)
+	scale_x_discrete(labels=labels)
 ggplot(df11) + geom_boxplot(aes(y=Ks,x=as.character(TEgroup)),size=1) + 
-  scale_x_discrete(labels=labels)
+	scale_x_discrete(labels=labels)
 ggplot(df11) + geom_boxplot(aes(y=Ks,x=as.character(UnMgroup)),size=1) + 
-  scale_x_discrete(labels=labels)
+	scale_x_discrete(labels=labels)
