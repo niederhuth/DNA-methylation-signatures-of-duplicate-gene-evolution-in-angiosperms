@@ -41,13 +41,20 @@ do
 	echo $i $a $b | tr ' ' ',' >> unmapped_genes.csv
 done
 
-
+#Report on results
 echo "Total genes: " $(sed '1d' unmapped_genes.csv | wc -l)
 echo "Species-specific genes: " $(awk -v a=$number -v FS="," '$2>=a' unmapped_genes.csv | grep "$species" | wc -l)
+
+#Make list of species specific genes
 awk -v a=$number -v FS="," '$2>=a' unmapped_genes.csv | cut -d ',' -f1 > tmp
 
+#Get protein sequences
 fasta_formatter -w 0 -i ../../ref/mcscanx/"$species"-protein.fa -o tmp2
 fgrep -A 1 -f tmp tmp2 | grep -v \\-\\- > "$species"-specific-protein.fa
+
+#Get CDS sequences
+fasta_formatter -w 0 -i ../../ref/mcscanx/"$species"-cds.fa -o tmp2
+fgrep -A 1 -f tmp tmp2 | grep -v \\-\\- > "$species"-specific-cds.fa
 rm tmp tmp2
 
 echo "Done"

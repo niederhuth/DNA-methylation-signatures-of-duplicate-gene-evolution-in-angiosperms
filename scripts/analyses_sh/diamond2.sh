@@ -14,7 +14,6 @@ export LD_LIBRARY_PATH="$HOME/miniconda3/envs/gene-duplication/lib:$LD_LIBRARY_P
 #Set Variables
 threads=10
 evalue=0.00001
-max_target_seqs=100
 
 #Run diamond
 x=$(pwd | sed s/^.*\\///)
@@ -34,7 +33,6 @@ do
 		--un "$x"-"$i"-un.fa \
  		--more-sensitive \
 		--evalue $evalue \
-		--max-target-seqs $max_target_seqs \
 		--unal 0
 
 done
