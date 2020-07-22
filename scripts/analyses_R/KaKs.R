@@ -48,12 +48,17 @@ for(a in species){
 		#hash to the other.
 		df7 <- data.frame()
 		for(i in df3[df3$Duplication == b,]$Feature){
-			df7 <- rbind(df7,
-				df6[row.names(df6) == sample(row.names(df6[df6$Feature==i,]),1),])
-			#df7 <- rbind(df7,
-			#	df6[df6$Feature==i & df6$Ks == min(df6[df6$Feature==i,]$Ks),])
-			#df7 <- rbind(df7,
-			#	df6[df6$Feature==i & df6$Ks == max(df6[df6$Feature==i,]$Ks),])
+			if(nrow(df6[df6$Feature==i,]) != 0){
+				df7 <- rbind(df7,
+					df6[row.names(df6) == sample(row.names(df6[df6$Feature==i,]),1),])
+				#df7 <- rbind(df7,
+				#	df6[df6$Feature==i & df6$Ks == min(df6[df6$Feature==i,]$Ks),])
+				#df7 <- rbind(df7,
+				#	df6[df6$Feature==i & df6$Ks == max(df6[df6$Feature==i,]$Ks),])
+			} else {
+				df7 <- rbind(df7,data.frame(Feature=i,Duplicate.2=NA,Ka=NA,Ks=NA,
+					Ka.Ks=NA,P.Value=NA))
+			}
 		}
 		#Merge with classified genes 
 		df8 <- merge(df3,df7,by="Feature")
@@ -95,7 +100,8 @@ for(a in species){
 			Ks <- rbind(Ks,data.frame(Species=a,Duplication=b,Methylation=c,
 				D.statistic=tmp$stat,p.value=tmp$p.value))
 			tmp <- ks.test(df8[df8$Classification == c,]$Ka.Ks,
-				sample(df8$Ka.Ks,size=nrow(df8[df8$Classification == c,]),replace=FALSE))
+				sample(df8$Ka.Ks,size=nrow(df8[df8$Classification == c,]),
+					replace=FALSE))
 			KaKs <- rbind(KaKs,data.frame(Species=a,Duplication=b,Methylation=c,
 				D.statistic=tmp$stat,p.value=tmp$p.value))
 		}
