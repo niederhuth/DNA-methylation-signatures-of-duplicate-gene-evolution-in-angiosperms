@@ -15,7 +15,7 @@ export LD_LIBRARY_PATH="$HOME/miniconda3/envs/orthofinder/lib:$LD_LIBRARY_PATH"
 threads=40
 species=$(cut -d ',' -f1 ../../misc/genomes.csv | sed '1d' | tr '\n' ' ')
 
-#Run diamond
+#Run OrthoFinder
 echo "Copying sequence files"
 mkdir seqs
 for i in $species
@@ -31,6 +31,13 @@ orthofinder \
 	-S diamond \
 	-o orthofinder \
 	-f seqs/
-	
+
+echo "Create orthogroup list"
+while read line
+do
+	og=$(echo $line | cut -d ' ' -f1 | sed s/\\:$//)
+	echo $line | tr ' ' '\n' | sed '1d' | awk -v OFS='\t' -v a=$og '{print $0,a}' >> orthogroup_list.tsv
+done < orthofinder/*/Orthogroups/Orthogroups.txt
+
 echo "Done"
 
