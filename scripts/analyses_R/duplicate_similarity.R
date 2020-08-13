@@ -11,8 +11,6 @@ species = c("Aduranensis","Aipaensis","Alyrata","Athaliana","Atrichopoda",
 	"Sbicolor","Sitalica","Slycopersicum","Stuberosum","Sviridis","Tcacao",
 	"Vvinifera","Zmays")
 
-
-
 df8 <- df7 <- data.frame()
 
 for( a in species){
