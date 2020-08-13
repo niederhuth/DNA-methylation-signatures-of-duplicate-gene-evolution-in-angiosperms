@@ -14,7 +14,6 @@ export LD_LIBRARY_PATH="$HOME/miniconda3/envs/gene-duplication/lib:$LD_LIBRARY_P
 #Set Variables
 threads=10
 evalue=0.00001
-evalue2=0.0000000001
 
 #Run diamond
 species=$(pwd | sed s/^.*\\///)
@@ -32,28 +31,18 @@ diamond blastp \
 	--evalue $evalue \
 	--unal 0
 
-echo "BLASTP against trep proteins"
+echo "BLASTP against TREP proteins"
 diamond blastp \
-        --threads $threads \
-        --db ../../../../misc/trep_proteins.dmnd \
-        --query "$species"-specific-protein.fa \
-        --out trep.m8 \
-        --un trep-un.fa \
-        --more-sensitive \
+	--threads $threads \
+	--db ../../../../misc/trep_proteins.dmnd \
+	--query 1kp-un.fa \
+	--out trep.m8 \
+	--un trep-un.fa \
+	--more-sensitive \
 	--masking 0 \
-        --evalue $evalue \
-        --unal 0
+	--evalue $evalue \
+	--unal 0
 
-echo "BLASTN against mipsREdat nucleotides"
-diamond blastp \
-        --threads $threads \
-        --db ../../../../misc/mipsREdat.dmnd \
-        --query "$species"-specific-cds.fa \
-        --out mipsREdat.m8 \
-        --un mipsREdat-un.fa \
-        --more-sensitive \
-	--masking 0 \
-        --evalue $evalue2 \
-        --unal 0
+
 
 
