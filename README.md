@@ -1,4 +1,5 @@
----
+-
+-
 Title: "DNA methylation signatures of duplicate gene evolution in angiosperms"
 Authors: "Sunil Kumar Kenchanmen Raju (first author), S. Marshall Ledford, Chad E. Niederhuth (corresponding author)"
 ---
@@ -26,10 +27,10 @@ cd DNA-methylation-signatures-of-duplicate-gene-evolution-in-angiosperms
 conda env create -f scripts/gene-duplication.yml
 ```
 
-**3)** You will now need to create a symbolic link within this environment for methylpy to work.
+**3)** You will now need to create a symbolic link within this environment for methylpy to work. This will require you to cd into the environment located in your anaconda (or miniconda) directory.
 
 ```
-cd /env/gene-duplication/lib
+cd miniconda3/env/gene-duplication/lib
 ln -s libgsl.so.23.0.0 libgsl.so.0
 ```
 
