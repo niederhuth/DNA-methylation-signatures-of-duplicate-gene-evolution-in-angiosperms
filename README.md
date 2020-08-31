@@ -1,5 +1,4 @@
--
--
+---
 Title: "DNA methylation signatures of duplicate gene evolution in angiosperms"
 Authors: "Sunil Kumar Kenchanmen Raju (first author), S. Marshall Ledford, Chad E. Niederhuth (corresponding author)"
 ---
