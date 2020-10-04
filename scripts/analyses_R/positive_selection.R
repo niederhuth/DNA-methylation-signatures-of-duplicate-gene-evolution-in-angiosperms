@@ -10,7 +10,7 @@ species = c("Aduranensis","Aipaensis","Alyrata","Athaliana","Atrichopoda",
 FE <- data.frame()
 for(a in species){
   df1 <- read.csv(paste("../../figures_tables/SGDs/",a,"_KaKs_values.csv",sep=""),header=T)
-  df2 <- data.frame(table(df1[df1$Ka.Ks > 1 & df1$P.Value < 0.05,]$Duplication),table(df1$Duplication))[c(1,2,4)]
+  df2 <- data.frame(table(df1[df1$Ka.Ks > 1.1,]$Duplication),table(df1$Duplication))[c(1,2,4)]
   colnames(df2) <- c("Duplication","Positive.Selection","Total")
   df2 <- rbind(df2,data.frame(Duplication=c("Total"),Positive.Selection=sum(df2$Positive.Selection),
                               Total=sum(df2$Total)))
