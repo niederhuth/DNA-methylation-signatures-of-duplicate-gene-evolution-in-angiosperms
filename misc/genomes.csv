@@ -1,4 +1,5 @@
 ﻿species,version,source,refChr,methylC,outgroups,epochs,outgroup
+Acoerulea,
 Aduranensis,,,ChrL,yes,,,Atrichopoda
 Aipaensis,,,ChrC,yes,,,Atrichopoda
 Alyrata,,,ChrL,yes,Athaliana Crubella Esalsugineum Cviolacea Cpapaya Tcacao Egrandis Ptrichocarpa Vvinifera Atrichopoda,10,Atrichopoda
@@ -32,6 +33,7 @@ Mesculenta,,,ChrL,yes,,,Atrichopoda
 Mguttatus,,,ChrL,yes,,,Atrichopoda
 Mtruncatula,,,ChrL,yes,,,Atrichopoda
 Nattenuata,,,ChrL,no,,,Atrichopoda
+Nnucifera,
 Osativa,,,ChrL,yes,,,Atrichopoda
 Othomaeum,,,NA,no,,,Atrichopoda
 Paxillaris,,,NA,no,,,Atrichopoda
@@ -46,6 +48,8 @@ Roccidentalis,,,NA,no,,,Atrichopoda
 Sbicolor,,,ChrC,yes,Zmays Phallii Othomaeum Osativa Macuminata Eguineensis Aofficinalis Atrichopoda,8,Atrichopoda
 Sitalica,,,ChrC,yes,,,Atrichopoda
 Slycopersicum,,,ChrC,yes,Stuberosum Cannuum Nattenuata Paxillaris Mguttatus Vcorymbosum Bvulgaris Atrichopoda,8,Atrichopoda
+Smelongena,
+Spolyrhiza,
 Stuberosum,,,ChrL,yes,Slycopersicum Cannuum Nattenuata Paxillaris Mguttatus Vcorymbosum Bvulgaris Atrichopoda,8,Atrichopoda
 Sviridis,,,ChrL,yes,,,Atrichopoda
 Tcacao,,,ChrL,yes,,,Atrichopoda
