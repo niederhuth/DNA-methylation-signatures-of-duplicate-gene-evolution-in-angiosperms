@@ -5,8 +5,11 @@ library(scales)
 #List of species
 species=c("Athaliana")
 
-#Read in orthogroup gene counts for all species & reformat
+#Set path to orthofinder results
 path1=paste("orthofinder/orthofinder/",dir("orthofinder/orthofinder/"),sep="")
+#Read in the rooted species tree
+tre <- read.tree(paste(path1,"/Species_Tree/SpeciesTree_rooted_node_labels.txt",sep=""))
+#Read in orthogroup gene counts for all species & reformat
 geneCounts <- read.table(paste(path1,"/Orthogroups/Orthogroups.GeneCount.tsv",sep=""),
 	header=T,sep="\t",row.names=1)
 #Create two new temporary dataframes to identify missing orthogroups and single-copy orthogroups

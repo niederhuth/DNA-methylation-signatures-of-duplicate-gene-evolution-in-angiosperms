@@ -516,16 +516,23 @@ def gene_binom_test(df,output=(),mc_type=['CG','CHG','CHH'],baseline={},min_site
 		return a
 
 #Subscript for classifying genes based on binomial test results
-def classify(row,min_sites=20,qvalue=0.05):
+def classify(row,min_sites=20,qvalue=0.05,uM_cutoff=0,uM_weighted_mC_cutoff=False):
 	if row['CHH_qvalue'] <= qvalue and row['CHH_Total_C'] >= min_sites:
 		return 'TE-like'
 	elif row['CHG_qvalue'] <= qvalue and row['CHG_Total_C'] >= min_sites:
 		return 'TE-like'
 	elif row['CG_qvalue'] <= qvalue and row['CG_Total_C'] >= min_sites:
 		return 'gbM'
-	elif (row['CG_Methylated_C']+row['CHG_Methylated_C']+row['CHH_Methylated_C']) == 0 and \
+	#Check if number of methylated sites is at or below the cutoff to call unmethylated genes
+	elif (row['CG_Methylated_C']+row['CHG_Methylated_C']+row['CHH_Methylated_C']) <= uM_cutoff and \
 	(row['CG_Total_C']+row['CHG_Total_C']+row['CHH_Total_C']) >= min_sites:
 		return 'Unmethylated'
+	elif (row['CG_Methylated_C']+row['CHG_Methylated_C']+row['CHH_Methylated_C']) > uM_cutoff and \
+	(row['CG_Total_C']+row['CHG_Total_C']+row['CHH_Total_C']) >= min_sites and \
+	uM_weighted_mC_cutoff != False:
+		if (row['CG_Methylated_Reads']+row['CHG_Methylated_Reads']+row['CHH_Methylated_Reads'])/\
+		(row['CG_Total_Reads']+row['CHG_Total_Reads']+row['CHH_Total_Reads']) > uM_weighted_mC_cutoff:
+			return 'Unmethylated'
 	elif (row['CG_Total_C']+row['CHG_Total_C']+row['CHH_Total_C']) >= min_sites:
 		return 'Unclassified'
 	else:
