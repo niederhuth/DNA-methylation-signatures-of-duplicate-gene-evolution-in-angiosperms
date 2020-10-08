@@ -46,19 +46,17 @@ for(a in species){
 		df6 <- rbind(df4,df5)
 		#sometimes, a gene may be represented more than once, because it is ancestor
 		#to more than one gene. This will give it multiple Ka & Ks values and result
-		#in it being counted more than once. Here we will randomly select one of the
-		#values, so as to prevent it from being double counted. Alternatively you can
-		#select to use the lowest Ks or highest Ks, just unhash that line and add a 
-		#hash to the other.
+		#in it being counted more than once. Here we will select the smallest Ks, 
+		#based on the rationale that this is representative of the most recent and most
+		#likely duplication alternatively, you can randomly select one of the values.
+		#Just unhash that line and add a hash to the other.
 		df7 <- data.frame()
 		for(i in df3[df3$Duplication == b,]$Feature){
 			if(nrow(df6[df6$Feature==i,]) != 0){
-				#df7 <- rbind(df7,
-				#	df6[row.names(df6) == sample(row.names(df6[df6$Feature==i,]),1),])
 				df7 <- rbind(df7,
 					df6[df6$Feature==i & df6$Ks == min(df6[df6$Feature==i,]$Ks),])
 				#df7 <- rbind(df7,
-				#	df6[df6$Feature==i & df6$Ks == max(df6[df6$Feature==i,]$Ks),])
+				#	df6[row.names(df6) == sample(row.names(df6[df6$Feature==i,]),1),])
 			} else {
 				df7 <- rbind(df7,data.frame(Feature=i,Duplicate.2=NA,Ka=NA,Ks=NA,
 					Ka.Ks=NA,P.Value=NA))
