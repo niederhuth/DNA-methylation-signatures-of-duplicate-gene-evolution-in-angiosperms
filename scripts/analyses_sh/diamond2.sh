@@ -13,7 +13,7 @@ export LD_LIBRARY_PATH="$HOME/miniconda3/envs/gene-duplication/lib:$LD_LIBRARY_P
 
 #Set Variables
 threads=50
-evalue=0.001
+evalue=0.00001
 max_target_seqs=20
 
 #Run diamond

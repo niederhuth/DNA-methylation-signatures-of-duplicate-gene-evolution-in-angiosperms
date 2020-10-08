@@ -35,22 +35,16 @@ cp ../"$outgroup"/ref/mcscanx/"$outgroup"_orthogroups.tsv dupgen2/data/
 
 #Filter BLAST hits based on orthogroups
 cd dupgen2/data
-cat "$sample"_unfiltered.blast | while read line
-do
-        a=$(echo $line | cut -d ' ' -f1)
-        b=$(echo $line | cut -d ' ' -f2)
-        c=$(grep $a "$sample"_orthogroups.tsv | cut -f2)
-        d=$(grep $b "$sample"_orthogroups.tsv | cut -f2)
-        echo $line $c $d | tr ' ' '\t' | awk -v OFS="\t" '{if ($13==$14) print $1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12}' >> "$sample".blast
-done
-cat "$sample"_"$outgroup"_unfiltered.blast | while read line
-do
-        a=$(echo $line | cut -d ' ' -f1)
-        b=$(echo $line | cut -d ' ' -f2)
-        c=$(grep $a "$sample"_orthogroups.tsv | cut -f2)
-        d=$(grep $b "$outgroup"_orthogroups.tsv | cut -f2)
-        echo $line $c $d | tr ' ' '\t' | awk -v OFS="\t" '{if ($13==$14) print $1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12}' >> "$sample"_"$outgroup".blast
-done
+join -1 2 -2 1 <(sort -k2,2 "$sample"_unfiltered.blast) <(sort -k1,1 "$sample"_orthogroups.tsv) | \
+tr ' ' '\t' > tmp
+join -1 2 -2 1 <(sort -k2,2 tmp) <(sort -k1,1 "$sample"_orthogroups.tsv) | tr ' ' '\t' | \
+awk -v OFS="\t" '{if ($13==$14) print $1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12}' | sort | uniq > "$sample".blast
+
+join -1 2 -2 1 <(sort -k2,2 "$sample"_"$outgroup"_unfiltered.blast) <(sort -k1,1 "$outgroup"_orthogroups.tsv) | \
+tr ' ' '\t' > tmp
+join -1 2 -2 1 <(sort -k2,2 tmp) <(sort -k1,1 "$sample"_orthogroups.tsv) | tr ' ' '\t' | \
+awk -v OFS="\t" '{if ($13==$14) print $1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12}' | sort | uniq > "$sample"_"$outgroup".blast
+rm tmp
 
 #Run DupGen_finder
 cd ../
