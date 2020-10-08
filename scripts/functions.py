@@ -517,6 +517,11 @@ def gene_binom_test(df,output=(),mc_type=['CG','CHG','CHH'],baseline={},min_site
 
 #Subscript for classifying genes based on binomial test results
 def classify(row,min_sites=20,qvalue=0.05,uM_cutoff=0,uM_weighted_mC_cutoff=False):
+	mC_sites=(row['CG_Methylated_C']+row['CHG_Methylated_C']+row['CHH_Methylated_C'])
+	total_sites=(row['CG_Total_C']+row['CHG_Total_C']+row['CHH_Total_C'])
+	mC_reads=(row['CG_Methylated_Reads']+row['CHG_Methylated_Reads']+row['CHH_Methylated_Reads'])
+	total_reads=(row['CG_Total_Reads']+row['CHG_Total_Reads']+row['CHH_Total_Reads'])
+	#Classify genes based on qvalue
 	if row['CHH_qvalue'] <= qvalue and row['CHH_Total_C'] >= min_sites:
 		return 'TE-like'
 	elif row['CHG_qvalue'] <= qvalue and row['CHG_Total_C'] >= min_sites:
@@ -524,24 +529,20 @@ def classify(row,min_sites=20,qvalue=0.05,uM_cutoff=0,uM_weighted_mC_cutoff=Fals
 	elif row['CG_qvalue'] <= qvalue and row['CG_Total_C'] >= min_sites:
 		return 'gbM'
 	#Check if number of methylated sites is at or below the cutoff to call unmethylated genes
-	elif (row['CG_Methylated_C']+row['CHG_Methylated_C']+row['CHH_Methylated_C']) <= uM_cutoff and \
-	(row['CG_Total_C']+row['CHG_Total_C']+row['CHH_Total_C']) >= min_sites:
+	elif mC_sites <= uM_cutoff and total_sites >= min_sites:
 		return 'Unmethylated'
-	elif (row['CG_Methylated_C']+row['CHG_Methylated_C']+row['CHH_Methylated_C']) > uM_cutoff and \
-	(row['CG_Total_C']+row['CHG_Total_C']+row['CHH_Total_C']) >= min_sites and \
-	uM_weighted_mC_cutoff != False:
-		if (row['CG_Methylated_Reads']+row['CHG_Methylated_Reads']+row['CHH_Methylated_Reads'])/\
-		(row['CG_Total_Reads']+row['CHG_Total_Reads']+row['CHH_Total_Reads']) > uM_weighted_mC_cutoff:
+	elif (mC_reads/total_reads) < uM_weighted_mC_cutoff and total_sites >= min_sites:
 			return 'Unmethylated'
-	elif (row['CG_Total_C']+row['CHG_Total_C']+row['CHH_Total_C']) >= min_sites:
-		return 'Unclassified'
+	elif total_sites >= min_sites:
+		return 'Intermediate'
 	else:
 		return 'NA'
 
 #Script for calling "classify" subscript and applying to table
-def classify_genes(df,output=(),min_sites=20,qvalue=0.05):
+def classify_genes(df,output=(),min_sites=20,qvalue=0.05,uM_cutoff=0,uM_weighted_mC_cutoff=False):
 	a = pd.read_table(df,sep="\t")
-	a['Classification'] = a.apply(classify,axis=1,min_sites=min_sites,qvalue=qvalue)
+	a['Classification'] = a.apply(classify,axis=1,min_sites=min_sites,qvalue=qvalue,
+				uM_cutoff=uM_cutoff,uM_weighted_mC_cutoff=uM_weighted_mC_cutoff)
 	if output:
 		a.to_csv(output, sep='\t', index=False)
 	else:
