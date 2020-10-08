@@ -12,6 +12,8 @@ from gzip import open as gzopen
 from Bio import SeqIO
 from Bio.SeqUtils import GC
 from Bio.SeqUtils import GC123
+from Bio import motifs
+from Bio.Seq import Seq
 
 #split large files into temporary files of smaller size
 def split_file(input,line_number=10000000):

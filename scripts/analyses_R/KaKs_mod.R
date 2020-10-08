@@ -48,15 +48,21 @@ for(a in species){
 		#to more than one gene. This will give it multiple Ka & Ks values and result
 		#in it being counted more than once. Here we will select the smallest Ks, 
 		#based on the rationale that this is representative of the most recent and most
-		#likely duplication alternatively, you can randomly select one of the values.
-		#Just unhash that line and add a hash to the other.
+		#likely duplication. 
 		df7 <- data.frame()
 		for(i in df3[df3$Duplication == b,]$Feature){
 			if(nrow(df6[df6$Feature==i,]) != 0){
-				df7 <- rbind(df7,
-					df6[df6$Feature==i & df6$Ks == min(df6[df6$Feature==i,]$Ks),])
-				#df7 <- rbind(df7,
-				#	df6[row.names(df6) == sample(row.names(df6[df6$Feature==i,]),1),])
+				#print(df6[df6$Feature==i,])
+				#Check if minimum Ks is less than 5
+				if(min(na.omit(df6[df6$Feature==i,]$Ks)) < 5){
+					df7 <- rbind(df7,
+						df6[df6$Feature==i & df6$Ks == min(df6[df6$Feature==i,]$Ks),])
+				} else {
+					#Set duplicates with Ks > 5 to NA. At this point the synynomous 
+					#mutations are saturated and the results are largely noise
+					df7 <- rbind(df7,data.frame(Feature=i,Duplicate.2=df6$Duplicate.2,
+						Ka=NA,Ks=NA,Ka.Ks=NA,P.Value=NA))
+				}
 			} else {
 				df7 <- rbind(df7,data.frame(Feature=i,Duplicate.2=NA,Ka=NA,Ks=NA,
 					Ka.Ks=NA,P.Value=NA))
