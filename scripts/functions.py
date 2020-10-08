@@ -516,6 +516,20 @@ def gene_binom_test(df,output=(),mc_type=['CG','CHG','CHH'],baseline={},min_site
 		return a
 
 #Subscript for classifying genes based on binomial test results
+#min_sites is minimum number of sites with read coverage that are needed to consider a gene for classification
+#qvalue is the adjusted p-value used as a cutoff for gene classificaiton
+#For unmethylated genes, you can simply set a cutoff "uM_cutoff" on number of methylated reads permitted to 
+#call a gene as unmethylated. The default value is 0, but this may be too harsh. However, if this value is
+#set too high, then you run the risk of forcing many methylated genes as unmethylated. I recommend setting 
+#this in the range of 0-2. As an alternative to classify additional genes as unmethylated, while retaining
+#some rigor, you can also use the weighted_mC level for the gene as additional evidence in addition to the
+#hard read cutoff. This is activated by setting a max value for the uM_weighted_mC_cutoff. By default this 
+#is set to False and turned off. If you use it, it is used in addition to the uM_cutoff. In this case I would 
+#recommend setting the uM_cutoff more conservatively to 0-1 and then putting a threshhold of ~0-0.02. This 
+#setting works by calculating the total weighted methylation for all contexts (CG + CHG + CHH) and then
+#classifying any gene with a total weighted methylation below this cutoff as unmethylated. So if the cutoff
+#is set at 0.01, that means any gene with a weighted methylation above 0.01 (1%) will not be considered 
+#unmethylated.
 def classify(row,min_sites=20,qvalue=0.05,uM_cutoff=0,uM_weighted_mC_cutoff=False):
 	mC_sites=(row['CG_Methylated_C']+row['CHG_Methylated_C']+row['CHH_Methylated_C'])
 	total_sites=(row['CG_Total_C']+row['CHG_Total_C']+row['CHH_Total_C'])
@@ -531,14 +545,16 @@ def classify(row,min_sites=20,qvalue=0.05,uM_cutoff=0,uM_weighted_mC_cutoff=Fals
 	#Check if number of methylated sites is at or below the cutoff to call unmethylated genes
 	elif mC_sites <= uM_cutoff and total_sites >= min_sites:
 		return 'Unmethylated'
+	#Setting a hard cutoff on unmethylated sites may be too harsh
 	elif (mC_reads/total_reads) < uM_weighted_mC_cutoff and total_sites >= min_sites:
 			return 'Unmethylated'
 	elif total_sites >= min_sites:
-		return 'Intermediate'
+		return 'Unclassified'
 	else:
 		return 'NA'
 
-#Script for calling "classify" subscript and applying to table
+#Script for calling "classify" function and applying to table
+#See "classify" function for details of arguments
 def classify_genes(df,output=(),min_sites=20,qvalue=0.05,uM_cutoff=0,uM_weighted_mC_cutoff=False):
 	a = pd.read_table(df,sep="\t")
 	a['Classification'] = a.apply(classify,axis=1,min_sites=min_sites,qvalue=qvalue,
