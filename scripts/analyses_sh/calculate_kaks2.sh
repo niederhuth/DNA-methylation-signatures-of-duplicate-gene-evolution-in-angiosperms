@@ -16,7 +16,7 @@ export LD_LIBRARY_PATH="$HOME/miniconda3/envs/gene-duplication/lib:$LD_LIBRARY_P
 export PERL5LIB="$HOME/miniconda3/envs/gene-duplication/lib/perl5/site_perl/5.22.0"
 
 #Calculate KaKs
-cd dupgen3/results
+cd dupgen2/results
 mkdir kaks_results
 for i in *pairs
 do

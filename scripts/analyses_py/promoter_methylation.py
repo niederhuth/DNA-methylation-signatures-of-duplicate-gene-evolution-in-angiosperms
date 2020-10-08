@@ -28,8 +28,8 @@ chrs = list(pd.read_csv(genome_file,header=None,usecols=[0],dtype='str',sep="\t"
 chrs = list(set(chrs).difference(filter_chr))
 
 #Make promoter gff file
-pbt.bedtool.BedTool.flank(annotations,g=genome_file,l=upstream,r=downstream,
-	s=True).saveas('annotations2')
+a = pbt.bedtool.BedTool.flank(annotations,g=genome_file,l=upstream,r=downstream,
+	s=True).saveas(annotations2)
 
 #get gene methylation data
 print('Getting gene methylation data')
