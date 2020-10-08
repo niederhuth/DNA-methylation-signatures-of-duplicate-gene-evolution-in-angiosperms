@@ -1,14 +1,16 @@
 library(ggplot2)
 
 #List species to be analyzed
-species = c("Aduranensis","Aipaensis","Alyrata","Athaliana","Atrichopoda",
-	"Bdistachyon","Boleracea","Brapa","Bvulgaris","Cclementina","Cpapaya",
-	"Clanatus","Cmelo","Crubella","Csativus","Egrandis","Eguineensis",
-	"Esalsugineum","Fvesca","Fxananassa","Gmax","Graimondii","Ljaponicus",
-	"Macuminata","Mdomestica","Mesculenta","Mguttatus","Mtruncatula","Osativa",
-	"Phallii","Ppersica","Ptrichocarpa","Pvirgatum","Pvulgaris","Pxbretschneideri",
-	"Sbicolor","Sitalica","Slycopersicum","Stuberosum","Sviridis","Tcacao",
-	"Vvinifera","Zmays")
+#species = c("Aduranensis","Aipaensis","Alyrata","Athaliana","Atrichopoda",
+#	"Bdistachyon","Boleracea","Brapa","Bvulgaris","Cclementina","Cpapaya",
+#	"Clanatus","Cmelo","Crubella","Csativus","Egrandis","Eguineensis",
+#	"Esalsugineum","Fvesca","Fxananassa","Gmax","Graimondii","Ljaponicus",
+#	"Macuminata","Mdomestica","Mesculenta","Mguttatus","Mtruncatula","Osativa",
+#	"Phallii","Ppersica","Ptrichocarpa","Pvirgatum","Pvulgaris","Pxbretschneideri",
+#	"Sbicolor","Sitalica","Slycopersicum","Stuberosum","Sviridis","Tcacao",
+#	"Vvinifera","Zmays")
+
+species=c("Athaliana")
 
 #Create empty dataframe for K-S test results
 KaKs <- Ks <- data.frame()
@@ -51,10 +53,10 @@ for(a in species){
 		df7 <- data.frame()
 		for(i in df3[df3$Duplication == b,]$Feature){
 			if(nrow(df6[df6$Feature==i,]) != 0){
-				df7 <- rbind(df7,
-					df6[row.names(df6) == sample(row.names(df6[df6$Feature==i,]),1),])
 				#df7 <- rbind(df7,
-				#	df6[df6$Feature==i & df6$Ks == min(df6[df6$Feature==i,]$Ks),])
+				#	df6[row.names(df6) == sample(row.names(df6[df6$Feature==i,]),1),])
+				df7 <- rbind(df7,
+					df6[df6$Feature==i & df6$Ks == min(df6[df6$Feature==i,]$Ks),])
 				#df7 <- rbind(df7,
 				#	df6[df6$Feature==i & df6$Ks == max(df6[df6$Feature==i,]$Ks),])
 			} else {
