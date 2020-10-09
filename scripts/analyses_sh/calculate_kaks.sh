@@ -9,7 +9,7 @@
 
 cd $PBS_O_WORKDIR
 sample=$(pwd | sed s/^.*\\///)
-SCRIPTS=$(pwd | sed s/methylation.*/methylation\\/scripts/)
+SCRIPTS=$(pwd | sed s/angiosperms.*/angiosperms\\/scripts/)
 export PATH="$HOME/miniconda3/envs/gene-duplication/bin:$PATH"
 export PATH="$SCRIPTS/calculate_Ka_Ks_pipeline:$PATH"
 export LD_LIBRARY_PATH="$HOME/miniconda3/envs/gene-duplication/lib:$LD_LIBRARY_PATH"
@@ -29,11 +29,5 @@ do
 		-p $SCRIPTS/calculate_Ka_Ks_pipeline
 	sed -i '2d' kaks_results/"$sample"."$pairs".kaks
 done
-
-
-
-
-
-
 
 
