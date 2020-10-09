@@ -4,7 +4,14 @@ library(scales)
 library(ape)
 
 #List of species
-species=c("Athaliana")
+species = c("Aduranensis","Aipaensis","Alyrata","Athaliana","Atrichopoda",
+	"Bdistachyon","Boleracea","Brapa","Bvulgaris","Cclementina","Cpapaya",
+	"Clanatus","Cmelo","Crubella","Csativus","Egrandis","Eguineensis",
+	"Esalsugineum","Fvesca","Fxananassa","Gmax","Graimondii","Ljaponicus",
+	"Macuminata","Mdomestica","Mesculenta","Mguttatus","Mtruncatula","Osativa",
+	"Phallii","Ppersica","Ptrichocarpa","Pvirgatum","Pvulgaris","Pxbretschneideri",
+	"Sbicolor","Sitalica","Slycopersicum","Stuberosum","Sviridis","Tcacao",
+	"Vvinifera","Zmays")
 
 #Set path to orthofinder results
 path1=paste("orthofinder/orthofinder/",dir("orthofinder/orthofinder/"),sep="")
@@ -38,20 +45,26 @@ p <- ggplot(df2) +
 	scale_x_continuous("Number of Species in Orthogroup",expand=c(0,0))
 #Make a dataframe of "core" angiosperm genes
 coreGenes <- df3[row.names(df3) %in% row.names(df2[df2$Total >= 51,]),]
-#Make a dataframe of single-copy core angiosperm genes. We will allow for a certain percentage of these
-#to be present as multicopy in some species, due to recent WGD and other duplication events
-singleCopy <- geneCounts[row.names(geneCounts) %in%  row.names(coreGenes[coreGenes$Total >= 0.75,]),]
+#Make a dataframe of single-copy core angiosperm genes. We will allow for a certain percentage 
+#of these to be present as multicopy in some species, due to recent WGD and other duplication 
+#events
+singleCopy <- geneCounts[row.names(geneCounts) %in% 
+	row.names(coreGenes[coreGenes$Total >= 0.75,]),]
 
 pSC <- data.frame()
 for(i in colnames(singleCopy[1:58])){
 	pSC <- rbind(pSC,data.frame(Species=i,
-		PercentSingleCopy=data.frame(table(singleCopy[i]))[2,2]/nrow(singleCopy)))
+		pSC=data.frame(table(singleCopy[i]))[2,2]/nrow(singleCopy),
+		gbM=NA,TE.like=NA,Unmethylated=NA,Unclassified=NA,Missing=NA,Total=NA,
+		pgbM=NA,pTE.like=NA,pUnmethylated=NA,pUnclassified=NA,pMissing=NA))
 }
 
+df7 <- data.frame()
 #Iterate over each species
 for(a in species){
 	#Read in the list of genes classified by methylation status
-	df1 <- read.table(paste(a,"/methylpy/results/",a,"_classified_genes.tsv",sep=""),sep="\t",header=TRUE)
+	df1 <- read.table(paste(a,"/methylpy/results/",a,"_classified_genes.tsv",sep=""),
+		sep="\t",header=TRUE)
 	#Set classification to character, so that R doesn't screw it up
 	df1$Classification <- as.character(df1$Classification)
 	#Change "NA" to "Missing"
@@ -75,7 +88,20 @@ for(a in species){
 	df5$Total <- rowSums(df5[c(2:6)])
 	#Reformat for easier plotting
 	df6 <- melt(df5)
+	#Populate the pSC dataframe for analysis
+	tmp <- data.frame(t(colSums(df5[df5$Orthogroup %in% row.names(singleCopy),c(2:7)])))
+	for(b in c('gbM','TE.like','Unmethylated','Unclassified','Missing','Total')){
+		pSC[pSC$Species==a,b] <- tmp[b]
+		if(b != 'Total'){
+			pSC[pSC$Species==a,paste("p",b,sep="")] <- tmp[b]/tmp['Total']
+		}
+	}
+	for(b in c('gbM','TE-like','Unmethylated')){
+		df7 <- rbind(df7,data.frame(Species=c(a),Classification=c(b),
+			Count=df5[df5[b] > 0 & df5$Orthogroup %in% row.names(singleCopy),]$Total))
+	}
 }
+
 
 
 

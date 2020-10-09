@@ -1,4 +1,4 @@
-Feature	CG_Total_C	CG_Methylated_C	CG_Total_Reads	CG_Methylated_Reads	CG_Weighted_mC	CHG_Total_C	CHG_Methylated_C	CHG_Total_Reads	CHG_Methylated_Reads	CHG_Weighted_mC	CHH_Total_C	CHH_Methylated_C	CHH_Total_Reads	CHH_Methylated_Reads	CHH_Weighted_mC	CG_pvalue	CG_qvalue	CHG_pvalue	CHG_qvalue	CHH_pvalue	CHH_qvalue	Classification
+gene:Feature	CG_Total_C	CG_Methylated_C	CG_Total_Reads	CG_Methylated_Reads	CG_Weighted_mC	CHG_Total_C	CHG_Methylated_C	CHG_Total_Reads	CHG_Methylated_Reads	CHG_Weighted_mC	CHH_Total_C	CHH_Methylated_C	CHH_Total_Reads	CHH_Methylated_Reads	CHH_Weighted_mC	CG_pvalue	CG_qvalue	CHG_pvalue	CHG_qvalue	CHH_pvalue	CHH_qvalue	Classification
 gene:BVRB_034840																						NA
 gene:BVRB_027630																						NA
 gene:BVRB_8g195680																						NA
