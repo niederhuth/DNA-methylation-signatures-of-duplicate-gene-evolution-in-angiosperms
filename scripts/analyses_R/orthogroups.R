@@ -21,35 +21,37 @@ tre <- read.tree(paste(path1,"/Species_Tree/SpeciesTree_rooted_node_labels.txt",
 geneCounts <- read.table(paste(path1,"/Orthogroups/Orthogroups.GeneCount.tsv",sep=""),
 	header=T,sep="\t",row.names=1)
 #Create two new temporary dataframes to identify missing orthogroups and single-copy orthogroups
-df3 <- df2 <- subset(geneCounts,select = -Total )
+df1 <- PA <- subset(geneCounts,select = -Total )
 #If a species is missing an orthogroup label it as a 0, if the orthogroup is present
 #label it as a 1, regardless of how many genes are in that orthogroup
-for(i in colnames(df2)){
-  df2[i] <- ifelse(geneCounts[i]==0,0,1)
+for(i in colnames(PA)){
+  PA[i] <- ifelse(geneCounts[i]==0,0,1)
 }
 #Sum up the row to get how many species have or are missing an orthogroup 
-df2$Total <- rowSums(df2)
+PA$Total <- rowSums(PA)
 #If an orthogroup is single-copy in a species, label it as a 1, otherwise label it a 0.
-for(i in colnames(df3)){
-  df3[i] <- ifelse(geneCounts[i]==1,1,0)
+for(i in colnames(df1)){
+  df1[i] <- ifelse(geneCounts[i]==1,1,0)
 }
 #Get the percentage of species where an orthogroup is single-copy
-df3$Total <- rowSums(df3)/ncol(df3)
+df1$Total <- rowSums(df1)/ncol(df1)
 #Plot out the distribution of species per orthogroup. We will use this to decide what the
 #the minimal number of species at which we classify an orthogroup as being part of the core
 #angiosperm gene set. This is similar to what was done in Li et al. 2016
-p <- ggplot(df2) + 
+p <- ggplot(PA) + 
 	geom_histogram(aes(x=Total,fill=cut(Total,c(50,58))),bins=58) + 
 	theme_bw() + theme(legend.position="none") + 
 	scale_y_continuous("Number of Orthogroups",expand=c(0,0)) + 
 	scale_x_continuous("Number of Species in Orthogroup",expand=c(0,0))
 #Make a dataframe of "core" angiosperm genes
-coreGenes <- df3[row.names(df3) %in% row.names(df2[df2$Total >= 51,]),]
+coreGenes <- geneCounts[row.names(geneCounts) %in% row.names(PA[PA$Total >= 51,]),]
+#Temporary dataframe of coregenes for identifying singleCopy genes
+df2 <- df1[row.names(df1) %in% row.names(PA[PA$Total >= 51,]),]
 #Make a dataframe of single-copy core angiosperm genes. We will allow for a certain percentage 
 #of these to be present as multicopy in some species, due to recent WGD and other duplication 
 #events
 singleCopy <- geneCounts[row.names(geneCounts) %in% 
-	row.names(coreGenes[coreGenes$Total >= 0.75,]),]
+	row.names(df2[df2$Total >= 0.75,]),]
 
 pSC <- data.frame()
 for(i in colnames(singleCopy[1:58])){
@@ -61,7 +63,12 @@ for(i in colnames(singleCopy[1:58])){
 		pgbM=NA,pTE.like=NA,pUnmethylated=NA,pUnclassified=NA,pMissing=NA))
 }
 
-df7 <- data.frame()
+#Identify species specific orthogroups
+speciesSpecific <- geneCounts[row.names(geneCounts) %in% row.names(PA[PA$Total==1,]),]
+#Identify high copy number species specific orthogroups. These are suspect of being TEs
+highCopySS <- speciesSpecific[speciesSpecific$Total > 20,]
+
+top <- df7 <- data.frame()
 #Iterate over each species
 for(a in species){
 	#Read in the list of genes classified by methylation status
@@ -101,8 +108,12 @@ for(a in species){
 			pSC[pSC$Species==a,paste("Op",b,sep="")] <- 
 			nrow(df5[df5$Orthogroup %in% row.names(singleCopy) & df5[b] > 0,])/
 			nrow(singleCopy)
+			top <- rbind(top,data.frame(Species=a,Classification=b,
+				Orthogroup=df5[df5[[b]] %in% sort(df5[[b]],decreasing=T)[1:5],"Orthogroup"],
+				Count=df5[df5[[b]] %in% sort(df5[[b]],decreasing=T)[1:5],b]))
 		}
 	}
+	rm(tmp)
 	for(b in c('gbM','TE.like','Unmethylated')){
 		if(nrow(df5[df5[b] > 0 & df5$Orthogroup %in% row.names(singleCopy),]) != 0){
 			df7 <- rbind(df7,data.frame(Species=c(a),Classification=c(b),
@@ -111,7 +122,8 @@ for(a in species){
 	}
 }
 
-
+#Top orthogroups
+write.csv(top,"top_orthogroups.csv",quote=FALSE,row.names=FALSE)
 
 
 
