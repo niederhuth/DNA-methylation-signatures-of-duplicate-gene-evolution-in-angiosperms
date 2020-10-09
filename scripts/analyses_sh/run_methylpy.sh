@@ -2,8 +2,8 @@
 #SBATCH --time=98:00:00
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
-#SBATCH --cpus-per-task=20
-#SBATCH --mem=120GB
+#SBATCH --cpus-per-task=30
+#SBATCH --mem=160GB
 #SBATCH --job-name methylpy
 #SBATCH --output=job_reports/%x-%j.SLURMout
 
