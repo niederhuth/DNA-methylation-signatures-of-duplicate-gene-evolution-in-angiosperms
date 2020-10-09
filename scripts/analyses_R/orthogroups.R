@@ -54,7 +54,9 @@ singleCopy <- geneCounts[row.names(geneCounts) %in%
 pSC <- data.frame()
 for(i in colnames(singleCopy[1:58])){
 	pSC <- rbind(pSC,data.frame(Species=i,
-		pSC=data.frame(table(singleCopy[i]))[2,2]/nrow(singleCopy),
+		OpSC=data.frame(table(singleCopy[i]))[2,2]/nrow(singleCopy),
+		OgbM=NA,OTE.like=NA,OUnmethylated=NA,OUnclassified=NA,OMissing=NA,
+		OpgbM=NA,OpTE.like=NA,OpUnmethylated=NA,OpUnclassified=NA,OpMissing=NA,
 		gbM=NA,TE.like=NA,Unmethylated=NA,Unclassified=NA,Missing=NA,Total=NA,
 		pgbM=NA,pTE.like=NA,pUnmethylated=NA,pUnclassified=NA,pMissing=NA))
 }
@@ -83,7 +85,7 @@ for(a in species){
 	df5 <- merge(df5,df4[df4$Classification=="Unclassified",c(1,3)],by="V2")
 	df5 <- merge(df5,df4[df4$Classification=="Missing",c(1,3)],by="V2")
 	#Rename columns
-	colnames(df5) <- c("Orthogroup","gbM","TE-like","Unmethylated","Unclassified","Missing")
+	colnames(df5) <- c("Orthogroup","gbM","TE.like","Unmethylated","Unclassified","Missing")
 	#Sum up each row
 	df5$Total <- rowSums(df5[c(2:6)])
 	#Reformat for easier plotting
@@ -94,11 +96,18 @@ for(a in species){
 		pSC[pSC$Species==a,b] <- tmp[b]
 		if(b != 'Total'){
 			pSC[pSC$Species==a,paste("p",b,sep="")] <- tmp[b]/tmp['Total']
+			pSC[pSC$Species==a,paste("O",b,sep="")] <- 
+			nrow(df5[df5$Orthogroup %in% row.names(singleCopy) & df5[b] > 0,])
+			pSC[pSC$Species==a,paste("Op",b,sep="")] <- 
+			nrow(df5[df5$Orthogroup %in% row.names(singleCopy) & df5[b] > 0,])/
+			nrow(singleCopy)
 		}
 	}
-	for(b in c('gbM','TE-like','Unmethylated')){
-		df7 <- rbind(df7,data.frame(Species=c(a),Classification=c(b),
+	for(b in c('gbM','TE.like','Unmethylated')){
+		if(nrow(df5[df5[b] > 0 & df5$Orthogroup %in% row.names(singleCopy),]) != 0){
+			df7 <- rbind(df7,data.frame(Species=c(a),Classification=c(b),
 			Count=df5[df5[b] > 0 & df5$Orthogroup %in% row.names(singleCopy),]$Total))
+		}
 	}
 }
 
