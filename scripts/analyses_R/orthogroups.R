@@ -1,6 +1,7 @@
 library(ggplot2)
 library(reshape2)
 library(scales)
+library(ape)
 
 #List of species
 species=c("Athaliana")
@@ -41,6 +42,12 @@ coreGenes <- df3[row.names(df3) %in% row.names(df2[df2$Total >= 51,]),]
 #to be present as multicopy in some species, due to recent WGD and other duplication events
 singleCopy <- geneCounts[row.names(geneCounts) %in%  row.names(coreGenes[coreGenes$Total >= 0.75,]),]
 
+pSC <- data.frame()
+for(i in colnames(singleCopy[1:58])){
+	pSC <- rbind(pSC,data.frame(Species=i,
+		PercentSingleCopy=data.frame(table(singleCopy[i]))[2,2]/nrow(singleCopy)))
+}
+
 #Iterate over each species
 for(a in species){
 	#Read in the list of genes classified by methylation status
@@ -69,6 +76,8 @@ for(a in species){
 	#Reformat for easier plotting
 	df6 <- melt(df5)
 }
+
+
 
 
 
