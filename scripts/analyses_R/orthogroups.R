@@ -4,14 +4,24 @@ library(scales)
 library(ape)
 
 #List of species
-species = c("Aduranensis","Aipaensis","Alyrata","Athaliana","Atrichopoda",
+species <- data.frame(Species=c("Aduranensis","Aipaensis","Alyrata","Athaliana","Atrichopoda",
 	"Bdistachyon","Boleracea","Brapa","Bvulgaris","Cclementina","Cpapaya",
 	"Clanatus","Cmelo","Crubella","Csativus","Egrandis","Eguineensis",
 	"Esalsugineum","Fvesca","Fxananassa","Gmax","Graimondii","Ljaponicus",
 	"Macuminata","Mdomestica","Mesculenta","Mguttatus","Mtruncatula","Osativa",
 	"Phallii","Ppersica","Ptrichocarpa","Pvirgatum","Pvulgaris","Pxbretschneideri",
 	"Sbicolor","Sitalica","Slycopersicum","Stuberosum","Sviridis","Tcacao",
-	"Vvinifera","Zmays")
+	"Vvinifera","Zmays"),Order=c(35,34,20,19,1,5,23,22,40,14,17,26,27,18,28,13,2,21,32,33,37,
+	16,38,3,31,24,43,39,4,11,29,25,10,30,36,7,8,41,42,9,15,12,6))
+#Dataframe of angiosperm families with more than 2 representative species
+families <- data.frame(Family=c(rep("Poaceae",9),rep("Brassicaceae",6),rep("Fabaceae",7),
+	rep("Rosaceae",7),rep("Solanaceae",6),rep("Cucurbitaceae",3)),
+	Species=c("Bdistachyon","Osativa","Phallii","Pvirgatum","Sbicolor","Sitalica","Sviridis",
+		"Zmays","Othomaeum","Alyrata","Athaliana","Brapa","Boleracea","Crubella","Esalsugineum",
+		"Aduranensis","Aipaensis","Gmax","Gsoja","Ljaponicus","Mtruncatula","Pvulgaris","Fvesca",
+		"Fxananassa","Mdomestica","Ppersica","Pxbretschneideri","Rchinensis","Roccidentalis",
+		"Cannuum","Nattenuata","Paxillaris","Slycopersicum","Smelongena","Stuberosum","Clanatus",
+		"Cmelo","Csativus"))
 
 #Set path to orthofinder results
 path1=paste("orthofinder/orthofinder/",dir("orthofinder/orthofinder/"),sep="")
@@ -52,7 +62,7 @@ df2 <- df1[row.names(df1) %in% row.names(PA[PA$Total >= 51,]),]
 #events
 singleCopy <- geneCounts[row.names(geneCounts) %in% 
 	row.names(df2[df2$Total >= 0.75,]),]
-
+#
 pSC <- data.frame()
 for(i in colnames(singleCopy[1:58])){
 	pSC <- rbind(pSC,data.frame(Species=i,
@@ -62,15 +72,30 @@ for(i in colnames(singleCopy[1:58])){
 		gbM=NA,TE.like=NA,Unmethylated=NA,Unclassified=NA,Missing=NA,Total=NA,
 		pgbM=NA,pTE.like=NA,pUnmethylated=NA,pUnclassified=NA,pMissing=NA))
 }
-
+#Identify multiCopy core angiosperm genes
+multiCopy <- geneCounts[!(row.names(geneCounts) %in% row.names(singleCopy)),]
 #Identify species specific orthogroups
 speciesSpecific <- geneCounts[row.names(geneCounts) %in% row.names(PA[PA$Total==1,]),]
-#Identify high copy number species specific orthogroups. These are suspect of being TEs
-highCopySS <- speciesSpecific[speciesSpecific$Total > 20,]
+#Identify family specific orthogroups
+lineageSpecific <- data.frame()
+for(i in unique(families$Family)){
+	lineageSpecific <- rbind(lineageSpecific,geneCounts[row.names(geneCounts) %in%
+		row.names(PA[rowSums(PA[,!(colnames(PA) %in% c(as.character(families[
+		families$Family==i,]$Species),"Total"))]) < 1 & PA$Total >= 2,]),])
+}
+#Identify orthogroups that don't fit any of the above defitions
+otherOG <- geneCounts[!(row.names(geneCounts) %in% c(row.names(coreGenes),
+	row.names(speciesSpecific),row.names(lineageSpecific))),]
+#Create dataframe of each orthogroup's category
+ogCat <- rbind(data.frame(Orthogroup=row.names(singleCopy),ogCat=c("Core: Single Copy")),
+	data.frame(Orthogroup=row.names(multiCopy),ogCat=c("Core: Other")),
+	data.frame(Orthogroup=row.names(otherOG),ogCat=c("Multi-Family")),
+	data.frame(Orthogroup=row.names(lineageSpecific),ogCat=c("Family Specific")),
+	data.frame(Orthogroup=row.names(speciesSpecific),ogCat=c("Species/Lineage Specific")))
 
-top <- df7 <- data.frame()
+top <- pOG <- data.frame()
 #Iterate over each species
-for(a in species){
+for(a in species$Species){
 	#Read in the list of genes classified by methylation status
 	df1 <- read.table(paste(a,"/methylpy/results/",a,"_classified_genes.tsv",sep=""),
 		sep="\t",header=TRUE)
@@ -108,23 +133,42 @@ for(a in species){
 			pSC[pSC$Species==a,paste("Op",b,sep="")] <- 
 			nrow(df5[df5$Orthogroup %in% row.names(singleCopy) & df5[b] > 0,])/
 			nrow(singleCopy)
+			#Make a dataframe of the top 5 orthogroups with the most of each 
+			#methylation classification
 			top <- rbind(top,data.frame(Species=a,Classification=b,
 				Orthogroup=df5[df5[[b]] %in% sort(df5[[b]],decreasing=T)[1:5],"Orthogroup"],
 				Count=df5[df5[[b]] %in% sort(df5[[b]],decreasing=T)[1:5],b]))
 		}
 	}
 	rm(tmp)
-	for(b in c('gbM','TE.like','Unmethylated')){
-		if(nrow(df5[df5[b] > 0 & df5$Orthogroup %in% row.names(singleCopy),]) != 0){
-			df7 <- rbind(df7,data.frame(Species=c(a),Classification=c(b),
-			Count=df5[df5[b] > 0 & df5$Orthogroup %in% row.names(singleCopy),]$Total))
+	#Create a dataframe counting genes by methylation class and different categories of
+	#orthogroups
+	df7 <- merge(ogCat,df6,by="Orthogroup")
+	df7$Species <- a
+	df7$Order <- species[species$Species==a,]$Order
+	df7$pOG <- df7$pmC <- NA
+	for(x in unique(df7$ogCat)){
+		for(y in unique(df7$variable)){
+			df7[df7$ogCat==x & df7$variable==y,]$pmC <- 
+				df7[df7$ogCat==x & df7$variable==y,]$value/sum(df7[df7$variable==y,]$value)
+			df7[df7$ogCat==x & df7$variable==y,]$pOG <- 
+				df7[df7$ogCat==x & df7$variable==y,]$value/
+				sum(df7[df7$ogCat==x & df7$variable != "Total",]$value)
 		}
-	}
+	} 
+	pOG <- rbind(pOG,df7)
 }
 
 #Top orthogroups
 write.csv(top,"top_orthogroups.csv",quote=FALSE,row.names=FALSE)
 
-
+#Plot
+for(a in c("gbM","TE.like","Unmethylated","Unclassified","Missing")){
+	p <- ggplot(pOG[pOG$variable==a,]) + 
+		geom_bar(aes(x=reorder(Species,Order),y=pmC,fill=ogCat),stat="identity") + 
+		theme_bw() + theme(axis.text.x=element_text(angle=90,hjust=1,vjust=0.5)) + 
+		scale_y_continuous("Percentage of Genes",expand=c(0,0))
+	ggsave(paste(a,"_orthogroup_distribution.pdf",sep=""),p,width=10,height=4)
+}
 
 
