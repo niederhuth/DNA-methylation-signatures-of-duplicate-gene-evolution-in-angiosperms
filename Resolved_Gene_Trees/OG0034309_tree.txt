@@ -1,0 +1,1 @@
+(Cclementina_Ciclev10007201m.g:0.20463,(Cannuum_CA03g25640:0.234476,(Slycopersicum_Solyc00g020940.1:0.655722,Slycopersicum_Solyc00g020545.1:0.142395)n2:0.231533)n1:0.20463)n0;
