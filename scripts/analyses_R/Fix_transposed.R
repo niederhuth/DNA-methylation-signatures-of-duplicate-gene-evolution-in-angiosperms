@@ -21,14 +21,14 @@ for(a in species){
 		sep="\t",header=TRUE)
 	df2 <- read.table("Athaliana/ref/mcscanx/Athaliana_orthogroups.tsv",sep="\t",head=FALSE)
 
-	for(x in nrow(df1)){
+	for(x in c(1:nrow(df1))){
 		b <- as.vector(df1[x,]$Transposed)
 		p <- df1[x,]$Parent
 		og <- df2[df2$V1==b,2]
 		tre <- read.tree(paste(path2,og,"_tree.txt",sep=""))
 		tre2 <- as_tibble(tre)
 		ancestor <- getMRCA(tre,c(paste(a,"_",b,sep=""),paste(a,"_",p,sep="")))
-		for(i in c(1:length(ancestor))){
+		for(i in c(1:length(child(tre,ancestor)))){
 			if(!(tre2[tre2$node==child(tre,ancestor)[i],]$label %in% 
 				c(paste(a,"_",b,sep=""),paste(a,"_",p,sep="")))){
 				x <- as_tibble(tree_subset(tre,tre2[tre2$node==child(tre,ancestor)[i],]$label,
