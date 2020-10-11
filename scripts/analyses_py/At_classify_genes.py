@@ -9,7 +9,7 @@ import functions
 
 #define variables
 mc_type=['CG','CHG','CHH']
-baseline={'CG':0.28348908688859714,'CHG':0.055574290523518824,'CHH':0.011431120569854767}
+baseline={'CG':0.2845352087715852,'CHG':0.05647269779098112,'CHH':0.011549774968000909}
 calc_baseline=False
 min_sites=20
 qvalue=0.05
