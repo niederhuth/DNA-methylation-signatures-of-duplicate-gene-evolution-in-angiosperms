@@ -23,6 +23,8 @@ families <- data.frame(Family=c(rep("Poaceae",9),rep("Brassicaceae",6),rep("Faba
 		"Cannuum","Nattenuata","Paxillaris","Slycopersicum","Smelongena","Stuberosum","Clanatus",
 		"Cmelo","Csativus"))
 
+species=data.frame(Species=c("Athaliana"))
+
 #Set path to orthofinder results
 path1=paste("orthofinder/orthofinder/",dir("orthofinder/orthofinder/"),sep="")
 #Read in the rooted species tree
@@ -104,7 +106,11 @@ for(a in species$Species){
 	#Change "NA" to "Missing"
 	df1$Classification <- ifelse(is.na(df1$Classification),"Missing",df1$Classification)
 	#Read in the orthogroups for that species
-	df2 <- read.table(paste(a,"/ref/mcscanx/",a,"_orthogroups.tsv",sep=""),header=FALSE,sep="\t")
+	df2 <- read.table(paste(a,"/ref/mcscanx/",a,"_orthogroups.tsv",sep=""),header=FALSE,sep="\t")[1,2]
+	#Redo the original orthogroup list for that species for other analyses
+	new <- merge(df2,ogCat,by.x="V2",by.y="Orthogroup")[c("V1","V2","ogCat")]
+	write.table(new,paste(a,"/ref/mcscanx/",a,"_orthogroups.tsv",sep=""),
+		col.names=FALSE,quote=FALSE,row.names=FALSE,sep="\t")
 	#Merge DNA methylation classification & orthogroups
 	df3 <- merge(df2,df1[c(1,23)],by.x="V1",by.y="Feature")
 	#Table the values so that we can get the count of each classification for each orthogroup
