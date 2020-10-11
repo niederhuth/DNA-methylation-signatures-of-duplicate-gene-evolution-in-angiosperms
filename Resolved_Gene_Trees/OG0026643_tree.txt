@@ -1,0 +1,1 @@
+((Vcorymbosum_maker-VaccDscaff4-snap-gene-25.27:0.730765,((Vcorymbosum_maker-VaccDscaff41-snap-gene-208.35:0.254336,Vcorymbosum_maker-VaccDscaff12-snap-gene-328.37:0.160478)n3:0.0712536,Vcorymbosum_maker-VaccDscaff40-augustus-gene-224.35:2.38648e-06)n2:0.70107)n1:0.0303878,(Boleracea_Bo01176s020:0.223669,Brapa_Brara.H01176:0.190176)n4:0.0303878)n0;

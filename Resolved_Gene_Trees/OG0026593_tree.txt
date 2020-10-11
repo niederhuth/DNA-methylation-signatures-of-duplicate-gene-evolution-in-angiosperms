@@ -1,0 +1,1 @@
+(Vvinifera_VIT_209s0070g00680:0.135067,((Boleracea_Bo19109s010:1.85559e-06,Boleracea_Bo8g090340:0.419608)n2:0.446638,(Cclementina_Ciclev10024258m.g:0.20336,(Cclementina_Ciclev10025756m.g:0.155104,Cclementina_Ciclev10020202m.g:0.153408)n4:0.0292537)n3:0.198471)n1:0.135067)n0;

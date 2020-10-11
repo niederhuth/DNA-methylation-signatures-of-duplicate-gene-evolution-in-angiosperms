@@ -1,0 +1,1 @@
+((Slycopersicum_Solyc05g025950.1:0.478001,Rchinensis_RcHm_v2.0_Chr2g0092721:0.416016)n1:0.135042,(Smelongena_SMEL_012g385270.1:0.520946,((Egrandis_Eucgr.C03684:0.035983,Egrandis_Eucgr.C03667:0.40508)n4:0.092237,Egrandis_Eucgr.C03932:0.0333755)n3:0.273595)n2:0.135042)n0;

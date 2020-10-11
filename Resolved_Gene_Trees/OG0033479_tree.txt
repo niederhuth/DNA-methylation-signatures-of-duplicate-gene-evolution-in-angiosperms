@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_08.1464:0.123996,(Fxananassa_augustus_masked-Fvb1-4-processed-gene-20.1:0.410796,(Csativus_CsaV3_1G002040:0.869999,Boleracea_Bo5g021250:0.421493)n2:0.161233)n1:0.123996)n0;

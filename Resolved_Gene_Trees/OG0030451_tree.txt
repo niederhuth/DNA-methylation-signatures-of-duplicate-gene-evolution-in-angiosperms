@@ -1,0 +1,1 @@
+(Fvesca_FvH4_6g13560:0.0894045,((Fxananassa_maker-Fvb1-2-snap-gene-220.17:0.136497,(Fxananassa_maker-Fvb6-3-snap-gene-334.49:0.0132678,Fxananassa_maker-Fvb6-3-snap-gene-334.50:0.000614174)n3:0.0658918)n2:0.0857437,Fxananassa_maker-Fvb6-4-snap-gene-88.42:0.132384)n1:0.0894045)n0;

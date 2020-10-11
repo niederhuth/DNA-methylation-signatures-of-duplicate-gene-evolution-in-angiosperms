@@ -1,0 +1,1 @@
+((Stuberosum_PGSC0003DMG400013713:0.557167,(Aofficinalis_evm.TU.AsparagusV1_02.1567:0.718749,Aofficinalis_evm.TU.AsparagusV1_07.1178:0.732648)n2:0.0814053)n1:0.0603801,((Fxananassa_maker-Fvb2-2-augustus-gene-120.30:0.295043,Fvesca_FvH4_2g14360:0.282407)n4:0.403469,Mdomestica_MD16G1213600:0.592734)n3:0.144126)n0;

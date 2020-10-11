@@ -1,0 +1,1 @@
+((Ptrichocarpa_Potri.018G027900:0.590901,Mguttatus_Migut.K00451:0.392624)n1:0.0419571,(Fxananassa_maker-Fvb2-4-snap-gene-205.73:0.286831,((Slycopersicum_Solyc08g045740.2:0.67205,Ljaponicus_Lj0g3v0244639:0.453976)n4:0.033321,Mdomestica_MD08G1149500:0.491725)n3:0.191597)n2:0.0419571)n0;

@@ -1,0 +1,1 @@
+(Mguttatus_Migut.K01360:0.177849,(Mtruncatula_Medtr4g020710:0.578554,(Fxananassa_maker-Fvb1-2-snap-gene-247.41:0.237928,Fxananassa_maker-Fvb4-2-augustus-gene-186.5:0.0153762)n2:0.502832)n1:0.177849)n0;

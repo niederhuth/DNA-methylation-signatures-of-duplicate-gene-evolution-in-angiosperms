@@ -1,0 +1,1 @@
+(Osativa_ChrSy.fgenesh.gene.26:0.553974,(Graimondii_Gorai.011G165100:0.734985,(Mesculenta_Manes.15G186501:0.995822,Mguttatus_Migut.N02855:0.849366)n2:0.077561)n1:0.553974)n0;

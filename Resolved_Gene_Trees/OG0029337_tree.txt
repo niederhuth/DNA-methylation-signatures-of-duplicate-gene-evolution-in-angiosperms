@@ -1,0 +1,1 @@
+(Bvulgaris_gene_BVRB_013940:0.20958,(Spolyrhiza_Spipo12G0010300:0.737565,(Aofficinalis_evm.TU.AsparagusV1_03.2827:0.763622,(Aofficinalis_evm.TU.AsparagusV1_10.1491:0.330516,Aofficinalis_evm.TU.AsparagusV1_10.1171:0.311088)n3:0.53162)n2:0.405982)n1:0.20958)n0;

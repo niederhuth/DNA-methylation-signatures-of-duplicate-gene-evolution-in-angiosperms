@@ -1,0 +1,1 @@
+((Mesculenta_Manes.07G063600:0.0605233,Mesculenta_Manes.10G073000:0.247944)n1:0.0545594,(Ptrichocarpa_Potri.009G092300:0.123068,Ptrichocarpa_Potri.001G297466:0.338127)n2:0.0545594)n0;

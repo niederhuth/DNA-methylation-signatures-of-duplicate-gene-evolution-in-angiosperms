@@ -1,0 +1,1 @@
+((Fxananassa_maker-Fvb6-1-snap-gene-134.64:0.380041,(Fxananassa_maker-Fvb6-1-snap-gene-134.63:0.64219,Fxananassa_augustus_masked-Fvb6-3-processed-gene-126.14:0.473724)n2:0.16987)n1:0.213809,(Pvulgaris_Phvul.005G160300:0.794038,(Gmax_Glyma.15G023550:0.00276156,Gmax_Glyma.13G351050:2.8608e-06)n4:2.8608e-06)n3:0.290273)n0;

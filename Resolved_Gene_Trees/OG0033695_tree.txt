@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00022.152:0.576355,(Mdomestica_MD09G1012600:1.1623,(Ptrichocarpa_Potri.005G013900:3.09292e-06,Ptrichocarpa_Potri.005G016900:0.0844321)n2:0.703984)n1:0.576355)n0;

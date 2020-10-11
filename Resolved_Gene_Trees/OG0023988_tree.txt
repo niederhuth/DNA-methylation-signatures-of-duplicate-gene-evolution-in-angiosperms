@@ -1,0 +1,1 @@
+((Egrandis_Eucgr.D01896:0.548496,(Boleracea_Bo3g107360:0.131613,Brapa_Brara.I01298:0.278898)n2:0.128295)n1:0.337742,(Aofficinalis_evm.TU.AsparagusV1_09.1126:0.129728,(Aofficinalis_evm.TU.AsparagusV1_04.3184:2.52378e-06,(Aofficinalis_evm.TU.AsparagusV1_05.1196:0.00820266,Aofficinalis_evm.TU.AsparagusV1_01.424:0.00927534)n5:0.622153)n4:0.125739)n3:0.337742)n0;

@@ -1,0 +1,1 @@
+(Gmax_Glyma.03G063800:0.460836,(Vcorymbosum_maker-VaccDscaff10-snap-gene-67.38:0.425365,((Vcorymbosum_maker-VaccDscaff27-snap-gene-60.31:0,Vcorymbosum_maker-VaccDscaff17-snap-gene-227.27:0)n3:0.596253,Vcorymbosum_maker-VaccDscaff14-snap-gene-117.28:0.359527)n2:0.135215)n1:0.460836)n0;

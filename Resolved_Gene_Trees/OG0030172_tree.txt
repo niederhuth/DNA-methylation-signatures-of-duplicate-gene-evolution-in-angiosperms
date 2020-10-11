@@ -1,0 +1,1 @@
+(Cpapaya_evm.TU.supercontig_57.77:0.420124,(Fxananassa_maker-Fvb6-4-augustus-gene-285.45:1.02687e-06,((Fxananassa_maker-Fvb2-4-augustus-gene-8.26:0.175281,Fxananassa_maker-Fvb4-2-augustus-gene-139.27:0.0117113)n3:1.02687e-06,Fxananassa_maker-Fvb2-2-augustus-gene-228.49:0)n2:0.00310962)n1:0.420124)n0;

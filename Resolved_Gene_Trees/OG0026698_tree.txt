@@ -1,0 +1,1 @@
+((Bvulgaris_gene_BVRB_017180:0.678484,Paxillaris_Peaxi162Scf00253g00076:0.583425)n1:0.0661544,(Mesculenta_Manes.15G093650:0.503427,(Egrandis_Eucgr.L03437:0.176462,(Egrandis_Eucgr.B01386:0,Egrandis_Eucgr.L03590:0)n4:0.381696)n3:0.143596)n2:0.0661544)n0;

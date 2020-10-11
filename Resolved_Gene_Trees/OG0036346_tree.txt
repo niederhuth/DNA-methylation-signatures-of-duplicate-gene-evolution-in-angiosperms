@@ -1,0 +1,1 @@
+((Roccidentalis_maker-Ro06-exonerate_est2genome-gene-267.4:0.732828,Roccidentalis_maker-Ro04-snap-gene-287.77:1.15399)n1:0.375987,(Mdomestica_MD14G1191500:0.106455,Mdomestica_MD14G1191600:0.0987085)n2:0.375987)n0;

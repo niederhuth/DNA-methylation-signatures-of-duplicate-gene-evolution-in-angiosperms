@@ -1,0 +1,1 @@
+((Mdomestica_MD12G1223500:0.141818,Ptrichocarpa_Potri.005G039400:0.303589)n1:0.128836,(Vcorymbosum_snap_masked-VaccDscaff27-processed-gene-151.12:0.0422747,(Vcorymbosum_snap_masked-VaccDscaff45-processed-gene-167.11:0.0127303,Vcorymbosum_snap_masked-VaccDscaff44-processed-gene-138.18:0.0664567)n3:0.00407025)n2:0.128836)n0;

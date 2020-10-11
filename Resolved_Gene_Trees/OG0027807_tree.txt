@@ -1,0 +1,1 @@
+((Rchinensis_RcHm_v2.0_Chr6g0307301:0.832703,Mtruncatula_Medtr1g060400:1.09238)n1:0.0368609,(Sviridis_Sevir.3G378301:0.68817,(Pvirgatum_Pavir.4NG244200:0.761991,(Pvirgatum_Pavir.2KG464605:0.235924,Pvirgatum_Pavir.5NG642666:0.365297)n4:0.267139)n3:0.0296821)n2:0.123865)n0;

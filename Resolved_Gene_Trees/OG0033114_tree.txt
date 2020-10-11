@@ -1,0 +1,1 @@
+(Aipaensis_araip.K30076.gnm1.ann1.Araip.5K7CZ:0.134658,((Boleracea_Bo8g090350:0.0486213,Boleracea_Bo2g144980:0.444862)n2:0.35138,Cclementina_Ciclev10027554m.g:0.237)n1:0.134658)n0;

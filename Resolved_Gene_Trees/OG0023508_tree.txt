@@ -1,0 +1,1 @@
+(Bdistachyon_Bradi5g08620:0.220092,(Bvulgaris_gene_BVRB_3g063190:0.518398,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.HFK2H:0.0909154,(Cclementina_Ciclev10017890m.g:0.376454,(Vcorymbosum_snap_masked-VaccDscaff21-processed-gene-321.15:0.487478,(Mtruncatula_Medtr2g039800:0.924382,Ptrichocarpa_Potri.016G034875:0.220512)n5:0.102899)n4:0.122764)n3:0.166465)n2:0.0323952)n1:0.220092)n0;

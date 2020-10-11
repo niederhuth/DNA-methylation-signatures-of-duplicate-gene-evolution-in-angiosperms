@@ -1,0 +1,1 @@
+(Alyrata_AL4G16360:0.310737,(Gmax_Glyma.13G165100:0.520509,((Pxbretschneideri_LOC103932890:0.429933,Fxananassa_maker-Fvb2-4-augustus-gene-129.34:0.20045)n3:0.235754,(Roccidentalis_snap_masked-Ro07-processed-gene-95.11:0.551682,Ljaponicus_Lj2g3v3373180:0.215666)n4:0.0422396)n2:0.107865)n1:0.310737)n0;

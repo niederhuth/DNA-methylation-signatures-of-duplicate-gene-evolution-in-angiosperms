@@ -1,0 +1,1 @@
+((((Aofficinalis_evm.TU.AsparagusV1_06.1574:0.0751157,Aofficinalis_evm.TU.AsparagusV1_08.1347:0.112021)n3:0.0108864,Aofficinalis_evm.TU.AsparagusV1_04.2939:0.0962096)n2:0.00682544,Aofficinalis_evm.TU.AsparagusV1_03.917:0.0183656)n1:0.213231,(Brapa_Brara.C01794:0.361004,(Athaliana_AT1G67760:0.593052,Roccidentalis_maker-Ro07-snap-gene-97.49:0.509021)n5:0.243066)n4:0.213231)n0;

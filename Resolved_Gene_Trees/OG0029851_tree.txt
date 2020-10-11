@@ -1,0 +1,1 @@
+(Cpapaya_evm.TU.supercontig_17.127:0.405444,(Bvulgaris_gene_BVRB_4g090200:0.872806,(Slycopersicum_Solyc03g005840.2:0.550021,(Smelongena_SMEL_008g308380.1:0.305632,Smelongena_SMEL_003g169820.1:0.0323953)n3:0.357639)n2:0.202696)n1:0.405444)n0;

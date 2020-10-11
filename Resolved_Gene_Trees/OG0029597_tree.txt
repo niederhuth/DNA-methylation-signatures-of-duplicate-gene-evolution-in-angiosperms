@@ -1,0 +1,1 @@
+((Sbicolor_Sobic.007G045000:0.577114,Othomaeum_Oropetium_20150105_23134:0.583642)n1:0.0228304,(Bdistachyon_Bradi3g16655:0.571594,(Osativa_LOC_Os08g05960:0,Osativa_ChrSy.fgenesh.gene.47:0)n3:0.014163)n2:0.0228304)n0;

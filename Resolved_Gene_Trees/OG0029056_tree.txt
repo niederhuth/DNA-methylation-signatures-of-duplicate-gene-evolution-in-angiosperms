@@ -1,0 +1,1 @@
+((Aipaensis_araip.K30076.gnm1.ann1.Araip.M152A:0.569886,Aipaensis_araip.K30076.gnm1.ann1.Araip.Y75JA:2.98313e-06)n1:0.255961,(Zmays_Zm00001d048673:0.857579,(Sitalica_Seita.7G042400:0.0926064,Sviridis_Sevir.7G046100:0.0888346)n3:0.885088)n2:0.255961)n0;

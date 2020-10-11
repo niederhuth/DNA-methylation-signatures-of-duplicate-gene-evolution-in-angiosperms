@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr8G21110_001:0.118335,((Mdomestica_MD11G1072500:0.142509,Roccidentalis_maker-Ro03-snap-gene-45.66:0.198084)n2:0.0394167,(Boleracea_Bo07597s010:0.015855,Boleracea_Bo1g141180:0.589557)n3:0.284648)n1:0.118335)n0;

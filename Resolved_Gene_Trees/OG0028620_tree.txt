@@ -1,0 +1,1 @@
+(Acoerulea_Aqcoe4G304100:0.25888,(((Vcorymbosum_maker-VaccDscaff45-snap-gene-184.23:0.00608712,Vcorymbosum_maker-VaccDscaff17-augustus-gene-207.26:0.0698259)n3:0.0592066,Ppersica_Prupe.2G215400:0.0783844)n2:0.173073,Alyrata_AL7G45410:0.115613)n1:0.25888)n0;

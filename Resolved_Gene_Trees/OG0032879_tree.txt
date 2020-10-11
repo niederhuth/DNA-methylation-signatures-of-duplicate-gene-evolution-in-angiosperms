@@ -1,0 +1,1 @@
+(Cclementina_Ciclev10003725m.g:0.365483,(Mtruncatula_Medtr2g104240:0.445154,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.I0XCB:0.671067,Clanatus_Cla97C05G090770:0.434996)n2:0.057795)n1:0.365483)n0;

@@ -1,0 +1,1 @@
+((Sviridis_Sevir.5G057400:0.0552855,Sitalica_Seita.5G057900:0.0670365)n1:0.26145,(Pvirgatum_Pavir.5KG165700:0.0677909,Pvirgatum_Pavir.5NG171200:0.172124)n2:0.26145)n0;

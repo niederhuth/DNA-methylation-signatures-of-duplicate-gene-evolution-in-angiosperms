@@ -1,0 +1,1 @@
+(Graimondii_Gorai.008G157000:0.569101,(Mguttatus_Migut.K01016:0.185536,(Mguttatus_Migut.L00744:0.0584701,Mguttatus_Migut.L00799:0.0286899)n2:0.429239)n1:0.569101)n0;

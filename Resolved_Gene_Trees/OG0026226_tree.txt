@@ -1,0 +1,1 @@
+(((Ljaponicus_Lj5g3v1774990:0.626466,(Rchinensis_RcHm_v2.0_Chr3g0472801:0.254319,Rchinensis_RcHm_v2.0_Chr1g0332821:0.371358)n3:0.041262)n2:0.0548107,Fxananassa_snap_masked-Fvb6-1-processed-gene-237.20:0.177381)n1:0.0703495,(Boleracea_Bo3g002470:0.29278,Alyrata_AL2G26550:0.566987)n4:0.0703495)n0;

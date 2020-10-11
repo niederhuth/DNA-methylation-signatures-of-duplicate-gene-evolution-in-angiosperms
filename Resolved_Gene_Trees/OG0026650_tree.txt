@@ -1,0 +1,1 @@
+(Pvirgatum_Pavir.3KG446800:0.186513,(((Fvesca_FvH4_2g15910:0.051124,Fxananassa_maker-Fvb2-1-augustus-gene-95.30:0.331728)n3:0.0429368,(Rchinensis_RcHm_v2.0_Chr6g0312341:0.305268,Rchinensis_RcHm_v2.0_Chr5g0032141:0.0759218)n4:0.00843576)n2:0.260162,Boleracea_Bo22102s010:0.201561)n1:0.0423555)n0;

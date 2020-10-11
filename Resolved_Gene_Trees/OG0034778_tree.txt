@@ -1,0 +1,1 @@
+(Cviolacea_Clevi.0006s1160:0.297009,(Mtruncatula_Medtr8g058607:0.0822115,(Mtruncatula_Medtr8g058593:0,Mtruncatula_Medtr7g108868:0)n2:0.196635)n1:0.297009)n0;

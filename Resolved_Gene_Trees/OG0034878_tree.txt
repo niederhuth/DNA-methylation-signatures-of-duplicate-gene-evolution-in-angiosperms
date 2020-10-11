@@ -1,0 +1,1 @@
+(Eguineensis_p5.00_sc00145_p0021:0.581214,(Pvirgatum_Pavir.9NG737100:1.28719,(Osativa_LOC_Os03g06730:0.269016,Othomaeum_Oropetium_20150105_00168:0.209274)n2:0.173935)n1:0.581214)n0;

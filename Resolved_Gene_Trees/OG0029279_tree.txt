@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_Unassigned.243:0.392561,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00175.28:0.0846122,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00002.599:0.440084,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00028.77:0.187279,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00003.440:0.848355)n3:0.111745)n2:0.165447)n1:0.392561)n0;

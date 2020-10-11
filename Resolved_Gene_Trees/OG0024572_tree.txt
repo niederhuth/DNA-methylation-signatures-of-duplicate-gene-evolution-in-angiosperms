@@ -1,0 +1,1 @@
+((Ptrichocarpa_Potri.009G088466:0.612275,Crubella_Carub.0005s1628:0.508659)n1:0.114335,((Ppersica_Prupe.8G144700:0.178783,(Rchinensis_RcHm_v2.0_Chr6g0253791:0.234512,Roccidentalis_maker-Ro02-snap-gene-381.94:0.0789572)n4:0.219001)n3:0.170811,(Mdomestica_MD05G1100000:0.0640434,Mdomestica_MD05G1100300:0.119068)n5:0.0132298)n2:0.105742)n0;

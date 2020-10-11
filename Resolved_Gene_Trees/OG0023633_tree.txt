@@ -1,0 +1,1 @@
+((Eguineensis_p5.00_sc00076_p0044:0.201837,((Cpapaya_evm.TU.supercontig_165.25:0.110344,(Ljaponicus_Lj0g3v0202749:0.241422,Bdistachyon_Bradi4g03911:0.226972)n4:0.250674)n3:0.244194,Ljaponicus_Lj0g3v0031919:0.0368563)n2:0.00409514)n1:0.0282003,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.VA5MB:0.247378,Brapa_Brara.G00068:0.464403)n5:0.232996)n0;

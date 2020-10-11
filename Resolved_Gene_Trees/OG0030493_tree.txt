@@ -1,0 +1,1 @@
+((Ppersica_Prupe.3G188700:0.191096,(Pxbretschneideri_LOC103941628:0.220608,Pxbretschneideri_LOC103933661:0.163282)n2:0.348633)n1:0.139258,(Fxananassa_augustus_masked-Fvb6-1-processed-gene-77.11:1.5503e-06,Fvesca_FvH4_6g40070:0.433046)n3:0.139258)n0;

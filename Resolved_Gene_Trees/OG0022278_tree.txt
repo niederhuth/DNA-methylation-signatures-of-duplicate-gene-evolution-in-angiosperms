@@ -1,0 +1,1 @@
+(((((Bdistachyon_Bradi3g25746:0.193149,(Bdistachyon_Bradi3g05351:0.129367,Bdistachyon_Bradi2g04263:0.242268)n5:0.0268543)n4:0.0449799,Bdistachyon_Bradi2g12555:0.103136)n3:0.31313,Bdistachyon_Bradi5g03802:0.130167)n2:0.404482,Bdistachyon_Bradi3g38845:0.958695)n1:0.231476,(Pvirgatum_Pavir.3NG131801:0.597851,Sbicolor_Sobic.005G024500:0.784829)n6:0.231476)n0;

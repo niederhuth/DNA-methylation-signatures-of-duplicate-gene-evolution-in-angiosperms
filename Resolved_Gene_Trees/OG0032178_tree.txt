@@ -1,0 +1,1 @@
+(Sbicolor_Sobic.008G083700:0.317317,(Sviridis_Sevir.4G265900:0.0896465,((Sitalica_Seita.6G172400:0,Sitalica_Seita.6G172700:0)n3:0.578876,Sitalica_Seita.4G253600:0.070601)n2:0.00784455)n1:0.502879)n0;

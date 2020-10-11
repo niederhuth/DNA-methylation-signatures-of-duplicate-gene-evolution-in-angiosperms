@@ -1,0 +1,1 @@
+(Egrandis_Eucgr.F03315:0.526497,(Mdomestica_MD05G1339100:0.263504,(Fvesca_FvH4_3g09130:0.0287709,(Fxananassa_maker-Fvb3-4-snap-gene-245.47:0.308062,Fxananassa_augustus_masked-Fvb3-1-processed-gene-270.2:0.0864064)n3:0.00960071)n2:0.0698562)n1:0.526497)n0;

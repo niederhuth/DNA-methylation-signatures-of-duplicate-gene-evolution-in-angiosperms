@@ -1,0 +1,1 @@
+((Graimondii_Gorai.010G145200:0.940344,Pvirgatum_Pavir.1KG103177:0.56281)n1:0.0576296,(Graimondii_Gorai.001G209700:0.368867,(Pvirgatum_Pavir.1NG094044:0.1589,Rchinensis_RcHm_v2.0_Chr5g0003621:0.506002)n3:0.0856453)n2:0.0576296)n0;

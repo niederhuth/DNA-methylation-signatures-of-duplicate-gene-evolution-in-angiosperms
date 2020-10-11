@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00058.10:0.14839,((Aipaensis_araip.K30076.gnm1.ann1.Araip.BUS9U:0.018472,Aipaensis_araip.K30076.gnm1.ann1.Araip.J6E22:0.009258)n2:0.299013,Vvinifera_VIT_213s0019g04810:0.333253)n1:0.14839)n0;

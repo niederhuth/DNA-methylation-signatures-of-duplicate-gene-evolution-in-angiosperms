@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_04462:0.39089,(((Smelongena_SMEL_007g272230.1:0.0865374,Stuberosum_PGSC0003DMG400042643:0.245943)n3:0.316571,Mesculenta_Manes.14G147366:0.388189)n2:0.256398,(Fvesca_FvH4_4g09600:0.0031205,(Fxananassa_maker-Fvb4-1-snap-gene-75.30:0.27973,Fxananassa_augustus_masked-Fvb4-3-processed-gene-219.2:0.00280845)n5:0.00031205)n4:0.0495677)n1:0.39089)n0;

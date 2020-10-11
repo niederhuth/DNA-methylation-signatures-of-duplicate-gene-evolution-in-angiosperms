@@ -1,0 +1,1 @@
+(Csativus_CsaV3_3G015420:0.363165,((Aofficinalis_evm.TU.AsparagusV1_08.2080:0.136252,(Aofficinalis_evm.TU.AsparagusV1_05.2410:0.05098,Aofficinalis_evm.TU.AsparagusV1_08.1960:0.126805)n3:0.022588)n2:0.329307,Eguineensis_p5.00_sc00032_p0015:0.497864)n1:0.363165)n0;

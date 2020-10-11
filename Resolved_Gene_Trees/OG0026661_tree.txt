@@ -1,0 +1,1 @@
+(Crubella_Carub.0006s3546:0.337051,(Esalsugineum_Thhalv10029188m.g:0.30359,((Brapa_Brara.I00099:1.53327,Brapa_Brara.C02848:0.52535)n3:0.216944,(Brapa_Brara.I00117:0.502511,Brapa_Brara.I00098:0.25902)n4:0.188493)n2:0.0209436)n1:0.154448)n0;

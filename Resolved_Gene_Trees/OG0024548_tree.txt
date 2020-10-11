@@ -1,0 +1,1 @@
+(Pvirgatum_Pavir.6NG117300:0.274981,(Cpapaya_evm.TU.supercontig_2573.2:0.362092,((Ljaponicus_Lj0g3v0349389:0,Ljaponicus_Lj4g3v2023920:0)n3:0.47362,(Fxananassa_augustus_masked-Fvb4-4-processed-gene-21.7:0.280036,(Vvinifera_VIT_203s0063g01510:0.227852,Vvinifera_VIT_206s0009g01650:0.164502)n5:0.140197)n4:0.354851)n2:0.438721)n1:0.274981)n0;

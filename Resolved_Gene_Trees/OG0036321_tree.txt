@@ -1,0 +1,1 @@
+(Mdomestica_MD10G1189900:0.395505,(Mtruncatula_Medtr8g036190:0.630162,(Mtruncatula_Medtr0054s0050:0.145051,Mtruncatula_Medtr7g060910:0.214401)n2:0.39418)n1:0.395505)n0;

@@ -1,0 +1,1 @@
+((Sitalica_Seita.1G296300:0.339054,Sviridis_Sevir.1G301700:0.332603)n1:0.283531,(Phallii_Pahal.1G371900:0.775651,Pvirgatum_Pavir.1NG459519:0.705504)n2:0.283531)n0;

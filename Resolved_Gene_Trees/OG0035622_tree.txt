@@ -1,0 +1,1 @@
+((Ptrichocarpa_Potri.010G139966:0.452994,Tcacao_Thecc1EG011466:0.738659)n1:0.576469,(Rchinensis_RcHm_v2.0_Chr4g0437771:0.0420103,Fxananassa_augustus_masked-Fvb4-1-processed-gene-165.8:0.417334)n2:0.576469)n0;

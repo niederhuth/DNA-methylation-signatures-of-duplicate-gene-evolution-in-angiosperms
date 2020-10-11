@@ -1,0 +1,1 @@
+((Rchinensis_RcHm_v2.0_Chr7g0237191:0.247509,(Vcorymbosum_maker-VaccDscaff708-snap-gene-0.8:0.804617,Vcorymbosum_snap_masked-VaccDscaff18-processed-gene-307.19:0.434059)n2:0.0482287)n1:0.0229359,Aipaensis_araip.K30076.gnm1.ann1.Araip.U8DJM:0.4601)n0;

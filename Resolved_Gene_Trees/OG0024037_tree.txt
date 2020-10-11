@@ -1,0 +1,1 @@
+((Aofficinalis_evm.TU.AsparagusV1_09.791:0.534691,Aofficinalis_evm.TU.AsparagusV1_09.789:0.246956)n1:0.616594,(Othomaeum_Oropetium_20150105_13689:1.27346,(((Sitalica_Seita.6G008900:0.0104868,Sviridis_Sevir.6G008100:0.0160152)n5:0.276506,Pvirgatum_Pavir.5KG206500:0.313973)n4:0.173372,Zmays_Zm00001d035033:0.476737)n3:0.186502)n2:0.616594)n0;

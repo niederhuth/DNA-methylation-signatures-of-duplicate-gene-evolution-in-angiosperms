@@ -1,0 +1,1 @@
+(Crubella_Carub.0001s3082:0.451217,(((Rchinensis_RcHm_v2.0_Chr4g0411551:0.273606,Rchinensis_RcHm_v2.0_Chr7g0229601:0.215012)n3:0.373433,Fxananassa_augustus_masked-Fvb5-3-processed-gene-155.3:0.106619)n2:0.0541347,(Zjujuba_LOC107428920:0.534461,Zjujuba_LOC107428921:0.547853)n4:0.424074)n1:0.451217)n0;

@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_03.2485:0.30533,((Slycopersicum_Solyc00g014995.1:0,Mtruncatula_Medtr3g011140:0)n2:0.351694,Mdomestica_MD11G1180100:0.754427)n1:0.30533)n0;

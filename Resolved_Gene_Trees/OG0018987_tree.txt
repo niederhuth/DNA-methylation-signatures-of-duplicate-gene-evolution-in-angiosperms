@@ -1,0 +1,1 @@
+(Sviridis_Sevir.8G026800:0,((Sviridis_Sevir.8G031521:0,(Sviridis_Sevir.8G031500:0,Sviridis_Sevir.8G031514:0)n3:0)n2:0,((Sviridis_Sevir.3G338580:0,(Sviridis_Sevir.3G337620:0,(Sviridis_Sevir.3G339541:0,(Sviridis_Sevir.3G339221:0,Sviridis_Sevir.3G337940:0)n8:0)n7:0)n6:0)n5:0,(Sviridis_Sevir.3G338901:0,Sviridis_Sevir.3G338260:0)n9:0)n4:0.169674)n1:0)n0;

@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00074.116:0.208256,(Zjujuba_LOC107425573:0.474479,(Rchinensis_RcHm_v2.0_Chr5g0078781:0.784846,(Rchinensis_RcHm_v2.0_Chr2g0118651:2.50313e-06,Rchinensis_RcHm_v2.0_Chr2g0118361:0.224865)n3:0.378063)n2:0.042007)n1:0.409501)n0;

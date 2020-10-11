@@ -1,0 +1,1 @@
+(Roccidentalis_maker-Ro06-snap-gene-108.62:0.516577,(Vcorymbosum_snap_masked-VaccDscaff27-processed-gene-304.33:1.70983e-06,(Vcorymbosum_maker-VaccDscaff27-augustus-gene-304.47:0.26001,Vcorymbosum_snap_masked-VaccDscaff17-processed-gene-341.35:0.047058)n2:0.734556)n1:0.516577)n0;

@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr9G28080_001:0.39002,(Ljaponicus_Lj0g3v0287739:0.718222,(Vcorymbosum_maker-VaccDscaff29-snap-gene-290.39:0.31105,Vcorymbosum_maker-VaccDscaff37-augustus-gene-78.31:0.367159)n2:0.490601)n1:0.39002)n0;

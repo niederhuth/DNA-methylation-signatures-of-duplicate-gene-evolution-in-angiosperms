@@ -1,0 +1,1 @@
+(Bdistachyon_Bradi1g50670:0.659475,((Sitalica_Seita.1G202100:0,Sitalica_Seita.1G201900:0)n2:0.0163788,(Sviridis_Sevir.1G205060:0.108439,Sviridis_Sevir.1G205240:7.90103e-07)n3:7.90103e-07)n1:0.0114977)n0;

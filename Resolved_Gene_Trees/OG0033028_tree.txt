@@ -1,0 +1,1 @@
+(Vcorymbosum_augustus_masked-VaccDscaff16-processed-gene-303.1:0.499783,(Aipaensis_araip.K30076.gnm1.ann1.Araip.JT3A1:0.640726,(Aipaensis_araip.K30076.gnm1.ann1.Araip.A50YQ:0.16994,Aipaensis_araip.K30076.gnm1.ann1.Araip.39FMG:0.467237)n2:0.338234)n1:0.499783)n0;

@@ -1,0 +1,1 @@
+(Ljaponicus_Lj0g3v0285099:0.395076,((Cpapaya_evm.TU.contig_37263:0.371145,Cpapaya_evm.TU.contig_32118.2:0.731837)n2:0.0676867,(Athaliana_AT3G26855:0.875709,(Boleracea_Bo6g065160:0.901734,Boleracea_Bo3g107950:0.241812)n4:0.026868)n3:0.106585)n1:0.395076)n0;

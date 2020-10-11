@@ -1,0 +1,1 @@
+((Othomaeum_Oropetium_20150105_02520:0.388076,Mdomestica_MD10G1103800:0.505797)n1:0.0328521,(Vcorymbosum_maker-VaccDscaff3-snap-gene-29.41:0.397544,Osativa_LOC_Os08g44080:0.826325)n2:0.0328521)n0;

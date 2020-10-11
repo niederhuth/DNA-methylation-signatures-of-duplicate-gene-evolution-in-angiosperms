@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_Unassigned.1039:0.393473,((Cpapaya_evm.TU.supercontig_99.6:0.734333,Cpapaya_evm.TU.supercontig_117.21:0.598083)n2:0.0179878,(Tcacao_Thecc1EG041190:0.605792,Tcacao_Thecc1EG024569:0.375548)n3:0.32424)n1:0.393473)n0;

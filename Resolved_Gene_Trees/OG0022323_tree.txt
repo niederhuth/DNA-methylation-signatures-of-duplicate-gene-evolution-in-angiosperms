@@ -1,0 +1,1 @@
+(Osativa_LOC_Os03g08130:0.466606,(Bdistachyon_Bradi1g73046:0.887431,((Bdistachyon_Bradi1g73060:0.668383,Bdistachyon_Bradi1g36441:1.08982)n3:0.024004,(Bdistachyon_Bradi1g73873:0.288096,(Bdistachyon_Bradi1g73680:0.229386,(Bdistachyon_Bradi1g73695:0.609941,Bdistachyon_Bradi1g73690:0.13396)n6:0.217402)n5:0.275333)n4:0.311344)n2:0.028181)n1:0.466606)n0;

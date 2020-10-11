@@ -1,0 +1,1 @@
+(Eguineensis_p5.00_sc00033_p0081:0.285456,(((Bvulgaris_gene_BVRB_007890:0.423462,Bvulgaris_gene_BVRB_3g069600:0.236522)n3:0.641053,Mdomestica_MD07G1260200:0.314515)n2:0.236049,Aipaensis_araip.K30076.gnm1.ann1.Araip.V1X37:0.130479)n1:0.285456)n0;

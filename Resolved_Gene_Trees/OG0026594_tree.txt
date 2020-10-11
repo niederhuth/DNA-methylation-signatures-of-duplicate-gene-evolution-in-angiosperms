@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr7G09920_001:0.170958,((Cannuum_CA00g64210:0.0952091,(Slycopersicum_Solyc09g065600.3:0.51173,Boleracea_Bo3g013910:0.865413)n3:0.111664)n2:0.19313,(Vcorymbosum_maker-VaccDscaff26-snap-gene-361.44:0.0313298,Vcorymbosum_snap_masked-VaccDscaff198-processed-gene-0.22:0.152608)n4:0.201631)n1:0.170958)n0;

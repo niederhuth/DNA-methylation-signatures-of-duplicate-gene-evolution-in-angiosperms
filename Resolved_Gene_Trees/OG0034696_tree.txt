@@ -1,0 +1,1 @@
+((Cpapaya_evm.TU.supercontig_8.319:0.326314,Pvirgatum_Pavir.8NG033300:0.20873)n1:0.0282339,(Eguineensis_p5.00_sc00283_p0011:0.174204,Egrandis_Eucgr.H03549:0.12234)n2:0.0282339)n0;

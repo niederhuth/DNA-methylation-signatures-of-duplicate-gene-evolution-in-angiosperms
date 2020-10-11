@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_01.888:0.133842,((Boleracea_Bo5g030870:0.671968,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.EIB6W:0.577103)n2:0.256335,(Ljaponicus_Lj1g3v2629780:0.322256,Ljaponicus_Lj0g3v0125309:0.179814)n3:0.0199793)n1:0.0562721)n0;

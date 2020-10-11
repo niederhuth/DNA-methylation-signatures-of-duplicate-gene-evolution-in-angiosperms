@@ -1,0 +1,1 @@
+(Vvinifera_VIT_204s0008g06370:0.54536,(Mdomestica_MD00G1021600:0.480932,(Cpapaya_evm.TU.supercontig_10.269:0.3337,Cpapaya_evm.TU.contig_42317:0.476415)n2:0.211887)n1:0.54536)n0;

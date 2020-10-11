@@ -1,0 +1,1 @@
+((Esalsugineum_Thhalv10022010m.g:0.22208,Brapa_Brara.A03713:0.274319)n1:0.164941,(Athaliana_AT3G05741:0.27651,Alyrata_AL3G16450:0.192213)n2:0.164941)n0;

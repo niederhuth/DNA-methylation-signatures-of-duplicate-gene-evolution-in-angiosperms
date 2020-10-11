@@ -1,0 +1,1 @@
+(Gmax_Glyma.12G173351:0.193993,(Gmax_Glyma.12G026300:0,(Gmax_Glyma.06G038300:0,Gmax_Glyma.19G225000:0)n2:0)n1:0.193993)n0;

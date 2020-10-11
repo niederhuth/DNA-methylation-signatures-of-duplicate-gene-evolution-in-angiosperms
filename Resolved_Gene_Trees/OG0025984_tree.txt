@@ -1,0 +1,1 @@
+((Othomaeum_Oropetium_20150105_21081:0.947258,Cviolacea_Clevi.0410s0003:0.70774)n1:0.128706,((Fvesca_FvH4_5g38220:0.0177232,Fxananassa_maker-Fvb5-1-augustus-gene-288.51:0.0257378)n3:0.658444,(Pvirgatum_Pavir.8NG123200:0.401774,Aipaensis_araip.K30076.gnm1.ann1.Araip.JG351:1.11452)n4:0.121564)n2:0.128706)n0;

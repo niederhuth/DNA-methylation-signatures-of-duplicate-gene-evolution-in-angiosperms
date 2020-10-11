@@ -1,0 +1,1 @@
+(Mdomestica_MD01G1167500:0.441109,((Alyrata_AL3G32620:1.47464e-06,Alyrata_AL862U10010:0.012692)n2:0.24929,(Cpapaya_evm.TU.supercontig_11.136:0.322351,Cpapaya_evm.TU.supercontig_37.81:0.289129)n3:0.0321254)n1:0.130286)n0;

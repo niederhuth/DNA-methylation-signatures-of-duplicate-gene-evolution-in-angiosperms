@@ -1,0 +1,1 @@
+((Fxananassa_maker-Fvb6-3-snap-gene-76.38:1.02883,Fxananassa_maker-Fvb6-1-snap-gene-48.71:0.843462)n1:0.150781,(Roccidentalis_maker-Ro03-exonerate_est2genome-gene-94.6:0.78487,Roccidentalis_maker-Ro06-exonerate_est2genome-gene-229.7:0.458242)n2:0.150781)n0;

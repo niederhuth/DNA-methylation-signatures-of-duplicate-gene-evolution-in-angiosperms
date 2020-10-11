@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00079.116:0.276783,(Ljaponicus_Lj0g3v0291659:0.310672,(Mtruncatula_Medtr4g070470:1.0021,(Vcorymbosum_maker-VaccDscaff16-snap-gene-50.41:0.374648,Vcorymbosum_maker-VaccDscaff18-augustus-gene-349.42:0.159591)n3:0.779176)n2:0.0809937)n1:0.276783)n0;

@@ -1,0 +1,1 @@
+((Pvirgatum_Pavir.7KG298800:0.559779,(Sitalica_Seita.7G222800:0.0122259,Sviridis_Sevir.7G234500:0.000714125)n2:0.263282)n1:0.198035,(Bdistachyon_Bradi5g20422:0.647357,Bdistachyon_Bradi5g20448:0.740641)n3:0.198035)n0;

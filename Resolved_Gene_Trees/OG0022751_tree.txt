@@ -1,0 +1,1 @@
+(Paxillaris_Peaxi162Scf00420g00248:0.392871,(((Ptrichocarpa_Potri.017G070401:0.237104,Rchinensis_RcHm_v2.0_Chr2g0174301:0.590192)n3:0.147486,Gsoja_GlysoPI483463.16G057800:0.28817)n2:0.134425,(Fxananassa_augustus_masked-Fvb3-4-processed-gene-149.4:-0,(Fvesca_FvH4_6g52390:0.238029,(Fvesca_FvH4_2g19660:0,Fvesca_FvH4_3g25050:0)n6:0)n5:0)n4:0.219931)n1:0.392871)n0;

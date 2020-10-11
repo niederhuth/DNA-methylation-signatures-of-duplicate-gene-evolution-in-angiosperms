@@ -1,0 +1,1 @@
+(Smelongena_SMEL_006g259420.1:0.473435,(Ljaponicus_Lj5g3v2013720:0.5968,(Aipaensis_araip.K30076.gnm1.ann1.Araip.LAD88:0.910406,((Rchinensis_RcHm_v2.0_Chr1g0355511:0.236742,Rchinensis_RcHm_v2.0_Chr1g0355921:0.700368)n4:0.072756,Rchinensis_RcHm_v2.0_Chr5g0043501:0.475376)n3:0.352347)n2:0.0290867)n1:0.473435)n0;

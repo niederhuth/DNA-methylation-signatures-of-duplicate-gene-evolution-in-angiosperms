@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_10.989:0.199411,((((Ljaponicus_Lj4g3v1108210:0,Ljaponicus_Lj0g3v0038539:0)n4:0.400241,Vvinifera_VIT_212s0134g00130:0.136342)n3:0.0759148,Graimondii_Gorai.002G138400:0.252655)n2:0.0659543,Ptrichocarpa_Potri.019G124800:0.294426)n1:0.199411)n0;

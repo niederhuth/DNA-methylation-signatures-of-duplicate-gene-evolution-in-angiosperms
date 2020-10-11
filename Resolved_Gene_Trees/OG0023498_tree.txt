@@ -1,0 +1,1 @@
+(((Pvirgatum_Pavir.7KG000627:0.712336,Eguineensis_p5.00_sc00910_p0002:0.0574979)n2:0.120681,(Paxillaris_Peaxi162Scf00544g00915:0.0653161,Cannuum_CA12g03790:0.0594799)n3:0.0467453)n1:0.17944,((Aduranensis_aradu.V14167.gnm1.ann1.Aradu.AM9JS:0.7327,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.W1U6E:0.154504)n5:0.239323,Zmays_Zm00001d015562:0.424448)n4:0.17944)n0;

@@ -1,0 +1,1 @@
+((Bvulgaris_gene_BVRB_3g069110:0.016246,Bvulgaris_gene_BVRB_016510:0.034018)n1:0.300886,(Vcorymbosum_maker-VaccDscaff36-snap-gene-276.41:0.20046,Vcorymbosum_maker-VaccDscaff35-augustus-gene-31.38:1.13265)n2:0.300886)n0;

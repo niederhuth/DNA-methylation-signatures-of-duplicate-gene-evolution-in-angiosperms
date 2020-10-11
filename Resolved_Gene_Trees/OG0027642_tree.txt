@@ -1,0 +1,1 @@
+(((Mdomestica_MD02G1204800:0.135852,(Vcorymbosum_maker-VaccDscaff18-snap-gene-339.57:0.209042,Nattenuata_NIATv7_g61291:1.50885e-06)n3:0.0662853)n2:0.055665,Mguttatus_Migut.D02555:0.340365)n1:0.016249,(Smelongena_SMEL_001g143980.1:0.556096,Ljaponicus_Lj0g3v0267839:0.128924)n4:0.016249)n0;

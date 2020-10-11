@@ -1,0 +1,1 @@
+(Ptrichocarpa_Potri.001G439401:0,((Ptrichocarpa_Potri.001G439500:0,Ptrichocarpa_Potri.001G439900:0)n2:0.177107,Ptrichocarpa_Potri.001G439800:0)n1:0)n0;

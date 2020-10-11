@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_06.1554:0.308986,((Aipaensis_araip.K30076.gnm1.ann1.Araip.X4GY5:0.261861,((Rchinensis_RcHm_v2.0_Chr4g0427191:0.209707,Rchinensis_RcHm_v2.0_Chr3g0456031:0.194858)n4:0.0820743,Rchinensis_RcHm_v2.0_Chr3g0461641:0.682812)n3:0.075868)n2:0.195801,Zjujuba_LOC107409770:0.313677)n1:0.308986)n0;

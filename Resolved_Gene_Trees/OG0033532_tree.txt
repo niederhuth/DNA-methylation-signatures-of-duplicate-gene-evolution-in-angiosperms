@@ -1,0 +1,1 @@
+(Spolyrhiza_Spipo7G0020900:0.247409,((Eguineensis_p5.00_sc00038_p0027:0.205604,Macuminata_GSMUA_Achr6G29530_001:0.61999)n2:0.0619688,Aofficinalis_evm.TU.AsparagusV1_07.3814:0.299462)n1:0.247409)n0;

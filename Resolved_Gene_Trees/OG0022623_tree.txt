@@ -1,0 +1,1 @@
+((Cpapaya_evm.TU.supercontig_17.29:1.13742,Ptrichocarpa_Potri.018G095000:0.757166)n1:0.118144,((Mguttatus_Migut.A01167:0.42784,Mguttatus_Migut.A01168:0.358136)n3:0.0744962,(Mguttatus_Migut.E00904:0.286929,(Mguttatus_Migut.J00991:0.00362853,(Mguttatus_Migut.J00990:0.0270246,Mguttatus_Migut.J00992:0.0191114)n6:0.163016)n5:0.0581265)n4:0.0333188)n2:0.118144)n0;

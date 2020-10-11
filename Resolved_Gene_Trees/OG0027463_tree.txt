@@ -1,0 +1,1 @@
+(((Ppersica_Prupe.6G216600:0.244413,Fxananassa_snap_masked-Fvb3-2-processed-gene-269.7:0.454478)n2:0.154788,Mdomestica_MD16G1213800:0.263671)n1:0.0973639,(Osativa_LOC_Os01g39280:0.0852796,(Osativa_LOC_Os10g08960:0.119798,Osativa_LOC_Os10g11520:0.209896)n4:0.0517454)n3:0.0973639)n0;

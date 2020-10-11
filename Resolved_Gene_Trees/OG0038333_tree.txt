@@ -1,0 +1,1 @@
+(Vcorymbosum_snap_masked-VaccDscaff47-processed-gene-45.19:0.0178017,((Vcorymbosum_maker-VaccDscaff46-augustus-gene-109.25:0.265236,Vcorymbosum_maker-VaccDscaff47-snap-gene-48.31:0.34172)n2:0.823205,Vcorymbosum_snap_masked-VaccDscaff22-processed-gene-235.17:0.0279436)n1:0.0178017)n0;

@@ -1,0 +1,1 @@
+(Gmax_Glyma.16G090550:0.353482,(Macuminata_GSMUA_Achr4G22910_001:0.451003,(Aofficinalis_evm.TU.AsparagusV1_05.1088:0.57887,((Aofficinalis_evm.TU.AsparagusV1_03.275:0.726916,Aofficinalis_evm.TU.AsparagusV1_04.116:0.0674505)n4:0.0437989,Aofficinalis_evm.TU.AsparagusV1_10.817:0.18939)n3:0.156405)n2:0.109505)n1:0.353482)n0;

@@ -1,0 +1,1 @@
+(Vcorymbosum_maker-VaccDscaff15-snap-gene-236.54:0.324081,(Boleracea_Bo1g039120:0.728375,(Csativus_CsaV3_5G011020:0.718366,(Ppersica_Prupe.3G104400:0.623217,(Roccidentalis_maker-Ro01-snap-gene-182.24:0.062245,Roccidentalis_snap_masked-Ro01-processed-gene-136.6:0.138066)n4:0.742549)n3:0.113595)n2:0.0755552)n1:0.324081)n0;

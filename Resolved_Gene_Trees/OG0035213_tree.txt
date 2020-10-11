@@ -1,0 +1,1 @@
+(Roccidentalis_maker-Ro06-exonerate_protein2genome-gene-385.24:0.31391,(Fvesca_FvH4_3g26210:1.10932,(Fxananassa_augustus_masked-Fvb3-3-processed-gene-45.9:0,Fxananassa_augustus_masked-Fvb2-4-processed-gene-263.12:0)n2:0.154641)n1:0.31391)n0;

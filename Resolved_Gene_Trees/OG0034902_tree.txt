@@ -1,0 +1,1 @@
+(Fxananassa_maker-Fvb4-2-snap-gene-227.29:0.370338,(Eguineensis_p5.00_sc07242_p0001:0.683175,(Osativa_LOC_Os06g30690:1.21638,Osativa_LOC_Os07g04290:0.456885)n2:0.233402)n1:0.370338)n0;

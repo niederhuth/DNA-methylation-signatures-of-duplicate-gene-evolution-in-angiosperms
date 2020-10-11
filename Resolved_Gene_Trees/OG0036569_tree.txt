@@ -1,0 +1,1 @@
+(Smelongena_SMEL_001g146570.1:0.44717,((Mtruncatula_Medtr6g007130:0.0459048,Mtruncatula_Medtr6g007140:0.139893)n2:0.600198,Ptrichocarpa_Potri.006G025500:1.03446)n1:0.44717)n0;

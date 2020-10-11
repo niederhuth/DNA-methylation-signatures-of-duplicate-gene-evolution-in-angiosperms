@@ -1,0 +1,1 @@
+(((Cmelo_MELO3C028897.2:0.212214,Cmelo_MELO3C010396.2:0.587843)n2:0.381631,(Cpapaya_evm.TU.supercontig_202.2:0.441523,Cpapaya_evm.TU.supercontig_76.18:0.61714)n3:0.235937)n1:0.0825384,(Cpapaya_evm.TU.supercontig_76.17:0.531437,Cmelo_MELO3C015759.2:0.593173)n4:0.0825384)n0;

@@ -1,0 +1,1 @@
+(Egrandis_Eucgr.G01122:0.114104,(Esalsugineum_Thhalv10027595m.g:0.333006,(Gmax_Glyma.07G185100:0,Gsoja_GlysoPI483463.07G151900:0)n2:0.2449)n1:0.114104)n0;

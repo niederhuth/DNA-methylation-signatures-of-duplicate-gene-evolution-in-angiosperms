@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_04.591:0.575927,((Brapa_Brara.G01502:0.0035134,Boleracea_Bo6g064850:0.0370916)n2:0.384223,Rchinensis_RcHm_v2.0_Chr7g0191531:0.713359)n1:0.575927)n0;

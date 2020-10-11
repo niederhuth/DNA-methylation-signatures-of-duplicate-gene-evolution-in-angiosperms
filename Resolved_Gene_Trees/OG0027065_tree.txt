@@ -1,0 +1,1 @@
+(Pxbretschneideri_LOC103956073:0.382603,(Roccidentalis_maker-Ro01-snap-gene-4.94:0.220424,(Rchinensis_RcHm_v2.0_Chr2g0085571:0.142887,(Fvesca_FvH4_1g00840:0.0120037,(Fxananassa_maker-Fvb1-3-augustus-gene-5.67:0.0167595,Fxananassa_snap_masked-Fvb1-2-processed-gene-49.45:0.179087)n4:0.0198985)n3:0.00817703)n2:0.055292)n1:0.382603)n0;

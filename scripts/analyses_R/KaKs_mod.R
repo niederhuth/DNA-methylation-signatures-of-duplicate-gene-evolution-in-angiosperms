@@ -18,7 +18,7 @@ KaKs <- Ks <- data.frame()
 #Loop over each species
 for(a in species){
 	#output path
-	path1 <- paste("../../figures_tables/",a,sep="")
+	path1 <- paste("../../../figures_tables/",a,sep="")
 	#Genes classified by mode of duplication
 	path2 <- paste(a,"/dupgen/results-unique/classified_genes.tsv",sep="")
 	#Genes classified by methylation status
@@ -52,17 +52,8 @@ for(a in species){
 		df7 <- data.frame()
 		for(i in df3[df3$Duplication == b,]$Feature){
 			if(nrow(df6[df6$Feature==i,]) != 0){
-				#print(df6[df6$Feature==i,])
-				#Check if minimum Ks is less than 5
-				if(min(na.omit(df6[df6$Feature==i,]$Ks)) < 5){
-					df7 <- rbind(df7,
-						df6[df6$Feature==i & df6$Ks == min(df6[df6$Feature==i,]$Ks),])
-				} else {
-					#Set duplicates with Ks > 5 to NA. At this point the synynomous 
-					#mutations are saturated and the results are largely noise
-					df7 <- rbind(df7,data.frame(Feature=i,Duplicate.2=df6$Duplicate.2,
-						Ka=NA,Ks=NA,Ka.Ks=NA,P.Value=NA))
-				}
+				df7 <- rbind(df7,
+					df6[df6$Feature==i & df6$Ks == min(df6[df6$Feature==i,]$Ks),])
 			} else {
 				df7 <- rbind(df7,data.frame(Feature=i,Duplicate.2=NA,Ka=NA,Ks=NA,
 					Ka.Ks=NA,P.Value=NA))
@@ -82,7 +73,7 @@ for(a in species){
 			theme(axis.text=element_text(color="black"),
 				axis.ticks=element_line(color="black"))+
 			scale_y_continuous(expand=c(0,0)) +
-			scale_x_continuous("Ks") +
+			scale_x_continuous("Ks",expand=c(0,0),limits=c(0,5)) +
 			scale_color_manual(values=c("Total"="black","gbM"="#56B4E9",
 				"TE-like"="#E69F00","Unmethylated"="#CC79A7","Unclassified"="#999999"),
 				breaks=c("Total","gbM","TE-like","Unmethylated","Unclassified"))
@@ -96,7 +87,7 @@ for(a in species){
 			theme(axis.text=element_text(color="black"),
 				axis.ticks=element_line(color="black"))+
 			scale_y_continuous(expand=c(0,0)) +
-			scale_x_continuous("Ka/Ks") +
+			scale_x_continuous("Ka/Ks",expand=c(0,0),limits=c(0,2)) +
 			scale_color_manual(values=c("Total"="black","gbM"="#56B4E9",
 				"TE-like"="#E69F00","Unmethylated"="#CC79A7","Unclassified"="#999999"),
 				breaks=c("Total","gbM","TE-like","Unmethylated","Unclassified"))
@@ -123,7 +114,7 @@ for(a in species){
 		theme(axis.text=element_text(color="black"),
 			axis.ticks=element_line(color="black"))+
 		scale_y_continuous(expand=c(0,0)) +
-		scale_x_continuous("Ks") +
+		scale_x_continuous("Ks",expand=c(0,0),limits=c(0,5)) +
 		scale_color_manual(values=c("Total"="black","gbM"="#56B4E9",
 			"TE-like"="#E69F00","Unmethylated"="#CC79A7","Unclassified"="#999999"),
 			breaks=c("Total","gbM","TE-like","Unmethylated","Unclassified"))
@@ -137,7 +128,7 @@ for(a in species){
 		theme(axis.text=element_text(color="black"),
 			axis.ticks=element_line(color="black"))+
 		scale_y_continuous(expand=c(0,0)) +
-		scale_x_continuous("Ka/Ks") +
+		scale_x_continuous("Ka/Ks",expand=c(0,0),limits=c(0,2)) +
 		scale_color_manual(values=c("Total"="black","gbM"="#56B4E9",
 			"TE-like"="#E69F00","Unmethylated"="#CC79A7","Unclassified"="#999999"),
 			breaks=c("Total","gbM","TE-like","Unmethylated","Unclassified"))

@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_20135:0.414598,((Fvesca_FvH4_4g17270:0.579965,Fxananassa_snap_masked-Fvb5-2-processed-gene-131.15:0.215135)n2:0.645568,Egrandis_Eucgr.D02198:1.09326)n1:0.414598)n0;

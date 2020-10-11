@@ -1,0 +1,1 @@
+(Vcorymbosum_maker-VaccDscaff14-augustus-gene-331.34:0.403682,(Athaliana_AT1G17744:0.553821,(Pxbretschneideri_LOC103956665:0.845494,(Egrandis_Eucgr.G01364:0.572166,Egrandis_Eucgr.H03233:0.642976)n3:0.291572)n2:0.18889)n1:0.403682)n0;

@@ -1,0 +1,1 @@
+(Vcorymbosum_maker-VaccDscaff13-augustus-gene-247.26:0.373264,(Cclementina_Ciclev10003848m.g:0.534892,((Vvinifera_VIT_218s0089g01290:0.620718,Egrandis_Eucgr.G00059:0.110836)n3:0.0716386,(Gsoja_GlysoPI483463.12G000200:0,Gmax_Glyma.12G000300:0)n4:0.429967)n2:0.116138)n1:0.373264)n0;

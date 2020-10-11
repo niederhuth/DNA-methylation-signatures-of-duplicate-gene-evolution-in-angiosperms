@@ -1,0 +1,1 @@
+((Slycopersicum_Solyc05g052355.1:0.0645455,Slycopersicum_Solyc05g052365.1:0.648331)n1:0.442029,(Vcorymbosum_maker-VaccDscaff21-snap-gene-117.41:0.0768313,Vcorymbosum_maker-VaccDscaff33-snap-gene-219.30:0.0867737)n2:0.442029)n0;

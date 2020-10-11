@@ -1,0 +1,1 @@
+(Acoerulea_Aqcoe1G281800:0.331343,(Aofficinalis_evm.TU.AsparagusV1_07.1205:0.818634,(Sviridis_Sevir.1G103400:0.668755,Sitalica_Seita.1G104000:0.139625)n2:0.533625)n1:0.331343)n0;

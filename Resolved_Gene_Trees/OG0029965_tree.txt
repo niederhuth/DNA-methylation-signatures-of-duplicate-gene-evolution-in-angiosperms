@@ -1,0 +1,1 @@
+(Cannuum_CA00g00070:0.224422,((Clanatus_Cla97C08G160810:0.83379,(Cpapaya_evm.TU.supercontig_7.243:0.394903,Cpapaya_evm.TU.supercontig_7.161:0.65611)n3:0.0729011)n2:0.166258,Ljaponicus_Lj2g3v0911640:0.292152)n1:0.224422)n0;

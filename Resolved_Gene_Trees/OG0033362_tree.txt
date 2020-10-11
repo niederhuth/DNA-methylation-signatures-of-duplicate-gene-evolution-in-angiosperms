@@ -1,0 +1,1 @@
+(Alyrata_AL3G12510:0.293782,(Crubella_Carub.0003s0337:0.670694,(Crubella_Carub.0001s2005:0.107945,Crubella_Carub.0003s0308:0.47655)n2:0.093512)n1:0.293782)n0;

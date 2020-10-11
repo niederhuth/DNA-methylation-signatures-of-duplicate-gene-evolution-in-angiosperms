@@ -1,0 +1,1 @@
+(Boleracea_Bo8g059860:0.312536,(Ppersica_Prupe.7G197300:0.278504,(Fxananassa_snap_masked-Fvb6-3-processed-gene-253.26:0.300554,Fxananassa_snap_masked-Fvb6-4-processed-gene-148.13:0.092087)n2:0.3248)n1:0.312536)n0;

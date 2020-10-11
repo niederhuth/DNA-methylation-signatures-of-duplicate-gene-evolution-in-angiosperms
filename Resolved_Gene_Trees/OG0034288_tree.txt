@@ -1,0 +1,1 @@
+(Cannuum_CA02g22990:0.150265,((Rchinensis_RcHm_v2.0_Chr2g0102341:0.247783,Fxananassa_snap_masked-Fvb1-3-processed-gene-79.40:0.279176)n2:0.142651,Ptrichocarpa_Potri.007G030200:0.466762)n1:0.150265)n0;

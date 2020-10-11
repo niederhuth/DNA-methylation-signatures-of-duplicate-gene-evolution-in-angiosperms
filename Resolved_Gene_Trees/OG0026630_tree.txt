@@ -1,0 +1,1 @@
+(Vcorymbosum_augustus_masked-VaccDscaff26-processed-gene-319.5:0.174691,(((Rchinensis_RcHm_v2.0_Chr6g0251071:0.0190643,Rchinensis_RcHm_v2.0_MTg0498911:3.06819e-06)n3:0.238747,Fvesca_FvH4_c1g00620:0.0319991)n2:0.259426,(Fxananassa_augustus_masked-Fvb2-3-processed-gene-202.5:0.525945,Boleracea_Bo5g005500:1.4994)n4:0.14654)n1:0.174691)n0;

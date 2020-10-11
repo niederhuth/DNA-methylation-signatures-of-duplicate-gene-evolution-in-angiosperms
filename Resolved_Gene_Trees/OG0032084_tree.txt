@@ -1,0 +1,1 @@
+(Spolyrhiza_Spipo7G0009900:0.321121,(Rchinensis_RcHm_v2.0_Chr5g0025611:0.500576,(Rchinensis_RcHm_v2.0_Chr5g0025551:0.007372,(Rchinensis_RcHm_v2.0_Chr5g0024841:0.0518467,Rchinensis_RcHm_v2.0_Chr5g0025391:0.323967)n3:0.199204)n2:0.094886)n1:0.321121)n0;

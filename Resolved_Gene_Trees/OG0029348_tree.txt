@@ -1,0 +1,1 @@
+(Egrandis_Eucgr.J01666:0.211563,(Aofficinalis_evm.TU.AsparagusV1_09.138:0.745907,(Zmays_Zm00001d023634:0.416359,(Eguineensis_p5.00_sc00190_p0005:0.469413,Eguineensis_p5.00_sc06009_p0001:0.182473)n3:0.0202747)n2:0.53203)n1:0.211563)n0;

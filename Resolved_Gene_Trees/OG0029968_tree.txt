@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_01202:0.336494,(Rchinensis_RcHm_v2.0_Chr6g0262861:0.341754,((Vcorymbosum_maker-VaccDscaff36-augustus-gene-84.29:0.24894,Cannuum_CA06g18780:0.442475)n3:0.0868029,Slycopersicum_Solyc06g069727.1:0.159651)n2:0.216678)n1:0.336494)n0;

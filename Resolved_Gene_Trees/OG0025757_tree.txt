@@ -1,0 +1,1 @@
+(Mdomestica_MD05G1165900:0.0768931,((Aduranensis_aradu.V14167.gnm1.ann1.Aradu.CB17K:0.580227,Aipaensis_araip.K30076.gnm1.ann1.Araip.K2RZJ:0.215418)n2:0.377247,((Aduranensis_aradu.V14167.gnm1.ann1.Aradu.L73E9:0.177245,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.JB4XJ:0.787306)n4:0.307683,Aipaensis_araip.K30076.gnm1.ann1.Araip.34ZNV:0.592341)n3:0.183722)n1:0.0768931)n0;

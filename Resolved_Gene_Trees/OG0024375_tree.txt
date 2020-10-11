@@ -1,0 +1,1 @@
+(Cannuum_CA03g07040:0.293497,(Vvinifera_VIT_205s0029g00180:0.894279,(Roccidentalis_maker-Ro02-exonerate_est2genome-gene-127.5:0.397506,(Rchinensis_RcHm_v2.0_Chr2g0148531:0.516291,((Rchinensis_RcHm_v2.0_Chr5g0033441:0.377466,Rchinensis_RcHm_v2.0_Chr6g0288501:0.399213)n5:0.165347,Rchinensis_RcHm_v2.0_Chr1g0361961:0.137749)n4:0.0137749)n3:0.00153055)n2:0.439894)n1:0.293497)n0;

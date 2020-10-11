@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00112.39:0.484098,(Ljaponicus_Lj0g3v0057149:0.08421,((Aipaensis_araip.K30076.gnm1.ann1.Araip.NG302:0.410106,Aipaensis_araip.K30076.gnm1.ann1.Araip.5N69S:0.26648)n3:0.0690017,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.X87PM:0.186639)n2:0.584148)n1:0.484098)n0;

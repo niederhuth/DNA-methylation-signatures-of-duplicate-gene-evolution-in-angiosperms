@@ -1,0 +1,1 @@
+(Cannuum_CA05g14790:0.191459,(Slycopersicum_Solyc11g030760.1:0.540094,(Slycopersicum_Solyc05g016290.1:0.496485,Slycopersicum_Solyc05g040010.2:1.09977)n2:0.133927)n1:0.191459)n0;

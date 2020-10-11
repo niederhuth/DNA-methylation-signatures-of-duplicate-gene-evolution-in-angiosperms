@@ -1,0 +1,1 @@
+(Gmax_Glyma.14G143800:0.442424,((Slycopersicum_Solyc05g025910.3:3.27278e-06,Slycopersicum_Solyc05g025905.1:0.307567)n2:0.451291,((Slycopersicum_Solyc10g045450.1:0.324635,(Slycopersicum_Solyc01g016660.1:0.188476,Slycopersicum_Solyc01g056650.1:0.282068)n5:0.04137)n4:0.0694497,Slycopersicum_Solyc11g039760.1:0.455808)n3:0.296405)n1:0.442424)n0;

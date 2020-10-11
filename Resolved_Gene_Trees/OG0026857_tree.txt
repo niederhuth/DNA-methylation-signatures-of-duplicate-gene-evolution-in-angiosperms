@@ -1,0 +1,1 @@
+(Osativa_LOC_Os10g02870:0.318923,((Cclementina_Ciclev10013596m.g:0.943244,Ppersica_Prupe.1G072900:0.97442)n2:0.227053,((Fxananassa_maker-Fvb7-3-snap-gene-192.30:0.112639,Fxananassa_maker-Fvb7-3-snap-gene-192.35:0.449594)n4:0.732779,Slycopersicum_Solyc11g006330.1:0.342645)n3:0.104917)n1:0.318923)n0;

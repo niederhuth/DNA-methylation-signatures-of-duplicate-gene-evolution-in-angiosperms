@@ -1,0 +1,1 @@
+(((Clanatus_Cla97C07G134500:0.593298,Zmays_Zm00001d053961:0.810681)n2:0.352569,Eguineensis_p5.00_sc00164_p0028:0.14109)n1:0.0668805,(Aofficinalis_evm.TU.AsparagusV1_04.1200:0.2009,(Vcorymbosum_maker-VaccDscaff43-snap-gene-181.22:0.264581,Esalsugineum_Thhalv10026316m.g:0.326917)n4:0.0535917)n3:0.0668805)n0;

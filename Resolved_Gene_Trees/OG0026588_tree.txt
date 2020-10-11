@@ -1,0 +1,1 @@
+(Boleracea_Bo01102s020:0,(Boleracea_Bo6g094480:0.876063,((Boleracea_Bo6g106300:0,Boleracea_Bo07006s010:0)n3:0,(Boleracea_Bo01102s030:0,Boleracea_Bo6g106310:0)n4:0)n2:0)n1:0)n0;

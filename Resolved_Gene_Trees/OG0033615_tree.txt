@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_Unassigned.693:0.225167,(Mdomestica_MD06G1111000:0.65188,(Vcorymbosum_maker-VaccDscaff34-snap-gene-30.48:0.00595525,Vcorymbosum_maker-VaccDscaff27-snap-gene-315.53:0.00634675)n2:0.602378)n1:0.225167)n0;

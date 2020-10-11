@@ -1,0 +1,1 @@
+(Mtruncatula_Medtr3g108743:0.911554,((Paxillaris_Peaxi162Scf00301g00516:0,Paxillaris_Peaxi162Scf00301g00517:0)n2:0.023049,Paxillaris_Peaxi162Scf00301g00518:0.049184)n1:0.911554)n0;

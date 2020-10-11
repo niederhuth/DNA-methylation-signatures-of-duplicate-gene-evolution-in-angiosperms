@@ -1,0 +1,1 @@
+(Sbicolor_Sobic.001G476900:0.347235,(Pvirgatum_Pavir.8KG048300:0.571087,(Sitalica_Seita.8G035500:0.0596682,Sitalica_Seita.8G035300:1.89802e-06)n2:0.573932)n1:0.347235)n0;

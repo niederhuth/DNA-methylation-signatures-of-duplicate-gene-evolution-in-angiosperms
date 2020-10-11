@@ -1,0 +1,1 @@
+(Pvirgatum_Pavir.4KG019916:0.434415,(((Rchinensis_RcHm_v2.0_Chr1g0345041:2.32049e-06,Rchinensis_RcHm_v2.0_Chr6g0283051:0.32765)n3:0.157258,Rchinensis_RcHm_v2.0_Chr7g0197871:0.452556)n2:0.184703,Rchinensis_RcHm_v2.0_Chr3g0460671:0.360277)n1:0.434415)n0;

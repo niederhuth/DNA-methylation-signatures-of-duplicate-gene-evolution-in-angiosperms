@@ -1,0 +1,1 @@
+(Vvinifera_VIT_218s0001g11645:0.67917,((Ptrichocarpa_Potri.T174700:0.174537,Ptrichocarpa_Potri.002G130800:0.128725)n2:0.335904,(Ptrichocarpa_Potri.001G030401:0.100825,Ptrichocarpa_Potri.001G030500:0.471184)n3:0.754249)n1:0.67917)n0;

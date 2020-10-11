@@ -1,0 +1,1 @@
+(Tcacao_Thecc1EG042035:0.222832,(Othomaeum_Oropetium_20150105_15127:0.570527,(Othomaeum_Oropetium_20150105_11026:0.351969,Othomaeum_Oropetium_20150105_15129:0.506719)n2:0.147414)n1:0.222832)n0;

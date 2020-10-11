@@ -1,0 +1,1 @@
+(Cannuum_CA04g12460:0.17674,((Aipaensis_araip.K30076.gnm1.ann1.Araip.H5VFC:0.442089,Ptrichocarpa_Potri.002G106632:0.347213)n2:0.0896805,(Mesculenta_Manes.18G058033:0.221768,((Cviolacea_Clevi.0012s0793:0.194045,Cviolacea_Clevi.0080s0007:0.160027)n5:0.0502959,(Cviolacea_Clevi.0024s0036:0.172826,Cviolacea_Clevi.0064s0015:0.425991)n6:0.0623979)n4:0.0796749)n3:0.0698694)n1:0.17674)n0;

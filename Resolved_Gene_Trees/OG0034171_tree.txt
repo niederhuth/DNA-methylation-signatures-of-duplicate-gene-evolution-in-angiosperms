@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_02607:0.195167,((Brapa_Brara.H00657:0.042155,Brapa_Brara.D00809:0.027474)n2:0.233847,Mguttatus_Migut.F01581:0.278255)n1:0.195167)n0;

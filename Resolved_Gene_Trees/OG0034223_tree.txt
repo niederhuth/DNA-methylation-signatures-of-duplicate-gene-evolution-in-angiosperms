@@ -1,0 +1,1 @@
+(Sbicolor_Sobic.006G041266:0.344046,((Nattenuata_NIATv7_g23419:0.133252,Vcorymbosum_maker-VaccDscaff8-augustus-gene-2.21:0.638786)n2:0.123076,Bvulgaris_gene_BVRB_3g049570:0.216227)n1:0.344046)n0;

@@ -1,0 +1,1 @@
+(Aipaensis_araip.K30076.gnm1.ann1.Araip.TF8GL:0.15893,(Ljaponicus_Lj6g3v0859150:0.146184,(Gsoja_GlysoPI483463.12G202000:0,Gmax_Glyma.12G241000:0)n2:0.525949)n1:0.15893)n0;

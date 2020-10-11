@@ -1,0 +1,1 @@
+(Pvirgatum_Pavir.2KG169832:0.0417889,((Pvirgatum_Pavir.7KG077945:0.557812,Pvirgatum_Pavir.3KG428000:0.388063)n2:1.33416,Pvirgatum_Pavir.5NG345500:0.0587042)n1:0.0417889)n0;

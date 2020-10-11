@@ -1,0 +1,1 @@
+(Ljaponicus_Lj0g3v0349509:0.190267,(Roccidentalis_maker-Ro05-exonerate_protein2genome-gene-367.14:0.366465,((Rchinensis_RcHm_v2.0_Chr7g0234461:0.33529,Rchinensis_RcHm_v2.0_Chr7g0234621:0.110973)n3:0.101621,Rchinensis_RcHm_v2.0_Chr7g0233931:0.154307)n2:0.0171453)n1:0.017859)n0;

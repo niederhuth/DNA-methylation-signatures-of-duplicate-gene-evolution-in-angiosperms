@@ -1,0 +1,1 @@
+(Spolyrhiza_Spipo13G0041000:0.269944,((Vcorymbosum_maker-VaccDscaff26-augustus-gene-246.24:0.506649,Vcorymbosum_maker-VaccDscaff29-snap-gene-240.29:0.124798)n2:0.539614,(Ljaponicus_Lj4g3v2172570:0.282848,Gmax_Glyma.13G105501:0.539419)n3:0.147579)n1:0.269944)n0;

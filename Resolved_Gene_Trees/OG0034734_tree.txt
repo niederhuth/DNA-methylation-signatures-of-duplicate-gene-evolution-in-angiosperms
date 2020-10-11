@@ -1,0 +1,1 @@
+(Csativus_CsaV3_1G004980:0.571464,((Fvesca_FvH4_6g08920:0.0306615,Fxananassa_maker-Fvb6-1-augustus-gene-311.61:0.0105275)n2:0.352278,Rchinensis_RcHm_v2.0_Chr3g0459211:0.247521)n1:0.571464)n0;

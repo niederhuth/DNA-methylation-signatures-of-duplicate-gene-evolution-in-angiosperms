@@ -1,0 +1,1 @@
+(Eguineensis_p5.00_sc06668_p0001:0.0574251,(Aipaensis_araip.K30076.gnm1.ann1.Araip.1B6MY:0.636816,(Egrandis_Eucgr.D02438:0.121971,((Cviolacea_Clevi.0019s0147:0.0228363,(Cviolacea_Clevi.0149s0007:0,Cviolacea_Clevi.0024s0146:0)n5:0.0178797)n4:0.238204,Cviolacea_Clevi.0178s0003:0.326634)n3:0.0362926)n2:0.134858)n1:0.0574251)n0;

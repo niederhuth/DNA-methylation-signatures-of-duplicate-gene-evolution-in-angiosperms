@@ -1,0 +1,1 @@
+(Acoerulea_Aqcoe2G031500:0.175988,(Eguineensis_p5.00_sc00008_p0207:0.377246,(Spolyrhiza_Spipo3G0052700:0.525666,Aofficinalis_evm.TU.AsparagusV1_05.2600:0.287341)n2:0.011086)n1:0.175988)n0;

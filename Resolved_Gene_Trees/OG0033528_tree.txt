@@ -1,0 +1,1 @@
+(Nnucifera_XP_010266986.1:0.158306,((Macuminata_GSMUA_Achr2G03570_001:0.315002,Aofficinalis_evm.TU.AsparagusV1_07.2440:0.442707)n2:0.045443,Spolyrhiza_Spipo16G0017200:0.533017)n1:0.158306)n0;

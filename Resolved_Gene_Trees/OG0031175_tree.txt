@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr5G29060_001:0.219515,(Smelongena_SMEL_011g372940.1:0.845264,((Slycopersicum_Solyc01g015060.1:0.531609,Slycopersicum_Solyc01g015050.1:0.372982)n3:0.242386,Slycopersicum_Solyc01g060215.1:0.805841)n2:0.107339)n1:0.219515)n0;

@@ -1,0 +1,1 @@
+(Acoerulea_Aqcoe7G317800:0.328285,(Mdomestica_MD06G1186900:0.519197,(Vcorymbosum_augustus_masked-VaccDscaff25-processed-gene-198.4:0.564284,(Rchinensis_RcHm_v2.0_Chr2g0124791:0.130486,Rchinensis_RcHm_v2.0_Chr2g0133041:0.0865066)n3:0.561194)n2:0.0639051)n1:0.328285)n0;

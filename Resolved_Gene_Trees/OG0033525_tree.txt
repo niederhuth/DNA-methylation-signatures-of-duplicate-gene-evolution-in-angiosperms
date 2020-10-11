@@ -1,0 +1,1 @@
+(Cpapaya_evm.TU.supercontig_8.148:0.164284,(Aofficinalis_evm.TU.AsparagusV1_07.145:0.711626,(Zmays_Zm00001d028233:0.260084,Zmays_Zm00001d014588:0.188976)n2:0.676877)n1:0.164284)n0;

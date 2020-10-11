@@ -1,0 +1,1 @@
+(Cannuum_CA03g10550:0.174193,(Gmax_Glyma.07G087600:0.25478,(Cpapaya_evm.TU.supercontig_824.4:0.636953,(((Mdomestica_MD16G1057300:0.202725,Mdomestica_MD06G1111500:0.143387)n5:0.0430397,Mdomestica_MD02G1206400:0.0771483)n4:0.106068,Fxananassa_snap_masked-Fvb1-2-processed-gene-19.29:0.414796)n3:0.312657)n2:0.143401)n1:0.174193)n0;

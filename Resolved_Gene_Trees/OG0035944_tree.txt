@@ -1,0 +1,1 @@
+((Mtruncatula_Medtr7g076500:1.28237,Ljaponicus_Lj1g3v2626320:0.257456)n1:0.191276,(Pvulgaris_Phvul.008G069200:0.2237,Gmax_Glyma.18G228800:0.145261)n2:0.191276)n0;

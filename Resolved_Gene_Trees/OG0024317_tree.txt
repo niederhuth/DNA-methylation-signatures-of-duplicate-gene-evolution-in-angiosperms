@@ -1,0 +1,1 @@
+((Bvulgaris_gene_BVRB_018030:0.0205932,(Bvulgaris_gene_BVRB_018610:0.0271952,(Bvulgaris_gene_BVRB_014410:4.20931e-06,Bvulgaris_gene_BVRB_017660:0.55785)n3:0.599241)n2:0.0827772)n1:0.475758,(Fxananassa_maker-Fvb4-3-snap-gene-150.41:0.897332,(Mtruncatula_Medtr3g463170:0.257344,Mtruncatula_Medtr5g074870:0.205267)n5:0.834721)n4:0.475758)n0;

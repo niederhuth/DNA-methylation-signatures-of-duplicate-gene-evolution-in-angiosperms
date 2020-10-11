@@ -1,0 +1,1 @@
+(Ljaponicus_Lj0g3v0350559:0.593804,(Mdomestica_MD14G1118800:0.246257,(Rchinensis_RcHm_v2.0_Chr7g0195741:0.306864,Fxananassa_maker-Fvb5-4-augustus-gene-19.40:0.651755)n2:0.0671435)n1:0.593804)n0;

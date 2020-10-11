@@ -1,0 +1,1 @@
+(Bvulgaris_gene_BVRB_7g159970:0.322008,((Aofficinalis_evm.TU.AsparagusV1_07.2434:0.896568,Aofficinalis_evm.TU.AsparagusV1_04.1969:0.276719)n2:0.224987,Aofficinalis_evm.TU.AsparagusV1_Unassigned.545:0.683179)n1:0.322008)n0;

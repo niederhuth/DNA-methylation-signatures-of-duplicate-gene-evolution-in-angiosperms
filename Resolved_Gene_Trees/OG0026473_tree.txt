@@ -1,0 +1,1 @@
+(Pvirgatum_Pavir.6NG289972:0.650892,((Bdistachyon_Bradi4g20761:0.274466,Bdistachyon_Bradi4g39934:0.714299)n2:0.525256,(Bdistachyon_Bradi4g11614:0.395367,(Bdistachyon_Bradi1g28896:0.853435,Bdistachyon_Bradi4g12817:0.847751)n4:0.464501)n3:0.077401)n1:0.650892)n0;

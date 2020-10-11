@@ -1,0 +1,1 @@
+(Acoerulea_Aqcoe1G205700:0.25738,(Cpapaya_evm.TU.supercontig_557.4:0.568351,(Graimondii_Gorai.007G241700:0.398517,((Mesculenta_Manes.16G048400:0.317527,Mesculenta_Manes.12G138000:0.257077)n4:0.173191,(Ptrichocarpa_Potri.005G078900:0.257834,(Ptrichocarpa_Potri.T080100:5e-07,Ptrichocarpa_Potri.007G088800:5e-07)n6:0.157159)n5:0.141266)n3:0.133556)n2:0.0464666)n1:0.25738)n0;

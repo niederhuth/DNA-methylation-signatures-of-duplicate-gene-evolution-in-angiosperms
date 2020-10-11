@@ -1,0 +1,1 @@
+(Osativa_LOC_Os03g21170:0.310115,(Mtruncatula_Medtr0268s0050:1.08305,(Mtruncatula_Medtr6g092930:0.530817,Mtruncatula_Medtr8g068720:0.492831)n2:0.265332)n1:0.310115)n0;

@@ -1,0 +1,1 @@
+(Fxananassa_maker-Fvb3-2-snap-gene-313.92:0.248518,(Aofficinalis_evm.TU.AsparagusV1_10.461:0.149511,(Macuminata_GSMUA_AchrUn_randomG00580_001:0.192203,Eguineensis_p5.00_sc00052_p0017:0.952414)n2:0.513803)n1:0.248518)n0;

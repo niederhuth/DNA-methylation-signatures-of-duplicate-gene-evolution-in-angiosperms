@@ -1,0 +1,1 @@
+((Aofficinalis_evm.TU.AsparagusV1_09.668:0.027281,Aofficinalis_evm.TU.AsparagusV1_07.2351:0.108166)n1:0.0864448,(Fxananassa_snap_masked-Fvb1-3-processed-gene-61.30:0.832916,Ptrichocarpa_Potri.007G061600:0.721738)n2:0.0864448)n0;

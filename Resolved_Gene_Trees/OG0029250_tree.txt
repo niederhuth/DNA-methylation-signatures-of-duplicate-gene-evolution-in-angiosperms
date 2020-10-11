@@ -1,0 +1,1 @@
+((Mdomestica_MD11G1001400:0.178894,(Aofficinalis_evm.TU.AsparagusV1_10.1070:0.570333,Alyrata_AL8G21750:0.928041)n2:0.0807449)n1:0.0664692,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00001.126:0.197774,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00024.53:0.0988141)n3:0.0664692)n0;

@@ -1,0 +1,1 @@
+(Nattenuata_NIATv7_g20311:0.286512,(((Mtruncatula_Medtr3g070440:0.69913,Ljaponicus_Lj0g3v0187509:0.237424)n3:0.135092,(Rchinensis_RcHm_v2.0_Chr2g0168451:0.881515,Rchinensis_RcHm_v2.0_Chr2g0168421:0.369282)n4:0.0410314)n2:0.02212,Ptrichocarpa_Potri.017G107900:1.08088)n1:0.401591)n0;

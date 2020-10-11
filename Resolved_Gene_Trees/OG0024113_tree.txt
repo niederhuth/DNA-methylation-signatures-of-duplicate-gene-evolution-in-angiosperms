@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00017.68:0.223498,((((Boleracea_Bo8g059740:0.509713,(Ptrichocarpa_Potri.003G017300:0.0160754,Ptrichocarpa_Potri.003G015600:0.00332659)n5:0.303005)n4:0.0341712,Graimondii_Gorai.007G172500:0.184597)n3:0.0909217,Mtruncatula_Medtr8g088745:0.775809)n2:0.0451902,Spolyrhiza_Spipo4G0115400:0.519244)n1:0.223498)n0;

@@ -1,0 +1,1 @@
+((Osativa_LOC_Os11g28065:0.769015,Eguineensis_p5.00_sc00051_p0060:0.792149)n1:0.129159,((Rchinensis_RcHm_v2.0_Chr7g0212411:0.16336,Roccidentalis_maker-Ro05-snap-gene-56.73:0.317903)n3:0.481714,Cpapaya_evm.TU.supercontig_234.4:0.803713)n2:0.129159)n0;

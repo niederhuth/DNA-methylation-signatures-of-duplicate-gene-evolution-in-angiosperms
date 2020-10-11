@@ -1,0 +1,1 @@
+((Bdistachyon_Bradi5g02210:0.436613,Osativa_LOC_Os08g30520:0.770517)n1:0.034746,(Sbicolor_Sobic.002G018400:0.421765,Sitalica_Seita.8G201300:0.396185)n2:0.034746)n0;

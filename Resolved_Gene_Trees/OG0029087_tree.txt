@@ -1,0 +1,1 @@
+(Nattenuata_NIATv7_g13432:0.0193636,(((Fxananassa_snap_masked-Fvb6-2-processed-gene-190.23:0.295363,Fxananassa_snap_masked-Fvb6-4-processed-gene-66.19:0.266455)n3:0.0823823,Aipaensis_araip.K30076.gnm1.ann1.Araip.JF4BS:0.140106)n2:0.118223,Boleracea_Bo2g116370:0.15182)n1:0.0193636)n0;

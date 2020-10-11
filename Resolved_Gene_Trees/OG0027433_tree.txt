@@ -1,0 +1,1 @@
+(Mdomestica_MD04G1157200:0.585049,(Fxananassa_augustus_masked-Fvb1-4-processed-gene-112.0:0.38273,(Fxananassa_maker-Fvb1-2-snap-gene-147.46:0.0848147,(Fxananassa_maker-Fvb1-4-snap-gene-112.44:0.467701,(Fxananassa_augustus_masked-Fvb1-4-processed-gene-112.1:0.01487,Fxananassa_augustus_masked-Fvb5-1-processed-gene-287.3:0.473379)n4:0.116083)n3:0.285638)n2:0.320661)n1:0.585049)n0;

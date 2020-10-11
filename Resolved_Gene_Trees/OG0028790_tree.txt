@@ -1,0 +1,1 @@
+(Vcorymbosum_snap_masked-VaccDscaff9-processed-gene-357.30:0.378887,(((Fxananassa_snap_masked-Fvb5-2-processed-gene-39.16:0.0416951,Fxananassa_snap_masked-Fvb5-4-processed-gene-37.38:0.0177779)n3:0.0452245,Fxananassa_snap_masked-Fvb5-3-processed-gene-238.47:0.0414588)n2:0.348902,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.PQ9B4:0.615271)n1:0.378887)n0;

@@ -1,0 +1,1 @@
+(Spolyrhiza_Spipo21G0003300:0.337764,(Fxananassa_maker-Fvb3-3-augustus-gene-254.30:0.477607,(Rchinensis_RcHm_v2.0_Chr5g0072341:0.616732,Rchinensis_RcHm_v2.0_Chr5g0043701:0.447267)n2:0.245135)n1:0.337764)n0;

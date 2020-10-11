@@ -1,0 +1,1 @@
+(Aipaensis_araip.K30076.gnm1.ann1.Araip.PH9U4:0.293975,(Ljaponicus_Lj5g3v1726050:0.426596,((Mtruncatula_Medtr3g027280:0.0238605,Mtruncatula_Medtr1g090957:0.0931825)n3:0.108978,(Mtruncatula_Medtr1g090937:0.175417,Mtruncatula_Medtr1g090930:0.216622)n4:0.0395836)n2:0.37275)n1:0.293975)n0;

@@ -1,0 +1,1 @@
+((Spolyrhiza_Spipo0G0139700:0.214982,Spolyrhiza_Spipo0G0161400:0.317202)n1:0.566071,(Roccidentalis_maker-Ro03-snap-gene-379.96:0.256534,(Rchinensis_RcHm_v2.0_Chr5g0016771:0.226451,(Rchinensis_RcHm_v2.0_Chr1g0336161:0.379922,Rchinensis_RcHm_v2.0_Chr1g0324591:0.0800515)n4:0.140675)n3:0.0156306)n2:0.111825)n0;

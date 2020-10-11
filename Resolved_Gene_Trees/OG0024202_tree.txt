@@ -1,0 +1,1 @@
+(((Othomaeum_Oropetium_20150105_13188:0.925104,Pvirgatum_Pavir.5KG293300:0.0872072)n2:0.0351472,((Othomaeum_Oropetium_20150105_14620:0,Othomaeum_Oropetium_20150105_27096:0)n4:0.659598,Pvirgatum_Pavir.5KG304600:0.157776)n3:0.0175307)n1:0.271154,(Bdistachyon_Bradi5g03050:0.165551,Bdistachyon_Bradi5g03030:0.289584)n5:0.271154)n0;

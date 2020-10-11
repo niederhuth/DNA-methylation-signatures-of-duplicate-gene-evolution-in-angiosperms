@@ -1,0 +1,1 @@
+(Vvinifera_VIT_211s0016g04020:0.187009,((Vcorymbosum_maker-VaccDscaff41-augustus-gene-213.35:0.330585,Vcorymbosum_maker-VaccDscaff40-snap-gene-230.30:0.00314175)n2:0.0921478,Vcorymbosum_augustus_masked-VaccDscaff12-processed-gene-334.8:0.0107199)n1:0.187009)n0;

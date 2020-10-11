@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00109.142:0.172557,((Zjujuba_LOC107421394:0.231245,(Mguttatus_Migut.O00439:0.28557,Slycopersicum_Solyc01g089840.2:0.649067)n3:0.0851341)n2:0.129082,Boleracea_Bo02687s010:0.613009)n1:0.172557)n0;

@@ -1,0 +1,1 @@
+(Nattenuata_NIATv7_g63626:0.0758932,((Fxananassa_snap_masked-Fvb2-4-processed-gene-193.32:0.0923448,Roccidentalis_maker-Ro02-snap-gene-71.47:0.212907)n2:0.183201,(Mtruncatula_Medtr0515s0010:0,Mtruncatula_Medtr0306s0010:0)n3:0.134011)n1:0.0758932)n0;

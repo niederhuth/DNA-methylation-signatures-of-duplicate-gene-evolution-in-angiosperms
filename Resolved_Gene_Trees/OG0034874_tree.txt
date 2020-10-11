@@ -1,0 +1,1 @@
+(Eguineensis_p5.00_sc00053_p0022:0.80592,(Sitalica_Seita.1G112400:0,(Sviridis_Sevir.4G143101:1.06635e-06,Sviridis_Sevir.1G112100:0)n2:0)n1:0.342597)n0;

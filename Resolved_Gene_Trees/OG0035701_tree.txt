@@ -1,0 +1,1 @@
+(Vvinifera_VIT_204s0069g00660:0.195953,(Fxananassa_snap_masked-Fvb1-2-processed-gene-286.10:0.842089,(Ljaponicus_Lj2g3v1550560:0.807035,Mdomestica_MD16G1286100:0.708086)n2:0.0127083)n1:0.195953)n0;

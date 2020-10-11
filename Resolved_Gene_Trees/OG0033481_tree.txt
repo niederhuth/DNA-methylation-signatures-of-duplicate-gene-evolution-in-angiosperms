@@ -1,0 +1,1 @@
+((Aofficinalis_evm.TU.AsparagusV1_08.2292:0.651831,Ljaponicus_Lj1g3v3091510:0.586349)n1:0.0491039,(Macuminata_GSMUA_Achr4G05760_001:0.60857,Gmax_Glyma.18G122100:0.819124)n2:0.0491039)n0;

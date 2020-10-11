@@ -1,0 +1,1 @@
+(((Cannuum_CA12g18530:0.547859,Slycopersicum_Solyc08g065630.2:1.25432)n2:0.00783918,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.B5Y6I:0.868298)n1:0.368273,(Aofficinalis_evm.TU.AsparagusV1_Unassigned.423:0.0573378,Aofficinalis_evm.TU.AsparagusV1_07.2054:0.0520732)n3:0.368273)n0;

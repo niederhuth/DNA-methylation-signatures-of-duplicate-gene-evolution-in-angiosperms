@@ -1,0 +1,1 @@
+(Paxillaris_Peaxi162Scf00110g01617:0.560931,(Cpapaya_evm.TU.contig_45670:0.854061,(Mtruncatula_Medtr1g107155:0.102267,Mtruncatula_Medtr7g108950:0.173294)n2:0.497822)n1:0.560931)n0;

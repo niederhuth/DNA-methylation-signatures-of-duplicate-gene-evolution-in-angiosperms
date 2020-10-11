@@ -1,0 +1,1 @@
+(((Aofficinalis_evm.TU.AsparagusV1_01.330:0.675418,Aofficinalis_evm.TU.AsparagusV1_05.2694:0.685849)n2:0.392775,Mdomestica_MD16G1110100:0.5347)n1:0.0469697,(Ptrichocarpa_Potri.010G054532:0.294923,Macuminata_GSMUA_Achr8G01210_001:0.320907)n3:0.0469697)n0;

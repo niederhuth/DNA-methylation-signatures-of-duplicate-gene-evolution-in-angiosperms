@@ -1,0 +1,1 @@
+(Fvesca_FvH4_7g09620:0.189336,(Rchinensis_RcHm_v2.0_Chr6g0246771:0.524397,(Rchinensis_RcHm_v2.0_Chr4g0398021:0.171115,Rchinensis_RcHm_v2.0_Chr5g0044541:0.504378)n2:0.0725615)n1:0.189336)n0;

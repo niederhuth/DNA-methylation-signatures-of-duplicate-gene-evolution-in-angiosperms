@@ -1,0 +1,1 @@
+((Vcorymbosum_maker-VaccDscaff27-augustus-gene-312.28:0.763418,Rchinensis_RcHm_v2.0_Chr1g0318561:0.395991)n1:0.200715,(Macuminata_GSMUA_AchrUn_randomG21510_001:0.857441,(Sbicolor_Sobic.005G110200:0.651358,Aofficinalis_evm.TU.AsparagusV1_10.843:0.673284)n3:0.0429775)n2:0.200715)n0;

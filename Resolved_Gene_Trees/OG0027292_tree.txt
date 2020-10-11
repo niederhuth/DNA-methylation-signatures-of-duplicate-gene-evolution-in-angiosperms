@@ -1,0 +1,1 @@
+(Nnucifera_XP_019053097.1:0.239889,(Roccidentalis_maker-Ro07-snap-gene-391.93:0.202892,(Fvesca_FvH4_7g30120:0.0925406,(Fxananassa_augustus_masked-Fvb7-2-processed-gene-314.10:0.0848561,(Fxananassa_maker-Fvb7-3-snap-gene-1.76:0.118168,Fxananassa_maker-Fvb7-2-snap-gene-277.92:0.053094)n4:0.0053094)n3:0.000589934)n2:0.0976406)n1:0.0945176)n0;

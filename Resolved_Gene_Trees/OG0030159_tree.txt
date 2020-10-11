@@ -1,0 +1,1 @@
+((Othomaeum_Oropetium_20150105_28303:0.373018,Othomaeum_Oropetium_20150105_28399:0.412769)n1:0.119605,(Cpapaya_evm.TU.supercontig_27.206:0.516991,(Mtruncatula_Medtr4g080720:0.063697,Mtruncatula_Medtr6g046500:0.278457)n3:0.249411)n2:0.119605)n0;

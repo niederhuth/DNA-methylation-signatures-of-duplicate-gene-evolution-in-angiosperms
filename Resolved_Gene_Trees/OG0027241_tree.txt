@@ -1,0 +1,1 @@
+(((Paxillaris_Peaxi162Scf00014g02419:0.340278,Nattenuata_NIATv7_g41878:0.600564)n2:0.428028,Mtruncatula_Medtr6g444930:0.646266)n1:0.111689,(Vcorymbosum_maker-VaccDscaff10-snap-gene-87.34:0.717862,(Fvesca_FvH4_3g16270:0.0783797,Fxananassa_maker-Fvb3-4-snap-gene-212.65:0.0463973)n4:0.573811)n3:0.111689)n0;

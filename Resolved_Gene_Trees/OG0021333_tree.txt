@@ -1,0 +1,1 @@
+(Graimondii_Gorai.009G075900:0.821367,(Mguttatus_Migut.B00437:0.573801,(Mguttatus_Migut.B00436:0.563726,(Mguttatus_Migut.B00898:0.253102,(Mguttatus_Migut.B00897:0.147754,(Mguttatus_Migut.B00901:0.190354,(Mguttatus_Migut.B00900:0,(Mguttatus_Migut.B00899:0,Mguttatus_Migut.B00902:0)n7:0)n6:0.342145)n5:0.0170233)n4:0.199232)n3:0.195504)n2:0.117821)n1:0.821367)n0;

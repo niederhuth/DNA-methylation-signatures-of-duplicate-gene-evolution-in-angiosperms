@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr1G16080_001:0.0421374,((Vcorymbosum_maker-VaccDscaff15-augustus-gene-293.44:0.623801,Vvinifera_VIT_205s0029g00610:0.41989)n2:0.0816318,(Nnucifera_XP_010271702.1:0.29483,(Graimondii_Gorai.004G291500:0.184616,Graimondii_Gorai.001G210800:0.349175)n4:0.0881018)n3:0.127125)n1:0.0421374)n0;

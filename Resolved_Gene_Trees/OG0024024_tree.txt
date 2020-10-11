@@ -1,0 +1,1 @@
+((Boleracea_Bo8g077170:0.786871,(Othomaeum_Oropetium_20150105_13206:0.905545,(Aofficinalis_evm.TU.AsparagusV1_Unassigned.481:0.467563,Othomaeum_Oropetium_20150105_02153:0.730208)n3:0.0272028)n2:0.00302253)n1:0.0229547,((Ljaponicus_Lj1g3v4420040:0,Ljaponicus_Lj1g3v0270560:0)n5:0,Ljaponicus_Lj0g3v0304009:0)n4:0.219794)n0;

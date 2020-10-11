@@ -1,0 +1,1 @@
+(Sbicolor_Sobic.004G023300:0.292138,((Aipaensis_araip.K30076.gnm1.ann1.Araip.HM9ZT:0.214242,Aipaensis_araip.K30076.gnm1.ann1.Araip.00DYU:0.405403)n2:0.044909,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.8M8BJ:0.203341)n1:0.292138)n0;

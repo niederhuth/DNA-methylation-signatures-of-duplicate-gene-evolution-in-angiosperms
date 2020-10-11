@@ -1,0 +1,1 @@
+(Eguineensis_p5.00_sc00021_p0010:0.338777,(Fvesca_FvH4_2g21990:0.0278054,((Fxananassa_snap_masked-Fvb2-4-processed-gene-165.23:0.218786,Fxananassa_snap_masked-Fvb2-1-processed-gene-143.13:0.241291)n3:0.0975719,Fxananassa_maker-Fvb2-2-snap-gene-67.48:0.302804)n2:0.0336449)n1:0.263776)n0;

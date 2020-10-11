@@ -1,0 +1,1 @@
+(Ptrichocarpa_Potri.012G104801:0.340406,(Fxananassa_maker-Fvb7-2-augustus-gene-85.45:0.433468,(Fvesca_FvH4_4g02100:0.764226,Fvesca_FvH4_4g13650:1.83683e-06)n2:0.202125)n1:0.340406)n0;

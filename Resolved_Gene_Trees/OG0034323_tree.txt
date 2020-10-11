@@ -1,0 +1,1 @@
+(Eguineensis_p5.00_sc01944_p0002:0.289588,(Cpapaya_evm.TU.supercontig_180.12:0.0468447,(Cannuum_CA06g07110:0.216271,Cannuum_CA05g06730:0.149274)n2:0.016586)n1:0.266586)n0;

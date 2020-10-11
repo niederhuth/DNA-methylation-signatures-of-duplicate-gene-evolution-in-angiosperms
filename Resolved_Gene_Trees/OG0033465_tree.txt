@@ -1,0 +1,1 @@
+(Vvinifera_VIT_200s0131g00030:0.24743,((Aofficinalis_evm.TU.AsparagusV1_08.1495:0.602408,Aofficinalis_evm.TU.AsparagusV1_05.1701:0.418162)n2:0.122659,Aofficinalis_evm.TU.AsparagusV1_03.294:0.406397)n1:0.24743)n0;

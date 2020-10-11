@@ -1,0 +1,1 @@
+(Pvirgatum_Pavir.6NG049330:0.404799,(Aipaensis_araip.K30076.gnm1.ann1.Araip.80INE:0.284386,(Aipaensis_araip.K30076.gnm1.ann1.Araip.S5YCF:0.648714,Aipaensis_araip.K30076.gnm1.ann1.Araip.1J1S7:0.678781)n2:0.124318)n1:0.404799)n0;

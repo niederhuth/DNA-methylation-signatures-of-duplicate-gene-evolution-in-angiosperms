@@ -1,0 +1,1 @@
+(Cannuum_CA01g32070:0.615414,((((Mtruncatula_Medtr4g133530:0.0436373,Mtruncatula_Medtr7g114630:0.0863437)n4:0.005992,Mtruncatula_Medtr7g116880:0.0189902)n3:0.157729,Mtruncatula_Medtr5g009540:0.111399)n2:0.518156,Mtruncatula_Medtr7g033970:0.92757)n1:0.615414)n0;

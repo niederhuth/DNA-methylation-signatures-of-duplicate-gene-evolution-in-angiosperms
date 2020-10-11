@@ -1,0 +1,1 @@
+(Cannuum_CA04g22990:0.277662,(((Roccidentalis_snap_masked-Ro01-processed-gene-60.22:0.665674,Rchinensis_RcHm_v2.0_Chr2g0098871:0.273472)n3:0.104419,Fxananassa_maker-Fvb1-1-snap-gene-235.59:0.267554)n2:0.133239,(Mtruncatula_Medtr6g034400:0.296759,Mdomestica_MD15G1009700:0.44183)n4:0.246049)n1:0.277662)n0;

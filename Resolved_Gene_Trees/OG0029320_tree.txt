@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_04.1560:0.551389,(Cpapaya_evm.TU.supercontig_47.65:0.382498,(Egrandis_Eucgr.B03894:0.713181,(Ljaponicus_Lj3g3v1132440:0,Ljaponicus_Lj3g3v3006360:0)n3:0.250538)n2:0.172741)n1:0.551389)n0;

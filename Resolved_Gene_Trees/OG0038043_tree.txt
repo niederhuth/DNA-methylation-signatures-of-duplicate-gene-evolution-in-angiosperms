@@ -1,0 +1,1 @@
+(Spolyrhiza_Spipo9G0063400:0.399885,((Spolyrhiza_Spipo26G0013500:0.569117,Spolyrhiza_Spipo26G0012500:0.777755)n2:0.146914,Spolyrhiza_Spipo9G0063600:0.358217)n1:0.399885)n0;

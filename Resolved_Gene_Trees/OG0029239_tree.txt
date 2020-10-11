@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_21635:0.112182,(((Vcorymbosum_maker-VaccDscaff47-augustus-gene-146.33:0.48341,Alyrata_AL516U10020:0.177258)n3:0.0396413,Cpapaya_evm.TU.supercontig_59.129:0.0597271)n2:0.22032,Slycopersicum_Solyc06g053180.3:0.486031)n1:0.112182)n0;

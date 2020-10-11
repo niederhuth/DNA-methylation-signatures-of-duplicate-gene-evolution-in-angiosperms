@@ -1,0 +1,1 @@
+(Pvirgatum_Pavir.6KG388301:0.704377,((Acoerulea_Aqcoe5G223700:0.035718,Acoerulea_Aqcoe3G221800:0.06721)n2:0.0406695,(Acoerulea_Aqcoe3G221300:0,Acoerulea_Aqcoe3G221700:0)n3:0.0293735)n1:0.704377)n0;

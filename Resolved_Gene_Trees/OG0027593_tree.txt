@@ -1,0 +1,1 @@
+(Vcorymbosum_maker-VaccDscaff3-snap-gene-28.42:0.202096,((((Graimondii_Gorai.013G168600:0.0192618,Graimondii_Gorai.011G144100:0.0155163)n4:0.0139401,Graimondii_Gorai.006G064500:0.0180649)n3:0.213234,Graimondii_Gorai.011G177000:0.126817)n2:0.152197,Mtruncatula_Medtr6g034725:0.612823)n1:0.202096)n0;

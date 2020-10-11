@@ -1,0 +1,1 @@
+(Tcacao_Thecc1EG018860:0.664082,(((Mtruncatula_Medtr7g035165:0.056777,Mtruncatula_Medtr7g029420:0.108214)n3:0.0315947,Mtruncatula_Medtr7g029425:0.196662)n2:0.642744,Mtruncatula_Medtr4g037595:0.680682)n1:0.664082)n0;

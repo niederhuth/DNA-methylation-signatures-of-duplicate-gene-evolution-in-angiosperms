@@ -1,0 +1,1 @@
+((Esalsugineum_Thhalv10027057m.g:0.274015,((Rchinensis_RcHm_v2.0_Chr3g0478011:0.0550175,Rchinensis_RcHm_v2.0_Chr3g0478541:0.0311335)n3:0.227162,Rchinensis_RcHm_v2.0_Chr3g0478571:0.475704)n2:0.0528561)n1:0.0456911,Boleracea_Bo8g032430:0.305526)n0;

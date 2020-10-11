@@ -1,0 +1,1 @@
+((Pxbretschneideri_LOC103945926:0.534282,Ppersica_Prupe.1G215800:0.437141)n1:0.301835,(Fxananassa_snap_masked-Fvb2-3-processed-gene-140.20:0.768474,((Rchinensis_RcHm_v2.0_Chr7g0239421:0.143934,Rchinensis_RcHm_v2.0_Chr1g0383751:0.357716)n4:0.593675,Rchinensis_RcHm_v2.0_Chr7g0216181:0.8979)n3:0.0997667)n2:0.163567)n0;

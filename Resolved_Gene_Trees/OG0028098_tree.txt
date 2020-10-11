@@ -1,0 +1,1 @@
+((Phallii_Pahal.8G055500:0,Phallii_Pahal.8G055900:0)n1:0.215426,(Pvirgatum_Pavir.8NG084503:0.120961,((Pvirgatum_Pavir.8KG093800:0.0726353,Pvirgatum_Pavir.8KG099400:0.125986)n4:0.046093,Pvirgatum_Pavir.8KG085400:0.0384983)n3:0.035041)n2:0.215426)n0;

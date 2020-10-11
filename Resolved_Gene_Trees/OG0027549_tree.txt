@@ -1,0 +1,1 @@
+((Stuberosum_PGSC0003DMG400012611:0.229473,Pvulgaris_Phvul.005G173450:0.156844)n1:0.108291,(Gmax_Glyma.13G361600:0.286215,(Vcorymbosum_maker-VaccDscaff4-augustus-gene-418.27:0.0644858,(Vcorymbosum_maker-VaccDscaff4-augustus-gene-418.28:0.104434,Vcorymbosum_snap_masked-VaccDscaff9-processed-gene-398.20:0.226)n4:0.0249772)n3:0.135347)n2:0.108291)n0;

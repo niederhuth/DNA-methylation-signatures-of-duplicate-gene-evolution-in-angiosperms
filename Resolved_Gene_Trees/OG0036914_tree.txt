@@ -1,0 +1,1 @@
+((Roccidentalis_maker-Ro07-snap-gene-322.47:0.916555,Spolyrhiza_Spipo30G0001800:0.607857)n1:0.05869,(Smelongena_SMEL_000g113200.1:0.101515,Othomaeum_Oropetium_20150105_12257:0.825659)n2:0.05869)n0;

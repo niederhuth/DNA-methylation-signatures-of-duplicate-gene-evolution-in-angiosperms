@@ -1,0 +1,1 @@
+(Vcorymbosum_maker-VaccDscaff44-snap-gene-13.34:0.18866,(Rchinensis_RcHm_v2.0_Chr6g0254581:0.540876,((Mtruncatula_Medtr1g107145:0.662811,Ptrichocarpa_Potri.009G093800:0.553806)n3:0.20909,Gmax_Glyma.10G260750:0.629646)n2:0.156742)n1:0.18866)n0;

@@ -1,0 +1,1 @@
+((Gsoja_GlysoPI483463.11G011800:5e-07,Gmax_Glyma.11G013400:5e-07)n1:0.271552,(Rchinensis_RcHm_v2.0_Chr6g0250751:8.59964e-07,Rchinensis_RcHm_v2.0_Chr6g0250641:0.430848)n2:0.271552)n0;

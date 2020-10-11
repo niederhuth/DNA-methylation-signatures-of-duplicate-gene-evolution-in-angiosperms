@@ -1,0 +1,1 @@
+(Boleracea_Bo01102s040:0.819712,(Athaliana_AT1G24996:0.0113,(Athaliana_AT1G24822:0,Athaliana_AT1G25097:0)n2:0.252605)n1:0.819712)n0;

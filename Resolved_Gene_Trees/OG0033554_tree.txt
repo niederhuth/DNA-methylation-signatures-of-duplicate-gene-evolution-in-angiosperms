@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_03.589:0.678562,(Graimondii_Gorai.011G159200:2.00125e-06,(Graimondii_Gorai.013G185400:0.402134,Graimondii_Gorai.012G104500:0.210691)n2:0.0504265)n1:0.678562)n0;

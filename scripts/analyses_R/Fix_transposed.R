@@ -2,14 +2,15 @@ library(treeio)
 library(ggtree)
 library(ape)
 
-species <- c("Aduranensis","Aipaensis","Alyrata","Athaliana","Atrichopoda",
-	"Bdistachyon","Boleracea","Brapa","Bvulgaris","Cclementina","Cpapaya",
-	"Clanatus","Cmelo","Crubella","Csativus","Egrandis","Eguineensis",
-	"Esalsugineum","Fvesca","Fxananassa","Gmax","Graimondii","Ljaponicus",
-	"Macuminata","Mdomestica","Mesculenta","Mguttatus","Mtruncatula","Osativa",
-	"Phallii","Ppersica","Ptrichocarpa","Pvirgatum","Pvulgaris","Pxbretschneideri",
-	"Sbicolor","Sitalica","Slycopersicum","Stuberosum","Sviridis","Tcacao",
-	"Vvinifera","Zmays")
+#species <- c("Aduranensis","Aipaensis","Alyrata","Athaliana","Atrichopoda",
+#	"Bdistachyon","Boleracea","Brapa","Bvulgaris","Cclementina","Cpapaya",
+#	"Clanatus","Cmelo","Crubella","Csativus","Egrandis","Eguineensis",
+#	"Esalsugineum","Fvesca","Fxananassa","Gmax","Graimondii","Ljaponicus",
+#	"Macuminata","Mdomestica","Mesculenta","Mguttatus","Mtruncatula","Osativa",
+#	"Phallii","Ppersica","Ptrichocarpa","Pvirgatum","Pvulgaris","Pxbretschneideri",
+#	"Sbicolor","Sitalica","Slycopersicum","Stuberosum","Sviridis","Tcacao",
+#	"Vvinifera","Zmays")
+species=c("Athaliana")
 
 path1 <- paste("orthofinder/orthofinder/",dir("orthofinder/orthofinder/"),sep="")
 path2 <- paste(path1,"/Resolved_Gene_Trees/",sep="")
@@ -17,9 +18,9 @@ speciesTree <- read.tree(paste(path1,"/Species_Tree/SpeciesTree_rooted_node_labe
 
 geneCount <- data.frame()
 for(a in species){
-	df1 <- read.table("Athaliana/dupgen/results-unique/Athaliana.transposed.pairs-unique",
+	df1 <- read.table(paste(a,"/dupgen/results-unique/",a,".transposed.pairs-unique",sep=""),
 		sep="\t",header=TRUE)
-	df2 <- read.table("Athaliana/ref/mcscanx/Athaliana_orthogroups.tsv",sep="\t",head=FALSE)
+	df2 <- read.table(paste(a,"/ref/mcscanx/",a,"_orthogroups.tsv",sep=""),sep="\t",head=FALSE)
 
 	for(x in c(1:nrow(df1))){
 		b <- as.vector(df1[x,]$Transposed)
@@ -60,6 +61,6 @@ for(a in species){
 	}
 }
 
-write.csv(geneCount,'../scripts/analyses_R/data2/Athaliana/dupgen/results-unique/transposed_tree_data.tsv',quote=FALSE,row.names=FALSE)
+write.csv(geneCount,paste(a,'/dupgen/results-unique/transposed_tree_data.tsv',sep=""),
+	quote=FALSE,row.names=FALSE)
 #test <- drop.tip(tre,tre$tip.label[!(tre$tip.label %in% x6$label)])
-

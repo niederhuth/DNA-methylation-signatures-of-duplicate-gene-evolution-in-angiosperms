@@ -1,0 +1,1 @@
+(Rchinensis_RcHm_v2.0_Chr5g0025461:0.138631,(Mguttatus_Migut.G00854:0.119252,(Slycopersicum_Solyc12g019300.2:0.0047155,Smelongena_SMEL_010g343790.1:0.0306515)n2:0.0648255)n1:0.138631)n0;

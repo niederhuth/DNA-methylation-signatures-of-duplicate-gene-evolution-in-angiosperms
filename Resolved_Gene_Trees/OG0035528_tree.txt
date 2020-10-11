@@ -1,0 +1,1 @@
+(Fxananassa_snap_masked-Fvb7-2-processed-gene-21.31:0.504688,(Tcacao_Thecc1EG045144:0.86355,(Graimondii_Gorai.004G169600:0.117322,Graimondii_Gorai.004G169800:0.234472)n2:0.575368)n1:0.504688)n0;

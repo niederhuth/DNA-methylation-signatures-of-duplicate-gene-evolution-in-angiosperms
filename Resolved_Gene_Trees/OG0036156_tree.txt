@@ -1,0 +1,1 @@
+((Ljaponicus_Lj1g3v1077740:0,Ljaponicus_Lj1g3v4931300:0)n1:0.148641,(Mdomestica_MD16G1172500:0.947588,Roccidentalis_maker-Ro06-snap-gene-273.76:0.758903)n2:0.148641)n0;

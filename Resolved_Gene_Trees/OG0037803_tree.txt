@@ -1,0 +1,1 @@
+(Vcorymbosum_augustus_masked-VaccDscaff22-processed-gene-71.6:0.211849,(Roccidentalis_maker-Ro07-snap-gene-115.77:0.152834,(Roccidentalis_maker-Ro07-snap-gene-115.78:1.55668,Roccidentalis_maker-Ro07-snap-gene-115.79:0.0486318)n2:0.346495)n1:0.211849)n0;

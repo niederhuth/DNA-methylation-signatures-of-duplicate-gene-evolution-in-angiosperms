@@ -1,0 +1,1 @@
+(Eguineensis_p5.00_sc00032_p0113:0.614333,(Fxananassa_augustus_masked-Fvb2-2-processed-gene-86.5:0.102982,(Fvesca_FvH4_3g24510:0.0464048,Fvesca_FvH4_2g18720:0.0704172)n2:0.00782413)n1:0.185879)n0;

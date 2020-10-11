@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr4G19690_001:0.235007,((Boleracea_Bo9g113840:0.559024,Roccidentalis_snap_masked-Ro05-processed-gene-112.9:0.881133)n2:0.120594,((Fvesca_FvH4_3g02790:0.0433658,Fxananassa_augustus_masked-Fvb3-1-processed-gene-306.2:0.396598)n4:0.477557,(Mdomestica_MD07G1263600:0.495485,Mdomestica_MD06G1072500:0.0605985)n5:0.00673316)n3:0.032955)n1:0.223235)n0;

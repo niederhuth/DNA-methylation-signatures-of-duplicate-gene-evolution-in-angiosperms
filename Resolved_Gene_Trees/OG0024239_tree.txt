@@ -1,0 +1,1 @@
+(Vvinifera_VIT_203s0088g00820:0.317225,(Boleracea_Bo2g042180:0.713717,((Mdomestica_MD08G1148800:0.132328,Mdomestica_MD08G1212600:0.160842)n3:0.385488,(Cpapaya_evm.TU.contig_44548:0.19104,(Cpapaya_evm.TU.contig_41462:0.50202,Cpapaya_evm.TU.supercontig_2804.1:0.271666)n5:0.471923)n4:0.116366)n2:0.437786)n1:0.317225)n0;

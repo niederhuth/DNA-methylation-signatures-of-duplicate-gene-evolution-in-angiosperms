@@ -1,0 +1,1 @@
+(Roccidentalis_maker-Ro04-snap-gene-227.62:0.336883,(Egrandis_Eucgr.B00897:0.172182,(Egrandis_Eucgr.B00890:0.122687,(Egrandis_Eucgr.B00893:0.0950716,(Egrandis_Eucgr.B00994:0.187123,(Egrandis_Eucgr.B00962:0.114875,(Egrandis_Eucgr.B00968:0.248129,Egrandis_Eucgr.L02861:0.159449)n6:0.194823)n5:0.120675)n4:0.0370817)n3:0.0295866)n2:0.0773968)n1:0.336883)n0;

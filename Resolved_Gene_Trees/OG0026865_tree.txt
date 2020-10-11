@@ -1,0 +1,1 @@
+((Cclementina_Ciclev10022509m.g:0.753216,(Vcorymbosum_maker-VaccDscaff47-snap-gene-177.38:0.94036,Vcorymbosum_maker-VaccDscaff1-snap-gene-100.27:0.684876)n2:0.0760973)n1:0.0246329,((Tcacao_Thecc1EG004442:0.624986,Graimondii_Gorai.004G083300:0.411623)n4:0.344689,Ppersica_Prupe.8G244500:0.743774)n3:0.10772)n0;

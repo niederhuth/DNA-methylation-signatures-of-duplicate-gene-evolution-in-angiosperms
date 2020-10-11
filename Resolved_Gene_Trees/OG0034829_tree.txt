@@ -1,0 +1,1 @@
+(Egrandis_Eucgr.F00558:0.539486,(Fxananassa_snap_masked-Fvb5-1-processed-gene-106.17:1.27012,(Fxananassa_snap_masked-Fvb1-3-processed-gene-63.10:0.0413559,Fxananassa_snap_masked-Fvb1-2-processed-gene-77.22:0.0604551)n2:0.277697)n1:0.539486)n0;

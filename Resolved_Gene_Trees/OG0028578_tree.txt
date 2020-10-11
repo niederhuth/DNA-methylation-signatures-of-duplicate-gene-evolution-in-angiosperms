@@ -1,0 +1,1 @@
+(Acoerulea_Aqcoe2G112200:0.403587,(Tcacao_Thecc1EG021149:0.965261,(Graimondii_Gorai.011G186800:0.859237,(Vcorymbosum_snap_masked-VaccDscaff4-processed-gene-19.22:3.68347e-06,Vcorymbosum_augustus_masked-VaccDscaff138-processed-gene-1.11:0.115857)n3:0.865964)n2:0.0755099)n1:0.403587)n0;

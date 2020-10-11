@@ -1,0 +1,1 @@
+(Fxananassa_augustus_masked-Fvb3-1-processed-gene-303.14:0.368569,(Alyrata_AL3G25560:0.0459045,(Cpapaya_evm.TU.contig_43057:0.0298367,Boleracea_Bo00875s090:0.80922)n2:0.126382)n1:0.368569)n0;

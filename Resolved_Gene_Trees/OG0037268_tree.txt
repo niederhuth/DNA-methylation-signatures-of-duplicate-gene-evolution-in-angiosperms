@@ -1,0 +1,1 @@
+((Vcorymbosum_maker-VaccDscaff26-augustus-gene-220.24:0.100081,Vcorymbosum_maker-VaccDscaff21-augustus-gene-223.19:0.0154457)n1:0.505153,(Zjujuba_LOC107413113:0.981864,Ptrichocarpa_Potri.010G242050:1.00434)n2:0.505153)n0;

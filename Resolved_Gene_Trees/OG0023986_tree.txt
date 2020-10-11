@@ -1,0 +1,1 @@
+((Aofficinalis_evm.TU.AsparagusV1_05.3574:0.442925,Aofficinalis_evm.TU.AsparagusV1_Unassigned.689:0.391085)n1:0.143148,((Athaliana_AT5G32670:0.926962,Ljaponicus_Lj0g3v0259929:0.248868)n3:0.146126,((Graimondii_Gorai.007G312600:0.510899,Graimondii_Gorai.013G102000:0.153761)n5:0.157209,Graimondii_Gorai.004G072500:0.289562)n4:0.28099)n2:0.143148)n0;

@@ -1,0 +1,1 @@
+((Athaliana_AT5G07225:0.223048,Crubella_Carub.0006s0616:0.440429)n1:0.166336,(Esalsugineum_Thhalv10015609m.g:0.301289,(Boleracea_Bo2g007550:0.483579,Brapa_Brara.B00238:2.14207e-06)n3:0.427247)n2:0.166336)n0;

@@ -1,0 +1,1 @@
+(Nattenuata_NIATv7_g10495:0.264136,(Aipaensis_araip.K30076.gnm1.ann1.Araip.M5LYU:0.342359,(Fxananassa_snap_masked-Fvb3-4-processed-gene-96.13:0.338218,Cpapaya_evm.TU.supercontig_0.162:0.38263)n2:0.0650245)n1:0.264136)n0;

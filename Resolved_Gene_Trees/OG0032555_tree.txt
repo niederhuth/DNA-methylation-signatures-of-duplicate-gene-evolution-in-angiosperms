@@ -1,0 +1,1 @@
+((Aduranensis_aradu.V14167.gnm1.ann1.Aradu.TP0ZU:0.917603,Fxananassa_maker-Fvb2-3-snap-gene-168.35:1.06117)n1:0.409982,(Acoerulea_Aqcoe2G133300:0.189669,Acoerulea_Aqcoe2G133500:2.89899e-06)n2:0.409982)n0;

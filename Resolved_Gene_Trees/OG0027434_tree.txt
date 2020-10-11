@@ -1,0 +1,1 @@
+(((Vvinifera_VIT_203s0017g00630:0.821872,Fxananassa_snap_masked-Fvb1-4-processed-gene-128.30:0.721241)n2:0.0312534,Roccidentalis_snap_masked-Ro06-processed-gene-24.29:0.895816)n1:0.325071,(Sitalica_Seita.3G193200:0.106501,(Phallii_Pahal.4G157800:0.137343,Phallii_Pahal.3G229800:0.236473)n4:0.0262747)n3:0.0675076)n0;

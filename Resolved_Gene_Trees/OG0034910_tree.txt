@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr7G27620_001:0.0859556,((Rchinensis_RcHm_v2.0_Chr6g0246081:0.632692,Roccidentalis_maker-Ro01-snap-gene-149.62:0.703008)n2:0.260108,Esalsugineum_Thhalv10026635m.g:0.253663)n1:0.0859556)n0;

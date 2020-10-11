@@ -1,0 +1,1 @@
+((Vcorymbosum_maker-VaccDscaff54-augustus-gene-12.30:0.0563183,Egrandis_Eucgr.E02122:0.442347)n1:0.0991666,(Nattenuata_NIATv7_g39218:0.44579,Ljaponicus_Lj2g3v0636070:0.245001)n2:0.0991666)n0;

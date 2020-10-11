@@ -1,0 +1,1 @@
+(Roccidentalis_maker-Ro04-snap-gene-305.155:0.472928,((Aipaensis_araip.K30076.gnm1.ann1.Araip.68NU9:0.0681595,Aipaensis_araip.K30076.gnm1.ann1.Araip.FY4IX:0.516003)n2:0.322176,Aipaensis_araip.K30076.gnm1.ann1.Araip.BH52X:0.460856)n1:0.472928)n0;

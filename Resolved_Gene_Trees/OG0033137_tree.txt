@@ -1,0 +1,1 @@
+(Vvinifera_VIT_216s0013g01870:0.250691,(Aipaensis_araip.K30076.gnm1.ann1.Araip.T52LA:0.280564,(Aipaensis_araip.K30076.gnm1.ann1.Araip.QM8IF:0.173511,Aipaensis_araip.K30076.gnm1.ann1.Araip.PWA9J:0.27732)n2:0.342947)n1:0.250691)n0;

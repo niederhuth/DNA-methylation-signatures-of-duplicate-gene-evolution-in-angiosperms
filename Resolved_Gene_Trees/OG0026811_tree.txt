@@ -1,0 +1,1 @@
+(Spolyrhiza_Spipo10G0007800:0.251419,((((Mtruncatula_Medtr5g031530:0.0654517,Mtruncatula_Medtr5g031580:0.0728443)n4:0.129861,Mtruncatula_Medtr5g031500:0.725024)n3:0.122198,Mtruncatula_Medtr5g049770:0.633253)n2:0.434393,Cannuum_CA12g14970:0.648567)n1:0.251419)n0;

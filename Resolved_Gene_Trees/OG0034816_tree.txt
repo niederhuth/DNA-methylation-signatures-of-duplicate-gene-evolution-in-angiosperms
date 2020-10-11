@@ -1,0 +1,1 @@
+(Egrandis_Eucgr.H04281:0.723094,((Vcorymbosum_maker-VaccDscaff30-snap-gene-100.30:0.72305,Vcorymbosum_maker-VaccDscaff13-snap-gene-293.24:0.0794898)n2:0.405432,Vcorymbosum_maker-VaccDscaff44-snap-gene-171.23:0.842923)n1:0.723094)n0;

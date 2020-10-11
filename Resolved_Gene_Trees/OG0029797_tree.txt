@@ -1,0 +1,1 @@
+(Brapa_Brara.K01192:0.326203,((Vcorymbosum_snap_masked-VaccDscaff31-processed-gene-189.14:0.417458,Vcorymbosum_snap_masked-VaccDscaff7-processed-gene-158.17:0.396747)n2:0.140844,(Vcorymbosum_maker-VaccDscaff31-snap-gene-189.26:0.853864,Vcorymbosum_maker-VaccDscaff16-augustus-gene-246.20:0.282974)n3:0.226987)n1:0.326203)n0;

@@ -1,0 +1,1 @@
+(Slycopersicum_Solyc08g029300.2:0.384711,(Mtruncatula_Medtr0094s0110:0.546635,((Graimondii_Gorai.001G162600:0.623918,Vvinifera_VIT_200s0246g00210:0.273353)n3:0.174245,Egrandis_Eucgr.H02721:0.271284)n2:0.226609)n1:0.384711)n0;

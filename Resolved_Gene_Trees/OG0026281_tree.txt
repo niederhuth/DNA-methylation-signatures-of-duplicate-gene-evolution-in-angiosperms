@@ -1,0 +1,1 @@
+(Rchinensis_RcHm_v2.0_Chr5g0010591:0.364679,(Aofficinalis_evm.TU.AsparagusV1_08.2193:0.610565,(Aofficinalis_evm.TU.AsparagusV1_09.338:0.066591,((Aofficinalis_evm.TU.AsparagusV1_Unassigned.1166:0.0062213,Aofficinalis_evm.TU.AsparagusV1_06.862:0.111954)n4:0.0229299,Aofficinalis_evm.TU.AsparagusV1_06.1892:0.143517)n3:0.028263)n2:0.48392)n1:0.364679)n0;

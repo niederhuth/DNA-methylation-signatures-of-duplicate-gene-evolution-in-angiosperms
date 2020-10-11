@@ -1,0 +1,1 @@
+(Pvirgatum_Pavir.4NG206200:0.413151,(Rchinensis_RcHm_v2.0_Chr3g0462581:0.615631,(Roccidentalis_maker-Ro05-exonerate_protein2genome-gene-116.26:0.006074,(Roccidentalis_maker-Ro02-exonerate_protein2genome-gene-329.27:0.0599235,Roccidentalis_maker-Ro07-exonerate_protein2genome-gene-404.58:1.8239e-06)n3:0.0128565)n2:0.3077)n1:0.413151)n0;

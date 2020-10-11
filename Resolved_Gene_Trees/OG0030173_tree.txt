@@ -1,0 +1,1 @@
+(Cpapaya_evm.TU.supercontig_58.13:0.43161,(((Mtruncatula_Medtr1g040955:0.21822,Mtruncatula_Medtr1g040985:0.293002)n3:0.0818344,Mtruncatula_Medtr1g040915:0.607872)n2:0.272835,Gmax_Glyma.10G001766:0.234147)n1:0.43161)n0;

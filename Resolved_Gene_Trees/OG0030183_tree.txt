@@ -1,0 +1,1 @@
+((Egrandis_Eucgr.I01164:1.12266,Cpapaya_evm.TU.contig_42260:0.45242)n1:0.512668,(Sviridis_Sevir.2G242700:0.349327,(Pvirgatum_Pavir.2NG358009:0.103903,Phallii_Pahal.2G291800:0.112471)n3:0.171581)n2:0.512668)n0;

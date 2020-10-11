@@ -1,0 +1,1 @@
+((Mtruncatula_Medtr5g032400:0.614511,Mtruncatula_Medtr4g125220:0.573849)n1:0.188828,(Phallii_Pahal.8G236000:0.485507,Phallii_Pahal.8G238300:1.61156e-06)n2:0.188828)n0;

@@ -1,0 +1,1 @@
+(Zjujuba_LOC107418354:0.368259,(Mtruncatula_Medtr7g008960:0.81422,((Mtruncatula_Medtr3g110870:0.155618,Mtruncatula_Medtr7g026890:0.184404)n3:0.11077,Mtruncatula_Medtr4g071250:0.118265)n2:0.460652)n1:0.368259)n0;

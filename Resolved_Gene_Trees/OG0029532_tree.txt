@@ -1,0 +1,1 @@
+(Bdistachyon_Bradi2g30160:0.407006,((Nattenuata_NIATv7_g16353:0.371241,Fxananassa_maker-Fvb7-4-augustus-gene-189.31:0.312487)n2:0.0153516,(Vvinifera_VIT_213s0106g00510:0.257975,Cannuum_CA07g03010:0.657829)n3:0.164148)n1:0.407006)n0;

@@ -1,0 +1,1 @@
+((Cpapaya_evm.TU.contig_47417:0.939304,Boleracea_Bo9g174730:0.393348)n1:0.0312691,((Rchinensis_RcHm_v2.0_Chr2g0128461:0.072136,Rchinensis_RcHm_v2.0_Chr4g0407261:0.025337)n3:0.327941,Rchinensis_RcHm_v2.0_Chr2g0164691:0.0860468)n2:0.0312691)n0;

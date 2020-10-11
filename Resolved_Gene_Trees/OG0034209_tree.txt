@@ -1,0 +1,1 @@
+(Bvulgaris_gene_BVRB_008660:0.156086,((Bvulgaris_gene_BVRB_008670:0.53128,Bvulgaris_gene_BVRB_016580:0.392895)n2:0.620117,Bvulgaris_gene_BVRB_014600:0.463441)n1:0.156086)n0;

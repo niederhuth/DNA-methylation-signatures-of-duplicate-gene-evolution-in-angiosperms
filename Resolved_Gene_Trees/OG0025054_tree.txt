@@ -1,0 +1,1 @@
+(Mesculenta_Manes.08G060651:0.526109,((Mtruncatula_Medtr1g037510:0.739926,Mtruncatula_Medtr4g021890:0.351883)n2:0.382568,(Mtruncatula_Medtr2g023110:0.792649,(Mtruncatula_Medtr6g043830:0.543137,(Mtruncatula_Medtr1g033770:0.885922,Mtruncatula_Medtr1g070300:0.474708)n5:0.137758)n4:0.0715718)n3:0.159492)n1:0.526109)n0;

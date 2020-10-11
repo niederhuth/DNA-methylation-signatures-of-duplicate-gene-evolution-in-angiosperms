@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00002.136:0.160602,(Cclementina_Ciclev10023532m.g:0.391659,(Egrandis_Eucgr.E00351:0.221888,((Mesculenta_Manes.02G045600:0.0808215,Mesculenta_Manes.01G089300:0.0953415)n4:0.0509055,(Mesculenta_Manes.01G089400:0.0507398,Mesculenta_Manes.01G089500:0.0145562)n5:0.155356)n3:0.025718)n2:0.0556924)n1:0.160602)n0;

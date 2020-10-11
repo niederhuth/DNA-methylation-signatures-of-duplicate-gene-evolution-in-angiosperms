@@ -1,0 +1,1 @@
+(Nnucifera_XP_010274750.1:0.0568361,((((Vcorymbosum_maker-VaccDscaff57-snap-gene-3.35:0.375791,Cpapaya_evm.TU.supercontig_3.390:0.274182)n4:0.137873,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.MB0AX:0.418593)n3:0.0962259,Fxananassa_maker-Fvb5-3-augustus-gene-181.50:0.24961)n2:0.0353269,Cclementina_Ciclev10009360m.g:0.103346)n1:0.0568361)n0;

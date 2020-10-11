@@ -1,0 +1,1 @@
+((Rchinensis_RcHm_v2.0_Chr2g0172691:0.480296,Rchinensis_RcHm_v2.0_Chr5g0059521:0.128651)n1:0.481674,(Vcorymbosum_augustus_masked-VaccDscaff21-processed-gene-290.0:0.00640948,Vcorymbosum_augustus_masked-VaccDscaff37-processed-gene-97.5:0.00517652)n2:0.481674)n0;

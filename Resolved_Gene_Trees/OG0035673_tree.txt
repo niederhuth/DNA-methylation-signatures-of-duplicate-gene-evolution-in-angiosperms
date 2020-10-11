@@ -1,0 +1,1 @@
+((Mdomestica_MD02G1153300:0.398674,Mdomestica_MD02G1153700:0.147689)n1:0.366213,(Fxananassa_snap_masked-Fvb1-2-processed-gene-90.25:0.173326,Fxananassa_augustus_masked-Fvb1-3-processed-gene-79.11:0.0708193)n2:0.366213)n0;

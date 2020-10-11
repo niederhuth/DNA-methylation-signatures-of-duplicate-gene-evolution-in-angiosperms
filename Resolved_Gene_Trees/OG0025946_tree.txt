@@ -1,0 +1,1 @@
+(Aipaensis_araip.K30076.gnm1.ann1.Araip.TCF7T:0.406991,((Rchinensis_RcHm_v2.0_Chr1g0375391:0.508929,Rchinensis_RcHm_v2.0_Chr5g0031101:0.69154)n2:0.0791047,(Rchinensis_RcHm_v2.0_Chr4g0391111:0.00776014,(Rchinensis_RcHm_v2.0_Chr2g0123811:0.0351965,Rchinensis_RcHm_v2.0_Chr4g0406741:0.277034)n4:0.045802)n3:0.0308141)n1:0.406991)n0;

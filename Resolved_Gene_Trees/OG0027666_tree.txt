@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_AchrUn_randomG20230_001:0.421262,(Vvinifera_VIT_202s0012g01980:0.448954,((Rchinensis_RcHm_v2.0_Chr5g0066661:0.10078,Rchinensis_RcHm_v2.0_Chr2g0151751:0.23102)n3:0.247596,(Rchinensis_RcHm_v2.0_Chr7g0232291:0.514045,Rchinensis_RcHm_v2.0_Chr5g0049821:0.14165)n4:0.147333)n2:0.189709)n1:0.421262)n0;

@@ -1,0 +1,1 @@
+(Bdistachyon_Bradi4g35665:0.433891,(Aipaensis_araip.K30076.gnm1.ann1.Araip.GHX3I:0.422035,((Aipaensis_araip.K30076.gnm1.ann1.Araip.KTZ8D:0.107448,Aipaensis_araip.K30076.gnm1.ann1.Araip.66SHJ:0.0604565)n3:0.174129,Aipaensis_araip.K30076.gnm1.ann1.Araip.B7V8R:0.394373)n2:0.374885)n1:0.433891)n0;

@@ -1,0 +1,1 @@
+((Mdomestica_MD03G1245600:0.496831,Ppersica_Prupe.4G159600:0.469974)n1:0.411362,(Fvesca_FvH4_3g18040:0.0197749,(Fxananassa_maker-Fvb3-3-augustus-gene-86.51:0.068967,Fxananassa_maker-Fvb3-4-augustus-gene-203.55:0.0128458)n3:0.00142731)n2:0.0994605)n0;

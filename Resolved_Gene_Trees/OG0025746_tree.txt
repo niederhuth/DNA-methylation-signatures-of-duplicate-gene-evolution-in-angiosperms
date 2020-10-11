@@ -1,0 +1,1 @@
+((Aduranensis_aradu.V14167.gnm1.ann1.Aradu.9ZQ71:0.910093,(Aipaensis_araip.K30076.gnm1.ann1.Araip.K80PC:0.789209,(Phallii_Pahal.6G157300:0.563221,Aipaensis_araip.K30076.gnm1.ann1.Araip.58W0H:1.04303)n3:0.0208811)n2:0.00232013)n1:0.00667114,(Sitalica_Seita.9G505900:0.560376,Osativa_LOC_Os07g39490:0.699635)n4:0.271935)n0;

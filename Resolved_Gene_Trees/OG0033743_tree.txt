@@ -1,0 +1,1 @@
+(Sviridis_Sevir.3G348301:0.371555,((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00024.193:0.367974,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00024.194:0.480168)n2:0.243038,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00038.128:0.608828)n1:0.371555)n0;

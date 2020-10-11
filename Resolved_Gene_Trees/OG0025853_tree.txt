@@ -1,0 +1,1 @@
+(Nattenuata_NIATv7_g34268:0.32351,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.PB35Z:0.175721,(Aipaensis_araip.K30076.gnm1.ann1.Araip.P0E59:1.12454,((Aipaensis_araip.K30076.gnm1.ann1.Araip.438GZ:0.199264,Aipaensis_araip.K30076.gnm1.ann1.Araip.GCJ0X:0.190351)n4:0.281909,Aipaensis_araip.K30076.gnm1.ann1.Araip.IX12K:0.122314)n3:0.0122314)n2:0.00135904)n1:0.182446)n0;

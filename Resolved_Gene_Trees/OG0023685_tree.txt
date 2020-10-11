@@ -1,0 +1,1 @@
+(Nnucifera_XP_010246686.1:0.109946,(Mtruncatula_Medtr4g116050:0.739907,((Ljaponicus_Lj4g3v2298200:0.2238,Smelongena_SMEL_007g273960.1:0.415391)n3:0.0674255,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.M1W95:0.306113,(Aipaensis_araip.K30076.gnm1.ann1.Araip.KAT13:0.0774068,Aipaensis_araip.K30076.gnm1.ann1.Araip.5A8SK:0.0781102)n5:0.194635)n4:0.222568)n2:0.0142295)n1:0.109946)n0;

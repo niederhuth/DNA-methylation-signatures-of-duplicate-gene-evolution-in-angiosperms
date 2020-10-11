@@ -1,0 +1,1 @@
+(Boleracea_Bo8g032270:0.472159,(Smelongena_SMEL_008g312940.1:0.931213,(Vcorymbosum_maker-VaccDscaff24-snap-gene-31.48:0.113309,(Vcorymbosum_maker-VaccDscaff52-snap-gene-4.30:0.0063868,(Vcorymbosum_maker-VaccDscaff36-snap-gene-139.28:0.133692,Vcorymbosum_maker-VaccDscaff36-snap-gene-141.41:0.163576)n4:0.500929)n3:0.437655)n2:0.416658)n1:0.472159)n0;

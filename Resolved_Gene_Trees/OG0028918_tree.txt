@@ -1,0 +1,1 @@
+((Aipaensis_araip.K30076.gnm1.ann1.Araip.TCQ11:0.52857,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.MGR8R:0.645841)n1:0.0502503,(Graimondii_Gorai.011G173400:0.051876,(Graimondii_Gorai.005G108500:0.220633,Graimondii_Gorai.009G326800:0.0713697)n3:0.011782)n2:0.0502503)n0;

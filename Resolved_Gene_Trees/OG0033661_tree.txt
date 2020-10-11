@@ -1,0 +1,1 @@
+(Fvesca_FvH4_2g22670:0.296281,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold03588.1:0.000649003,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00338.1:0.328457,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold03314.1:0.004862)n2:0.003882)n1:0.296281)n0;

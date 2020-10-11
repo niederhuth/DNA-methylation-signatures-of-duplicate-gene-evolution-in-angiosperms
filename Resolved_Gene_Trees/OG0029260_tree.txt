@@ -1,0 +1,1 @@
+(Cpapaya_evm.TU.supercontig_137.11:0.275305,(Sbicolor_Sobic.009G012200:1.13385,(Aofficinalis_evm.TU.AsparagusV1_07.193:0.217829,(Aofficinalis_evm.TU.AsparagusV1_04.1345:0.768961,Aofficinalis_evm.TU.AsparagusV1_05.2417:0.706562)n3:0.2714)n2:0.0301556)n1:0.166186)n0;

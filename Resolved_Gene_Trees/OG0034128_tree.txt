@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr6G36700_001:0.176519,(Bvulgaris_gene_BVRB_028820:0.813497,(Fxananassa_augustus_masked-Fvb3-3-processed-gene-33.7:0.138068,Boleracea_Bo00951s030:0.45183)n2:0.104552)n1:0.176519)n0;

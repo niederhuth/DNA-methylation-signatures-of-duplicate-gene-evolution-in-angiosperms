@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_25176:0.322952,(Vvinifera_VIT_209s0002g07980:0.304763,(Mtruncatula_Medtr5g057940:0.140261,Mtruncatula_Medtr8g071890:0.135573)n2:0.895531)n1:0.322952)n0;

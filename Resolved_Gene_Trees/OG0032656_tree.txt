@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_11889:0.265896,((Ljaponicus_Lj1g3v2035180:0.0577857,Acoerulea_Aqcoe5G227600:1.05099)n2:0.0482493,Aipaensis_araip.K30076.gnm1.ann1.Araip.IW9L2:0.0813853)n1:0.265896)n0;
