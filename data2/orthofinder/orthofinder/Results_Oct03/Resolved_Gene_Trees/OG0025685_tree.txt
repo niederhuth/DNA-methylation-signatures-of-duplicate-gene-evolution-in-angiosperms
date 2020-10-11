@@ -1,0 +1,1 @@
+((Othomaeum_Oropetium_20150105_07920:0.0653124,Zjujuba_LOC107432277:0.565435)n1:0.0415091,((Spolyrhiza_Spipo21G0020800:0.457651,Spolyrhiza_Spipo21G0020600:0.727658)n3:0.110939,(Fxananassa_maker-Fvb5-3-snap-gene-190.52:0.500699,Acoerulea_Aqcoe3G101400:0.408906)n4:0.131013)n2:0.0415091)n0;

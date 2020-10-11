@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_17354:0.340496,(Aipaensis_araip.K30076.gnm1.ann1.Araip.RX5UG:0.590156,(Bvulgaris_gene_BVRB_4g092950:0.560128,(Bvulgaris_gene_BVRB_4g074360:0.012421,Bvulgaris_gene_BVRB_8g200090:0.008931)n3:0.60184)n2:0.124486)n1:0.340496)n0;

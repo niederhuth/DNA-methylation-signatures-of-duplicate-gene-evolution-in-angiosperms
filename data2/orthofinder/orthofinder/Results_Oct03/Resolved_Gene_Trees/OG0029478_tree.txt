@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00041.282:0.162301,((Bdistachyon_Bradi5g08325:0.0811569,Bdistachyon_Bradi4g23790:0.508911)n2:0.439897,(Sbicolor_Sobic.007G103000:0.109101,Sbicolor_Sobic.004G255900:0.0143059)n3:0.494759)n1:0.162301)n0;

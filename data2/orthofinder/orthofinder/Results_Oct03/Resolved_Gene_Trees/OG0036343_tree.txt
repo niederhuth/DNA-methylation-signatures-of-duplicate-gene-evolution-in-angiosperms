@@ -1,0 +1,1 @@
+(Mdomestica_MD13G1284900:0.598697,((Rchinensis_RcHm_v2.0_Chr2g0105151:0.0123763,Rchinensis_RcHm_v2.0_Chr2g0107541:0.0289258)n2:0.0107133,Rchinensis_RcHm_v2.0_Chr3g0491521:1.24412e-06)n1:0.598697)n0;

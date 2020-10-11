@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr11G22590_001:0.599868,((Aofficinalis_evm.TU.AsparagusV1_08.729:0.103629,Aofficinalis_evm.TU.AsparagusV1_09.559:0.11132)n2:0.0833742,Aofficinalis_evm.TU.AsparagusV1_02.1894:0.126323)n1:0.599868)n0;

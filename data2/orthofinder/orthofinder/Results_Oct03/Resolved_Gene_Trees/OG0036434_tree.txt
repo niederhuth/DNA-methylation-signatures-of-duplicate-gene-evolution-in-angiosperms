@@ -1,0 +1,1 @@
+(Mguttatus_Migut.B01160:0.274384,((Rchinensis_RcHm_v2.0_Chr7g0185091:0.683069,Ppersica_Prupe.8G078500:0.319564)n2:0.22524,Ptrichocarpa_Potri.007G083800:0.387485)n1:0.274384)n0;

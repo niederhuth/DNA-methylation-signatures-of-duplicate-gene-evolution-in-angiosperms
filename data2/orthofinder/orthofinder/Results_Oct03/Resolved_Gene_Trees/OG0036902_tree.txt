@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_06560:0.222342,(Rchinensis_RcHm_v2.0_Chr7g0207181:0.0393758,(Rchinensis_RcHm_v2.0_Chr7g0206891:0.249732,Rchinensis_RcHm_v2.0_Chr0c22g0500461:0.0961832)n2:0.0184727)n1:0.222342)n0;

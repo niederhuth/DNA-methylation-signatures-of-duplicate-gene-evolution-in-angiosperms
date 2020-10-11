@@ -1,0 +1,1 @@
+(Fxananassa_maker-Fvb7-1-snap-gene-250.64:0.642667,(Gmax_Glyma.02G092100:0.829998,((Mtruncatula_Medtr7g026080:0.303574,Mtruncatula_Medtr6g478100:1.05485)n3:0.18292,Ljaponicus_Lj0g3v0344469:3.8513e-06)n2:0.270079)n1:0.642667)n0;

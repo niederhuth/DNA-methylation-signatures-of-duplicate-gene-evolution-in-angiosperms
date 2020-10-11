@@ -1,0 +1,1 @@
+(Bvulgaris_gene_BVRB_1g021190:0.376637,(Mguttatus_Migut.G00686:0.563076,(((Mguttatus_Migut.N03035:0.0270401,Mguttatus_Migut.N03037:0.0400779)n4:0.00381663,Mguttatus_Migut.N03029:0.0425654)n3:0.081673,(Mguttatus_Migut.G00685:0.0131381,Mguttatus_Migut.G00688:0.0136739)n5:0.152567)n2:0.0419443)n1:0.376637)n0;

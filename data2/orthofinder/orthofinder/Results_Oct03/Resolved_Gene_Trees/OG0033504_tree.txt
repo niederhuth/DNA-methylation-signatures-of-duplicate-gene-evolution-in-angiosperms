@@ -1,0 +1,1 @@
+((Brapa_Brara.H00368:0.479776,Roccidentalis_maker-Ro04-snap-gene-78.59:0.250194)n1:0.154196,(Aofficinalis_evm.TU.AsparagusV1_07.1152:0.103404,Aofficinalis_evm.TU.AsparagusV1_07.1091:0.136925)n2:0.154196)n0;

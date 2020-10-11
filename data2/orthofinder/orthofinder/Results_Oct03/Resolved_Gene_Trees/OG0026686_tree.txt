@@ -1,0 +1,1 @@
+(Bvulgaris_gene_BVRB_9g210390:0.318962,((((Cpapaya_evm.TU.supercontig_93.8:0.556156,Cpapaya_evm.TU.supercontig_38.86:0.724629)n4:0.0606561,Cpapaya_evm.TU.supercontig_498.1:0.111537)n3:0.0390997,Cpapaya_evm.TU.supercontig_288.1:0.715943)n2:0.0377147,Cpapaya_evm.TU.contig_42078:0.390249)n1:0.318962)n0;

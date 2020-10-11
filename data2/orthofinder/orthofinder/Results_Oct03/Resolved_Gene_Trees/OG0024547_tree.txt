@@ -1,0 +1,1 @@
+((Vcorymbosum_maker-VaccDscaff13-snap-gene-250.30:0.431697,(Ppersica_Prupe.5G099400:0.588059,Ppersica_Prupe.5G112400:0.879914)n2:0.106038)n1:0.0367285,(Cpapaya_evm.TU.supercontig_205.19:0.524664,(Slycopersicum_Solyc08g068030.1:0.0594155,(Smelongena_SMEL_000g035540.1:0.0383205,Smelongena_SMEL_008g310480.1:0.0128462)n5:0.00142735)n4:0.00863018)n3:0.0367285)n0;

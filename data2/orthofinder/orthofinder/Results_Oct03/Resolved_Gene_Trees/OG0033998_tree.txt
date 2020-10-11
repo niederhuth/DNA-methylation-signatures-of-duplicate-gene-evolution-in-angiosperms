@@ -1,0 +1,1 @@
+(Vcorymbosum_maker-VaccDscaff47-snap-gene-59.24:0.355226,((Rchinensis_RcHm_v2.0_Chr1g0321651:0.0675488,Fxananassa_snap_masked-Fvb6-2-processed-gene-332.13:0.563006)n2:0.224602,Boleracea_Bo3g060220:0.689526)n1:0.355226)n0;

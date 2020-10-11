@@ -1,0 +1,1 @@
+((Aofficinalis_evm.TU.AsparagusV1_02.1822:0.306278,Nattenuata_NIATv7_g64901:0.120115)n1:0.0371671,(Eguineensis_p5.00_sc00283_p0010:0.444284,(Vvinifera_VIT_214s0128g00730:0.263532,(Roccidentalis_maker-Ro06-snap-gene-272.65:0.624987,(Fvesca_FvH4_6g05960:0.447544,Fxananassa_snap_masked-Fvb3-4-processed-gene-256.28:0.0745042)n5:0.0767645)n4:0.146251)n3:0.161186)n2:0.0371671)n0;

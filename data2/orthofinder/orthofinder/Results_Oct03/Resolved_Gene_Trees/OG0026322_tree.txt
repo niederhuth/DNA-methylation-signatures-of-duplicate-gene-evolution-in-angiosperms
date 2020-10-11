@@ -1,0 +1,1 @@
+(Cpapaya_evm.TU.supercontig_1.135:0.399882,(Othomaeum_Oropetium_20150105_07282:0.301972,(Aofficinalis_evm.TU.AsparagusV1_01.2313:0.332315,((Aofficinalis_evm.TU.AsparagusV1_09.1238:0.240665,Aofficinalis_evm.TU.AsparagusV1_06.1775:0.19173)n4:0.0698629,Aofficinalis_evm.TU.AsparagusV1_01.1861:0.325862)n3:0.123958)n2:0.312302)n1:0.399882)n0;

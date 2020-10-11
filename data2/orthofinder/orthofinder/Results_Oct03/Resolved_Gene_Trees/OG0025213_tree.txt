@@ -1,0 +1,1 @@
+(Osativa_LOC_Os09g38930:0.20734,(Sviridis_Sevir.3G091432:0.795744,(Phallii_Pahal.3G065500:0.115799,(Pvirgatum_Pavir.3KG071900:0.215129,((Pvirgatum_Pavir.3NG056101:0,Pvirgatum_Pavir.3NG055650:0)n5:0,Pvirgatum_Pavir.3NG055920:0)n4:0.0874399)n3:0.0714296)n2:0.165878)n1:0.20734)n0;

@@ -1,0 +1,1 @@
+(Gmax_Glyma.07G214200:0.726491,(Ljaponicus_Lj1g3v0841560:0.004821,((Ljaponicus_Lj3g3v0428610:0,(Ljaponicus_Lj1g3v2580750:0,(Ljaponicus_Lj5g3v0615740:0,Ljaponicus_Lj1g3v3948120:0)n5:0)n4:0)n3:0,Ljaponicus_Lj1g3v4764000:0)n2:0.037167)n1:0.726491)n0;

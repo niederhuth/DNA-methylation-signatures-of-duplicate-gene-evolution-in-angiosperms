@@ -1,0 +1,1 @@
+(Bvulgaris_gene_BVRB_7g177910:0.196206,(Cclementina_Ciclev10026817m.g:0.5891,(Crubella_Carub.0007s0932:0.498936,((Ptrichocarpa_Potri.014G001800:0.217683,Ptrichocarpa_Potri.014G011200:0.304001)n4:0.24826,Gmax_Glyma.19G019660:0.405377)n3:0.0491033)n2:0.147902)n1:0.196206)n0;

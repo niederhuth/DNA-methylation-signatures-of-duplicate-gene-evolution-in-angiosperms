@@ -1,0 +1,1 @@
+(Nattenuata_NIATv7_g59394:0.236497,((Ljaponicus_Lj0g3v0219099:0.111582,Ljaponicus_Lj4g3v2692490:0.632205)n2:0.210168,((Mtruncatula_Medtr6g082720:0.027022,Mtruncatula_Medtr5g040670:2.18773e-06)n4:0.19623,Mtruncatula_Medtr6g008045:0.235023)n3:0.329527)n1:0.236497)n0;

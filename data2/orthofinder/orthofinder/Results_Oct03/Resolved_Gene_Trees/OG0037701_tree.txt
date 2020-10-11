@@ -1,0 +1,1 @@
+(Smelongena_SMEL_000g079010.1:0.323718,(Rchinensis_RcHm_v2.0_Chr7g0222231:0.534499,(Rchinensis_RcHm_v2.0_Chr5g0047461:0.00995744,Rchinensis_RcHm_v2.0_Chr7g0231891:0.0418756)n2:0.316423)n1:0.323718)n0;

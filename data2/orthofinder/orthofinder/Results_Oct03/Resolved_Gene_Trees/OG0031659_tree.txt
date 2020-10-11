@@ -1,0 +1,1 @@
+(Paxillaris_Peaxi162Scf00768g00005:0,(((Paxillaris_Peaxi162Scf00497g00074:0.778753,Paxillaris_Peaxi162Scf00086g01218:0.395793)n3:0.408499,Paxillaris_Peaxi162Scf00134g00811:0.133201)n2:0.0954275,Paxillaris_Peaxi162Scf00548g00418:0)n1:0)n0;

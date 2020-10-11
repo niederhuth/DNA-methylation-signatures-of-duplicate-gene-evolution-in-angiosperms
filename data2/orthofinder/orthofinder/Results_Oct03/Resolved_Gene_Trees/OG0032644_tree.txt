@@ -1,0 +1,1 @@
+(Spolyrhiza_Spipo5G0019600:0.379575,(Acoerulea_Aqcoe1G242000:0.584653,(Acoerulea_Aqcoe1G239700:0.119219,Acoerulea_Aqcoe1G239800:0.0453737)n2:0.148111)n1:0.379575)n0;

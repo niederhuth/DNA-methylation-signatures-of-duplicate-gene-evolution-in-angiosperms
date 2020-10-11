@@ -1,0 +1,1 @@
+((Clanatus_Cla97C09G181970:0.648271,(Cpapaya_evm.TU.supercontig_140.6:0.497526,(Boleracea_Bo7g102670:0.821267,Cpapaya_evm.TU.supercontig_466.5:0.462511)n3:0.100022)n2:0.0111136)n1:0.0969089,Rchinensis_RcHm_v2.0_Chr2g0111291:0.658356)n0;

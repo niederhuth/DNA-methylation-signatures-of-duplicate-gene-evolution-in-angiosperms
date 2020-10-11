@@ -1,0 +1,1 @@
+(Cpapaya_evm.TU.supercontig_23.88:0.238731,(Mdomestica_MD10G1091500:0.415992,(Fxananassa_snap_masked-Fvb2-4-processed-gene-263.47:0.317481,((Ljaponicus_Lj0g3v0280069:0.0533348,Ljaponicus_Lj2g3v1376560:0.413443)n4:0.0832601,Mtruncatula_Medtr4g014910:0.365429)n3:0.0928356)n2:0.368243)n1:0.238731)n0;

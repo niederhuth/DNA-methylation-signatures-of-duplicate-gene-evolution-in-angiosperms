@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00025.333:0.429776,(Cpapaya_evm.TU.supercontig_30.40:0.278221,(Alyrata_AL3G44340:0.626712,Roccidentalis_maker-Ro05-snap-gene-351.68:0.707376)n2:0.384)n1:0.429776)n0;

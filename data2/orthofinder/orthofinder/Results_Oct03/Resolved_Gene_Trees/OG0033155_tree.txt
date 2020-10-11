@@ -1,0 +1,1 @@
+(Vvinifera_VIT_218s0001g08500:0.172392,(Ptrichocarpa_Potri.009G100266:0.699519,(Aipaensis_araip.K30076.gnm1.ann1.Araip.AMF3U:0.442891,Roccidentalis_maker-Ro02-snap-gene-371.87:0.568672)n2:0.275925)n1:0.172392)n0;

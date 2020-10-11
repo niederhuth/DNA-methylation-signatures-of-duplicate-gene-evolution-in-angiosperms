@@ -1,0 +1,1 @@
+((Sviridis_Sevir.2G268600:0.236276,Sitalica_Seita.2G257900:0.0480614)n1:0.490799,((Slycopersicum_Solyc01g099925.1:0.764527,(Ljaponicus_Lj0g3v0015879:0.656954,(Fxananassa_snap_masked-Fvb2-1-processed-gene-183.23:0.811583,Fxananassa_snap_masked-Fvb4-3-processed-gene-65.21:0.837271)n5:0.0930301)n4:0.129437)n3:0.0448754,Cmelo_MELO3C030878.2:0.985962)n2:0.490799)n0;

@@ -1,0 +1,1 @@
+((Aofficinalis_evm.TU.AsparagusV1_01.716:0.757297,Zmays_Zm00001d031930:0.223558)n1:0.0874686,(Cannuum_CA03g20200:0.286711,(Clanatus_Cla97C08G151770:0.294358,((Fxananassa_maker-Fvb1-2-augustus-gene-212.20:0.00477469,Fxananassa_maker-Fvb2-2-augustus-gene-222.39:0.00156831)n5:0.098663,Aipaensis_araip.K30076.gnm1.ann1.Araip.WNZ5A:0.122682)n4:0.068489)n3:0.0123407)n2:0.0874686)n0;

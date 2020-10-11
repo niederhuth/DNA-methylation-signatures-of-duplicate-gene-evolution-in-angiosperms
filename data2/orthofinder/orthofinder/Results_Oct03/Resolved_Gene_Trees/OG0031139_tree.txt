@@ -1,0 +1,1 @@
+((Vcorymbosum_maker-VaccDscaff4-augustus-gene-138.47:0.551225,Mguttatus_Migut.H00219:1.21418e-06)n1:0.165627,(Ptrichocarpa_Potri.015G046100:0.299337,(Ljaponicus_Lj3g3v0423750:0,Ljaponicus_Lj4g3v3099350:0)n3:0.036687)n2:0.165627)n0;

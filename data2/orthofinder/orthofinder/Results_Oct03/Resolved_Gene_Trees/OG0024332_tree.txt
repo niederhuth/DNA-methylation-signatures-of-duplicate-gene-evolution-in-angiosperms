@@ -1,0 +1,1 @@
+((Bvulgaris_gene_BVRB_9g203070:0.100319,((Vcorymbosum_maker-VaccDscaff453-augustus-gene-0.17:0.0638226,Cpapaya_evm.TU.supercontig_0.157:0.643821)n3:0.0563647,((Fxananassa_maker-Fvb4-1-augustus-gene-193.31:0.123024,Cpapaya_evm.TU.supercontig_0.159:0.665922)n5:0.0755398,Clanatus_Cla97C09G166920:0.141833)n4:0.0664389)n2:0.0073821)n1:0.0232129,Nattenuata_NIATv7_g32454:0.0640503)n0;

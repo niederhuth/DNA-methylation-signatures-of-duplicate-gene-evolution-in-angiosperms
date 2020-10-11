@@ -1,0 +1,1 @@
+((Smelongena_SMEL_001g126740.1:0.341873,Nattenuata_NIATv7_g31110:0.135297)n1:0.487717,(Vcorymbosum_maker-VaccDscaff17-augustus-gene-182.22:0.0126889,((Vcorymbosum_maker-VaccDscaff34-augustus-gene-167.8:0.0146497,Vcorymbosum_maker-VaccDscaff27-augustus-gene-145.31:0.00208025)n4:0.00243062,Vcorymbosum_maker-VaccDscaff34-augustus-gene-166.15:0.0046511)n3:0.0662978)n2:0.487717)n0;

@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr6G24350_001:0.173943,(Ptrichocarpa_Potri.T101200:0.608566,(Cpapaya_evm.TU.supercontig_8.248:0.68719,Mdomestica_MD17G1091700:0.426024)n2:0.142832)n1:0.173943)n0;

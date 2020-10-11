@@ -1,0 +1,1 @@
+((Stuberosum_PGSC0003DMG400015447:0.171312,Mdomestica_MD08G1106100:0.164308)n1:0.130477,(Aofficinalis_evm.TU.AsparagusV1_06.111:0.109229,((Aofficinalis_evm.TU.AsparagusV1_04.1309:2.86489e-06,Aofficinalis_evm.TU.AsparagusV1_03.2868:0.916869)n4:0.400332,Aofficinalis_evm.TU.AsparagusV1_03.2869:0.453466)n3:0.519488)n2:0.130477)n0;

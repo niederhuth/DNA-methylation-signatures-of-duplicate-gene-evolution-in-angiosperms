@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00168.22:0.0930513,((Vcorymbosum_snap_masked-VaccDscaff1356-processed-gene-0.3:0.288949,Ptrichocarpa_Potri.017G142000:0.279351)n2:0.20841,(Gmax_Glyma.16G180700:0.236552,(Mdomestica_MD01G1205600:0.526772,Mdomestica_MD07G1275100:0.216189)n4:0.024021)n3:0.107377)n1:0.112718)n0;

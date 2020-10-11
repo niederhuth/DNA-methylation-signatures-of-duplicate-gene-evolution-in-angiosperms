@@ -1,0 +1,1 @@
+((Cviolacea_Clevi.0013s0146:0.0999197,Cviolacea_Clevi.0013s0148:0.107375)n1:0.218351,(Alyrata_AL8G32870:0.39164,((Crubella_Carub.0008s1739:0.623605,Esalsugineum_Thhalv10015311m.g:0.659854)n4:0.0384642,(Crubella_Carub.0007s2682:0.495198,Esalsugineum_Thhalv10015038m.g:0.216842)n5:0.0240936)n3:0.197513)n2:0.0219459)n0;

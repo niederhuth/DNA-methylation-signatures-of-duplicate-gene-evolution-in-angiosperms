@@ -1,0 +1,1 @@
+(Roccidentalis_maker-Ro02-snap-gene-54.49:0.618986,(((Fvesca_FvH4_2g30470:0.298513,(Fvesca_FvH4_2g30430:0.42387,Fvesca_FvH4_2g30340:0.207103)n4:0.190029)n3:0.487366,Fvesca_FvH4_2g30420:0.124061)n2:0.0741576,Rchinensis_RcHm_v2.0_Chr6g0312301:1.06077)n1:0.618986)n0;

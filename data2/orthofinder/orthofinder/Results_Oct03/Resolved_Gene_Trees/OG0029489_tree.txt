@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00003.394:0.269677,((Eguineensis_p5.00_sc00026_p0061:0.437534,Eguineensis_p5.00_sc00638_p0007:0.259858)n2:0.452788,(Ljaponicus_Lj0g3v0281899:0.934189,Rchinensis_RcHm_v2.0_Chr2g0112331:0.572165)n3:0.0905168)n1:0.269677)n0;

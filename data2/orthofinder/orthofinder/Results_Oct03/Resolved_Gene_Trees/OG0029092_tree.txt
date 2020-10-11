@@ -1,0 +1,1 @@
+((Tcacao_Thecc1EG026896:0.744387,Zmays_Zm00001d039812:0.731601)n1:0.112526,(Aipaensis_araip.K30076.gnm1.ann1.Araip.W42KI:0.495569,(Aofficinalis_evm.TU.AsparagusV1_01.117:0.633251,Rchinensis_RcHm_v2.0_Chr2g0175391:0.232485)n3:0.0248609)n2:0.112526)n0;

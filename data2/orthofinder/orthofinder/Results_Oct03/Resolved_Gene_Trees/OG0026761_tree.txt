@@ -1,0 +1,1 @@
+(Ljaponicus_Lj3g3v3406960:0.124715,(Vcorymbosum_augustus_masked-VaccDscaff21-processed-gene-43.7:0.550849,((Cannuum_CA09g16300:0.370404,Cannuum_CA06g09080:0.123662)n3:0.0975047,(Cannuum_CA07g10240:0.0986915,Cannuum_CA04g10660:0.14808)n4:0.151873)n2:0.0775911)n1:0.124715)n0;

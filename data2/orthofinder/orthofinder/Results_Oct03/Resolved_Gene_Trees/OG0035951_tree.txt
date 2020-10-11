@@ -1,0 +1,1 @@
+(Paxillaris_Peaxi162Scf00102g01237:0.890004,(Graimondii_Gorai.002G173900:2.3153e-06,(Graimondii_Gorai.012G088000:2.3153e-06,Graimondii_Gorai.010G043000:0.520015)n2:0.017075)n1:0.890004)n0;

@@ -1,0 +1,1 @@
+(((Cpapaya_evm.TU.supercontig_17.92:0.847777,Cpapaya_evm.TU.supercontig_65.1:3.28161e-06)n2:0.446144,(Osativa_LOC_Os01g40370:0.431397,Osativa_LOC_Os01g40390:0.530345)n3:0.0589273)n1:0.0126503,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.VVL4C:0.636124,Ljaponicus_Lj0g3v0187689:0.130117)n4:0.383987)n0;

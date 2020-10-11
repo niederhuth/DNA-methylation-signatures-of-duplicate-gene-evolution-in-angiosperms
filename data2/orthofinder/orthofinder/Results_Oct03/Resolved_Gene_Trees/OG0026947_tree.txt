@@ -1,0 +1,1 @@
+((Pvulgaris_Phvul.008G129200:0.805575,(Slycopersicum_Solyc01g013820.1:0.511983,(Slycopersicum_Solyc01g012560.1:3.90888e-06,Slycopersicum_Solyc01g009140.1:0.451371)n3:0.310658)n2:0.0345176)n1:0.0320007,(Cpapaya_evm.TU.supercontig_397.5:0.77287,Cpapaya_evm.TU.supercontig_123.44:0.869359)n4:0.134224)n0;

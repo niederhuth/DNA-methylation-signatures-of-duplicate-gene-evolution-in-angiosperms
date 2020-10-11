@@ -1,0 +1,1 @@
+((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00074.2:0.162556,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00226.3:0.0287635)n1:0.541701,(Aipaensis_araip.K30076.gnm1.ann1.Araip.J8DXW:0.800679,Mdomestica_MD08G1099000:0.472957)n2:0.541701)n0;

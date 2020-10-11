@@ -1,0 +1,1 @@
+(((Aipaensis_araip.K30076.gnm1.ann1.Araip.704CD:0.0886377,Aofficinalis_evm.TU.AsparagusV1_09.955:0.0494373)n2:0.0455534,Othomaeum_Oropetium_20150105_10847:0.130793)n1:0.124335,(Smelongena_SMEL_000g019220.1:0.0704446,(Macuminata_GSMUA_Achr3G19110_001:0.0728127,Fxananassa_maker-Fvb2-3-augustus-gene-36.47:0.372429)n4:0.0670289)n3:0.124335)n0;

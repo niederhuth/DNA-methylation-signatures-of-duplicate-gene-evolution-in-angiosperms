@@ -1,0 +1,1 @@
+(((Vcorymbosum_maker-VaccDscaff48-snap-gene-88.56:0.155294,Vcorymbosum_maker-VaccDscaff28-snap-gene-329.65:0.0831644)n2:0.779452,(Zmays_Zm00001d043584:0.131616,Zmays_Zm00001d021067:0.372718)n3:0.0414132)n1:0.0373032,Ljaponicus_Lj0g3v0353979:0.63051)n0;

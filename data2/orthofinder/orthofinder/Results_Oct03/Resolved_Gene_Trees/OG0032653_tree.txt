@@ -1,0 +1,1 @@
+((Mdomestica_MD09G1219900:0.84708,Mesculenta_Manes.S022186:0.903021)n1:0.089018,(Acoerulea_Aqcoe5G314000:0.613553,Acoerulea_Aqcoe5G128900:0.40978)n2:0.089018)n0;

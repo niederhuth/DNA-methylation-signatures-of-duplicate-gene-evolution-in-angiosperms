@@ -1,0 +1,1 @@
+((Boleracea_Bo4g186250:0.548686,(Cpapaya_evm.TU.contig_37237:0.126691,Cpapaya_evm.TU.supercontig_1221.1:0.758944)n2:0.0711686)n1:0.088395,(Fvesca_FvH4_3g19380:0.0314871,(Fxananassa_maker-Fvb1-1-snap-gene-104.27:0.462419,(Fxananassa_maker-Fvb6-2-snap-gene-101.15:0.298778,Fxananassa_maker-Fvb3-4-augustus-gene-194.30:0.228548)n5:0.0228548)n4:0.00253942)n3:0.0703662)n0;

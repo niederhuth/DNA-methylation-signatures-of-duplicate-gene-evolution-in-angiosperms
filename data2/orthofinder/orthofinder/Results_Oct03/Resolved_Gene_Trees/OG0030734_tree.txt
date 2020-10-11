@@ -1,0 +1,1 @@
+(Fxananassa_snap_masked-Fvb6-1-processed-gene-126.29:0.501942,(Vcorymbosum_maker-VaccDscaff39-snap-gene-98.39:0.234855,(Vcorymbosum_maker-VaccDscaff43-snap-gene-14.35:0.467098,(Vcorymbosum_snap_masked-VaccDscaff47-processed-gene-183.30:0.206744,Vcorymbosum_maker-VaccDscaff22-snap-gene-359.58:0.359253)n3:0.251398)n2:0.139546)n1:0.501942)n0;

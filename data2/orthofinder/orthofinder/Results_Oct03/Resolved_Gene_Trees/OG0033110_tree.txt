@@ -1,0 +1,1 @@
+(Boleracea_Bo5g121340:0.543785,((Aipaensis_araip.K30076.gnm1.ann1.Araip.UY1TJ:0.260019,Aipaensis_araip.K30076.gnm1.ann1.Araip.SA6B5:0.163556)n2:0.127779,Aipaensis_araip.K30076.gnm1.ann1.Araip.BT5XB:0.14248)n1:0.543785)n0;

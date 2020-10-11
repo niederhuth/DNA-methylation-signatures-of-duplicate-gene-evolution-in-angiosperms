@@ -1,0 +1,1 @@
+(Acoerulea_Aqcoe3G239600:0.107835,((Mesculenta_Manes.S011064:0,Mesculenta_Manes.09G076399:0)n2:0.26135,(Esalsugineum_Thhalv10029205m.g:0.13609,(Cviolacea_Clevi.0024s0087:0.21218,Ptrichocarpa_Potri.018G044800:0.537404)n4:0.138639)n3:0.0506217)n1:0.107835)n0;

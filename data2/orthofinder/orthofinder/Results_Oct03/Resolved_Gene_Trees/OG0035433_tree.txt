@@ -1,0 +1,1 @@
+(Zjujuba_LOC107404483:0.749321,((Fxananassa_maker-Fvb3-2-augustus-gene-206.23:0.0626745,Fxananassa_maker-Fvb3-1-augustus-gene-105.25:2.42922e-06)n2:0.317957,Fxananassa_maker-Fvb3-4-augustus-gene-106.46:0.577063)n1:0.749321)n0;

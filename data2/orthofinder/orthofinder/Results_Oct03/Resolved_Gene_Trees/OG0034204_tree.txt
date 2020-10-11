@@ -1,0 +1,1 @@
+(Vcorymbosum_snap_masked-VaccDscaff3-processed-gene-317.21:1.02986,((Bvulgaris_gene_BVRB_9g211180:2.62336e-06,Bvulgaris_gene_BVRB_5g122760:0.0831127)n2:0.201969,Bvulgaris_gene_BVRB_1g013240:0.300897)n1:1.02986)n0;

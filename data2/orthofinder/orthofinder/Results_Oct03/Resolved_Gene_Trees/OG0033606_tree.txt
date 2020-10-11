@@ -1,0 +1,1 @@
+((Aofficinalis_evm.TU.AsparagusV1_10.1033:0.547318,Othomaeum_Oropetium_20150105_12754:0.826939)n1:0.201885,(Ljaponicus_Lj4g3v2883380:1.85234e-06,Ljaponicus_Lj3g3v2920880:0.078492)n2:0.201885)n0;

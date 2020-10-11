@@ -1,0 +1,1 @@
+(Zmays_Zm00001d008571:0.559494,((Aipaensis_araip.K30076.gnm1.ann1.Araip.S39GR:0.437253,Aipaensis_araip.K30076.gnm1.ann1.Araip.H2KJU:0.527125)n2:0.236898,(Egrandis_Eucgr.J00708:0.168642,Egrandis_Eucgr.J00931:0.268755)n3:0.710368)n1:0.559494)n0;

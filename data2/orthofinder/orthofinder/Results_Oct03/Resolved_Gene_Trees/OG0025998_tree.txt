@@ -1,0 +1,1 @@
+((Macuminata_GSMUA_Achr10G08600_001:0.218188,Pvirgatum_Pavir.5KG242514:0.918285)n1:0.0481636,(Mesculenta_Manes.05G080500:0.389541,(Aipaensis_araip.K30076.gnm1.ann1.Araip.3PY7U:0.323741,(Rchinensis_RcHm_v2.0_Chr7g0178391:0.331549,Cpapaya_evm.TU.supercontig_92.3:0.108234)n4:0.256443)n3:0.125856)n2:0.0481636)n0;

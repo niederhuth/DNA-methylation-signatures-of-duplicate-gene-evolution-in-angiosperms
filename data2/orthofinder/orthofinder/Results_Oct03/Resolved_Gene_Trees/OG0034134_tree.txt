@@ -1,0 +1,1 @@
+((Crubella_Carub.0006s3048:0.673668,Boleracea_Bo1g033190:1.20884)n1:0.278654,(Slycopersicum_Solyc10g006670.1:0.739089,Cannuum_CA10g00290:0.141824)n2:0.278654)n0;

@@ -1,0 +1,1 @@
+(Egrandis_Eucgr.H01927:0.470665,(((Mesculenta_Manes.12G102500:0.424963,Mesculenta_Manes.13G134600:0.430597)n3:0.175932,Ptrichocarpa_Potri.007G032600:0.470492)n2:0.396046,Tcacao_Thecc1EG000477:0.843471)n1:0.470665)n0;

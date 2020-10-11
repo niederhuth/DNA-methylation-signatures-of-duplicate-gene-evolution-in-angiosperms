@@ -1,0 +1,1 @@
+((Rchinensis_RcHm_v2.0_Chr1g0351461:0.450497,Roccidentalis_maker-Ro05-exonerate_protein2genome-gene-133.22:0.745076)n1:0.118018,(Ljaponicus_Lj0g3v0274059:0.699316,(Gmax_Glyma.14G002200:1.0339,((Mtruncatula_Medtr4g131250:0.0079439,Mtruncatula_Medtr4g131280:0.0306091)n5:0.062907,Mtruncatula_Medtr4g131210:0.145939)n4:0.894063)n3:0.0466571)n2:0.118018)n0;

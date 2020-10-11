@@ -1,0 +1,1 @@
+(Pvirgatum_Pavir.3KG230827:0.256904,((Aofficinalis_evm.TU.AsparagusV1_02.1635:0.233966,Aofficinalis_evm.TU.AsparagusV1_10.1132:0.536919)n2:0.462181,Aofficinalis_evm.TU.AsparagusV1_04.748:0.562053)n1:0.256904)n0;

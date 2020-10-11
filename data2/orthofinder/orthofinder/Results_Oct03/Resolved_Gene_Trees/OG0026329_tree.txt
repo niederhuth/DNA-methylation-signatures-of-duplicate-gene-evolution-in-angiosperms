@@ -1,0 +1,1 @@
+(((Sitalica_Seita.5G148200:0.571949,(Bdistachyon_Bradi2g06775:0.500639,Phallii_Pahal.3G068300:0.280982)n3:0.124726)n2:0.530186,(Aofficinalis_evm.TU.AsparagusV1_01.2584:0.734545,Aofficinalis_evm.TU.AsparagusV1_01.2585:0.755975)n4:0.0839972)n1:0.0763393,Pvirgatum_Pavir.2NG519803:0.915932)n0;

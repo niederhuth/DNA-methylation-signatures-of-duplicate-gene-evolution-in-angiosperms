@@ -1,0 +1,1 @@
+(Zmays_Zm00001d050474:0.253979,(Roccidentalis_maker-Ro03-snap-gene-374.72:0.323977,(Rchinensis_RcHm_v2.0_Chr6g0289621:0.104937,(Rchinensis_RcHm_v2.0_Chr1g0337861:0,Rchinensis_RcHm_v2.0_Chr0c29g0501101:0)n3:0.127974)n2:0.138859)n1:0.253979)n0;

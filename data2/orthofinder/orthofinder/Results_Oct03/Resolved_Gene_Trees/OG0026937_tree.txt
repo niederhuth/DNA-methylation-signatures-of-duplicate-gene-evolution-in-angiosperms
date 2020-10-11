@@ -1,0 +1,1 @@
+(((Mdomestica_MD11G1285700:0.165258,Cpapaya_evm.TU.supercontig_10.133:0.334798)n2:0.0404533,((Zmays_Zm00001d045612:0.303458,Zmays_Zm00001d011524:0.104197)n4:0.612128,Zmays_Zm00001d025797:0.620714)n3:0.0689683)n1:0.0218462,Vcorymbosum_snap_masked-VaccDscaff34-processed-gene-46.36:0.181827)n0;

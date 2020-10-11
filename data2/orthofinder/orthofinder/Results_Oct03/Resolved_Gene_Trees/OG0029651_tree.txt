@@ -1,0 +1,1 @@
+(Vcorymbosum_maker-VaccDscaff26-snap-gene-157.43:0.550724,((Boleracea_Bo9g046650:0.249418,Boleracea_Bo6g068140:0.00936662)n2:0.259338,(Esalsugineum_Thhalv10024040m.g:0.220117,Mdomestica_MD12G1002000:0.305447)n3:0.370574)n1:0.550724)n0;

@@ -1,0 +1,1 @@
+(Sbicolor_Sobic.001G089900:0.568687,(Aofficinalis_evm.TU.AsparagusV1_05.1664:0.247144,(Aofficinalis_evm.TU.AsparagusV1_03.2548:0.0885771,(Aofficinalis_evm.TU.AsparagusV1_10.777:0.219814,Aofficinalis_evm.TU.AsparagusV1_07.2220:0.226558)n3:0.127805)n2:0.130075)n1:0.568687)n0;

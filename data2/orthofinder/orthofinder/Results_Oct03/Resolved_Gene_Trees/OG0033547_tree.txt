@@ -1,0 +1,1 @@
+(Mdomestica_MD09G1001300:0.34609,((Aofficinalis_evm.TU.AsparagusV1_04.3130:0.100474,Aofficinalis_evm.TU.AsparagusV1_06.1347:0.254653)n2:0.129845,Aofficinalis_evm.TU.AsparagusV1_01.593:0.540269)n1:0.34609)n0;

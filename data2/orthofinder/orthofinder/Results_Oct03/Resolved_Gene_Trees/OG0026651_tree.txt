@@ -1,0 +1,1 @@
+((Boleracea_Bo9g161610:0.886379,Sviridis_Sevir.8G119460:0.0414526)n1:0.0164162,(Pvirgatum_Pavir.7KG182617:0.0508167,((Vcorymbosum_maker-VaccDscaff30-snap-gene-129.26:0.759049,Smelongena_SMEL_000g005290.1:0.344269)n4:0.0950153,Mdomestica_MD06G1026000:0.557871)n3:0.408777)n2:0.0164162)n0;

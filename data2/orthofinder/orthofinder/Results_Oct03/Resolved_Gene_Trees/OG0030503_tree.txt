@@ -1,0 +1,1 @@
+(Stuberosum_PGSC0003DMG402000524:0.239229,(Fvesca_FvH4_6g50690:0.086358,(Fxananassa_snap_masked-Fvb6-4-processed-gene-5.39:0.167906,(Fxananassa_maker-Fvb6-1-snap-gene-24.61:0,Fxananassa_maker-Fvb6-1-snap-gene-24.62:0)n3:0.141519)n2:0.0157243)n1:0.22948)n0;

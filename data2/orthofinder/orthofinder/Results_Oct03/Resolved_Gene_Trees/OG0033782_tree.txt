@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00143.19:0.433201,(Esalsugineum_Thhalv10005726m.g:0.104584,(Macuminata_GSMUA_Achr6G10480_001:0.33321,Vcorymbosum_augustus_masked-VaccDscaff31-processed-gene-262.1:0.239893)n2:0.054379)n1:0.433201)n0;

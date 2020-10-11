@@ -1,0 +1,1 @@
+(Spolyrhiza_Spipo23G0022000:0.363961,(Graimondii_Gorai.010G154000:0.644526,(Slycopersicum_Solyc06g042980.3:0.246406,(((Vcorymbosum_maker-VaccDscaff20-snap-gene-53.41:0.514998,Vcorymbosum_maker-VaccDscaff28-augustus-gene-300.49:0.355351)n5:0.129573,Nattenuata_NIATv7_g18174:0.167056)n4:0.106767,Paxillaris_Peaxi162Scf00658g00733:0.354951)n3:0.0757228)n2:0.173617)n1:0.363961)n0;

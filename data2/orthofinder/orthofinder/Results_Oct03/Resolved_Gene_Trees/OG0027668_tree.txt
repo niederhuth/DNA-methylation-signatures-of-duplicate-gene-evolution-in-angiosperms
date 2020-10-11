@@ -1,0 +1,1 @@
+((Macuminata_GSMUA_Achr9G26070_001:0.191501,Macuminata_GSMUA_Achr9G26060_001:0.233627)n1:0.130367,((Roccidentalis_maker-Ro03-snap-gene-342.97:0.167028,Paxillaris_Peaxi162Scf00111g00631:0.280527)n3:0.0345291,(Vcorymbosum_maker-VaccDscaff42-snap-gene-200.48:0.0677815,Vcorymbosum_maker-VaccDscaff13-snap-gene-299.23:0.103235)n4:0.264605)n2:0.130367)n0;

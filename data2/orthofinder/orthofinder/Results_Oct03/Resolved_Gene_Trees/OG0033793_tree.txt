@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00064.92:0.220924,(Fxananassa_augustus_masked-Fvb3-2-processed-gene-226.8:1.31747,(Cmelo_MELO3C024153.2:0.304396,Ljaponicus_Lj0g3v0101289:0.0518108)n2:0.221357)n1:0.220924)n0;

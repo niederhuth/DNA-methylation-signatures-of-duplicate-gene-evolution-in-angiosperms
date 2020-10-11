@@ -1,0 +1,1 @@
+(Vcorymbosum_maker-VaccDscaff52-snap-gene-5.38:0.416401,(Gsoja_GlysoPI483463.11G204600:1.64651e-06,(Gmax_Glyma.04G125200:0.35766,Gmax_Glyma.11G224000:0.155755)n2:0.0173061)n1:0.754199)n0;

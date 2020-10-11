@@ -1,0 +1,1 @@
+(Roccidentalis_maker-Ro04-exonerate_protein2genome-gene-131.58:0.15825,((Roccidentalis_maker-Ro07-exonerate_protein2genome-gene-126.19:0.655671,Roccidentalis_maker-Ro06-snap-gene-160.43:0.308371)n2:0.0179503,Roccidentalis_maker-Ro06-exonerate_protein2genome-gene-342.53:0.0397498)n1:0.15825)n0;

@@ -1,0 +1,1 @@
+(Ljaponicus_Lj6g3v1444520:0.132226,((Mtruncatula_Medtr8g099015:0.60395,Mtruncatula_Medtr1g079420:0.755127)n2:0.0236255,(((Mtruncatula_Medtr6g038590:0.678705,Mtruncatula_Medtr5g064730:0.329257)n5:0.038598,Mtruncatula_Medtr6g071675:0.585985)n4:0.0545486,Mtruncatula_Medtr2g032950:0.767684)n3:0.0855043)n1:0.132226)n0;

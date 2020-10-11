@@ -1,0 +1,1 @@
+(Smelongena_SMEL_008g304560.1:0.165549,((Roccidentalis_maker-Ro05-snap-gene-8.94:0.308033,Roccidentalis_maker-Ro05-snap-gene-5.76:0.192563)n2:0.222776,(Ptrichocarpa_Potri.005G247401:0.436335,Mtruncatula_Medtr1g026370:0.173354)n3:0.38039)n1:0.165549)n0;

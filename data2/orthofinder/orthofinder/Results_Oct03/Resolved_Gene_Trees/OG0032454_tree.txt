@@ -1,0 +1,1 @@
+(Vcorymbosum_snap_masked-VaccDscaff6-processed-gene-19.23:0.2017,(((Vcorymbosum_maker-VaccDscaff6-snap-gene-19.40:0.228094,Vcorymbosum_maker-VaccDscaff6-snap-gene-22.39:0.308182)n3:0.399258,Vcorymbosum_maker-VaccDscaff6-snap-gene-22.38:0.580222)n2:0.321824,Vcorymbosum_maker-VaccDscaff6-snap-gene-21.62:0.538064)n1:0.2017)n0;

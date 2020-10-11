@@ -1,0 +1,1 @@
+(Ljaponicus_Lj5g3v0706670:0.397234,((Fvesca_FvH4_6g07350:0.426148,Fxananassa_maker-Fvb6-1-augustus-gene-318.56:2.35e-06)n2:0.762231,(Fxananassa_maker-Fvb6-1-snap-gene-303.47:0.0533656,Fvesca_FvH4_6g10180:2.35e-06)n3:0.386115)n1:0.397234)n0;

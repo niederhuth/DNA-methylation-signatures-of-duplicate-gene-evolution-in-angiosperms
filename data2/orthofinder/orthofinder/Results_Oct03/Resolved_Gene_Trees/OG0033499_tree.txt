@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_14411:0.23441,(Aofficinalis_evm.TU.AsparagusV1_07.3790:0.734194,(Eguineensis_p5.00_sc00038_p0060:0.344406,Eguineensis_p5.00_sc00107_p0009:0.44082)n2:0.392952)n1:0.23441)n0;

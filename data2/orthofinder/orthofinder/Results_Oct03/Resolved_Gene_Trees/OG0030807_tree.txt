@@ -1,0 +1,1 @@
+(Gsoja_GlysoPI483463.15G039100:0.26972,((Roccidentalis_maker-Ro01-snap-gene-71.42:0.381281,Mdomestica_MD02G1164100:0.790955)n2:0.135261,(Fxananassa_augustus_masked-Fvb1-1-processed-gene-187.2:0.222693,Rchinensis_RcHm_v2.0_Chr2g0104111:0.43045)n3:0.151726)n1:0.26972)n0;

@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_10.534:0.331881,(Vcorymbosum_snap_masked-VaccDscaff61-processed-gene-5.18:0.143419,(Ljaponicus_Lj4g3v2018300:0.263428,Mdomestica_MD00G1158000:0.197967)n2:0.20137)n1:0.331881)n0;

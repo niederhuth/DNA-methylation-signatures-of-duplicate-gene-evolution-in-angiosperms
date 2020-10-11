@@ -1,0 +1,1 @@
+(Sitalica_Seita.4G103900:0.390699,(Bvulgaris_gene_BVRB_8g200110:0.502651,(Vcorymbosum_maker-VaccDscaff17-snap-gene-360.27:0.0976405,Vcorymbosum_maker-VaccDscaff306-snap-gene-0.49:0.0272815)n2:0.768802)n1:0.390699)n0;

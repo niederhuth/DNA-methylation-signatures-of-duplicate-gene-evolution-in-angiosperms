@@ -1,0 +1,1 @@
+((((Ptrichocarpa_Potri.004G225050:0,Ptrichocarpa_Potri.004G225350:0)n3:0.828775,Mesculenta_Manes.01G269250:0.467185)n2:0.118165,Tcacao_Thecc1EG035136:1.04871)n1:0.462746,(Fxananassa_maker-Fvb6-2-augustus-gene-207.22:0.112057,Fxananassa_augustus_masked-Fvb6-1-processed-gene-288.2:0.0481674)n4:0.462746)n0;

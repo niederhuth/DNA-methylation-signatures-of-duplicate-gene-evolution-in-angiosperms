@@ -1,0 +1,1 @@
+((Gsoja_GlysoPI483463.15G036800:0.290674,Gmax_Glyma.15G039200:0.310328)n1:0.592416,(Aofficinalis_evm.TU.AsparagusV1_05.836:0.0710239,(Aofficinalis_evm.TU.AsparagusV1_01.2860:0.180704,Aofficinalis_evm.TU.AsparagusV1_04.639:0.432994)n3:0.0726916)n2:0.592416)n0;

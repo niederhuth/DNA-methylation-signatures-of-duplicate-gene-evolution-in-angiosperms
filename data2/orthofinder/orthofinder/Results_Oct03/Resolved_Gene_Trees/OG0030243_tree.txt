@@ -1,0 +1,1 @@
+(Slycopersicum_Solyc12g038570.2:0.546481,(Ljaponicus_Lj0g3v0158269:0.224993,(Egrandis_Eucgr.C04414:0.341544,(Egrandis_Eucgr.C04420:0.651275,Egrandis_Eucgr.C04114:0.32455)n3:0.032455)n2:0.00360611)n1:0.436532)n0;

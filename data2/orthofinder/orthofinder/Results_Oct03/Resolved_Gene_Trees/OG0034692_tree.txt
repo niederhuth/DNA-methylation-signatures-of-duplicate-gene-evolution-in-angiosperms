@@ -1,0 +1,1 @@
+(Cpapaya_evm.TU.supercontig_72.41:0.111309,(Mdomestica_MD02G1038300:0.485906,(Rchinensis_RcHm_v2.0_Chr2g0120041:0.348647,Rchinensis_RcHm_v2.0_Chr3g0477331:0.453388)n2:0.0503764)n1:0.0161713)n0;

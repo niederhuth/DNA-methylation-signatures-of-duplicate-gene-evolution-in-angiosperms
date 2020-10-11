@@ -1,0 +1,1 @@
+((Sviridis_Sevir.6G182100:0,Sitalica_Seita.6G175800:0)n1:0.159159,((Vcorymbosum_maker-VaccDscaff2-snap-gene-66.25:0.557655,Vcorymbosum_maker-VaccDscaff15-augustus-gene-133.23:0.390551)n3:0.390984,Bvulgaris_gene_BVRB_8g201210:0.746313)n2:0.159159)n0;

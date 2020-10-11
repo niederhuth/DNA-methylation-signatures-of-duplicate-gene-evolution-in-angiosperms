@@ -1,0 +1,1 @@
+(Mdomestica_MD09G1251800:0.583105,((Othomaeum_Oropetium_20150105_12180:0.297737,Sitalica_Seita.7G177200:0.342438)n2:0.0449125,Bdistachyon_Bradi5g16485:0.552513)n1:0.583105)n0;

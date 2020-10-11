@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00032.97:0.266467,(((Mesculenta_Manes.07G048700:0.226791,Vcorymbosum_maker-VaccDscaff366-augustus-gene-0.33:0.596525)n3:0.221326,(Cpapaya_evm.TU.supercontig_923.1:0.188106,Pvulgaris_Phvul.004G036650:0.175837)n4:0.107405)n2:0.285287,(Ljaponicus_Lj3g3v2664380:0.247939,Slycopersicum_Solyc02g069430.3:0.332398)n5:0.211309)n1:0.266467)n0;

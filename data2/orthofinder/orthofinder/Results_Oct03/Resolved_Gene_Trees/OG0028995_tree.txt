@@ -1,0 +1,1 @@
+(Pvirgatum_Pavir.8NG217300:0.149011,(Smelongena_SMEL_002g161220.1:0.382572,((Aipaensis_araip.K30076.gnm1.ann1.Araip.76HA9:0.412237,Aipaensis_araip.K30076.gnm1.ann1.Araip.F6ZQ7:0.241445)n3:0.0647839,Aipaensis_araip.K30076.gnm1.ann1.Araip.8E6XS:0.195527)n2:0.377151)n1:0.149011)n0;

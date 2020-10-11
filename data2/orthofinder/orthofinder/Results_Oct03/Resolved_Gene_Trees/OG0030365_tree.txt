@@ -1,0 +1,1 @@
+(Spolyrhiza_Spipo11G0003800:0.265545,((Fxananassa_snap_masked-Fvb1-3-processed-gene-141.14:0,Fvesca_FvH4_1g21580:0)n2:0.910776,(Zjujuba_LOC107429593:0.0747015,Slycopersicum_Solyc01g081430.3:0.42022)n3:0.157143)n1:0.265545)n0;

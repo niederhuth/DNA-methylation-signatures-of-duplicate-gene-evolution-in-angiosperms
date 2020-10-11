@@ -1,0 +1,1 @@
+(Ppersica_Prupe.1G120700:0.202287,(Rchinensis_RcHm_v2.0_Chr4g0425191:0.463831,(Roccidentalis_maker-Ro02-exonerate_est2genome-gene-319.0:0.309897,Roccidentalis_snap_masked-Ro04-processed-gene-89.13:0.379105)n2:0.0421228)n1:0.146655)n0;

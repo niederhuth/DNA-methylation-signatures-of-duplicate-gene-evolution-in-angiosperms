@@ -1,0 +1,1 @@
+((Slycopersicum_Solyc06g076665.1:0.3167,Cpapaya_evm.TU.supercontig_112.83:0.18946)n1:0.0239404,(Mdomestica_MD13G1227200:0.113249,(Cannuum_CA10g05510:0.671589,(Ptrichocarpa_Potri.015G055800:0.207687,Ppersica_Prupe.8G211900:0.818681)n4:0.0807568)n3:0.268119)n2:0.0239404)n0;

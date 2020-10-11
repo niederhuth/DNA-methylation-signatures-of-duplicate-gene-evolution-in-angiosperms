@@ -1,0 +1,1 @@
+(Sitalica_Seita.9G077900:0.128818,((((Fxananassa_augustus_masked-Fvb2-4-processed-gene-50.3:0.170288,Vvinifera_VIT_203s0063g01840:0.17795)n4:0.113867,(Ljaponicus_Lj0g3v0352649:0.415964,Ljaponicus_Lj0g3v0357999:0.245621)n5:0.110757)n3:0.16353,Mesculenta_Manes.03G127201:0.108911)n2:0.0267821,Mguttatus_Migut.O00603:0.156353)n1:0.128818)n0;

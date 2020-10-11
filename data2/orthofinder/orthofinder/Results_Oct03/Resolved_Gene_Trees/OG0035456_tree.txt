@@ -1,0 +1,1 @@
+(Smelongena_SMEL_003g181170.1:0.293056,(Mdomestica_MD06G1067100:0.198601,(Fxananassa_maker-Fvb6-1-snap-gene-5.34:0.387878,Fxananassa_maker-Fvb5-4-snap-gene-5.53:0.421936)n2:0.0468817)n1:0.244611)n0;

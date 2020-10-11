@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00038.127:0.400107,(Ljaponicus_Lj0g3v0304049:0.350736,((Zjujuba_LOC107434381:0.24592,Aofficinalis_evm.TU.AsparagusV1_09.1446:0.760379)n3:0.046499,Ppersica_Prupe.3G145100:0.709634)n2:0.197619)n1:0.400107)n0;

@@ -1,0 +1,1 @@
+(Gmax_Glyma.08G083526:0.386433,((Egrandis_Eucgr.B02048:0.070414,Egrandis_Eucgr.B01643:0.138443)n2:0.0493365,Egrandis_Eucgr.B01637:0.0932188)n1:0.386433)n0;

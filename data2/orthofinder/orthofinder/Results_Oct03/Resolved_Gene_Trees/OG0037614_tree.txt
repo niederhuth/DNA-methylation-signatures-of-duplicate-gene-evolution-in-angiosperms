@@ -1,0 +1,1 @@
+(Roccidentalis_snap_masked-Ro04-processed-gene-366.4:0.495578,((Rchinensis_RcHm_v2.0_Chr1g0319891:0.0395752,Rchinensis_RcHm_v2.0_Chr3g0494991:0.0150488)n2:0.0759615,Rchinensis_RcHm_v2.0_Chr1g0333711:0.586464)n1:0.495578)n0;

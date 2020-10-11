@@ -1,0 +1,1 @@
+((Mtruncatula_Medtr2g066740:0.500662,Mtruncatula_Medtr0878s0020:0.128183)n1:0.20181,(Ljaponicus_Lj0g3v0235989:0.0944304,Ljaponicus_Lj0g3v0131879:0.54973)n2:0.20181)n0;

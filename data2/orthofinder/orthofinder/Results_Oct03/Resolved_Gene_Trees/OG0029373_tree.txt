@@ -1,0 +1,1 @@
+((Eguineensis_p5.00_sc00940_p0001:0.447812,Aofficinalis_evm.TU.AsparagusV1_06.1173:0.808935)n1:0.167349,(Pxbretschneideri_LOC103939999:0.246381,(Fxananassa_snap_masked-Fvb1-4-processed-gene-184.17:0.063532,Fxananassa_maker-Fvb1-1-snap-gene-21.22:0.264604)n3:0.0570665)n2:0.167349)n0;

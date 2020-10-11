@@ -1,0 +1,1 @@
+(Paxillaris_Peaxi162Scf00102g01336:0.530493,(Vcorymbosum_maker-VaccDscaff3-augustus-gene-439.25:0.0101013,(Vcorymbosum_maker-VaccDscaff91-augustus-gene-5.57:0.0167919,(Vcorymbosum_maker-VaccDscaff77-augustus-gene-3.23:0.0592117,Vcorymbosum_maker-VaccDscaff100-augustus-gene-3.41:0.112569)n3:0.0203126)n2:0.0755953)n1:0.530493)n0;

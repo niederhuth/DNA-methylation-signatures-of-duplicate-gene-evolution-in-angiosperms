@@ -1,0 +1,1 @@
+((Paxillaris_Peaxi162Scf00720g00071:0.44643,Slycopersicum_Solyc03g013330.1:0.811051)n1:0.0518982,(Paxillaris_Peaxi162Scf00395g00008:0.416022,Slycopersicum_Solyc00g014840.1:0.426767)n2:0.0518982)n0;

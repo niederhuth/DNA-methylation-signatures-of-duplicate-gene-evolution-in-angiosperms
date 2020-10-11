@@ -1,0 +1,1 @@
+(Mesculenta_Manes.15G096900:0.362071,((Ppersica_Prupe.4G159800:0.247861,Mdomestica_MD00G1184100:0.338287)n2:0.150379,(Rchinensis_RcHm_v2.0_Chr5g0030101:0.127801,((Roccidentalis_maker-Ro03-snap-gene-328.56:0,Roccidentalis_maker-Ro03-snap-gene-328.54:0)n5:0.0158275,Roccidentalis_maker-Ro03-snap-gene-328.53:0.00711155)n4:0.0590586)n3:0.17866)n1:0.362071)n0;

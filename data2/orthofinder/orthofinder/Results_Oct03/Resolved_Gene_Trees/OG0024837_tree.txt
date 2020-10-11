@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_01796:0.223406,(((Fxananassa_maker-Fvb3-1-augustus-gene-191.28:0.0470531,Fxananassa_maker-Fvb3-2-snap-gene-129.31:0.129991)n3:0.854228,(Gmax_Glyma.06G262500:0.543502,Gsoja_GlysoPI483463.06G225500:0.313447)n4:0.397798)n2:0.322327,(Graimondii_Gorai.010G147700:1.11576,Graimondii_Gorai.011G176100:0.805895)n5:0.0895439)n1:0.160944)n0;

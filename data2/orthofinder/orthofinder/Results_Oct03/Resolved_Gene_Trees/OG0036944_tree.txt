@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_19967:0.551415,(Vcorymbosum_maker-VaccDscaff20-augustus-gene-262.18:0.109596,(Vcorymbosum_maker-VaccDscaff20-augustus-gene-267.40:0.0598518,Vcorymbosum_maker-VaccDscaff44-augustus-gene-94.24:0.10896)n2:0.0715748)n1:0.551415)n0;

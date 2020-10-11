@@ -1,0 +1,1 @@
+((Pvirgatum_Pavir.3NG016090:0.778619,Eguineensis_p5.00_sc00362_p0014:0.612382)n1:0.0835095,((Slycopersicum_Solyc01g067940.2:0.38645,(Gmax_Glyma.03G213350:0,Gsoja_GlysoPI483463.03G173700:0)n4:0.398119)n3:0.166966,(Fxananassa_snap_masked-Fvb4-3-processed-gene-138.17:0.546395,Fxananassa_snap_masked-Fvb1-1-processed-gene-175.23:0.365975)n5:0.0406639)n2:0.0330377)n0;

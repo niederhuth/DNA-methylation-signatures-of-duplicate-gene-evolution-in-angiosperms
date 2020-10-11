@@ -1,0 +1,1 @@
+(Aipaensis_araip.K30076.gnm1.ann1.Araip.IEX1G:0.411018,(Pvulgaris_Phvul.001G100800:0.252501,(Gmax_Glyma.19G123200:0,Gsoja_GlysoPI483463.19G090400:0)n2:0.0827165)n1:0.411018)n0;

@@ -1,0 +1,1 @@
+(((Sitalica_Seita.4G146500:0.113208,Sviridis_Sevir.4G166700:0.161532)n2:0.536899,(Sitalica_Seita.5G115900:1.97425e-06,Sviridis_Sevir.5G112400:0)n3:0)n1:0.183154,(Pvirgatum_Pavir.5KG505021:0.432542,Pvirgatum_Pavir.5KG499100:0.371579)n4:0.183154)n0;

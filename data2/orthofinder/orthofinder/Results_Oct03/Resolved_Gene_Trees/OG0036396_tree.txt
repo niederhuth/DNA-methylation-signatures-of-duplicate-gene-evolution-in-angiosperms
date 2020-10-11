@@ -1,0 +1,1 @@
+(Mguttatus_Migut.B00914:0.498649,(Mguttatus_Migut.J01177:0.680729,(Mguttatus_Migut.E01696:0.629093,Mguttatus_Migut.E01359:2.4367e-06)n2:0.130693)n1:0.498649)n0;

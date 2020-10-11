@@ -1,0 +1,1 @@
+(Ppersica_Prupe.8G217900:0.180547,(((Cclementina_Ciclev10024331m.g:0.147781,Cclementina_Ciclev10024479m.g:0.0649352)n3:0.323709,Ptrichocarpa_Potri.014G195200:0.312905)n2:0.042255,Cpapaya_evm.TU.supercontig_165.51:0.475025)n1:0.180547)n0;

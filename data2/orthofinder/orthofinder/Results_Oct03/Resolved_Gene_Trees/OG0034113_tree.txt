@@ -1,0 +1,1 @@
+(Boleracea_Bo5g072910:0.319053,(Fvesca_FvH4_3g25390:0.283311,(Fxananassa_maker-Fvb6-3-snap-gene-362.62:0.470508,Fxananassa_maker-Fvb3-1-augustus-gene-158.30:0.381816)n2:0.0424239)n1:0.575983)n0;

@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_01.413:0.31533,(Cpapaya_evm.TU.supercontig_23.80:0.527927,(Ljaponicus_Lj0g3v0157289:0.635796,((Slycopersicum_Solyc12g007190.2:0.563381,Nattenuata_NIATv7_g22142:0.52163)n4:0.251272,(Acoerulea_Aqcoe4G026200:0.0448243,Acoerulea_Aqcoe4G111400:3.81724e-06)n5:0.466013)n3:0.0464186)n2:0.134983)n1:0.31533)n0;

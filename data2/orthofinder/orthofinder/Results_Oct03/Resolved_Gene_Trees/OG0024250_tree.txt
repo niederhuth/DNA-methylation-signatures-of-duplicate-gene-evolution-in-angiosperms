@@ -1,0 +1,1 @@
+(Boleracea_Bo2g006990:0.511619,((Fvesca_FvH4_5g09160:0.0302375,(Fxananassa_maker-Fvb5-2-augustus-gene-49.49:0.25952,Fxananassa_maker-Fvb5-1-augustus-gene-51.46:0.0744295)n3:0.00826995)n2:0.149412,((Rchinensis_RcHm_v2.0_Chr3g0469081:0,Rchinensis_RcHm_v2.0_Chr3g0469061:0)n5:0.18094,Roccidentalis_maker-Ro05-snap-gene-44.64:0.323902)n4:0.145094)n1:0.511619)n0;

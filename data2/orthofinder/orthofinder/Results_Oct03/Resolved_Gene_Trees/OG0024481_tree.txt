@@ -1,0 +1,1 @@
+(Clanatus_Cla97C09G177980:0.557965,(((Cpapaya_evm.TU.supercontig_19.22:0.82068,Cpapaya_evm.TU.supercontig_11.133:0.817194)n3:0.139741,(Cpapaya_evm.TU.supercontig_65.150:1.03968,Cpapaya_evm.TU.supercontig_31.42:0.583655)n4:0.177622)n2:0.0168281,(Cpapaya_evm.TU.supercontig_9.85:0.852627,Cpapaya_evm.TU.supercontig_167.4:0.851733)n5:0.0911936)n1:0.557965)n0;

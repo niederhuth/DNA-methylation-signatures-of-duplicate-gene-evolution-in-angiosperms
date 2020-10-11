@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_23899:0.307079,((Tcacao_Thecc1EG012140:0.984771,(Cpapaya_evm.TU.contig_33689:3.28886e-06,Boleracea_Bo7g117870:0.947203)n3:0.0680249)n2:0.172141,Rchinensis_RcHm_v2.0_Chr1g0350641:0.579036)n1:0.307079)n0;

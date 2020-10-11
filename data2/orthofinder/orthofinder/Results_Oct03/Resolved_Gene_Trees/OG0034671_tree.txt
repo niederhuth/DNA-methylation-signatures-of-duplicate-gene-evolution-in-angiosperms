@@ -1,0 +1,1 @@
+(Cpapaya_evm.TU.supercontig_21.196:0.392214,(Sviridis_Sevir.7G067900:0.202008,(Sitalica_Seita.8G069800:0.353928,Sitalica_Seita.7G062600:0.14802)n2:0.0164467)n1:0.0703585)n0;

@@ -1,0 +1,1 @@
+(Eguineensis_p5.00_sc00052_p0028:0.435733,(Rchinensis_RcHm_v2.0_Chr6g0248841:0.469319,(Cpapaya_evm.TU.contig_43701:0.187242,Zjujuba_LOC107406081:0.660095)n2:0.0896105)n1:0.435733)n0;

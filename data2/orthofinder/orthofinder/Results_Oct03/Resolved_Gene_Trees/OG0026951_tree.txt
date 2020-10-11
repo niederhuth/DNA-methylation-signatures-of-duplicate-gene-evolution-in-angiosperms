@@ -1,0 +1,1 @@
+(Cpapaya_evm.TU.supercontig_128.29:0.636409,((Ptrichocarpa_Potri.010G168900:0.48747,Mesculenta_Manes.05G102600:0.543894)n2:0.67052,(Graimondii_Gorai.013G085900:0.919142,(Tcacao_Thecc1EG011702:0.282222,Tcacao_Thecc1EG011706:0.87656)n4:0.29538)n3:0.128778)n1:0.636409)n0;

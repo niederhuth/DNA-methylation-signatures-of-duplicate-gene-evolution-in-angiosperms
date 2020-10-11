@@ -1,0 +1,1 @@
+(Cannuum_CA00g41140:0.359017,((Ptrichocarpa_Potri.006G044000:0.353452,Ptrichocarpa_Potri.001G243000:0.241048)n2:0.481628,Roccidentalis_maker-Ro06-snap-gene-343.44:0.547027)n1:0.359017)n0;

@@ -1,0 +1,1 @@
+(Zmays_Zm00001d006370:0.562147,(Cpapaya_evm.TU.supercontig_66.8:0.829325,(Fvesca_FvH4_7g00570:0.0188309,(Fxananassa_maker-Fvb6-3-snap-gene-211.58:0.511411,Fxananassa_snap_masked-Fvb7-4-processed-gene-224.19:0.0125056)n3:0.00138951)n2:0.507049)n1:0.562147)n0;

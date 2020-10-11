@@ -1,0 +1,1 @@
+(Athaliana_AT4G28930:0.284937,((Crubella_Carub.0007s1172:0.189639,Crubella_Carub.0007s1169:0.264893)n2:0.0466823,Crubella_Carub.0007s1171:0.187472)n1:0.284937)n0;

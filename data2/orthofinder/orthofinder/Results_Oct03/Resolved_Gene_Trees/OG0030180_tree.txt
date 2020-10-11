@@ -1,0 +1,1 @@
+(Eguineensis_p5.00_sc00050_p0107:0.285945,(Mdomestica_MD15G1185800:0.671957,(Cpapaya_evm.TU.contig_38191:0.309495,(Mtruncatula_Medtr6g463480:0.11402,Mtruncatula_Medtr2g102850:0.382441)n3:0.362359)n2:0.19121)n1:0.285945)n0;

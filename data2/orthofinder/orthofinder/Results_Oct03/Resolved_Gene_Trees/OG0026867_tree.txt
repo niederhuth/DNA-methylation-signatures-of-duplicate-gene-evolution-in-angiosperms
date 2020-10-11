@@ -1,0 +1,1 @@
+(Slycopersicum_Solyc08g014485.1:0.144407,((Ljaponicus_Lj0g3v0171049:0.195743,Cpapaya_evm.TU.supercontig_540.4:0.523228)n2:0.0560703,((Rchinensis_RcHm_v2.0_Chr1g0324211:0.151687,Mdomestica_MD07G1039900:0.371047)n4:0.0696441,Cclementina_Ciclev10030068m.g:0.268738)n3:0.0240764)n1:0.144407)n0;

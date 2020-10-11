@@ -1,0 +1,1 @@
+((Eguineensis_p5.00_sc00291_p0027:0.268457,Eguineensis_p5.00_sc00291_p0026:0.109481)n1:0.248225,((Aipaensis_araip.K30076.gnm1.ann1.Araip.U012N:0.186553,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.N5GRN:0.311927)n3:0.281017,Mtruncatula_Medtr6g012840:0.787423)n2:0.248225)n0;

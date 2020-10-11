@@ -1,0 +1,1 @@
+(Vvinifera_VIT_204s0079g00750:0.290373,((Aipaensis_araip.K30076.gnm1.ann1.Araip.G68HY:0.534575,Ptrichocarpa_Potri.008G209700:0.662179)n2:0.0847714,((Ljaponicus_Lj0g3v0133699:0.126224,Mdomestica_MD09G1147400:0.499519)n4:0.0649844,Roccidentalis_snap_masked-Ro04-processed-gene-159.13:0.896567)n3:0.0898246)n1:0.290373)n0;

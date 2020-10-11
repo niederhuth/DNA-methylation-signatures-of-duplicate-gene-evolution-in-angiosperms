@@ -1,0 +1,1 @@
+((Mtruncatula_Medtr4g034630:0.86971,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00086.25:0.834924,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00017.237:0.755562)n2:0.0839513)n1:0.00570677,(((Ljaponicus_Lj0g3v0138429:0.466219,Pvirgatum_Pavir.6KG197930:0.708127)n5:0.259898,Gmax_Glyma.01G096900:1.06428)n4:0.25284,Graimondii_Gorai.004G186800:0.946699)n3:0.0129668)n0;

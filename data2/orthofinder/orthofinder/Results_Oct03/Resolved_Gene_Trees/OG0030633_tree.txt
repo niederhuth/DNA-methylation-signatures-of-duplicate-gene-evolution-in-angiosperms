@@ -1,0 +1,1 @@
+((Gsoja_GlysoPI483463.01G178400:0,Gmax_Glyma.01G219502:0)n1:0.314601,(Fvesca_FvH4_5g02140:0.00858,(Fxananassa_maker-Fvb5-2-snap-gene-11.59:0.592344,Fxananassa_augustus_masked-Fvb5-1-processed-gene-12.7:0.007722)n3:0.000858)n2:0.409554)n0;

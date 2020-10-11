@@ -1,0 +1,1 @@
+(Ppersica_Prupe.1G548500:0.274161,((Aduranensis_aradu.V14167.gnm1.ann1.Aradu.TL9IZ:0.227474,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.HR07J:0.418869)n2:0.407883,(Aipaensis_araip.K30076.gnm1.ann1.Araip.TF2XM:0.758894,(Aipaensis_araip.K30076.gnm1.ann1.Araip.S2MSL:0.0966774,Aipaensis_araip.K30076.gnm1.ann1.Araip.WFV5Q:0.586447)n4:0.0659168)n3:0.00732409)n1:0.174852)n0;

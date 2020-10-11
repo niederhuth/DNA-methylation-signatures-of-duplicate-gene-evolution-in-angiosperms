@@ -1,0 +1,1 @@
+(Gmax_Glyma.12G143700:0.420948,(Ptrichocarpa_Potri.012G027000:0.437625,(Ptrichocarpa_Potri.012G024800:0.141653,Ptrichocarpa_Potri.011G055401:0.217612)n2:0.329434)n1:0.420948)n0;

@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_AchrUn_randomG03240_001:0.313667,(Fxananassa_snap_masked-Fvb6-2-processed-gene-97.15:0.753552,(Slycopersicum_Solyc06g074580.1:0.279224,(Cannuum_CA12g14740:0.00770656,(Cannuum_CA06g20400:0.0316979,(Cannuum_CA06g23880:0.10429,Cannuum_CA10g07510:0.0987937)n5:0.0294336)n4:0.00586719)n3:0.230047)n2:0.215349)n1:0.313667)n0;

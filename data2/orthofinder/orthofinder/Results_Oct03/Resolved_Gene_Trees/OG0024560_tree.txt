@@ -1,0 +1,1 @@
+(Pvirgatum_Pavir.3NG177033:0.179306,((Gmax_Glyma.06G203400:0.121051,Gmax_Glyma.17G205500:0.131028)n2:0.108247,((Roccidentalis_maker-Ro02-exonerate_est2genome-gene-303.4:0.794762,Cpapaya_evm.TU.supercontig_61.18:0.459242)n4:0.146971,(Rchinensis_RcHm_v2.0_Chr1g0324531:0.384715,Rchinensis_RcHm_v2.0_Chr6g0267551:0.519655)n5:0.0577394)n3:0.176874)n1:0.0618145)n0;

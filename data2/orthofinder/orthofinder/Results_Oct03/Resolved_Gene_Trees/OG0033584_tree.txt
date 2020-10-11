@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_01.775:0.350811,(Athaliana_AT2G03930:0.346565,(Boleracea_Bo8g059290:0.385086,Esalsugineum_Thhalv10005304m.g:0.325634)n2:0.36497)n1:0.350811)n0;

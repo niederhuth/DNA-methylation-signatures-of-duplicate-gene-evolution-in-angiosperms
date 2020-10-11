@@ -1,0 +1,1 @@
+(Egrandis_Eucgr.C02064:3.7277e-06,((((Egrandis_Eucgr.C02056:0.491658,Egrandis_Eucgr.C02088:0.304729)n4:0.295705,Egrandis_Eucgr.C02087:0.465676)n3:1.32558,Egrandis_Eucgr.C02081:0.121363)n2:0.291251,Egrandis_Eucgr.C02038:0.59838)n1:3.7277e-06)n0;

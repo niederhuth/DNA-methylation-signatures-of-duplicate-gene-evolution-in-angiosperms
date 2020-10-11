@@ -1,0 +1,1 @@
+(Ptrichocarpa_Potri.005G170132:0.317349,(((Graimondii_Gorai.009G240700:0.198922,Graimondii_Gorai.009G240800:0.182766)n3:0.289886,Graimondii_Gorai.009G282500:0.475274)n2:0.0388566,(Cclementina_Ciclev10002994m.g:0.739515,Cclementina_Ciclev10002988m.g:0.441847)n4:0.0490941)n1:0.0625657)n0;

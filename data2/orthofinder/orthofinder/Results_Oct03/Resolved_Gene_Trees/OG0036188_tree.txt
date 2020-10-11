@@ -1,0 +1,1 @@
+(Vcorymbosum_augustus_masked-VaccDscaff1434-processed-gene-0.1:0.496328,((Macuminata_GSMUA_Achr3G31940_001:0.165912,Macuminata_GSMUA_Achr7G24730_001:0.314961)n2:0.382559,Macuminata_GSMUA_Achr9G05380_001:0.540857)n1:0.496328)n0;

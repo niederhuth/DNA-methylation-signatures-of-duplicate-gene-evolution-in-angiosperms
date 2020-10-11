@@ -1,0 +1,1 @@
+(Pxbretschneideri_LOC103933202:0,((Pxbretschneideri_LOC103933205:0,Pxbretschneideri_LOC103933206:0)n2:0,((Pxbretschneideri_LOC103934724:0.152623,Pxbretschneideri_LOC103934726:0.085014)n4:0.057711,Pxbretschneideri_LOC103933204:0)n3:0)n1:0)n0;

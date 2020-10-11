@@ -1,0 +1,1 @@
+(Cviolacea_Clevi.0019s0058:0.465566,((Fvesca_FvH4_2g22970:0.442676,Fvesca_FvH4_3g22060:0.0177694)n2:0.262233,(Fxananassa_maker-Fvb7-1-augustus-gene-89.32:0.466876,Fxananassa_snap_masked-Fvb2-2-processed-gene-41.22:0.298894)n3:0.0332105)n1:0.102144)n0;

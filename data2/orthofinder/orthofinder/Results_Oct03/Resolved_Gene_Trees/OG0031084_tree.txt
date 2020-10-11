@@ -1,0 +1,1 @@
+(Vcorymbosum_maker-VaccDscaff6-snap-gene-97.30:0.35206,((Ljaponicus_Lj3g3v1310580:0.191784,Ljaponicus_Lj0g3v0043029:1.21975e-06)n2:0.139539,(Ljaponicus_Lj3g3v1310740:0,Ljaponicus_Lj0g3v0043099:0)n3:0.226789)n1:0.35206)n0;

@@ -1,0 +1,1 @@
+(Smelongena_SMEL_011g362500.1:0.663952,(Rchinensis_RcHm_v2.0_Chr1g0349211:1.03228,(Roccidentalis_maker-Ro07-snap-gene-56.25:0.571704,Roccidentalis_maker-Ro07-snap-gene-56.29:0.327502)n2:0.126061)n1:0.663952)n0;

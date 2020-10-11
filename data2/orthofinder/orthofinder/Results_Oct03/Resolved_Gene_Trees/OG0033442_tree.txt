@@ -1,0 +1,1 @@
+((Aofficinalis_evm.TU.AsparagusV1_07.2260:0.176263,Aofficinalis_evm.TU.AsparagusV1_05.1807:0.050241)n1:0.234555,(Paxillaris_Peaxi162Scf00060g00313:1.05158,Mdomestica_MD02G1283200:0.739541)n2:0.234555)n0;

@@ -1,0 +1,1 @@
+(Vcorymbosum_maker-VaccDscaff12-augustus-gene-317.28:0.132422,(((Mdomestica_MD10G1232000:0.825773,Egrandis_Eucgr.E01989:0.862746)n3:0.185213,Graimondii_Gorai.002G198500:0.841612)n2:0.110868,Alyrata_AL487U10010:0.307081)n1:0.132422)n0;

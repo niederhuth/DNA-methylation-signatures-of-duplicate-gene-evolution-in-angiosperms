@@ -1,0 +1,1 @@
+(Mdomestica_MD00G1066200:0.120062,(Ljaponicus_Lj0g3v0012799:0.0988252,(Mtruncatula_Medtr8g072130:0.292256,Mtruncatula_Medtr6g037540:0.111057)n2:0.0123397)n1:0.117729)n0;

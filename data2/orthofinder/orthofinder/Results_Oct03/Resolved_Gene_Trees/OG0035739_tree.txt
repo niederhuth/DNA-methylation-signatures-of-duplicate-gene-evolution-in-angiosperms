@@ -1,0 +1,1 @@
+(Vcorymbosum_maker-VaccDscaff46-augustus-gene-11.25:0.471478,(Vvinifera_VIT_200s1022g00010:0.547038,(Rchinensis_RcHm_v2.0_Chr7g0200031:0.977454,Fxananassa_snap_masked-Fvb5-2-processed-gene-6.45:0.619249)n2:0.0396572)n1:0.471478)n0;

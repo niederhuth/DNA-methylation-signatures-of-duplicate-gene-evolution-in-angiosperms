@@ -1,0 +1,1 @@
+((Roccidentalis_maker-Ro01-snap-gene-242.64:0.573333,Smelongena_SMEL_000g004640.1:0.888894)n1:0.205543,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00071.58:0.0530325,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00071.49:0.0433445)n2:0.205543)n0;

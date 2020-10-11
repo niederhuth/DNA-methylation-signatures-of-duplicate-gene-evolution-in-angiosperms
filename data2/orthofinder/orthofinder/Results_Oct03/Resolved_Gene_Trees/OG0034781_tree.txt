@@ -1,0 +1,1 @@
+((Mguttatus_Migut.M00607:0.942953,Cviolacea_Clevi.0082s0018.2:0.522604)n1:0.00961262,(Rchinensis_RcHm_v2.0_Chr1g0329401:0.61474,Smelongena_SMEL_003g178130.1:0.912334)n2:0.00961262)n0;

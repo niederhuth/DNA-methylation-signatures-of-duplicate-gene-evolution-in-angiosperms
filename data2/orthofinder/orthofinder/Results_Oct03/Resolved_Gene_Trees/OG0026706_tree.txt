@@ -1,0 +1,1 @@
+(Fxananassa_maker-Fvb1-4-snap-gene-122.34:0.354788,(Bvulgaris_gene_BVRB_6g153690:0.637463,(Smelongena_SMEL_001g140070.1:0.427538,((Slycopersicum_Solyc08g041662.1:0.195857,Slycopersicum_Solyc08g041667.1:0.42722)n4:0.0371895,Slycopersicum_Solyc00g006487.1:0.349533)n3:0.0821667)n2:0.099145)n1:0.354788)n0;

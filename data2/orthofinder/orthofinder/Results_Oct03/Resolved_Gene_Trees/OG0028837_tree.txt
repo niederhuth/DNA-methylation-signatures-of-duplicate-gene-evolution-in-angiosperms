@@ -1,0 +1,1 @@
+(Cpapaya_evm.TU.supercontig_1016.1:0.0798927,((Aduranensis_aradu.V14167.gnm1.ann1.Aradu.V31M2:0.534135,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.4SK8G:0.0487066)n2:0.150855,(Pxbretschneideri_LOC103937175:0.299128,Mdomestica_MD01G1005800:0.142359)n3:0.839757)n1:0.0798927)n0;

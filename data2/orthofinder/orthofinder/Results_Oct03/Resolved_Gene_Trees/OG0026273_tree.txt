@@ -1,0 +1,1 @@
+((Boleracea_Bo9g153630:0.53541,Zjujuba_LOC107420166:0.160976)n1:0.266914,(Aofficinalis_evm.TU.AsparagusV1_09.1385:0.0306567,(Aofficinalis_evm.TU.AsparagusV1_09.1276:0.123162,(Aofficinalis_evm.TU.AsparagusV1_03.1636:1.58043e-06,Aofficinalis_evm.TU.AsparagusV1_08.1994:0.0195044)n4:0.107863)n3:0.0698118)n2:0.266914)n0;

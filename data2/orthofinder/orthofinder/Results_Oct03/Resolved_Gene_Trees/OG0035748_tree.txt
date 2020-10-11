@@ -1,0 +1,1 @@
+(Gmax_Glyma.04G049400:0.345749,(Mtruncatula_Medtr1g094815:0.473114,(Mtruncatula_Medtr1g018150:0.28007,Mtruncatula_Medtr5g016000:0.308261)n2:0.383577)n1:0.345749)n0;

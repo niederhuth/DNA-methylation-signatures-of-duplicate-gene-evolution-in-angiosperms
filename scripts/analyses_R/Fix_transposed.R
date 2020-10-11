@@ -58,9 +58,15 @@ for(a in species){
 		}
 		geneCount <- rbind(geneCount,data.frame(Transposed=b,Parent=p,speciesCount=c1,
 			Atrichopoda=c2,Nnucifera=c3,Acoerulea=c4,Spolyrhiza=c5,Closest=closest))
+
+		sp <- paste("Athaliana","Atrichopoda","Alyrata","Crubella","Esalsugineum","Cpapaya",
+			"Brapa","Boleracea",sep="|")
+		keep <- tre2[grepl(sp,tre2$label),]$label
+		tmp <- drop.tip(tre,tre$tip.label[!(tre$tip.label %in% keep)])
+		write.tree(tmp,paste("Athaliana/dupgen/results-unique/transposed_trees/",b,"_tree.txt",sep=""))
 	}
 }
 
 write.csv(geneCount,paste(a,'/dupgen/results-unique/transposed_tree_data.tsv',sep=""),
 	quote=FALSE,row.names=FALSE)
-#test <- drop.tip(tre,tre$tip.label[!(tre$tip.label %in% x6$label)])
+

@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00010.506:0.141961,(Fxananassa_snap_masked-Fvb7-1-processed-gene-266.31:0.158965,(Pvirgatum_Pavir.5NG565300:0.30685,Macuminata_GSMUA_AchrUn_randomG24350_001:0.166741)n2:0.185918)n1:0.141961)n0;

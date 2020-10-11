@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold01417.1:0.107977,(Mtruncatula_Medtr7g098720:0.864479,(Cpapaya_evm.TU.supercontig_14.103:0.726491,Cpapaya_evm.TU.supercontig_14.104:0.597256)n2:0.304221)n1:0.107977)n0;

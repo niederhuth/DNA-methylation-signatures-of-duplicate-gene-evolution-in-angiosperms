@@ -1,0 +1,1 @@
+(Slycopersicum_Solyc00g230280.1:3.17322e-06,(Aipaensis_araip.K30076.gnm1.ann1.Araip.XMR3B:1.25301,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.AK2Z5:1.30911,(Ljaponicus_Lj1g3v3944930:0.0593963,(Ljaponicus_Lj1g3v3767130:0.276689,Ljaponicus_Lj1g3v3317500:0.0459691)n4:0.00459691)n3:0.000510768)n2:0.0500582)n1:0.176303)n0;

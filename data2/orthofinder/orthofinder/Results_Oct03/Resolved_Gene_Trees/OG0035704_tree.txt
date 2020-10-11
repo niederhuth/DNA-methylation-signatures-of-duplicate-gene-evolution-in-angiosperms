@@ -1,0 +1,1 @@
+(Smelongena_SMEL_004g206830.1:0.116063,((Fxananassa_snap_masked-Fvb7-1-processed-gene-137.13:0.265325,Fxananassa_augustus_masked-Fvb7-1-processed-gene-92.10:1.51252e-06)n2:0.322778,Ptrichocarpa_Potri.014G045900:0.692674)n1:0.116063)n0;

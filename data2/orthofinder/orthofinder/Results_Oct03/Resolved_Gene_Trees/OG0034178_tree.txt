@@ -1,0 +1,1 @@
+(Ljaponicus_Lj1g3v3407640:0.00527987,(Cpapaya_evm.TU.supercontig_62.140:0.267872,(Brapa_Brara.H01202:0.00178787,Brapa_Brara.A00374:0.00636813)n2:0.290204)n1:0.00527987)n0;

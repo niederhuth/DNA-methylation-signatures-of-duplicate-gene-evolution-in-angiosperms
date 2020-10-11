@@ -1,0 +1,1 @@
+(Aipaensis_araip.K30076.gnm1.ann1.Araip.LEQ30:0.44118,(Fxananassa_maker-Fvb1-1-snap-gene-152.31:0.580415,(Ppersica_Prupe.6G190000:0.548825,Ppersica_Prupe.6G190200:0.0964851)n2:0.135385)n1:0.44118)n0;

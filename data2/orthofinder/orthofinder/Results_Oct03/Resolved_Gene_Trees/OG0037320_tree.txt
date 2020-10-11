@@ -1,0 +1,1 @@
+((Vcorymbosum_maker-VaccDscaff46-snap-gene-107.52:0.00699575,Vcorymbosum_maker-VaccDscaff22-snap-gene-237.36:0.0274922)n1:0.397191,(Vvinifera_VIT_208s0058g01160:0.441057,Ptrichocarpa_Potri.007G112000:0.810535)n2:0.397191)n0;

@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_21758:0.170313,(((Fxananassa_maker-Fvb4-4-snap-gene-225.26:0.459132,(Mesculenta_Manes.18G034288:0.431908,Mdomestica_MD15G1087200:0.363843)n4:0.0152211)n3:0.188778,Rchinensis_RcHm_v2.0_Chr6g0307101:0.476581)n2:0.556276,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.DP0S5:0.598153)n1:0.170313)n0;

@@ -1,0 +1,1 @@
+(Ljaponicus_Lj2g3v2533290:0.174913,((Fxananassa_augustus_masked-Fvb1-1-processed-gene-228.7:0.0833842,(Fxananassa_augustus_masked-Fvb2-1-processed-gene-120.8:0.168434,Fxananassa_augustus_masked-Fvb7-1-processed-gene-34.2:0.138082)n3:0.0397342)n2:0.115185,Rchinensis_RcHm_v2.0_Chr3g0471751:0.416525)n1:0.174913)n0;

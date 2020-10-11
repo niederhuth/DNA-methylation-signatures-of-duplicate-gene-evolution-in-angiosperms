@@ -1,0 +1,1 @@
+((Spolyrhiza_Spipo17G0035400:0.137133,Spolyrhiza_Spipo17G0036100:0.0746835)n1:0.281848,(Eguineensis_p5.00_sc00230_p0009:0.426218,Pvirgatum_Pavir.1NG397819:0.794142)n2:0.281848)n0;

@@ -1,0 +1,1 @@
+(((((Mesculenta_Manes.08G014110:0,Mesculenta_Manes.08G014104:0)n4:0.739423,(Gmax_Glyma.19G187200:0.58391,Mtruncatula_Medtr7g102465:0.244437)n5:0.064097)n3:0.0223289,Tcacao_Thecc1EG022329:0.986375)n2:0.0792951,Cannuum_CA12g12690:0.353892)n1:0.0532888,(Aofficinalis_evm.TU.AsparagusV1_01.2393:0.823607,Aofficinalis_evm.TU.AsparagusV1_01.2766:0.626015)n6:0.0532888)n0;

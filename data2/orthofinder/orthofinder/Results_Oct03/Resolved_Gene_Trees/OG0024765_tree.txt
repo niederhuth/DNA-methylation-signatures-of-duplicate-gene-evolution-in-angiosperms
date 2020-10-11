@@ -1,0 +1,1 @@
+(Roccidentalis_maker-Ro05-snap-gene-319.28:0.320365,((Rchinensis_RcHm_v2.0_Chr5g0048671:0.45713,(Fxananassa_snap_masked-Fvb3-1-processed-gene-8.16:0.119624,Fxananassa_maker-Fvb3-4-snap-gene-10.93:0.464754)n3:0.0588707)n2:0.0807859,(Fvesca_FvH4_3g44930:0.734937,(Fvesca_FvH4_3g44890:3.26926e-06,Fvesca_FvH4_3g44940:0.76205)n5:0.103902)n4:0.0115447)n1:0.176421)n0;

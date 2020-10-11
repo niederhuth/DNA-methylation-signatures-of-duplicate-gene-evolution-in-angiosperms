@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00224.7:0.124792,(Zjujuba_LOC107408874:0.178858,(Gsoja_GlysoPI483463.16G102200:5e-07,Gmax_Glyma.16G129102:5e-07)n2:0.313273)n1:0.124792)n0;

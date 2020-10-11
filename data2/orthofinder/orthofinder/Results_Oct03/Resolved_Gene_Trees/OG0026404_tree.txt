@@ -1,0 +1,1 @@
+(((Ljaponicus_Lj1g3v0873010:0.351486,(Vvinifera_VIT_218s0001g02130:0.54397,Mtruncatula_Medtr4g094602:0.232414)n3:0.0128531)n2:0.194666,Zmays_Zm00001d034473:0.350439)n1:0.103503,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00203.7:0.877058,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00203.12:0.39382)n4:0.103503)n0;

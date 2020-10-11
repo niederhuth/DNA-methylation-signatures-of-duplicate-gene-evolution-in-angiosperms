@@ -1,0 +1,1 @@
+((Aipaensis_araip.K30076.gnm1.ann1.Araip.1R93I:1.08236,Ljaponicus_Lj2g3v1368190:0.977211)n1:0.103288,(Boleracea_Bo3g007700:0.327556,Boleracea_Bo8g087050:0.178043)n2:0.103288)n0;

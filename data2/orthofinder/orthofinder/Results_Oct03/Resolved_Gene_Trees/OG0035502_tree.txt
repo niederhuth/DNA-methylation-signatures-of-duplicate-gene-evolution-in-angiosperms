@@ -1,0 +1,1 @@
+(Roccidentalis_maker-Ro04-exonerate_protein2genome-gene-192.30:0.466479,((Fxananassa_maker-Fvb5-1-augustus-gene-263.36:1.87771e-06,Fxananassa_maker-Fvb5-3-augustus-gene-41.29:0.077618)n2:0.324541,Rchinensis_RcHm_v2.0_Chr5g0003661:0.550002)n1:0.466479)n0;

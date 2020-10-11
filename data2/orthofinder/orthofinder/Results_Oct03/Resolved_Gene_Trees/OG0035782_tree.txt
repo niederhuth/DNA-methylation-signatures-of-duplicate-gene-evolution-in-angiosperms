@@ -1,0 +1,1 @@
+(Roccidentalis_snap_masked-Ro07-processed-gene-395.45:0.528196,(Gmax_Glyma.20G156133:0.264081,(Ljaponicus_Lj5g3v2027140:0.204184,Ljaponicus_Lj5g3v2027150:0.465122)n2:0.0516802)n1:0.473102)n0;

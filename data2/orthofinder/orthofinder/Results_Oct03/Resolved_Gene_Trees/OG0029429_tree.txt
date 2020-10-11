@@ -1,0 +1,1 @@
+((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00999.1:0.0687827,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold01987.1:0.0523703)n1:0.23387,((Stuberosum_PGSC0003DMG402000058:0.349019,Paxillaris_Peaxi162Scf00020g01127:0.304839)n3:0.250478,Ppersica_Prupe.2G174900:0.68274)n2:0.23387)n0;

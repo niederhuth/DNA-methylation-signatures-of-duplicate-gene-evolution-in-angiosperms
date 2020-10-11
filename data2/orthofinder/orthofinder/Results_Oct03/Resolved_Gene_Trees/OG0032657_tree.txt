@@ -1,0 +1,1 @@
+(Acoerulea_Aqcoe5G102300:0.278425,(Fxananassa_augustus_masked-Fvb5-2-processed-gene-99.13:0.406675,(Vcorymbosum_maker-VaccDscaff5-augustus-gene-178.25:0.0586018,Vcorymbosum_maker-VaccDscaff10-augustus-gene-178.27:0.23107)n2:0.221541)n1:0.278425)n0;

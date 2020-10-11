@@ -1,0 +1,1 @@
+(Slycopersicum_Solyc01g104930.2:0.280761,(Rchinensis_RcHm_v2.0_Chr4g0419841:0.166946,(Pxbretschneideri_LOC103953261:0.0261395,Pxbretschneideri_LOC103932525:0.0443915)n2:0.365663)n1:0.280761)n0;

@@ -1,0 +1,1 @@
+(Brapa_Brara.H02461:1.94462e-06,((Boleracea_Bo8g067360:0.995933,Boleracea_Bo8g067340:1.94462e-06)n2:0.654536,Boleracea_Bo8g067380:0.697596)n1:1.94462e-06)n0;

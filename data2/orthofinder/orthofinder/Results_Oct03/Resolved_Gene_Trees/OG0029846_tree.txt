@@ -1,0 +1,1 @@
+((Roccidentalis_maker-Ro06-snap-gene-126.38:0.351375,Ljaponicus_Lj5g3v0614530:0.712731)n1:0.099264,((Bvulgaris_gene_BVRB_8g201280:0.9096,Bvulgaris_gene_BVRB_7g157040:0.248408)n3:0.0364475,Bvulgaris_gene_BVRB_8g192960:0.223166)n2:0.099264)n0;

@@ -1,0 +1,1 @@
+(Smelongena_SMEL_005g233430.1:0,((Smelongena_SMEL_006g255310.1:0,(Smelongena_SMEL_000g008180.1:0,(Smelongena_SMEL_000g092010.1:0,(Smelongena_SMEL_000g046680.1:0.115658,Smelongena_SMEL_000g088860.1:0)n5:0)n4:0)n3:0)n2:0,(Smelongena_SMEL_000g055300.1:0,Smelongena_SMEL_000g000730.1:0)n6:0)n1:0)n0;

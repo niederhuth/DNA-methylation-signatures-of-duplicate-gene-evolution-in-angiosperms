@@ -1,0 +1,1 @@
+((Macuminata_GSMUA_Achr2G08140_001:0.379544,Aofficinalis_evm.TU.AsparagusV1_Unassigned.1167:0.362497)n1:0.238667,((Boleracea_Bo2g055300:0.160716,Boleracea_Bo7g026650:0.852782)n3:0.00130975,Boleracea_Bo9g135270:2.22356e-06)n2:0.238667)n0;

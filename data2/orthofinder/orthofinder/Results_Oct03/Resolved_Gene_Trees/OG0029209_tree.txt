@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00012.199:0.176232,(Mguttatus_Migut.D02558:0.846967,(Alyrata_AL7G34570:0.468858,(Smelongena_SMEL_004g200160.1:0.291415,Nattenuata_NIATv7_g12635:0.40124)n3:0.251726)n2:0.176315)n1:0.176232)n0;

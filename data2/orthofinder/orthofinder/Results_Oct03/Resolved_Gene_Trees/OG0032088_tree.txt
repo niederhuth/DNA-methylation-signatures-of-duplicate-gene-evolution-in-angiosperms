@@ -1,0 +1,1 @@
+((Roccidentalis_maker-Ro03-snap-gene-115.55:0.158517,Rchinensis_RcHm_v2.0_Chr6g0264311:0.759567)n1:0.07641,(Zjujuba_LOC107403366:0.04403,(Zjujuba_LOC107404002:0,Zjujuba_LOC107404303:0)n3:0.014941)n2:0.07641)n0;

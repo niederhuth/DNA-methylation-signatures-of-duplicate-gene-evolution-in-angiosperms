@@ -1,0 +1,1 @@
+(Cpapaya_evm.TU.supercontig_4092.1:0.218181,(Roccidentalis_maker-Ro04-exonerate_est2genome-gene-305.14:0.759245,((Roccidentalis_maker-Ro02-snap-gene-193.72:0.0711066,Roccidentalis_maker-Ro03-snap-gene-143.22:0.0301244)n3:0.434583,(Roccidentalis_maker-Ro04-snap-gene-179.23:0.717984,Roccidentalis_maker-Ro01-snap-gene-212.42:0.234322)n4:0.258465)n2:0.121045)n1:0.218181)n0;

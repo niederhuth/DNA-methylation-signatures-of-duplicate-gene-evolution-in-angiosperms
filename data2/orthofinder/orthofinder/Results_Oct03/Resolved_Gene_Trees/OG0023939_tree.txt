@@ -1,0 +1,1 @@
+((Fvesca_FvH4_2g28500:0.0518254,Roccidentalis_maker-Ro04-exonerate_protein2genome-gene-305.107:0.0496106)n1:0.193143,(((Athaliana_AT2G07776:0,Athaliana_ATMG00530:0)n4:0.00906968,Alyrata_AL3G44400:0.110094)n3:0.478207,(Mesculenta_Manes.S022575:0,Mesculenta_Manes.S096301:0)n5:0.497113)n2:0.193143)n0;

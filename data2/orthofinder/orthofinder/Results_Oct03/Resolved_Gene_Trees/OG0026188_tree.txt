@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_28247:0.188136,((Alyrata_AL3G15820:1.00031,Bvulgaris_gene_BVRB_019150:0.495115)n2:0.144782,(Ptrichocarpa_Potri.018G135500:0.287916,(Ptrichocarpa_Potri.T013950:0,Ptrichocarpa_Potri.T045100:0)n4:0.128235)n3:0.0142484)n1:0.0975718)n0;

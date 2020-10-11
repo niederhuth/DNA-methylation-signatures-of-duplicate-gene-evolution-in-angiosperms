@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_06.462:0.163452,(((Aipaensis_araip.K30076.gnm1.ann1.Araip.2KP3T:3.10659e-06,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.8D3SW:1.08474)n3:0.689618,Zjujuba_LOC107409504:0.248767)n2:0.0381212,(Roccidentalis_maker-Ro03-snap-gene-410.98:0.451403,Cpapaya_evm.TU.supercontig_27.29:0.464653)n4:0.181125)n1:0.163452)n0;

@@ -1,0 +1,1 @@
+(Rchinensis_RcHm_v2.0_Chr6g0294571:0.393651,(Vcorymbosum_snap_masked-VaccDscaff26-processed-gene-226.7:0.372644,((Vcorymbosum_maker-VaccDscaff29-augustus-gene-218.15:0.013757,Vcorymbosum_maker-VaccDscaff33-augustus-gene-126.28:0.023812)n3:0.132215,Vcorymbosum_maker-VaccDscaff21-augustus-gene-229.15:0.076063)n2:0.465088)n1:0.393651)n0;

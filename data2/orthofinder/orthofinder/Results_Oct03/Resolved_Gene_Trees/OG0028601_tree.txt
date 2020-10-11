@@ -1,0 +1,1 @@
+(Zmays_Zm00001d047160:0.196396,(Aipaensis_araip.K30076.gnm1.ann1.Araip.23PZD:0.438816,(Cpapaya_evm.TU.supercontig_47.18:0.158173,(Acoerulea_Aqcoe0024s0001:0.0728442,Boleracea_Bo8g027180:0.747624)n3:0.061904)n2:0.114907)n1:0.196396)n0;

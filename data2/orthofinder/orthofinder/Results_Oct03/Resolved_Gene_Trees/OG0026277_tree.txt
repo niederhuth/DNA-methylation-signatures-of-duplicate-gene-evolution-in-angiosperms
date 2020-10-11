@@ -1,0 +1,1 @@
+(Boleracea_Bo7g110990:0.209942,(Aofficinalis_evm.TU.AsparagusV1_08.419:0.857326,((Eguineensis_p5.00_sc00609_p0005:0.0222585,Eguineensis_p5.00_sc01908_p0001:0.151502)n3:0.0852497,(Eguineensis_p5.00_sc00027_p0001:0.108566,Eguineensis_p5.00_sc00027_p0002:0.0397899)n4:0.196805)n2:0.264321)n1:0.209942)n0;

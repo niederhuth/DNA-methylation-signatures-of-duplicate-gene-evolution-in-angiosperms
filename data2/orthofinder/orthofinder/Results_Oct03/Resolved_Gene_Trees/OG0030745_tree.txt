@@ -1,0 +1,1 @@
+(Pvirgatum_Pavir.4KG349400:0.31113,(Fxananassa_snap_masked-Fvb6-1-processed-gene-310.26:0.0552782,((Fxananassa_maker-Fvb6-1-snap-gene-308.68:1.03796,Fxananassa_maker-Fvb6-4-snap-gene-64.28:0.532141)n3:0.265891,Fxananassa_maker-Fvb6-3-augustus-gene-366.28:0.112123)n2:0.143982)n1:0.31113)n0;
