@@ -1,0 +1,1 @@
+((Othomaeum_Oropetium_20150105_02600:0.624907,Ppersica_Prupe.4G012200:0.437884)n1:0.103827,(Slycopersicum_Solyc00g183050.2:1.75027e-06,Macuminata_GSMUA_Achr7G20360_001:0.538983)n2:0.103827)n0;

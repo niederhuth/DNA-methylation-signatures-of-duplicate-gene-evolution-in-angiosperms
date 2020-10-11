@@ -1,0 +1,1 @@
+((Mtruncatula_Medtr2g078500:0.307448,Mtruncatula_Medtr2g078490:0.772414)n1:0.238747,(Mdomestica_MD04G1070100:0.0434898,(Pxbretschneideri_LOC103937602:0,Pxbretschneideri_LOC103937601:0)n3:0.463464)n2:0.238747)n0;

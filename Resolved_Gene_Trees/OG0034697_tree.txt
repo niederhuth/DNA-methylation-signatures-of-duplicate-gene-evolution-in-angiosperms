@@ -1,0 +1,1 @@
+(Vcorymbosum_maker-VaccDscaff10-augustus-gene-91.32:0.434267,(Cpapaya_evm.TU.supercontig_85.7:0.60678,(Tcacao_Thecc1EG008093:0.806448,Zjujuba_LOC107432973:0.784538)n2:0.106882)n1:0.434267)n0;

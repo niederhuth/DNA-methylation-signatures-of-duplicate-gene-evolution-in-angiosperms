@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00045.156:0.175692,((Vvinifera_VIT_207s0005g02470:0.24985,Acoerulea_Aqcoe2G239400:0.230791)n2:0.013617,Aofficinalis_evm.TU.AsparagusV1_07.1057:0.374215)n1:0.175692)n0;
