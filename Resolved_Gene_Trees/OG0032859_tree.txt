@@ -1,0 +1,1 @@
+(Mesculenta_Manes.10G089100:0.378639,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.A3JGJ:0.395924,(Aipaensis_araip.K30076.gnm1.ann1.Araip.7DQ34:0.0757495,Aipaensis_araip.K30076.gnm1.ann1.Araip.NHV7V:0.0547012)n2:0.00607791)n1:0.182055)n0;

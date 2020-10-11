@@ -1,0 +1,1 @@
+(Mguttatus_Migut.H01686:0.499334,((Slycopersicum_Solyc10g008290.1:0.598329,Nattenuata_NIATv7_g53753:0.999927)n2:0.011094,Paxillaris_Peaxi162Scf00465g00063:0.279898)n1:0.499334)n0;

@@ -1,0 +1,1 @@
+(Eguineensis_p5.00_sc00063_p0019:0.227606,(Vcorymbosum_maker-VaccDscaff17-snap-gene-280.39:0.168277,(Gsoja_GlysoPI483463.04G145000:0.142818,Vvinifera_VIT_217s0000g08310:0.12014)n2:0.0175403)n1:0.227606)n0;

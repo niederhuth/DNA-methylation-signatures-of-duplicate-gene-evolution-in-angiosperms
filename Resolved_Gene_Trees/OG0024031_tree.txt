@@ -1,0 +1,1 @@
+((Phallii_Pahal.2G004100:0.512063,Brapa_Brara.I02290:0.253641)n1:0.047398,(Macuminata_GSMUA_Achr1G08320_001:0.280014,(Egrandis_Eucgr.L01671:0.612627,(Zmays_Zm00001d041547:0.66677,(Aofficinalis_evm.TU.AsparagusV1_06.110:0.272033,Aofficinalis_evm.TU.AsparagusV1_03.2867:0.0823044)n5:0.113135)n4:0.104226)n3:0.19433)n2:0.047398)n0;

@@ -1,0 +1,1 @@
+((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00056.186:0.260838,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00056.184:0.23152)n1:0.150072,(Macuminata_GSMUA_AchrUn_randomG26490_001:0.459927,(Tcacao_Thecc1EG027078:0.781223,Ptrichocarpa_Potri.001G191700:0.657865)n3:0.271116)n2:0.150072)n0;

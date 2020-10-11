@@ -1,0 +1,1 @@
+(Eguineensis_p5.00_sc00012_p0171:0.415475,(Pvirgatum_Pavir.5KG362107:0.0272133,(Pvirgatum_Pavir.4KG385403:1.29058e-06,(Pvirgatum_Pavir.3NG291882:0.0106815,Pvirgatum_Pavir.5NG622300:0.252941)n3:0.051284)n2:0.15135)n1:0.415475)n0;

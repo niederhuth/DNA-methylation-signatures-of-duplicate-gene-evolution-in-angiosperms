@@ -1,0 +1,1 @@
+(Pvirgatum_Pavir.8KG074351:0.734014,(Fvesca_FvH4_6g20180:1.05334e-06,(Fxananassa_snap_masked-Fvb6-4-processed-gene-142.13:0.0111935,(Fxananassa_snap_masked-Fvb6-3-processed-gene-258.14:0.0316955,(Fxananassa_snap_masked-Fvb6-3-processed-gene-239.8:1.05334e-06,Fxananassa_snap_masked-Fvb6-1-processed-gene-225.23:0.243892)n4:0.0243892)n3:0.00243892)n2:0.000270991)n1:0.0358253)n0;

@@ -1,0 +1,1 @@
+(((Fxananassa_maker-Fvb2-1-snap-gene-181.41:0.187301,Fxananassa_maker-Fvb3-1-snap-gene-186.48:0.199501)n2:0.465192,Fxananassa_snap_masked-Fvb7-1-processed-gene-246.18:0.68299)n1:0.138003,(Mtruncatula_Medtr2g071770:0.299434,Mtruncatula_Medtr7g027205:0.716483)n3:0.138003)n0;

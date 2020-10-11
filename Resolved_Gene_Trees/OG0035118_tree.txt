@@ -1,0 +1,1 @@
+(Fvesca_FvH4_6g47040:0.245826,(Fxananassa_maker-Fvb6-4-snap-gene-1.76:0.894981,(Fxananassa_augustus_masked-Fvb6-3-processed-gene-36.20:0.500681,Fxananassa_augustus_masked-Fvb6-1-processed-gene-31.8:0.595452)n2:0.246685)n1:0.245826)n0;

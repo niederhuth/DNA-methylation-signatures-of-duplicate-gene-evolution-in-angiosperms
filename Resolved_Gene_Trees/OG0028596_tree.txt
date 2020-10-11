@@ -1,0 +1,1 @@
+(Eguineensis_p5.00_sc00383_p0006:0.603905,(Acoerulea_Aqcoe6G216700:0.0120125,(Acoerulea_Aqcoe3G205600:0.017732,(Acoerulea_Aqcoe3G210500:5e-07,Acoerulea_Aqcoe5G323600:5e-07)n3:0.0010525)n2:0.0183405)n1:0.603905)n0;

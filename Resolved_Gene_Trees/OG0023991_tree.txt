@@ -1,0 +1,1 @@
+((Aofficinalis_evm.TU.AsparagusV1_10.1293:0.229484,(Aofficinalis_evm.TU.AsparagusV1_10.1307:0.392645,Aofficinalis_evm.TU.AsparagusV1_05.974:0.0665035)n2:0.0951771)n1:0.0827094,(((Ppersica_Prupe.7G189900:0.590789,Ppersica_Prupe.7G190200:0.318939)n5:0.529076,Fxananassa_maker-Fvb4-3-snap-gene-66.55:0.803044)n4:0.129551,Ljaponicus_Lj4g3v2861660:0.377298)n3:0.0827094)n0;

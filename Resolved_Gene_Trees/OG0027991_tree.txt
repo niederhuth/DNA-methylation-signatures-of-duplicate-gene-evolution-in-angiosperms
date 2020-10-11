@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_25800:0.181832,((Vcorymbosum_maker-VaccDscaff19-augustus-gene-299.20:1.85969e-06,((Vcorymbosum_maker-VaccDscaff24-augustus-gene-133.33:0,Vcorymbosum_maker-VaccDscaff24-augustus-gene-132.35:0)n4:0.315512,Vcorymbosum_maker-VaccDscaff11-snap-gene-266.37:0.461249)n3:0.214351)n2:0.272522,Paxillaris_Peaxi162Scf00165g01727:0.365098)n1:0.181832)n0;

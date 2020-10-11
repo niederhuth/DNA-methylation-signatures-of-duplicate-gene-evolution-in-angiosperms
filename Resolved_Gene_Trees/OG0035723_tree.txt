@@ -1,0 +1,1 @@
+(Gsoja_GlysoPI483463.17G069500:0.243948,(Fxananassa_augustus_masked-Fvb2-4-processed-gene-118.5:0.99303,(Rchinensis_RcHm_v2.0_Chr6g0285881:0.0423445,Rchinensis_RcHm_v2.0_Chr2g0095201:0.0373205)n2:0.590309)n1:0.243948)n0;

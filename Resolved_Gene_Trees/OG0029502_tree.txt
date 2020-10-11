@@ -1,0 +1,1 @@
+((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00016.217:0.0335508,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00016.218:0.537702)n1:0.269594,(Nnucifera_XP_019054925.1:0.642243,(Pvirgatum_Pavir.7NG136200:0.0274925,Pvirgatum_Pavir.7NG137900:0.745069)n3:0.484275)n2:0.269594)n0;

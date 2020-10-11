@@ -1,0 +1,1 @@
+(Osativa_LOC_Os01g52200:0.15947,(((Aofficinalis_evm.TU.AsparagusV1_Unassigned.813:0.102366,Aofficinalis_evm.TU.AsparagusV1_Unassigned.159:0.0340585)n3:0.497103,Aofficinalis_evm.TU.AsparagusV1_05.1482:0.533777)n2:0.781969,Macuminata_GSMUA_Achr5G09210_001:0.483635)n1:0.15947)n0;

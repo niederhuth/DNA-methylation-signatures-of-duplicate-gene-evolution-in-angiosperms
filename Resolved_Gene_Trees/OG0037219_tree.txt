@@ -1,0 +1,1 @@
+(Phallii_Pahal.2G019700:0.116798,(Pvirgatum_Pavir.2NG057713:0.104497,(Pvirgatum_Pavir.2NG036066:0.051246,Pvirgatum_Pavir.2KG042100:0.135533)n2:0.172637)n1:0.116798)n0;

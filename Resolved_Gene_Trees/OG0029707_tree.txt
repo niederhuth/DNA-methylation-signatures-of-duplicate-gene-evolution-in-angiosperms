@@ -1,0 +1,1 @@
+((Fxananassa_maker-Fvb5-4-snap-gene-215.53:0.525848,Roccidentalis_maker-Ro01-snap-gene-247.52:0.510815)n1:0.035982,((Boleracea_Bo2g010450:0.601645,Boleracea_Bo6g018170:0.366684)n3:0.276579,Mesculenta_Manes.08G082501:0.847822)n2:0.035982)n0;

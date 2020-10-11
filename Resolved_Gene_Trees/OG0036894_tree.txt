@@ -1,0 +1,1 @@
+(Osativa_LOC_Os11g31715:0.339549,(Sviridis_Sevir.7G047499:5e-07,(Sitalica_Seita.7G041100:8.82009e-07,Sitalica_Seita.7G041400:0.488214)n2:0.054246)n1:0.16854)n0;

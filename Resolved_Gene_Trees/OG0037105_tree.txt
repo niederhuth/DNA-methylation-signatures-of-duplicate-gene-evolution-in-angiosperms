@@ -1,0 +1,1 @@
+(Sbicolor_Sobic.003G084600:0.126436,((Sviridis_Sevir.5G088750:0,Sitalica_Seita.5G090400:0)n2:0.334216,Phallii_Pahal.5G462200:0.605076)n1:0.126436)n0;

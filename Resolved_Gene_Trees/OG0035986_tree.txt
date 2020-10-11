@@ -1,0 +1,1 @@
+(Graimondii_Gorai.007G089400:0.227571,(Rchinensis_RcHm_v2.0_Chr5g0040971:0.547393,(Rchinensis_RcHm_v2.0_Chr5g0016621:0.0666792,Rchinensis_RcHm_v2.0_Chr5g0044481:0.0284858)n2:0.00300725)n1:0.227571)n0;

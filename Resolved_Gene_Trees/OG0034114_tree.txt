@@ -1,0 +1,1 @@
+((Brapa_Brara.E02190:9.11971e-07,Boleracea_Bo5g110020:0.215702)n1:0.209014,(Brapa_Brara.E02187:0.412231,Boleracea_Bo5g110030:9.11971e-07)n2:0.209014)n0;

@@ -1,0 +1,1 @@
+(Aipaensis_araip.K30076.gnm1.ann1.Araip.0637R:0.355588,((Fxananassa_maker-Fvb7-4-snap-gene-139.47:0.330074,Fvesca_FvH4_7g10730:0.293992)n2:0.227802,((Rchinensis_RcHm_v2.0_Chr5g0037121:0.331389,Rchinensis_RcHm_v2.0_Chr7g0239371:0.210006)n4:0.0961029,Rchinensis_RcHm_v2.0_Chr1g0359551:0.101135)n3:0.0112372)n1:0.0877896)n0;

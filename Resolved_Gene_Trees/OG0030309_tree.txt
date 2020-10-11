@@ -1,0 +1,1 @@
+((Ljaponicus_Lj1g3v3902750:0.597968,((Eguineensis_p5.00_sc30811_p0001:0.401217,Slycopersicum_Solyc10g085550.2:0.184018)n3:0.171673,Eguineensis_p5.00_sc00335_p0014:0.268494)n2:0.0298327)n1:0.0497498,Roccidentalis_maker-Ro05-snap-gene-310.60:1.07262)n0;

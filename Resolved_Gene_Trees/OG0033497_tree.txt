@@ -1,0 +1,1 @@
+((Boleracea_Bo6g111120:0.887984,Boleracea_Bo33121s010:0.220459)n1:0.217069,(Aofficinalis_evm.TU.AsparagusV1_07.3579:0.322879,Aofficinalis_evm.TU.AsparagusV1_01.3043:0.428407)n2:0.217069)n0;

@@ -1,0 +1,1 @@
+(Eguineensis_p5.00_sc00364_p0009:0.411099,(Cannuum_CA09g04240:0.625429,(Roccidentalis_maker-Ro05-snap-gene-145.68:0.353801,Stuberosum_PGSC0003DMG400024685:0.613798)n2:0.0184167)n1:0.411099)n0;

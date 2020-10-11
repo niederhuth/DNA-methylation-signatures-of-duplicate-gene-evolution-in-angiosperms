@@ -1,0 +1,1 @@
+((Roccidentalis_snap_masked-Ro05-processed-gene-69.25:1.1396,((Gmax_Glyma.04G211400:0,Gsoja_GlysoPI483463.04G169700:0)n3:0.454217,Ljaponicus_Lj1g3v3668840:0.169139)n2:0.128083)n1:0.284188,(Smelongena_SMEL_007g278970.1:0,Smelongena_SMEL_007g278960.1:0)n4:0.284188)n0;

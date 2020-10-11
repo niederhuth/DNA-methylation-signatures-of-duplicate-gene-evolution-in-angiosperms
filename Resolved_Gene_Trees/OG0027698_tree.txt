@@ -1,0 +1,1 @@
+(Mdomestica_MD05G1180500:0.407627,(Vcorymbosum_maker-VaccDscaff31-snap-gene-10.26:0.775316,((Vcorymbosum_maker-VaccDscaff7-snap-gene-325.35:0.352923,Vcorymbosum_maker-VaccDscaff18-snap-gene-296.40:0.0974332)n3:0.101055,(Vcorymbosum_maker-VaccDscaff7-snap-gene-324.28:0.101243,Vcorymbosum_maker-VaccDscaff16-snap-gene-101.29:0.265296)n4:0.219866)n2:0.344405)n1:0.407627)n0;

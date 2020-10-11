@@ -1,0 +1,1 @@
+(Ppersica_Prupe.1G032200:0.664576,((Roccidentalis_snap_masked-Ro05-processed-gene-374.11:0.0852421,Roccidentalis_snap_masked-Ro05-processed-gene-374.7:0.102292)n2:0.0637932,(Roccidentalis_maker-Ro05-snap-gene-374.26:0,Roccidentalis_maker-Ro05-snap-gene-374.30:0)n3:0.138151)n1:0.664576)n0;

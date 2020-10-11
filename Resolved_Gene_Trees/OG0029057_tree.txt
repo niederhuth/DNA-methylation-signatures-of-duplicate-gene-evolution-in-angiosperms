@@ -1,0 +1,1 @@
+(Aipaensis_araip.K30076.gnm1.ann1.Araip.B85X3:0.391697,(Aofficinalis_evm.TU.AsparagusV1_01.1726:0.698311,((Aofficinalis_evm.TU.AsparagusV1_05.459:0.326677,Aofficinalis_evm.TU.AsparagusV1_06.1232:0.30126)n3:0.328792,Aofficinalis_evm.TU.AsparagusV1_04.3278:0.672074)n2:0.177902)n1:0.391697)n0;

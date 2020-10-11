@@ -1,0 +1,1 @@
+(Boleracea_Bo2g131680:0.31065,((Vcorymbosum_snap_masked-VaccDscaff70-processed-gene-2.18:0.528869,(Vcorymbosum_maker-VaccDscaff25-snap-gene-40.24:0.481697,Vcorymbosum_maker-VaccDscaff38-snap-gene-54.28:0.207261)n3:0.12682)n2:0.409762,Slycopersicum_Solyc10g062230.1:1.00289)n1:0.31065)n0;

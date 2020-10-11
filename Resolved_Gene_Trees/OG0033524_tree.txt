@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_07.2:0.267343,(Stuberosum_PGSC0003DMG400034444:0.76531,(Vcorymbosum_maker-VaccDscaff45-augustus-gene-65.29:0.191375,Vcorymbosum_maker-VaccDscaff27-augustus-gene-2.20:0.00545857)n2:0.409921)n1:0.267343)n0;

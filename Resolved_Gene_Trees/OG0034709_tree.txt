@@ -1,0 +1,1 @@
+(Paxillaris_Peaxi162Scf00152g01342:0.00779312,(Mtruncatula_Medtr1g095470:0.90393,(Ljaponicus_Lj6g3v2273260:0.525909,Cpapaya_evm.TU.contig_37539:0.270504)n2:0.395846)n1:0.00779312)n0;

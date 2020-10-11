@@ -1,0 +1,1 @@
+((Mtruncatula_Medtr1g064040:0.986329,((Mtruncatula_Medtr6g471260:0.580212,Mtruncatula_Medtr6g073880:4.39859e-06)n3:0.173971,Mtruncatula_Medtr6g074030:4.39859e-06)n2:0.48637)n1:0.811042,((Ppersica_Prupe.6G110100:0.051319,Ppersica_Prupe.6G109800:0.288935)n5:0.131824,Ppersica_Prupe.6G109900:0.425487)n4:0.811042)n0;

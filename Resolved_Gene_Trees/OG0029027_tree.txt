@@ -1,0 +1,1 @@
+(Gmax_Glyma.12G051250:0.519654,((Aipaensis_araip.K30076.gnm1.ann1.Araip.177VC:0.311292,Aipaensis_araip.K30076.gnm1.ann1.Araip.AXW4Y:0.322242)n2:0.0844909,(Aipaensis_araip.K30076.gnm1.ann1.Araip.C3CAW:0.229918,Aipaensis_araip.K30076.gnm1.ann1.Araip.87MGT:0.955749)n3:0.290896)n1:0.519654)n0;

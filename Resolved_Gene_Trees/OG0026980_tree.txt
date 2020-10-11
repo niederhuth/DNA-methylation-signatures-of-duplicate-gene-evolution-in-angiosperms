@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr8G00010_001:0.113033,(Gmax_Glyma.18G221500:0.75742,(Cpapaya_evm.TU.supercontig_82.36:0.518253,((Fxananassa_snap_masked-Fvb4-2-processed-gene-110.12:0.0348972,Fxananassa_snap_masked-Fvb3-2-processed-gene-22.33:0.0339957)n4:0.525895,Fxananassa_maker-Fvb5-3-snap-gene-6.47:0.337898)n3:0.0375443)n2:0.201663)n1:0.113033)n0;

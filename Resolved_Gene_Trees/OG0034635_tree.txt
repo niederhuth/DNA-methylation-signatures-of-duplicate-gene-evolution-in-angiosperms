@@ -1,0 +1,1 @@
+(Eguineensis_p5.00_sc00174_p0002:0.21535,((Rchinensis_RcHm_v2.0_Chr3g0482991:0.286698,Cpapaya_evm.TU.supercontig_1.385:0.516993)n2:0.19014,Ljaponicus_Lj0g3v0316399:0.311234)n1:0.21535)n0;

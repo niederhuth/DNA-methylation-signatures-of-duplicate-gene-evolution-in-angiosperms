@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00114.42:0.722346,((Fxananassa_snap_masked-Fvb3-2-processed-gene-297.33:0.0091215,Fxananassa_snap_masked-Fvb3-1-processed-gene-19.23:0.0097075)n2:0.0431142,Fxananassa_snap_masked-Fvb3-3-processed-gene-278.16:1.49904e-06)n1:0.722346)n0;

@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr9G14780_001:0.538341,(Cpapaya_evm.TU.contig_40110:0.305747,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.1N7P5:0.220151,(Aipaensis_araip.K30076.gnm1.ann1.Araip.833BU:0.417215,Aipaensis_araip.K30076.gnm1.ann1.Araip.LWL73:0.239938)n3:0.0266597)n2:0.395015)n1:0.538341)n0;

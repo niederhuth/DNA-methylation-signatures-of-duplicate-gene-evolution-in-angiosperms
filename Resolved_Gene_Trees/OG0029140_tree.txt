@@ -1,0 +1,1 @@
+(Alyrata_AL9U11020:0.236029,((Boleracea_Bo4g133300:0.0964978,Brapa_Brara.D00737:0.0368512)n2:0.233828,(Esalsugineum_Thhalv10026746m.g:0.513011,Esalsugineum_Thhalv10025597m.g:0.192283)n3:0.0213648)n1:0.0976332)n0;

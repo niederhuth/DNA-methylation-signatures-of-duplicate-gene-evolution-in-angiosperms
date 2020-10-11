@@ -1,0 +1,1 @@
+(Athaliana_AT3G45490:0.31794,(Boleracea_Bo3g129990:0.417008,(Esalsugineum_Thhalv10003029m.g:0.572535,(Esalsugineum_Thhalv10002779m.g:0.363853,Esalsugineum_Thhalv10002897m.g:0.200222)n3:0.199176)n2:0.0221307)n1:0.187082)n0;

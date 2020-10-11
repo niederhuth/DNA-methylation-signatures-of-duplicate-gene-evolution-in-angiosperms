@@ -1,0 +1,1 @@
+(Mdomestica_MD05G1102200:0.396628,((Fvesca_FvH4_3g41950:0.53803,Fvesca_FvH4_6g36020:0.598001)n2:0.26029,(Fxananassa_snap_masked-Fvb2-4-processed-gene-151.27:0.308999,Fxananassa_maker-Fvb4-4-snap-gene-99.55:0.478536)n3:0.111428)n1:0.396628)n0;

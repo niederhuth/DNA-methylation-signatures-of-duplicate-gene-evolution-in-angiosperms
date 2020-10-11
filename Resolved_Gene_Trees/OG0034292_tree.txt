@@ -1,0 +1,1 @@
+(Nattenuata_NIATv7_g25618:0.0984831,((Slycopersicum_Solyc01g088260.3:0.0354228,Slycopersicum_Solyc01g088280.2:0.190407)n2:0.158989,Cannuum_CA03g05690:0.119221)n1:0.0984831)n0;

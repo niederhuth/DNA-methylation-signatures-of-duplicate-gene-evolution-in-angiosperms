@@ -1,0 +1,1 @@
+((((Bdistachyon_Bradi3g11900:0.0284961,Bdistachyon_Bradi3g27309:9.18452e-07)n3:0.00122659,Bdistachyon_Bradi1g05765:9.18452e-07)n2:0.0961997,Bdistachyon_Bradi3g04768:0.195629)n1:0.0289395,(Sbicolor_Sobic.006G124800:0.112199,(Pvirgatum_Pavir.5KG002200:0.078779,(Sitalica_Seita.J014500:0.160448,Sitalica_Seita.2G133800:0.11147)n6:0.0123856)n5:0.0599924)n4:0.0351386)n0;

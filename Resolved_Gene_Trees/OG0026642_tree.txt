@@ -1,0 +1,1 @@
+((Osativa_LOC_Os05g45010:0.742832,Othomaeum_Oropetium_20150105_26346:0.521036)n1:0.222174,((Fxananassa_augustus_masked-Fvb6-4-processed-gene-247.1:0.458533,Tcacao_Thecc1EG028953:0.525933)n3:0.379523,(Boleracea_Bo4g066970:0.519305,Cviolacea_Clevi.0005s1220:0.776386)n4:0.205061)n2:0.222174)n0;

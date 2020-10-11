@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00029.73:0.475925,(Csativus_CsaV3_7G028360:0.48818,(((Ptrichocarpa_Potri.003G016800:0.355597,Ptrichocarpa_Potri.003G018000:0.460446)n4:0.249113,Ptrichocarpa_Potri.003G018201:0.157814)n3:0.401571,Ljaponicus_Lj0g3v0207529:0.366603)n2:0.145768)n1:0.475925)n0;

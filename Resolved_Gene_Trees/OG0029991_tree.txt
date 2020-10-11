@@ -1,0 +1,1 @@
+(Cclementina_Ciclev10003262m.g:0.432942,(Fxananassa_augustus_masked-Fvb6-2-processed-gene-53.0:0.276469,(Fxananassa_snap_masked-Fvb4-4-processed-gene-125.13:0.493619,(Fxananassa_snap_masked-Fvb2-1-processed-gene-69.11:0.119813,Fxananassa_snap_masked-Fvb1-2-processed-gene-184.6:0.192168)n3:0.115212)n2:0.0251988)n1:0.432942)n0;

@@ -1,0 +1,1 @@
+(Zmays_Zm00001d048140:0.149093,(Smelongena_SMEL_007g285470.1:0.714075,(Roccidentalis_maker-Ro03-snap-gene-298.42:0.32552,(Graimondii_Gorai.007G262800:0.138512,Graimondii_Gorai.005G203300:0.294859)n3:0.362447)n2:0.0628593)n1:0.149093)n0;

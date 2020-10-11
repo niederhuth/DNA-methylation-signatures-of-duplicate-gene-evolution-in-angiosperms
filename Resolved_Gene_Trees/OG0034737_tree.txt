@@ -1,0 +1,1 @@
+((Mtruncatula_Medtr4g093800:0.395162,Mtruncatula_Medtr4g435288:0.676164)n1:0.10236,(Fxananassa_augustus_masked-Fvb3-3-processed-gene-239.2:0.511135,Csativus_CsaV3_1G033170:0.621922)n2:0.10236)n0;

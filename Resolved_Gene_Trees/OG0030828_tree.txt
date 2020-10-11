@@ -1,0 +1,1 @@
+(Fxananassa_augustus_masked-Fvb1-3-processed-gene-75.3:0.0161663,(((Fxananassa_augustus_masked-Fvb1-4-processed-gene-138.6:1.62273,Fxananassa_maker-Fvb2-4-augustus-gene-34.38:0.31485)n3:0.0356322,Fxananassa_augustus_masked-Fvb4-4-processed-gene-208.10:2.20778e-06)n2:0.0317272,Fxananassa_augustus_masked-Fvb3-2-processed-gene-29.20:0.179288)n1:0.0161663)n0;

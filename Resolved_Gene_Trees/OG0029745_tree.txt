@@ -1,0 +1,1 @@
+(Slycopersicum_Solyc11g028090.2:0.269903,((Boleracea_Bo4g081140:0.739179,(Rchinensis_RcHm_v2.0_Chr7g0229581:0.225177,Rchinensis_RcHm_v2.0_Chr7g0230101:0.242876)n3:0.0269862)n2:0.383739,Cpapaya_evm.TU.contig_35333.1:0.0678688)n1:0.405175)n0;

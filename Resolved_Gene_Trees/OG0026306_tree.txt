@@ -1,0 +1,1 @@
+(((Aofficinalis_evm.TU.AsparagusV1_04.3102:0.354544,Aofficinalis_evm.TU.AsparagusV1_04.561:1.0189)n2:0.220537,((Fxananassa_augustus_masked-Fvb2-1-processed-gene-167.16:0.102684,Zjujuba_LOC107409005:0.217466)n4:0.501326,Fxananassa_augustus_masked-Fvb1-2-processed-gene-271.1:0.931513)n3:0.103501)n1:0.140029,Osativa_LOC_Os06g33170:0.814922)n0;

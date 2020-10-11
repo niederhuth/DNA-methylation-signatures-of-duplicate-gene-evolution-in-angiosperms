@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_03.3172:0.444261,(Ljaponicus_Lj1g3v4141670:0.10419,((Pvulgaris_Phvul.001G090900:0.329978,((Mtruncatula_Medtr7g089250:0.480116,Mtruncatula_Medtr7g089270:0.435273)n5:0.0917045,(Mtruncatula_Medtr7g007390:0.527,Mtruncatula_Medtr5g024973:0.212473)n6:0.172689)n4:0.0191876)n3:0.0439108,Boleracea_Bo7g107590:0.493121)n2:0.0438075)n1:0.444261)n0;

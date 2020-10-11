@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_25186:0.248321,((Cannuum_CA00g96830:0.814512,Csativus_CsaV3_UNG036190:0.921215)n2:0.117654,((Fxananassa_maker-Fvb6-2-snap-gene-55.51:0.30349,Fxananassa_maker-Fvb6-1-augustus-gene-152.47:0.263386)n4:0.14347,(Rchinensis_RcHm_v2.0_Chr5g0054651:0.129877,Rchinensis_RcHm_v2.0_Chr5g0054891:0.138392)n5:0.286518)n3:0.407578)n1:0.248321)n0;

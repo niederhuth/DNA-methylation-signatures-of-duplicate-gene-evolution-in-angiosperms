@@ -1,0 +1,1 @@
+(Egrandis_Eucgr.G01354:0.485257,((Graimondii_Gorai.011G265600:0.484199,(Fvesca_FvH4_2g17420:0.631737,Fvesca_FvH4_2g17410:0.624904)n3:0.0694338)n2:0.083268,(Aipaensis_araip.K30076.gnm1.ann1.Araip.1H8TZ:0.632748,Mtruncatula_Medtr1480s0010:0.382397)n4:0.218367)n1:0.02088)n0;

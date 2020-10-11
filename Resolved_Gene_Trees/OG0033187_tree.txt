@@ -1,0 +1,1 @@
+(Smelongena_SMEL_003g178150.1:0.0945168,((Boleracea_Bo5g043640:0.379155,Aipaensis_araip.K30076.gnm1.ann1.Araip.4226S:0.716517)n2:0.304534,Cpapaya_evm.TU.supercontig_2.145:0.909649)n1:0.0945168)n0;

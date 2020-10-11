@@ -1,0 +1,1 @@
+((Aipaensis_araip.K30076.gnm1.ann1.Araip.PW452:0.269701,Aipaensis_araip.K30076.gnm1.ann1.Araip.58KHM:0.577923)n1:0.367167,(Vcorymbosum_maker-VaccDscaff16-snap-gene-312.33:0.519225,Nattenuata_NIATv7_g08266:1.01597)n2:0.367167)n0;

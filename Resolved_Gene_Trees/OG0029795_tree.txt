@@ -1,0 +1,1 @@
+(Slycopersicum_Solyc11g005975.1:0.5746,(Crubella_Carub.0007s3657:0.625291,((Gmax_Glyma.16G056800:1.06685,Fxananassa_snap_masked-Fvb2-4-processed-gene-207.17:1.10404)n3:0.119747,Brapa_Brara.D00951:3.77634e-06)n2:0.0292057)n1:0.5746)n0;

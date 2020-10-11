@@ -1,0 +1,1 @@
+(Vcorymbosum_maker-VaccDscaff6-augustus-gene-397.34:0.00468754,(Vcorymbosum_maker-VaccDscaff38-augustus-gene-7.35:0.0129609,((Vcorymbosum_maker-VaccDscaff5-snap-gene-358.33:0.366632,Vcorymbosum_maker-VaccDscaff18-augustus-gene-61.31:0.19936)n3:1.00216,Vcorymbosum_maker-VaccDscaff37-augustus-gene-280.27:0.00034653)n2:0.0050731)n1:0.00468754)n0;

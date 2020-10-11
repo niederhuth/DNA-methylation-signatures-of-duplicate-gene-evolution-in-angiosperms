@@ -1,0 +1,1 @@
+(Pvirgatum_Pavir.1KG288200:0.0791773,((Vcorymbosum_maker-VaccDscaff46-snap-gene-20.34:0.353057,(Zjujuba_LOC107426476:0.0826726,(Slycopersicum_Solyc12g010020.2:1.27221e-06,Slycopersicum_Solyc12g010030.2:0.0187106)n4:0.273458)n3:0.0245871)n2:0.265238,Aipaensis_araip.K30076.gnm1.ann1.Araip.6N5UI:0.0989425)n1:0.0791773)n0;

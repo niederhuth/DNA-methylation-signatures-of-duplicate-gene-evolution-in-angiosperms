@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_04997:0.117368,(Acoerulea_Aqcoe7G212600:0.352259,(((Aduranensis_aradu.V14167.gnm1.ann1.Aradu.41GP2:0.350852,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.CTA28:0.026954)n4:0.42984,Aipaensis_araip.K30076.gnm1.ann1.Araip.DFE6E:1.8292e-06)n3:0.0774378,Zjujuba_LOC107409163:0.234873)n2:0.127079)n1:0.117368)n0;

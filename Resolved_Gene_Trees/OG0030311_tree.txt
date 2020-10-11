@@ -1,0 +1,1 @@
+(Eguineensis_p5.00_sc00336_p0008:0.380925,((Ptrichocarpa_Potri.001G197800:0.560776,Ptrichocarpa_Potri.011G064200:0.618525)n2:0.146802,(Ptrichocarpa_Potri.011G082200:0.542805,Ptrichocarpa_Potri.001G397700:0.245207)n3:0.157348)n1:0.380925)n0;

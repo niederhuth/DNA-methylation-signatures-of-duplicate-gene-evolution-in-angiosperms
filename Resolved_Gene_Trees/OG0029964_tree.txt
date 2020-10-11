@@ -1,0 +1,1 @@
+(Cannuum_CA12g20110:0.423385,((Mguttatus_Migut.I00472:0.083864,(Mguttatus_Migut.G01217:0.00672053,Mguttatus_Migut.A01165:1.60199e-06)n3:0.105155)n2:0.0963761,Mguttatus_Migut.G01251:0.46368)n1:0.423385)n0;

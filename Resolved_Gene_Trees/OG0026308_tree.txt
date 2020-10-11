@@ -1,0 +1,1 @@
+((Ptrichocarpa_Potri.006G218850:0.443508,(Fxananassa_maker-Fvb1-3-snap-gene-125.38:0.53242,Fxananassa_maker-Fvb7-2-snap-gene-72.41:1.09094)n2:0.0870392)n1:0.0983165,(Aofficinalis_evm.TU.AsparagusV1_04.3434:0.613702,(Pvirgatum_Pavir.5NG505886:0.683877,Eguineensis_p5.00_sc00029_p0051:0.694884)n4:0.0400585)n3:0.0983165)n0;

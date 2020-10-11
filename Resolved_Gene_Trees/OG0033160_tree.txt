@@ -1,0 +1,1 @@
+((Aipaensis_araip.K30076.gnm1.ann1.Araip.M8J1I:0.190624,Aipaensis_araip.K30076.gnm1.ann1.Araip.JTT1E:0.295932)n1:0.136072,(Mtruncatula_Medtr1g089300:1.06255,Mtruncatula_Medtr3g092500:0.608232)n2:0.136072)n0;

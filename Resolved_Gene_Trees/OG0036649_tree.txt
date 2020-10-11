@@ -1,0 +1,1 @@
+(Slycopersicum_Solyc11g018625.1:0.324902,(Nattenuata_NIATv7_g53646:0.160786,(Nattenuata_NIATv7_g64225:0.124294,Nattenuata_NIATv7_g00050:0.086922)n2:0.314155)n1:0.324902)n0;
