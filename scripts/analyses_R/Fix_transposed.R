@@ -33,19 +33,26 @@ for(a in species){
 				c(paste(a,"_",b,sep=""),paste(a,"_",p,sep="")))){
 				x <- as_tibble(tree_subset(tre,tre2[tre2$node==child(tre,ancestor)[i],]$label,
 				levels_back=0))
-				if(paste(a,"_",b,sep="") %in% tre2$label){
-					c1 <- nrow(x[grep(a,x$label),])
-					c2 <- nrow(x[grep("Atrichopoda",x$label),])
-					c3 <- nrow(x[grep("Nnucifera",x$label),])
-					c4 <- nrow(x[grep("Acoerulea",x$label),])
-					c5 <- nrow(x[grep("Spolyrhiza",x$label),])
-					tmp <- tree_subset(tre,paste(a,"_",b,sep=""),levels_back=1)
-					closest <- tmp$tip.label[grep(paste(a,"_",b,sep=""),
+				if(paste(a,"_",b,sep="") %in% x$label){
+					if(paste(a,"_",p,sep="") %in% x$label){
+						c1 <- c2 <- c3 <- c4 <- c5 <- 0
+						tmp <- tree_subset(tre,paste(a,"_",b,sep=""),levels_back=1)
+						closest <- tmp$tip.label[grep(paste(a,"_",b,sep=""),
 						tmp$tip.label,invert=TRUE)]
+					} else {
+						c1 <- nrow(x[grep(a,x$label),])
+						c2 <- nrow(x[grep("Atrichopoda",x$label),])
+						c3 <- nrow(x[grep("Nnucifera",x$label),])
+						c4 <- nrow(x[grep("Acoerulea",x$label),])
+						c5 <- nrow(x[grep("Spolyrhiza",x$label),])
+						tmp <- tree_subset(tre,paste(a,"_",b,sep=""),levels_back=1)
+						closest <- tmp$tip.label[grep(paste(a,"_",b,sep=""),
+						tmp$tip.label,invert=TRUE)]
+					}
 				}
 			} else if(tre2[tre2$node==child(tre,ancestor)[i],]$label == paste(a,"_",b,sep="")){
 				c1 <- c2 <- c3 <- c4 <- c5 <- 0
-				closest <- NA
+				closest <- "Unknown"
 			}
 		}
 		geneCount <- rbind(geneCount,data.frame(Transposed=b,Parent=p,speciesCount=c1,
@@ -53,5 +60,6 @@ for(a in species){
 	}
 }
 
+write.csv(geneCount,'../scripts/analyses_R/data2/Athaliana/dupgen/results-unique/transposed_tree_data.tsv',quote=FALSE,row.names=FALSE)
 #test <- drop.tip(tre,tre$tip.label[!(tre$tip.label %in% x6$label)])
 
