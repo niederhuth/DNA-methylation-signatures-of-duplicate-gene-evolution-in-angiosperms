@@ -12,7 +12,7 @@ species <- data.frame(Species=c("Aduranensis","Aipaensis","Alyrata","Athaliana",
 	"Phallii","Ppersica","Ptrichocarpa","Pvirgatum","Pvulgaris","Pxbretschneideri",
 	"Sbicolor","Sitalica","Slycopersicum","Stuberosum","Sviridis","Tcacao",
 	"Vvinifera","Zmays"),Order=c(35,34,20,19,1,5,23,22,40,14,17,26,27,18,28,13,2,21,32,33,37,
-	16,38,3,31,24,43,39,4,11,29,25,10,30,36,7,8,41,42,9,15,12,6))
+	16,38,3,31,24,43,39,4,11,29,25,10,36,30,7,8,41,42,9,15,12,6))
 #Dataframe of angiosperm families with more than 2 representative species
 families <- data.frame(Family=c(rep("Poaceae",9),rep("Brassicaceae",6),rep("Fabaceae",7),
 	rep("Rosaceae",7),rep("Solanaceae",6),rep("Cucurbitaceae",3)),
@@ -23,7 +23,7 @@ families <- data.frame(Family=c(rep("Poaceae",9),rep("Brassicaceae",6),rep("Faba
 		"Cannuum","Nattenuata","Paxillaris","Slycopersicum","Smelongena","Stuberosum","Clanatus",
 		"Cmelo","Csativus"))
 
-species=data.frame(Species=c("Athaliana"))
+#species=data.frame(Species=c("Athaliana"))
 
 #Set path to orthofinder results
 path1=paste("orthofinder/orthofinder/",dir("orthofinder/orthofinder/"),sep="")
@@ -75,7 +75,8 @@ for(i in colnames(singleCopy[1:58])){
 		pgbM=NA,pTE.like=NA,pUnmethylated=NA,pUnclassified=NA,pMissing=NA))
 }
 #Identify multiCopy core angiosperm genes
-multiCopy <- geneCounts[!(row.names(geneCounts) %in% row.names(singleCopy)),]
+multiCopy <- geneCounts[row.names(geneCounts) %in% row.names(coreGenes) & 
+	!(row.names(geneCounts) %in% row.names(singleCopy)),]
 #Identify species specific orthogroups
 speciesSpecific <- geneCounts[row.names(geneCounts) %in% row.names(PA[PA$Total==1,]),]
 #Identify family specific orthogroups
@@ -89,11 +90,12 @@ for(i in unique(families$Family)){
 otherOG <- geneCounts[!(row.names(geneCounts) %in% c(row.names(coreGenes),
 	row.names(speciesSpecific),row.names(lineageSpecific))),]
 #Create dataframe of each orthogroup's category
-ogCat <- rbind(data.frame(Orthogroup=row.names(singleCopy),ogCat=c("Core: Single Copy")),
-	data.frame(Orthogroup=row.names(multiCopy),ogCat=c("Core: Other")),
-	data.frame(Orthogroup=row.names(otherOG),ogCat=c("Multi-Family")),
-	data.frame(Orthogroup=row.names(lineageSpecific),ogCat=c("Family Specific")),
-	data.frame(Orthogroup=row.names(speciesSpecific),ogCat=c("Species/Lineage Specific")))
+ogCat <- data.frame(Orthogroup=row.names(geneCounts),ogCat=NA)
+ogCat$ogCat <- ifelse(ogCat$Orthogroup %in% row.names(speciesSpecific),"Species/Lineage Specific",ogCat$ogCat)
+ogCat$ogCat <- ifelse(ogCat$Orthogroup %in% row.names(lineageSpecific),"Family Specific",ogCat$ogCat)
+ogCat$ogCat <- ifelse(ogCat$Orthogroup %in% row.names(otherOG),"Cross-Family",ogCat$ogCat)
+ogCat$ogCat <- ifelse(ogCat$Orthogroup %in% row.names(multiCopy),"Core: Other",ogCat$ogCat)
+ogCat$ogCat <- ifelse(ogCat$Orthogroup %in% row.names(singleCopy),"Core: Single Copy",ogCat$ogCat)
 
 top <- pOG <- data.frame()
 #Iterate over each species
@@ -106,7 +108,7 @@ for(a in species$Species){
 	#Change "NA" to "Missing"
 	df1$Classification <- ifelse(is.na(df1$Classification),"Missing",df1$Classification)
 	#Read in the orthogroups for that species
-	df2 <- read.table(paste(a,"/ref/mcscanx/",a,"_orthogroups.tsv",sep=""),header=FALSE,sep="\t")[1,2]
+	df2 <- read.table(paste(a,"/ref/mcscanx/",a,"_orthogroups.tsv",sep=""),header=FALSE,sep="\t")[c(1,2)]
 	#Redo the original orthogroup list for that species for other analyses
 	new <- merge(df2,ogCat,by.x="V2",by.y="Orthogroup")[c("V1","V2","ogCat")]
 	write.table(new,paste(a,"/ref/mcscanx/",a,"_orthogroups.tsv",sep=""),
