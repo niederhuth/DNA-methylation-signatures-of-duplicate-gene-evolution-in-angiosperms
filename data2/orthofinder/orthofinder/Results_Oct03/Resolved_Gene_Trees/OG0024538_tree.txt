@@ -1,1 +1,0 @@
-((Smelongena_SMEL_012g385930.1:0.147735,Smelongena_SMEL_012g385940.1:0.170271)n1:0.1626,(((Ljaponicus_Lj4g3v0412710:0.285861,Cpapaya_evm.TU.supercontig_129.65:0.401359)n4:0.0975093,Zjujuba_LOC107424984:0.57793)n3:0.168069,(Fxananassa_snap_masked-Fvb6-1-processed-gene-52.37:5e-07,Fxananassa_snap_masked-Fvb6-1-processed-gene-0.16:5e-07)n5:0.791097)n2:0.1626)n0;

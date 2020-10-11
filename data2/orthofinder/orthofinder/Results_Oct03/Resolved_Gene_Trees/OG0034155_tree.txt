@@ -1,1 +1,0 @@
-((Roccidentalis_maker-Ro03-snap-gene-23.44:0.114172,Boleracea_Bo1g045330:0.192811)n1:0.0314896,(Cannuum_CA07g20690:0.0173792,Smelongena_SMEL_007g296490.1:0.0690918)n2:0.0314896)n0;

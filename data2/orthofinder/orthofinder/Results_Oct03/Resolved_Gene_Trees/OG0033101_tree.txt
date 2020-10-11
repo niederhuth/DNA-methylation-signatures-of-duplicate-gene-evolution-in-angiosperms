@@ -1,1 +1,0 @@
-(Aipaensis_araip.K30076.gnm1.ann1.Araip.U3Y9R:0.370252,(Spolyrhiza_Spipo26G0007600:1.03814,(Spolyrhiza_Spipo27G0006500:0.570931,Spolyrhiza_Spipo11G0023700:0.237735)n2:0.322528)n1:0.370252)n0;

@@ -1,1 +1,0 @@
-(Athaliana_AT1G59460:0.486763,(Vcorymbosum_snap_masked-VaccDscaff17-processed-gene-336.34:0.315312,(Vcorymbosum_maker-VaccDscaff50-snap-gene-26.53:0.00575525,Vcorymbosum_maker-VaccDscaff27-snap-gene-297.36:0.0561338)n2:0.0783362)n1:0.486763)n0;

@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_11587:0.535194,(Aipaensis_araip.K30076.gnm1.ann1.Araip.KJ1YW:0.844817,(Cpapaya_evm.TU.contig_48254:0.78471,Mesculenta_Manes.S022655:0.590286)n2:0.299274)n1:0.535194)n0;

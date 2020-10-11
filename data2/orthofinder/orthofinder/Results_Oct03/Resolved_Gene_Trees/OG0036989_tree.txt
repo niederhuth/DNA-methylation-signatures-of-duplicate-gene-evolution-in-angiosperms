@@ -1,1 +1,0 @@
-(Vcorymbosum_maker-VaccDscaff44-augustus-gene-28.22:0.423226,((Slycopersicum_Solyc08g008140.3:0.124884,Stuberosum_PGSC0003DMG401005827:0.0599582)n2:0.322331,Paxillaris_Peaxi162Scf00102g01645:0.412966)n1:0.423226)n0;

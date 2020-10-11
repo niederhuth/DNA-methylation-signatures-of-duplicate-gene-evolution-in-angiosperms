@@ -1,1 +1,0 @@
-(Cannuum_CA00g99130:0.369843,(Rchinensis_RcHm_v2.0_Chr7g0205471:1.83081e-06,(Rchinensis_RcHm_v2.0_Chr0c22g0500491:0.373475,(Rchinensis_RcHm_v2.0_Chr7g0206831:0.41013,Rchinensis_RcHm_v2.0_Chr7g0207701:0.054684)n3:0.203128)n2:0.154789)n1:0.369843)n0;

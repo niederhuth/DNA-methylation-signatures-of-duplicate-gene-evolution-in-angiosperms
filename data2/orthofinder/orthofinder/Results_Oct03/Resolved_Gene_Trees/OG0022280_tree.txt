@@ -1,1 +1,0 @@
-(((Sviridis_Sevir.1G145601:0,(Sitalica_Seita.J006800:0,Pvirgatum_Pavir.J219701:0)n3:0)n2:0.245054,Bdistachyon_Bradi2g26903:0.0848946)n1:0.0651279,((Graimondii_Gorai.001G166500:0.0980949,Gmax_Glyma.10G098900:0.137602)n5:0.138285,(Ljaponicus_Lj0g3v0160669:0.113191,Pvulgaris_Phvul.009G130900:0.145081)n6:0.023531)n4:0.0651279)n0;

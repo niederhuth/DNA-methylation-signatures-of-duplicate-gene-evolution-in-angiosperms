@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_AchrUn_randomG06640_001:0.509462,((Ljaponicus_Ljmitog3v0000030:5e-07,Ljaponicus_Lj0g3v0347859:5e-07)n2:0.811275,Mtruncatula_Medtr3g048160:0.0251665)n1:0.509462)n0;

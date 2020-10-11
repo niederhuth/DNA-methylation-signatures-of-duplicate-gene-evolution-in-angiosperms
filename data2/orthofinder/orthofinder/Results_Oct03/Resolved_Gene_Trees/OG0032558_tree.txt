@@ -1,1 +1,0 @@
-(Slycopersicum_Solyc01g066650.1:0.811296,(Acoerulea_Aqcoe6G268400:2.39422e-06,(Acoerulea_Aqcoe5G259300:0.321392,Acoerulea_Aqcoe2G020000:0.138462)n2:0.474794)n1:0.811296)n0;

@@ -1,1 +1,0 @@
-(Graimondii_Gorai.004G257900:0,((Graimondii_Gorai.004G258000:0.0050335,Graimondii_Gorai.004G257800:2.15336e-07)n2:0.0002085,Graimondii_Gorai.004G257400:0.210303)n1:0)n0;

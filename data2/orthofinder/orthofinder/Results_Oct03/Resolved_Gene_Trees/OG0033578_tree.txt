@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_02.2168:0.156529,((Gsoja_GlysoPI483463.02G013600:0,Gmax_Glyma.02G014666:0)n2:0.224816,Nattenuata_NIATv7_g34048:0.145042)n1:0.156529)n0;

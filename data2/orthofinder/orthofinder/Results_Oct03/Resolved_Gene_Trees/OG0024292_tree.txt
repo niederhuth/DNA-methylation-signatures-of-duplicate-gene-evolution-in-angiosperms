@@ -1,1 +1,0 @@
-(Vcorymbosum_maker-VaccDscaff29-snap-gene-18.35:0.0372393,((Ptrichocarpa_Potri.T057666:0.0402783,(Boleracea_Bo3g012350:0.130103,Boleracea_Bo07394s010:0.263947)n3:0.165181)n2:0.207953,(Vvinifera_VIT_214s0006g01850:0.655126,(Ljaponicus_Lj2g3v2124900:1.80324e-06,Ljaponicus_Lj1g3v3716950:0.0795075)n5:0.00883417)n4:0.269217)n1:0.0372393)n0;

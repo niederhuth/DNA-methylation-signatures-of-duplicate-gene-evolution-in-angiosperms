@@ -1,1 +1,0 @@
-(Roccidentalis_maker-Ro04-exonerate_protein2genome-gene-224.22:0.449831,(Gsoja_GlysoPI483463.04G177200:0.02482,(Gmax_Glyma.09G161651:0.558592,Gmax_Glyma.04G219566:1.64924e-06)n2:1.64924e-06)n1:0.623296)n0;

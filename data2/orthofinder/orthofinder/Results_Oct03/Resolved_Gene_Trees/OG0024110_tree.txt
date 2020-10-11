@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00025.255:0.204195,(Vcorymbosum_augustus_masked-VaccDscaff3-processed-gene-260.1:0.371817,(Mtruncatula_Medtr1g009155:0.232191,(Zmays_Zm00001d051974:0.30276,(Zmays_Zm00001d010554:0.0806491,(Zmays_Zm00001d053365:0.00434811,Zmays_Zm00001d053364:0.134652)n5:0.0446359)n4:0.0915419)n3:0.461479)n2:0.266983)n1:0.204195)n0;

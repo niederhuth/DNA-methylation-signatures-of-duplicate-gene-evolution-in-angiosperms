@@ -1,1 +1,0 @@
-(Osativa_ChrSy.fgenesh.gene.35:0.167536,(Osativa_ChrSy.fgenesh.gene.39:0.0940135,(Osativa_ChrSy.fgenesh.gene.59:0.696819,Osativa_ChrSy.fgenesh.gene.68:1.07618)n2:0.785981)n1:0.167536)n0;

@@ -1,1 +1,0 @@
-(Aipaensis_araip.K30076.gnm1.ann1.Araip.SQT4Z:0.0125066,((Cannuum_CA04g06900:0.651838,Smelongena_SMEL_001g143740.1:0.696434)n2:0.511709,Slycopersicum_Solyc08g075620.2:0.981846)n1:0.0125066)n0;

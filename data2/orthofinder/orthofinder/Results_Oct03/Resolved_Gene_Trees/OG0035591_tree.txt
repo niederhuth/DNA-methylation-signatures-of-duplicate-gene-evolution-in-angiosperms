@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_23897:0.364624,(Mtruncatula_Medtr8g076580:0.405197,(Fxananassa_maker-Fvb1-1-augustus-gene-213.29:0.496513,Fxananassa_augustus_masked-Fvb6-4-processed-gene-309.19:0.830329)n2:0.0922588)n1:0.12007)n0;

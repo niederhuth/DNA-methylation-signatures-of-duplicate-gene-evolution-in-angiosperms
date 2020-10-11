@@ -1,1 +1,0 @@
-(Vvinifera_VIT_208s0217g00120:0.19173,(((Fvesca_FvH4_7g24740:0.26333,(Fxananassa_maker-Fvb7-1-snap-gene-261.71:0.441906,Roccidentalis_maker-Ro07-snap-gene-364.92:0.621628)n4:0.0344283)n3:0.0641288,Ptrichocarpa_Potri.010G186500:0.717891)n2:0.0200614,Alyrata_AL3G24650:0.685316)n1:0.19173)n0;

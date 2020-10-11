@@ -1,1 +1,0 @@
-(Osativa_LOC_Os11g10590:0.218519,(Tcacao_Thecc1EG032689:0.469988,((Ptrichocarpa_Potri.017G018100:0.0872885,(Ptrichocarpa_Potri.017G018200:5e-07,Ptrichocarpa_Potri.T077900:5e-07)n4:0.034167)n3:0.339972,Ptrichocarpa_Potri.T077800:0.467677)n2:0.0440062)n1:0.218519)n0;

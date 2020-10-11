@@ -1,1 +1,0 @@
-(Boleracea_Bo31142s010:0.177137,((Bvulgaris_gene_BVRB_3g070000:0.622873,Bvulgaris_gene_BVRB_8g182760:0.0511972)n2:0.483075,Bvulgaris_gene_BVRB_4g093970:0.810159)n1:0.177137)n0;

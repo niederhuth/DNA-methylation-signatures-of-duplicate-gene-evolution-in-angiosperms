@@ -1,1 +1,0 @@
-((Alyrata_AL2G37900:0.06494,Athaliana_AT1G77682:0.095199)n1:0.430513,(Esalsugineum_Thhalv10027493m.g:0.442549,Esalsugineum_Thhalv10026988m.g:1.11e-06)n2:0.430513)n0;

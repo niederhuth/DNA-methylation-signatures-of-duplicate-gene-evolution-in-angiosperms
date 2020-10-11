@@ -1,1 +1,0 @@
-(Cannuum_CA06g03950:0.48926,((Cpapaya_evm.TU.contig_30463.6:0,Cpapaya_evm.TU.supercontig_200.21:0)n2:0.0310053,(Cpapaya_evm.TU.supercontig_164.11:0.148906,Cpapaya_evm.TU.supercontig_122.45:0.104223)n3:0.134248)n1:0.48926)n0;

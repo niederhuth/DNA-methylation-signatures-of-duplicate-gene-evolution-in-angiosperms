@@ -1,1 +1,0 @@
-((Vcorymbosum_maker-VaccDscaff37-augustus-gene-299.15:0.346593,Vcorymbosum_maker-VaccDscaff22-augustus-gene-8.26:0.655246)n1:0.0469166,((Gsoja_GlysoPI483463.08G117500:0,Gmax_Glyma.08G127500:0)n3:0.46639,Cpapaya_evm.TU.supercontig_30.19:0.435754)n2:0.0469166)n0;

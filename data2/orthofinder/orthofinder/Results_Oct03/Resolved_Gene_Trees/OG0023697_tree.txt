@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00048.165:0.0428839,(Ptrichocarpa_Potri.001G130601:0.463416,(Aipaensis_araip.K30076.gnm1.ann1.Araip.R0SEJ:0.44933,((Ljaponicus_Lj2g3v1549620:0.364758,(Ljaponicus_Lj0g3v0232209:0.835658,Ljaponicus_Lj3g3v0797340:0.432265)n5:0.19247)n4:0.132462,Rchinensis_RcHm_v2.0_Chr6g0281751:0.572915)n3:0.0762781)n2:0.0526087)n1:0.0428839)n0;

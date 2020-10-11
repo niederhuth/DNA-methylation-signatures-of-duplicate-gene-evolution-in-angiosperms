@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_08.2098:0.480337,(Othomaeum_Oropetium_20150105_26607:0.178417,(Othomaeum_Oropetium_20150105_26609:0.471272,Othomaeum_Oropetium_20150105_28304:0.189083)n2:0.463453)n1:0.480337)n0;

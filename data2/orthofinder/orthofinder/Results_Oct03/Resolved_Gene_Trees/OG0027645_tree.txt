@@ -1,1 +1,0 @@
-((Ljaponicus_Lj3g3v2309930:0,Ljaponicus_Lj0g3v0317969:0)n1:0.233319,(Mguttatus_Migut.I00239:0.326974,(Mguttatus_Migut.I00249:0.132422,(Mguttatus_Migut.I00244:0.135608,Mguttatus_Migut.I00247:0.156698)n4:0.0308199)n3:0.0358504)n2:0.233319)n0;

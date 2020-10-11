@@ -1,1 +1,0 @@
-((Ljaponicus_Lj1g3v4955340:0.320232,Ptrichocarpa_Potri.010G129532:0.598893)n1:0.510804,(Slycopersicum_Solyc07g040785.1:0.193435,Slycopersicum_Solyc07g009445.1:0.0252025)n2:0.510804)n0;

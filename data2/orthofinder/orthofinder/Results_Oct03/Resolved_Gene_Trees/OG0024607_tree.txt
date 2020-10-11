@@ -1,1 +1,0 @@
-((Osativa_LOC_Os08g06610:0.123444,Egrandis_Eucgr.F00932:0.291703)n1:0.0363596,(Sviridis_Sevir.8G177300:0.219111,((Smelongena_SMEL_004g212950.1:0.0276131,Smelongena_SMEL_004g212970.1:0.0328449)n4:0.0721709,(Vcorymbosum_maker-VaccDscaff46-augustus-gene-78.20:0.0677862,Vcorymbosum_maker-VaccDscaff13-snap-gene-382.23:0.0427361)n5:0.00474846)n3:0.0188567)n2:0.0363596)n0;

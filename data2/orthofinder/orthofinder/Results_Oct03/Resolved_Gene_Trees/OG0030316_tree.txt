@@ -1,1 +1,0 @@
-(Eguineensis_p5.00_sc02859_p0001:0.644062,(Pxbretschneideri_LOC103959635:1.20969,(Fvesca_FvH4_2g04250:3.12331e-06,(Fxananassa_snap_masked-Fvb2-1-processed-gene-17.11:0.369421,Fxananassa_augustus_masked-Fvb2-2-processed-gene-208.13:0.0270023)n3:0.00300025)n2:0.245642)n1:0.644062)n0;

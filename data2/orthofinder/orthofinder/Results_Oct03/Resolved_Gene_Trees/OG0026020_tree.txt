@@ -1,1 +1,0 @@
-((Phallii_Pahal.5G398400:0.235318,Othomaeum_Oropetium_20150105_22911:0.245181)n1:0.27393,(Paxillaris_Peaxi162Scf00888g00018:0.898792,(Aipaensis_araip.K30076.gnm1.ann1.Araip.K34KC:0.178148,(Mtruncatula_Medtr1029s0010:5e-07,Mtruncatula_Medtr1033s0010:5e-07)n4:0.363751)n3:0.0354408)n2:0.27393)n0;

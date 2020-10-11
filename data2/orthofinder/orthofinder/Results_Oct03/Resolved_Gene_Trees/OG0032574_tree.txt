@@ -1,1 +1,0 @@
-((Cviolacea_Clevi.0015s0300:0.693379,Mguttatus_Migut.J01362:0.312511)n1:0.0977429,(Acoerulea_Aqcoe2G188000:0.136572,Acoerulea_Aqcoe7G230700:0.142512)n2:0.0977429)n0;

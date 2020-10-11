@@ -1,1 +1,0 @@
-(Cannuum_CA08g05170:0.509888,((Roccidentalis_maker-Ro06-snap-gene-75.38:0.239974,Roccidentalis_maker-Ro02-snap-gene-156.65:0.401348)n2:0.31686,Roccidentalis_maker-Ro03-snap-gene-62.84:0.852892)n1:0.509888)n0;

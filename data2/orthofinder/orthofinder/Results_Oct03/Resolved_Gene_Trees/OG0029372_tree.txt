@@ -1,1 +1,0 @@
-((Ppersica_Prupe.1G187500:0.321594,(Ljaponicus_Lj6g3v0291960:0.223589,Zjujuba_LOC107406409:0.253657)n2:0.216327)n1:0.271188,(Aofficinalis_evm.TU.AsparagusV1_06.693:0.335428,Aofficinalis_evm.TU.AsparagusV1_06.886:0.634144)n3:0.271188)n0;

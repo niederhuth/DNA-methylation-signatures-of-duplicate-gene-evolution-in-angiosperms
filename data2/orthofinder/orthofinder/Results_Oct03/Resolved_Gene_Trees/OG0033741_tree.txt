@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00153.33:0.229192,((Ljaponicus_Lj5g3v1901650:0.290405,Ljaponicus_Lj0g3v0250699:0.143384)n2:0.421771,Fxananassa_maker-Fvb3-4-augustus-gene-43.53:0.182722)n1:0.229192)n0;

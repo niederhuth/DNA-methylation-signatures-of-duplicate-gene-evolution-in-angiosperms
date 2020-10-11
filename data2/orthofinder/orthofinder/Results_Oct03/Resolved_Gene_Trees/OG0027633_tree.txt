@@ -1,1 +1,0 @@
-((Ljaponicus_Lj0g3v0315939:0.543589,Ljaponicus_Lj0g3v0210009:0.462483)n1:0.411721,((Vcorymbosum_maker-VaccDscaff5-augustus-gene-351.25:0.145185,Vcorymbosum_maker-VaccDscaff26-augustus-gene-360.26:0.290603)n3:0.0912087,(Vcorymbosum_maker-VaccDscaff134-augustus-gene-3.42:0.0262538,Vcorymbosum_maker-VaccDscaff3-augustus-gene-111.30:0.0480232)n4:0.0893304)n2:0.411721)n0;

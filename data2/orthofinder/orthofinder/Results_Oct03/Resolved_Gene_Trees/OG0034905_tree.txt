@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_10718:0.268512,(Esalsugineum_Thhalv10009488m.g:1.01769,(Mdomestica_MD00G1058400:0.782805,Ptrichocarpa_Potri.010G243001:0.449296)n2:0.0269817)n1:0.268512)n0;

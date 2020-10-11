@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold05716.1:0.23278,(Paxillaris_Peaxi162Scf00761g00039:0.743891,(Smelongena_SMEL_003g174640.1:0.145596,(Stuberosum_PGSC0003DMG400031309:0,(Slycopersicum_Solyc01g020450.1:0.126633,Slycopersicum_Solyc00g019990.1:0)n4:0)n3:0.0268862)n2:0.136161)n1:0.23278)n0;

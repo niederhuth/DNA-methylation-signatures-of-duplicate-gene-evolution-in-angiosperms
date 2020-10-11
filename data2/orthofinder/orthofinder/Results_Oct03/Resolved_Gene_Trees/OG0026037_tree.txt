@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_AchrUn_randomG26460_001:0.39283,((Rchinensis_RcHm_v2.0_Chr5g0071761:0.560377,(Ljaponicus_Lj0g3v0114239:0.519557,Alyrata_AL5G21200:0.860357)n3:0.134118)n2:0.149484,(Cpapaya_evm.TU.supercontig_169.29:0.906751,Vcorymbosum_maker-VaccDscaff48-snap-gene-109.45:0.463842)n4:0.252414)n1:0.39283)n0;

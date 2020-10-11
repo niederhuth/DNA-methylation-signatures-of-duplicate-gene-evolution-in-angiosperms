@@ -1,1 +1,0 @@
-(Eguineensis_p5.00_sc00386_p0001:0.33737,(((Sitalica_Seita.2G166900:0.873792,Sitalica_Seita.4G016500:2.91763e-06)n3:0.19724,Sviridis_Sevir.4G016400:0.267204)n2:0.402556,Othomaeum_Oropetium_20150105_08630:0.596693)n1:0.33737)n0;

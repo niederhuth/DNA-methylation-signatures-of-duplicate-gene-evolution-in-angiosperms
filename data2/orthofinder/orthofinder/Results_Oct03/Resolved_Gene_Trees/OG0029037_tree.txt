@@ -1,1 +1,0 @@
-((Gmax_Glyma.09G258400:0.228105,Fxananassa_augustus_masked-Fvb7-1-processed-gene-188.6:0.119269)n1:0.0477506,((Mdomestica_MD09G1245400:0.117177,Aipaensis_araip.K30076.gnm1.ann1.Araip.ID7PI:0.371196)n3:0.0565748,Ljaponicus_Lj1g3v2671450:0.129921)n2:0.0477506)n0;

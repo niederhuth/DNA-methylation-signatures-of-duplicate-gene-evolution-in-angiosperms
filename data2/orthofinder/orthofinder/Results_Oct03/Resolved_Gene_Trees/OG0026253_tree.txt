@@ -1,1 +1,0 @@
-((Eguineensis_p5.00_sc00170_p0001:0.290239,Macuminata_GSMUA_Achr1G04610_001:0.280292)n1:0.0984935,(Aofficinalis_evm.TU.AsparagusV1_01.680:0.831129,((Aofficinalis_evm.TU.AsparagusV1_06.1673:2.38833e-06,Aofficinalis_evm.TU.AsparagusV1_01.681:0.652629)n4:0.142373,Aofficinalis_evm.TU.AsparagusV1_05.1686:2.38833e-06)n3:0.178861)n2:0.0984935)n0;

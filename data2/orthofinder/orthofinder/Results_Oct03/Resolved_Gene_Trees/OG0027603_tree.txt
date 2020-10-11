@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_04429:0.174405,(Vvinifera_VIT_207s0185g00070:0.719377,((Stuberosum_PGSC0003DMG400015124:0.443157,Vcorymbosum_maker-VaccDscaff9-augustus-gene-291.28:0.202434)n3:0.132606,(Graimondii_Gorai.012G030700:0.426628,Graimondii_Gorai.006G051200:0.320388)n4:0.112383)n2:0.31888)n1:0.174405)n0;

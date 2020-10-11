@@ -1,1 +1,0 @@
-((Brapa_Brara.A00480:0.135895,Boleracea_Bo1g008430:0.130033)n1:0.2637,(Fxananassa_maker-Fvb1-1-augustus-gene-193.35:0.382323,(Rchinensis_RcHm_v2.0_Chr3g0494071:0.29627,Rchinensis_RcHm_v2.0_Chr7g0236581:0.366203)n3:0.0406892)n2:0.0494031)n0;

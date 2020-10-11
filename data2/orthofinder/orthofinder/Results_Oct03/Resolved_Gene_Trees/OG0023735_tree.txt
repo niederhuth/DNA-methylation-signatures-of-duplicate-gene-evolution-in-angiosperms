@@ -1,1 +1,0 @@
-((Aofficinalis_evm.TU.AsparagusV1_08.3391:0.72876,Cpapaya_evm.TU.supercontig_30.91:0.0853627)n1:0.201134,(Rchinensis_RcHm_v2.0_Chr5g0021491:0.215519,((Zmays_Zm00001d004678:0.0702174,Zmays_Zm00001d012390:0.0243436)n4:0.135174,(Aipaensis_araip.K30076.gnm1.ann1.Araip.S2BMK:0.19578,Aipaensis_araip.K30076.gnm1.ann1.Araip.S896R:0.456263)n5:0.55074)n3:0.35259)n2:0.201134)n0;

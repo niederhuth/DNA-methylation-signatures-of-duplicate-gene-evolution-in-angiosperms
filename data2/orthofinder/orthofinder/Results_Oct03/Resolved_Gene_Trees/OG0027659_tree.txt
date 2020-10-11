@@ -1,1 +1,0 @@
-(Mguttatus_Migut.D00217:0.264359,(Ljaponicus_Lj5g3v1261920:0.535319,(Pxbretschneideri_LOC103951124:0.142831,(Pxbretschneideri_LOC103959991:0.19051,(Pxbretschneideri_LOC103944775:0,Pxbretschneideri_LOC103944773:0)n4:0.0842771)n3:0.0486479)n2:0.451987)n1:0.264359)n0;

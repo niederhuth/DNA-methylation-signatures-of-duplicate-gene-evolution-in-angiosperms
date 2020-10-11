@@ -1,1 +1,0 @@
-(Fvesca_FvH4_5g39300:0.000139688,(Fxananassa_snap_masked-Fvb5-1-processed-gene-294.18:0.00284963,(Fxananassa_snap_masked-Fvb5-3-processed-gene-7.26:0.00492512,(Fxananassa_snap_masked-Fvb5-4-processed-gene-248.35:0.0481176,Fxananassa_snap_masked-Fvb5-3-processed-gene-8.17:0.441718)n3:0.0678194)n2:0.00406137)n1:0.000139688)n0;

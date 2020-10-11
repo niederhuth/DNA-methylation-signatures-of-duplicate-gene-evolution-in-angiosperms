@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00094.8:0.380073,(Cviolacea_Clevi.0013s0236:0.55998,(Nattenuata_NIATv7_g27978:0.451445,Boleracea_Bo1g139360:0.418092)n2:0.0372735)n1:0.380073)n0;

@@ -1,1 +1,0 @@
-((Mguttatus_Migut.C00041:0.105628,Mguttatus_Migut.B00997:0.029731)n1:0.242069,(Aofficinalis_evm.TU.AsparagusV1_01.2972:0.561784,Othomaeum_Oropetium_20150105_07004:0.539921)n2:0.242069)n0;

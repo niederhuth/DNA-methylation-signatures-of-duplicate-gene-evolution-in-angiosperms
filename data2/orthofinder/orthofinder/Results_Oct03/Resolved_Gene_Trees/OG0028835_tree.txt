@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_05785:0.42521,((Aipaensis_araip.K30076.gnm1.ann1.Araip.CFA9Z:0.240123,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.79KL8:0.590149)n2:0.227236,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.9V5ZR:0.0210594,Aipaensis_araip.K30076.gnm1.ann1.Araip.2M651:0.336932)n3:0.0374369)n1:0.42521)n0;

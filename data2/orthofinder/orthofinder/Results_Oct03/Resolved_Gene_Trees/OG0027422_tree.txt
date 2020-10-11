@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_Achr11G16010_001:0.23128,((Fxananassa_augustus_masked-Fvb2-3-processed-gene-202.3:0.0317002,(Fxananassa_maker-Fvb4-1-augustus-gene-77.17:0.0854649,Fxananassa_maker-Fvb7-4-augustus-gene-87.46:0.431136)n3:0.0330553)n2:0.298534,(Smelongena_SMEL_010g356850.1:0.411547,Smelongena_SMEL_001g136910.1:0.556147)n4:0.247739)n1:0.23128)n0;

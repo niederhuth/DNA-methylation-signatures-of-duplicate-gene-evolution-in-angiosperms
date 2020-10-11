@@ -1,1 +1,0 @@
-(Crubella_Carub.0003s2209:0.0290642,((Crubella_Carub.0006s2166:1.19688e-06,Crubella_Carub.0006s2123:0.0192053)n2:0.810375,Crubella_Carub.0007s3601:0.318927)n1:0.0290642)n0;

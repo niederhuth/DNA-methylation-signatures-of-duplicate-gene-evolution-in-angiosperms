@@ -1,1 +1,0 @@
-(Brapa_Brara.A00704:0.204767,(Boleracea_Bo1g131120:1.51435,(Boleracea_Bo9g083240:0.524355,Boleracea_Bo7g019800:0.0995662)n2:0.354)n1:0.204767)n0;

@@ -1,1 +1,0 @@
-(Pvulgaris_Phvul.007G176400:0.60591,(Mtruncatula_Medtr5g042630:1.15414,(Mtruncatula_Medtr5g043260:0.240623,Mtruncatula_Medtr5g042720:0.517697)n2:0.736417)n1:0.60591)n0;

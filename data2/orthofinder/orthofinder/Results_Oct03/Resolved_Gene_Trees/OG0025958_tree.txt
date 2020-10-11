@@ -1,1 +1,0 @@
-((Alyrata_AL3G22890:0.842218,((Roccidentalis_maker-Ro02-snap-gene-79.74:0.651173,Aipaensis_araip.K30076.gnm1.ann1.Araip.YX92K:1.1365)n3:0.109517,Aipaensis_araip.K30076.gnm1.ann1.Araip.IWB42:0.209424)n2:0.0232693)n1:0.0720293,(Boleracea_Bo2g076860:0.0659499,Boleracea_Bo3g073190:0.163203)n4:0.381719)n0;

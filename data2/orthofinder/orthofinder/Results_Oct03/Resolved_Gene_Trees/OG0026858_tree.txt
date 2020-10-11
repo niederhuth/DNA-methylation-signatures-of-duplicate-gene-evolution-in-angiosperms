@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_02170:0.402104,(Gsoja_GlysoPI483463.09G068100:0.5591,((Mtruncatula_Medtr2g020525:0.656094,Ljaponicus_Lj0g3v0284389:0.969351)n3:0.0670823,(Cclementina_Ciclev10013004m.g:0.606175,Cclementina_Ciclev10017007m.g:0.528261)n4:0.30152)n2:0.142866)n1:0.402104)n0;

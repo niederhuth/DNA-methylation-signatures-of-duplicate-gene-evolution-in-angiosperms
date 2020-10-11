@@ -1,1 +1,0 @@
-(Mesculenta_Manes.S022298:0.115185,((Aipaensis_araip.K30076.gnm1.ann1.Araip.NQ704:0.199172,Aipaensis_araip.K30076.gnm1.ann1.Araip.54F51:0.299728)n2:0.305001,(Rchinensis_RcHm_v2.0_Chr6g0255471:0.394276,Rchinensis_RcHm_v2.0_Chr4g0433471:0.575132)n3:0.0639036)n1:0.100376)n0;

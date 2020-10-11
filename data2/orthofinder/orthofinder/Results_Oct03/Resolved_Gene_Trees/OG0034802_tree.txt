@@ -1,1 +1,0 @@
-(Egrandis_Eucgr.C02769:0.731224,(Fxananassa_snap_masked-Fvb2-1-processed-gene-191.14:0.0814425,(Fxananassa_maker-Fvb2-4-snap-gene-205.60:0.524552,Fxananassa_maker-Fvb2-2-snap-gene-28.57:0.085411)n2:0.36866)n1:0.731224)n0;

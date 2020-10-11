@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_22603:0.172568,(Roccidentalis_maker-Ro07-snap-gene-325.68:0.256791,(Fvesca_FvH4_7g00920:0.00667889,Fxananassa_maker-Fvb7-1-snap-gene-4.73:0.0179081)n2:0.040131)n1:0.172568)n0;

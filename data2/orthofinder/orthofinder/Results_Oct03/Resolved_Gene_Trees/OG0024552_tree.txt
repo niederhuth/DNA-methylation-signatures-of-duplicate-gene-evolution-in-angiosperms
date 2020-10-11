@@ -1,1 +1,0 @@
-(Csativus_CsaV3_7G011420:0.429754,(Cpapaya_evm.TU.supercontig_90.40:0.390323,((Cpapaya_evm.TU.supercontig_296.3:0.453858,Cpapaya_evm.TU.supercontig_5.251:0.477997)n3:0.0511523,(Cpapaya_evm.TU.supercontig_295.2:0.538744,(Cpapaya_evm.TU.supercontig_42.98:0.431391,Cpapaya_evm.TU.contig_39828:0.46291)n5:0.0539543)n4:0.100102)n2:0.207853)n1:0.429754)n0;

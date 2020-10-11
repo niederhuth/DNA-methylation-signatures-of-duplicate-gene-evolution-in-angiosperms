@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00095.104:0.353078,(((Eguineensis_p5.00_sc10704_p0001:0.710528,Boleracea_Bo32195s010:0.334922)n3:0.183134,(Fvesca_FvH4_1g08520:0,Fxananassa_augustus_masked-Fvb1-4-processed-gene-37.13:0)n4:0.314881)n2:0.164593,Rchinensis_RcHm_v2.0_Chr4g0442841:0.266464)n1:0.353078)n0;

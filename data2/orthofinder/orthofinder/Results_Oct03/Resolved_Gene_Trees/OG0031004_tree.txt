@@ -1,1 +1,0 @@
-(((Ptrichocarpa_Potri.014G170950:0.583704,Ptrichocarpa_Potri.006G059000:0.156079)n2:0.228117,Vcorymbosum_maker-VaccDscaff13-snap-gene-329.30:0.653019)n1:0.0500569,(Slycopersicum_Solyc02g080460.2:0.311731,Gmax_Glyma.14G019200:0.724414)n3:0.0500569)n0;

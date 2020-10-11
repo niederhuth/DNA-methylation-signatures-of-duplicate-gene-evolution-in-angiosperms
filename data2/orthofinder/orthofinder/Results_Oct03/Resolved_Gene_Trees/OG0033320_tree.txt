@@ -1,1 +1,0 @@
-(Esalsugineum_Thhalv10009875m.g:0.413619,((Alyrata_AL1G40020:0.063175,Crubella_Carub.0001s2521:0.345587)n2:0.055138,Athaliana_AT1G25310:0.285514)n1:0.413619)n0;

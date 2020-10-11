@@ -1,1 +1,0 @@
-((Sviridis_Sevir.2G151900:0.552299,(Sviridis_Sevir.3G304600:0.615516,Sviridis_Sevir.3G342600:0.464048)n2:0.112212)n1:0.143707,(Osativa_ChrSy.fgenesh.gene.2:1.00841,Osativa_LOC_Os12g22360:1.53101)n3:0.143707)n0;

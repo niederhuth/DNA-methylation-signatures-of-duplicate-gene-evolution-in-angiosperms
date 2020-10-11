@@ -1,1 +1,0 @@
-(((Cpapaya_evm.TU.supercontig_266.3:0.877202,(Roccidentalis_maker-Ro07-snap-gene-237.34:0.373867,Roccidentalis_snap_masked-Ro04-processed-gene-293.6:1.01395)n3:0.482675)n2:0.113636,Cannuum_CA11g15120:1.10987)n1:0.603865,(Aofficinalis_evm.TU.AsparagusV1_10.871:0.0120104,Aofficinalis_evm.TU.AsparagusV1_06.380:0.00965962)n4:0.603865)n0;

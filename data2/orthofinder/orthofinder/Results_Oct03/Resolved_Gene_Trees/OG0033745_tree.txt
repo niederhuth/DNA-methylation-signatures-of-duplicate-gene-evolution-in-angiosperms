@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00024.198:0.381552,(Othomaeum_Oropetium_20150105_05751:0.770767,(Eguineensis_p5.00_sc00100_p0013:0.102608,Eguineensis_p5.00_sc00100_p0011:0.33071)n2:0.350447)n1:0.381552)n0;

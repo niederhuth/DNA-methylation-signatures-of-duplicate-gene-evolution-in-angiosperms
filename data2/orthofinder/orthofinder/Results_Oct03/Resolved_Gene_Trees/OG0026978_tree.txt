@@ -1,1 +1,0 @@
-((Vvinifera_VIT_215s0045g00046:0.141074,Vvinifera_VIT_200s0188g00043:0.111605)n1:0.287019,(Rchinensis_RcHm_v2.0_Chr7g0217781:0.399582,(Cpapaya_evm.TU.supercontig_7.65:0.219986,(Mtruncatula_Medtr2g090820:0.525479,Mtruncatula_Medtr1g019030:0.240915)n4:0.0267683)n3:0.0659626)n2:0.0526169)n0;

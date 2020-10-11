@@ -1,1 +1,0 @@
-(Ljaponicus_Lj0g3v0363399:0.411121,((Ppersica_Prupe.6G151000:0.202948,Ppersica_Prupe.3G154500:0.402419)n2:0.422696,Rchinensis_RcHm_v2.0_Chr5g0026451:0.612967)n1:0.411121)n0;

@@ -1,1 +1,0 @@
-(Nnucifera_XP_010248199.1:0.124126,(((Esalsugineum_Thhalv10017714m.g:0.801275,Vcorymbosum_snap_masked-VaccDscaff8-processed-gene-292.15:0.531817)n3:0.14174,Ljaponicus_Lj0g3v0294979:0.171664)n2:0.0332334,Paxillaris_Peaxi162Scf00103g01410:0.381497)n1:0.124126)n0;

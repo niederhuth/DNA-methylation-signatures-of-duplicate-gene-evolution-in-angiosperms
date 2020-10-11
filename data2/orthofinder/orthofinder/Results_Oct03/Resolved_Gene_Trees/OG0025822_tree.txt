@@ -1,1 +1,0 @@
-(Cmelo_MELO3C035244.2:0.587227,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.P6338:0.0891975,((Aipaensis_araip.K30076.gnm1.ann1.Araip.MN7HN:0.567278,Aipaensis_araip.K30076.gnm1.ann1.Araip.143RD:0.664341)n3:0.173742,(Aipaensis_araip.K30076.gnm1.ann1.Araip.4670W:0.216747,Aipaensis_araip.K30076.gnm1.ann1.Araip.89KHI:0.0855976)n4:0.00855977)n2:0.000951085)n1:0.331017)n0;

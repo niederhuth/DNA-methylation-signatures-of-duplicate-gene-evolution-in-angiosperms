@@ -1,1 +1,0 @@
-((Slycopersicum_Solyc11g017320.2:0.295424,Slycopersicum_Solyc11g017340.1:0.405529)n1:0.344212,(Ptrichocarpa_Potri.016G015900:0.507461,Mdomestica_MD09G1141000:0.503267)n2:0.344212)n0;

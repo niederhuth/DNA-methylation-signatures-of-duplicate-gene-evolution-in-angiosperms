@@ -1,1 +1,0 @@
-(Fxananassa_maker-Fvb7-1-augustus-gene-204.33:0.257978,(Nattenuata_NIATv7_g01077:0.207788,(Slycopersicum_Solyc04g072345.1:0.792363,Vcorymbosum_maker-VaccDscaff18-snap-gene-57.35:1.09273)n2:0.514878)n1:0.257978)n0;

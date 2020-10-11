@@ -1,1 +1,0 @@
-((Graimondii_Gorai.011G033100:0.418384,Graimondii_Gorai.009G164600:0.685713)n1:0.253823,(Mesculenta_Manes.17G053200:0.570474,(Ptrichocarpa_Potri.004G053600:0.300086,Ptrichocarpa_Potri.011G063600:0.265946)n3:0.143995)n2:0.253823)n0;

@@ -1,1 +1,0 @@
-(Acoerulea_Aqcoe6G314100:0.217591,(Brapa_Brara.A01905:0.927363,((Athaliana_AT4G38092:0.56563,Smelongena_SMEL_000g094700.1:0.392543)n3:0.0212634,Cpapaya_evm.TU.supercontig_162.42:0.435486)n2:0.187135)n1:0.217591)n0;

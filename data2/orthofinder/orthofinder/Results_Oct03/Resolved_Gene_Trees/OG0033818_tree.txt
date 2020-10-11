@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00090.7:0.247796,((Othomaeum_Oropetium_20150105_15439:0.283411,Othomaeum_Oropetium_20150105_22856:0.0265498)n2:0.0599807,Boleracea_Bo6g081290:0.248591)n1:0.247796)n0;

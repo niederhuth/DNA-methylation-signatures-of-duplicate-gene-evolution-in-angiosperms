@@ -1,1 +1,0 @@
-(Pvirgatum_Pavir.1NG215828:0.380871,(Osativa_LOC_Os12g36300:0.680219,(Bdistachyon_Bradi4g23314:0.745652,Bdistachyon_Bradi3g03905:0.524916)n2:0.0583241)n1:0.0392425)n0;

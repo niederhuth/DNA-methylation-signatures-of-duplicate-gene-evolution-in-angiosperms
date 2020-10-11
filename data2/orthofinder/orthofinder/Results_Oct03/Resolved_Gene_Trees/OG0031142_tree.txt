@@ -1,1 +1,0 @@
-(Paxillaris_Peaxi162Scf00766g00213:0.309814,(Roccidentalis_snap_masked-Ro05-processed-gene-94.13:0.763025,(Ljaponicus_Lj3g3v2692920:0.203092,(Ptrichocarpa_Potri.003G037500:0.023672,Ptrichocarpa_Potri.003G039550:0.046016)n3:0.141873)n2:0.0975488)n1:0.309814)n0;

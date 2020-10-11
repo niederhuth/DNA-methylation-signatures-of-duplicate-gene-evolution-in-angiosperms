@@ -1,1 +1,0 @@
-(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.A32JJ:0.0808563,(Spolyrhiza_Spipo22G0029700:0.177888,(Othomaeum_Oropetium_20150105_24800:0.232699,(Sitalica_Seita.3G202000:0.258528,Sviridis_Sevir.3G206950:0.110983)n3:0.201651)n2:0.328058)n1:0.0808563)n0;

@@ -1,1 +1,0 @@
-(Sbicolor_Sobic.003G161300:0.142476,(Cannuum_CA09g12550:0.150916,((Boleracea_Bo24335s010:2.28744e-06,(Vcorymbosum_snap_masked-VaccDscaff23-processed-gene-47.17:0.473017,Vcorymbosum_maker-VaccDscaff6-augustus-gene-68.30:0.523051)n4:0.0581168)n3:0.0684283,Brapa_Brara.E00661:0.396216)n2:0.338597)n1:0.142476)n0;

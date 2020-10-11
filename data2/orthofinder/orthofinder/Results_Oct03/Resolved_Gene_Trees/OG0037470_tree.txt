@@ -1,1 +1,0 @@
-(Sitalica_Seita.3G398300:0.389077,((Pvirgatum_Pavir.6NG288703:0.207186,Pvirgatum_Pavir.6KG049900:0.11829)n2:0.0785255,Pvirgatum_Pavir.6NG083600:0.292541)n1:0.389077)n0;

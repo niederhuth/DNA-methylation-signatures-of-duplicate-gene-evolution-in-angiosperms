@@ -1,1 +1,0 @@
-(Rchinensis_RcHm_v2.0_Chr6g0245701:0.192229,(Bdistachyon_Bradi2g03206:0.638734,(Sitalica_Seita.5G363200:1.95451e-06,Sviridis_Sevir.5G368600:0.0216593)n2:0.910496)n1:0.192229)n0;

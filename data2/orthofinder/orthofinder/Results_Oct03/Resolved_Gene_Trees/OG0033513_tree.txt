@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_07.2680:0.483162,((Spolyrhiza_Spipo18G0002500:0.089431,Spolyrhiza_Spipo18G0002900:0.028214)n2:0.279764,Spolyrhiza_Spipo0G0124100:0.165934)n1:0.483162)n0;

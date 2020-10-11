@@ -1,1 +1,0 @@
-((Mtruncatula_Medtr1g098860:0.0546353,Mtruncatula_Medtr1g101960:0.121737)n1:0.443406,(Roccidentalis_maker-Ro01-snap-gene-3.98:0.489379,Mdomestica_MD15G1150000:0.26565)n2:0.443406)n0;

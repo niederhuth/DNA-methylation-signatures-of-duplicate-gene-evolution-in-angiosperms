@@ -1,1 +1,0 @@
-((Aipaensis_araip.K30076.gnm1.ann1.Araip.Y508K:0.447279,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.H8S0W:0.46689)n1:0.307303,((Ljaponicus_Lj1g3v4277610:0,Ljaponicus_Lj2g3v0635040:0)n3:0,Ljaponicus_Lj4g3v0286180:0)n2:0.307303)n0;

@@ -1,1 +1,0 @@
-(Mesculenta_Manes.16G049300:0.325712,(Zmays_Zm00001d045786:0.535739,((Aofficinalis_evm.TU.AsparagusV1_09.330:0.426888,Aofficinalis_evm.TU.AsparagusV1_08.1080:0.155572)n3:0.0908054,((Aofficinalis_evm.TU.AsparagusV1_03.1280:0.112705,Aofficinalis_evm.TU.AsparagusV1_08.972:0.0603904)n5:0.0654728,Aofficinalis_evm.TU.AsparagusV1_04.1037:0.690306)n4:0.0199804)n2:0.137549)n1:0.325712)n0;

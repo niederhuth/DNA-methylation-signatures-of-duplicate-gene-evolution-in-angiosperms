@@ -1,1 +1,0 @@
-(Spolyrhiza_Spipo5G0051800:0.655499,(Aofficinalis_evm.TU.AsparagusV1_06.459:0.384404,(Aofficinalis_evm.TU.AsparagusV1_08.567:0.461788,Aofficinalis_evm.TU.AsparagusV1_10.636:0.401778)n2:0.262008)n1:0.655499)n0;

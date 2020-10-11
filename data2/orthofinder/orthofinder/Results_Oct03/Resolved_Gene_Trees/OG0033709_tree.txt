@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00026.92:0.188376,(Cmelo_MELO3C025948.2:0.346373,(Rchinensis_RcHm_v2.0_Chr6g0257101:0.549128,Ljaponicus_Lj0g3v0307429:0.309648)n2:0.423364)n1:0.188376)n0;

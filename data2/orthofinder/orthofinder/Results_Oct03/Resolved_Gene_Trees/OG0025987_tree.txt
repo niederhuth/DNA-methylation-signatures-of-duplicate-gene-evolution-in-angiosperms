@@ -1,1 +1,0 @@
-(Aipaensis_araip.K30076.gnm1.ann1.Araip.VDJ9Q:2.84828e-06,(((Vcorymbosum_maker-VaccDscaff42-snap-gene-216.32:0.011404,Vcorymbosum_maker-VaccDscaff13-snap-gene-382.26:0.108023)n3:0.407013,(Smelongena_SMEL_007g278460.1:0.0453869,Stuberosum_PGSC0003DMG400013002:0.0377301)n4:0.316454)n2:0.496179,Cannuum_CA02g29810:1.46046)n1:2.84828e-06)n0;

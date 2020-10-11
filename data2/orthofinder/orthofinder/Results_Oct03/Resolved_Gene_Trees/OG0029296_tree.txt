@@ -1,1 +1,0 @@
-((Cannuum_CA10g06430:0.531696,Vvinifera_VIT_201s0137g00530:0.249833)n1:0.223267,(Aofficinalis_evm.TU.AsparagusV1_07.3561:0.112684,(Aofficinalis_evm.TU.AsparagusV1_04.3321:0.0977816,Aofficinalis_evm.TU.AsparagusV1_06.1338:0.0948794)n3:0.0275463)n2:0.223267)n0;

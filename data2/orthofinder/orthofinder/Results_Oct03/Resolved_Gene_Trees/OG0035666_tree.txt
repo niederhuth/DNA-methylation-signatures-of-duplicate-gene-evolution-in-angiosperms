@@ -1,1 +1,0 @@
-(Fxananassa_maker-Fvb5-1-snap-gene-94.66:0.222003,(Paxillaris_Peaxi162Scf00274g00752:0.691756,(Vcorymbosum_maker-VaccDscaff35-snap-gene-264.35:0.0394058,Vcorymbosum_maker-VaccDscaff4-snap-gene-358.35:0.0429353)n2:0.327849)n1:0.222003)n0;

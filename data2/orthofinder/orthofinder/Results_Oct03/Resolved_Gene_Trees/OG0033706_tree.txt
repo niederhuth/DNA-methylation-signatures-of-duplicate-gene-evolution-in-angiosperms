@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00104.9:0.535716,((Vcorymbosum_snap_masked-VaccDscaff46-processed-gene-132.29:0.0358745,Vcorymbosum_snap_masked-VaccDscaff47-processed-gene-96.17:0.0232615)n2:0.0516625,Vcorymbosum_maker-VaccDscaff43-snap-gene-109.38:0.428517)n1:0.535716)n0;

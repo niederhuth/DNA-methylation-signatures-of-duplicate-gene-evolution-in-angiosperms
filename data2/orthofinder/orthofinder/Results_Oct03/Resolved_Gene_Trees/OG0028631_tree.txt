@@ -1,1 +1,0 @@
-((Paxillaris_Peaxi162Scf00046g00526:0.645733,((Aofficinalis_evm.TU.AsparagusV1_05.1494:0.0892092,Aofficinalis_evm.TU.AsparagusV1_07.1476:0.0416228)n3:0.00462475,Aofficinalis_evm.TU.AsparagusV1_07.1489:0.692623)n2:0.0769582)n1:0.0642105,Acoerulea_Aqcoe7G208600:0.693344)n0;

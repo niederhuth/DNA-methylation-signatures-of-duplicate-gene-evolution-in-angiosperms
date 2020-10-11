@@ -1,1 +1,0 @@
-(Zmays_Zm00001d022483:0.32264,((Fxananassa_maker-Fvb7-2-augustus-gene-141.49:0.00567944,Fxananassa_maker-Fvb7-4-augustus-gene-86.34:0.0347656)n2:0.132018,Mtruncatula_Medtr6g049200:0.651924)n1:0.32264)n0;

@@ -1,1 +1,0 @@
-((Bvulgaris_gene_BVRB_4g081070:0.049293,Bvulgaris_gene_BVRB_7g180710:0.035424)n1:0.735169,(Eguineensis_p5.00_sc00001_p0916:0.8084,Eguineensis_p5.00_sc00001_p0920:0.861223)n2:0.735169)n0;

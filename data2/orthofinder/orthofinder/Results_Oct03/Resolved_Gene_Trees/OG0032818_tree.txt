@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold02137.1:0.22301,((Cmelo_MELO3C018340.2:0.219083,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.1J44L:0.118543)n2:0.028699,Mdomestica_MD16G1217800:0.315184)n1:0.22301)n0;

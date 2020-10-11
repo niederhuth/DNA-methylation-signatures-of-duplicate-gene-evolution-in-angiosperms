@@ -1,1 +1,0 @@
-(Aipaensis_araip.K30076.gnm1.ann1.Araip.16DT6:0.0767314,(Aipaensis_araip.K30076.gnm1.ann1.Araip.92AJE:0.375466,(Aipaensis_araip.K30076.gnm1.ann1.Araip.LH3UX:0.174833,(Aipaensis_araip.K30076.gnm1.ann1.Araip.Z3L1S:0.26485,Aipaensis_araip.K30076.gnm1.ann1.Araip.9G635:0.677195)n3:0.48885)n2:0.0742806)n1:0.0767314)n0;

@@ -1,1 +1,0 @@
-((Mdomestica_MD16G1198600:0.185731,Mdomestica_MD06G1056400:0.116655)n1:0.203685,((Cpapaya_evm.TU.supercontig_173.38:0,Cpapaya_evm.TU.supercontig_173.28:0)n3:0.568236,Cpapaya_evm.TU.contig_46899:1.20698)n2:0.203685)n0;

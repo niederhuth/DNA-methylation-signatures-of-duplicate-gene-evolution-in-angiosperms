@@ -1,1 +1,0 @@
-(((Bdistachyon_Bradi2g11600:0.119363,Bdistachyon_Bradi3g47955:0.347637)n2:0.231652,(Bdistachyon_Bradi1g49640:0.135066,Bdistachyon_Bradi1g49613:0.195954)n3:0.322582)n1:0.132724,((Sbicolor_Sobic.002G314600:0.111594,Sbicolor_Sobic.002G317001:0.183101)n5:0.148016,(Pvirgatum_Pavir.2KG435300:0.385293,Pvirgatum_Pavir.7KG320800:0.321272)n6:0.0356969)n4:0.0345694)n0;

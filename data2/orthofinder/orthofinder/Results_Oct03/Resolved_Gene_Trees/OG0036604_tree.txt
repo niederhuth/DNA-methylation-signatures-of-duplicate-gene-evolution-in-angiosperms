@@ -1,1 +1,0 @@
-(Nattenuata_NIATv7_g11004:0.231973,(Nattenuata_NIATv7_g15309:0.47532,(Nattenuata_NIATv7_g19590:1.01839,Nattenuata_NIATv7_g08782:0.979037)n2:0.818018)n1:0.231973)n0;

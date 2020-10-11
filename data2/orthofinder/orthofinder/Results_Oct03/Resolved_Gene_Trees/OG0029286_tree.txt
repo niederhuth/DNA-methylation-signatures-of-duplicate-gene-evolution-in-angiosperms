@@ -1,1 +1,0 @@
-((Cmelo_MELO3C031452.2:0.55124,Cmelo_MELO3C028449.2:0.219594)n1:0.405372,(Aofficinalis_evm.TU.AsparagusV1_03.802:0.579641,(Aofficinalis_evm.TU.AsparagusV1_08.1886:0.028363,Aofficinalis_evm.TU.AsparagusV1_04.2806:2.30844e-06)n3:0.128016)n2:0.405372)n0;

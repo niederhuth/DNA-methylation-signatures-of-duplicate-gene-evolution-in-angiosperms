@@ -1,1 +1,0 @@
-((Mtruncatula_Medtr6g045280:0.714212,Ljaponicus_Lj0g3v0278509:0.12085)n1:0.219218,((Mesculenta_Manes.10G108000:5e-07,Mesculenta_Manes.06G161950:5e-07)n3:0.228739,Mesculenta_Manes.05G150801:0.0534012)n2:0.219218)n0;

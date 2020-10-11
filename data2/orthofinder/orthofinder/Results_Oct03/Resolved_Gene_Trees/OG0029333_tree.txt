@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_03.1715:0.406204,(Fvesca_FvH4_4g29140:0.19736,((Fxananassa_maker-Fvb4-2-augustus-gene-39.49:0.529342,Fxananassa_maker-Fvb4-1-snap-gene-163.77:0.113566)n3:0.376996,Fxananassa_maker-Fvb4-3-snap-gene-42.79:0.00995209)n2:0.00110579)n1:0.371393)n0;

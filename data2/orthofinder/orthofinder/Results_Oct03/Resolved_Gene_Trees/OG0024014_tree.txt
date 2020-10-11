@@ -1,1 +1,0 @@
-(((Aofficinalis_evm.TU.AsparagusV1_06.1584:0.410093,Aofficinalis_evm.TU.AsparagusV1_07.104:0.112296)n2:0.328036,(Spolyrhiza_Spipo6G0038000:0.82223,Phallii_Pahal.9G117900:0.831934)n3:0.239229)n1:0.287129,(Ljaponicus_Lj0g3v0349149:0.222297,(Ljaponicus_Lj2g3v3086560:0,Ljaponicus_Lj0g3v0299249:0)n5:0.169898)n4:0.287129)n0;

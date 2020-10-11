@@ -1,1 +1,0 @@
-(Mguttatus_Migut.G00907:0.0249413,(Mguttatus_Migut.L00949:0.0473084,(Mguttatus_Migut.K01242:1.66619e-06,(Mguttatus_Migut.H00157:0.344382,(Mguttatus_Migut.K01215:0.448634,(Mguttatus_Migut.L00680:0.0225375,Mguttatus_Migut.L00843:0.0160365)n5:0.30271)n4:0.195828)n3:0.236586)n2:0.00299613)n1:0.0249413)n0;

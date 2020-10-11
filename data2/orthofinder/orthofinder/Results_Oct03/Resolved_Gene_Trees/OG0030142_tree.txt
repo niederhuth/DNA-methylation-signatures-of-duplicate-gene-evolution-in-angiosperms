@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_AchrUn_randomG14740_001:0.206279,(Ljaponicus_Lj4g3v2367350:0.339393,(Cpapaya_evm.TU.supercontig_16.154:0.414881,(Ptrichocarpa_Potri.005G029300:0.0684783,Ptrichocarpa_Potri.005G029901:0.315338)n3:0.22453)n2:0.0445137)n1:0.206279)n0;

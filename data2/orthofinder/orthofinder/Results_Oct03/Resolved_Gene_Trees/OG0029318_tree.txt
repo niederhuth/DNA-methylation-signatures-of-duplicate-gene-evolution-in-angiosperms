@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00040.12:0.310775,(Ljaponicus_Lj1g3v1255840:0.401475,(Aofficinalis_evm.TU.AsparagusV1_04.1272:0.977142,(Cmelo_MELO3C027352.2:0.446462,Cmelo_MELO3C027201.2:0.242032)n3:0.159297)n2:0.162925)n1:0.310775)n0;

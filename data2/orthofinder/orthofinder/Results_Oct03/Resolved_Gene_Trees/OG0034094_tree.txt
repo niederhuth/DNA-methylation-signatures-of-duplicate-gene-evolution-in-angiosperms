@@ -1,1 +1,0 @@
-((Rchinensis_RcHm_v2.0_Chr7g0221281:0.311159,Boleracea_Bo3g137210:0.747986)n1:0.265681,(Sitalica_Seita.9G492800:0.0537458,Sviridis_Sevir.9G496801:0.18339)n2:0.265681)n0;

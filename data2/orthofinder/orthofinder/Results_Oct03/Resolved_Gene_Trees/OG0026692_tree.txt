@@ -1,1 +1,0 @@
-(Bvulgaris_gene_BVRB_3g054460:0.195607,(Mtruncatula_Medtr3g011130:0.500506,(Pvulgaris_Phvul.009G069401:0.365066,(Vvinifera_VIT_213s0067g00560:0.121491,(Fxananassa_maker-Fvb6-1-augustus-gene-65.41:0,Fxananassa_maker-Fvb6-3-augustus-gene-60.28:0)n4:0.652537)n3:0.268033)n2:0.0447457)n1:0.195607)n0;

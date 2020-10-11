@@ -1,1 +1,0 @@
-(Egrandis_Eucgr.A02705:0.420842,(Macuminata_GSMUA_Achr4G27800_001:0.887328,(Sbicolor_Sobic.005G120101:1.20987,(Othomaeum_Oropetium_20150105_26963:0.123606,(Bdistachyon_Bradi4g34311:0.8161,Bdistachyon_Bradi1g26765:0.925292)n4:0.356687)n3:0.0486756)n2:0.0622898)n1:0.420842)n0;

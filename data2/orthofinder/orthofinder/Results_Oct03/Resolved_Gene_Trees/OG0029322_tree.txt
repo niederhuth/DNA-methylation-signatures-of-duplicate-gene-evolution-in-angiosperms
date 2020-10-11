@@ -1,1 +1,0 @@
-((Macuminata_GSMUA_Achr5G08580_001:0.72668,Macuminata_GSMUA_Achr6G25120_001:0.636561)n1:0.19456,(Aofficinalis_evm.TU.AsparagusV1_01.3169:0.715008,(Aofficinalis_evm.TU.AsparagusV1_02.422:1.05857,Aofficinalis_evm.TU.AsparagusV1_04.1558:1.16048)n3:0.0837041)n2:0.19456)n0;

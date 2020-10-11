@@ -1,1 +1,0 @@
-(Ppersica_Prupe.3G045900:0.23909,(Fxananassa_maker-Fvb7-1-snap-gene-162.44:0.647333,((Fxananassa_snap_masked-Fvb6-3-processed-gene-118.25:0.00346767,Fxananassa_snap_masked-Fvb6-2-processed-gene-28.15:0.00490933)n3:0.560427,Fxananassa_maker-Fvb4-3-snap-gene-139.29:0.435649)n2:0.21154)n1:0.23909)n0;

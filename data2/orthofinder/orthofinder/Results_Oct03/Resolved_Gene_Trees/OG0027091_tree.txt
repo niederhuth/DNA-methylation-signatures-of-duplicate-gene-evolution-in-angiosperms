@@ -1,1 +1,0 @@
-(Ppersica_Prupe.6G173900:0.511702,(Rchinensis_RcHm_v2.0_Chr2g0116251:0.280711,(Fvesca_FvH4_1g22180:0.0134741,((Fxananassa_maker-Fvb1-3-snap-gene-146.41:0.0576064,Fxananassa_maker-Fvb1-1-augustus-gene-136.30:0.0181786)n4:0.0669304,Fxananassa_maker-Fvb1-4-augustus-gene-127.35:0.014408)n3:0.00160089)n2:0.253287)n1:0.511702)n0;

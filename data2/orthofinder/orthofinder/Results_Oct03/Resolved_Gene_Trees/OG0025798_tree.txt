@@ -1,1 +1,0 @@
-(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.V3MB3:0.357675,((Fxananassa_maker-Fvb7-1-snap-gene-89.35:0.321441,(Rchinensis_RcHm_v2.0_Chr1g0339911:0.181688,(Rchinensis_RcHm_v2.0_Chr4g0400161:0.210592,Rchinensis_RcHm_v2.0_Chr1g0339671:0.165883)n4:0.179487)n3:0.019943)n2:0.0781228,Mdomestica_MD07G1078900:0.343757)n1:0.357675)n0;

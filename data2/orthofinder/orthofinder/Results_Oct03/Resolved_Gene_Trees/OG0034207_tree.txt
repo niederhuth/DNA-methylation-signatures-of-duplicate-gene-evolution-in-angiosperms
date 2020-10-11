@@ -1,1 +1,0 @@
-(Bvulgaris_gene_BVRB_4g092070:0.834777,(Fxananassa_maker-Fvb3-4-snap-gene-160.76:0.0778777,(Fxananassa_augustus_masked-Fvb3-1-processed-gene-144.3:0.147528,Fxananassa_maker-Fvb3-2-snap-gene-151.52:0.489365)n2:0.0268847)n1:0.834777)n0;

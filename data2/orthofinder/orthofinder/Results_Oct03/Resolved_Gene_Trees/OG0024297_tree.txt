@@ -1,1 +1,0 @@
-(Pvirgatum_Pavir.2KG392505:0.366076,(Slycopersicum_Solyc01g074050.2:0.281847,(((Fxananassa_maker-Fvb3-3-snap-gene-281.40:0.502722,Fxananassa_maker-Fvb3-3-augustus-gene-281.26:0.158311)n4:0.309238,Vvinifera_VIT_213s0064g01550:0.133387)n3:0.114985,(Boleracea_Bo11622s010:0.394323,Ljaponicus_Lj3g3v3281590:0.664763)n5:0.241524)n2:0.103576)n1:0.366076)n0;

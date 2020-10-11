@@ -1,1 +1,0 @@
-(Cannuum_CA01g12440:0.256621,(Vcorymbosum_maker-VaccDscaff19-augustus-gene-177.26:0.00337525,(Vcorymbosum_maker-VaccDscaff24-augustus-gene-350.40:0.00317557,Vcorymbosum_maker-VaccDscaff15-augustus-gene-83.34:3.4305e-06)n2:0.00150875)n1:0.256621)n0;

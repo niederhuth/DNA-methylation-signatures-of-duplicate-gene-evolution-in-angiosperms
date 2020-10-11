@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_Unassigned.1189:0.334431,((Slycopersicum_Solyc00g013170.1:0.25062,Smelongena_SMEL_003g197700.1:0.294715)n2:0.237454,Rchinensis_RcHm_v2.0_MTg0498641:0.600287)n1:0.334431)n0;

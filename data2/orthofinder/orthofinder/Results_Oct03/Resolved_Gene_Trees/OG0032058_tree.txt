@@ -1,1 +1,0 @@
-((Sviridis_Sevir.6G256733:0.162651,Sitalica_Seita.6G252200:0.0705935)n1:0.499449,(Rchinensis_RcHm_v2.0_Chr6g0302241:0.181884,(Rchinensis_RcHm_v2.0_Chr2g0152801:0.234343,Rchinensis_RcHm_v2.0_Chr1g0376021:0.217696)n3:0.061918)n2:0.499449)n0;

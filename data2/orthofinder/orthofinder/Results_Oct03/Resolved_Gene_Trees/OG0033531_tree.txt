@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_07.2056:0.140872,(Paxillaris_Peaxi162Scf00101g00052:0.249824,(Slycopersicum_Solyc04g050360.2:0.230518,Smelongena_SMEL_000g010060.1:0.353177)n2:0.0408865)n1:0.140872)n0;

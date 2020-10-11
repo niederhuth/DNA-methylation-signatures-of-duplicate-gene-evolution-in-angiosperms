@@ -1,1 +1,0 @@
-(Osativa_LOC_Os12g32930:0.420623,((Mtruncatula_Medtr4g117540:0.727266,Mtruncatula_Medtr4g117510:2.71095e-06)n2:0.616487,Boleracea_Bo9g059750:0.590631)n1:0.420623)n0;

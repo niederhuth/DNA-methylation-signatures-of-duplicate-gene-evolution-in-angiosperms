@@ -1,1 +1,0 @@
-(Zmays_Zm00001d015288:0.37865,(Clanatus_Cla97C02G040480:0.0702963,((Ptrichocarpa_Potri.005G006100:0.236262,Ptrichocarpa_Potri.005G005932:0.522631)n3:0.195583,(Mtruncatula_Medtr4g085930:0.44533,Vcorymbosum_maker-VaccDscaff7-augustus-gene-80.34:0.588598)n4:0.237334)n2:0.183391)n1:0.37865)n0;

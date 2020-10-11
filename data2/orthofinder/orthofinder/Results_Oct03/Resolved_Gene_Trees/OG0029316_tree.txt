@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00061.75:0.462126,(Aofficinalis_evm.TU.AsparagusV1_04.2950:0.816844,((Vvinifera_VIT_200s1255g00010:0.246076,Vvinifera_VIT_200s1336g00010:0.0346902)n3:0.0543395,Vvinifera_VIT_200s0227g00010:0.072767)n2:0.265618)n1:0.462126)n0;

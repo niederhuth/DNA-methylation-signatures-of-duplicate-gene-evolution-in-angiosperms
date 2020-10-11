@@ -1,1 +1,0 @@
-((Osativa_ChrUn.fgenesh.gene.41:0,Osativa_LOC_Os10g07606:0)n1:0.518173,(Pvirgatum_Pavir.2NG272000:0.036684,Phallii_Pahal.2G099600:0.108974)n2:0.518173)n0;

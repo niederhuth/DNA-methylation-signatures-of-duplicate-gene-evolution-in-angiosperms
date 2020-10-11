@@ -1,1 +1,0 @@
-(Spolyrhiza_Spipo5G0013000:0.489922,(((Mguttatus_Migut.I00588:0.237448,(Mguttatus_Migut.K01258:3.91058e-06,Mguttatus_Migut.K01231:0.249843)n4:0.656793)n3:0.339042,Nnucifera_XP_019054549.1:0.825214)n2:0.207953,Fxananassa_maker-Fvb5-4-snap-gene-168.13:0.474837)n1:0.489922)n0;

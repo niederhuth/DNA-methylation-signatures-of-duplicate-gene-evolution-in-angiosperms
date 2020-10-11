@@ -1,1 +1,0 @@
-((Nattenuata_NIATv7_g24511:0.881831,(Mdomestica_MD06G1068900:0.534102,Cannuum_CA09g12720:0.331248)n2:0.201127)n1:0.161968,(Aofficinalis_evm.TU.AsparagusV1_10.387:0.754707,Aofficinalis_evm.TU.AsparagusV1_10.398:0.63517)n3:0.161968)n0;

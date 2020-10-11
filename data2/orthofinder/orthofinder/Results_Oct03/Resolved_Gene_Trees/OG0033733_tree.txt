@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00148.3:0.162146,(Egrandis_Eucgr.D02500:0.600754,(Cmelo_MELO3C031593.2:0.529539,Ljaponicus_Lj0g3v0130099:0.647496)n2:0.0469313)n1:0.162146)n0;

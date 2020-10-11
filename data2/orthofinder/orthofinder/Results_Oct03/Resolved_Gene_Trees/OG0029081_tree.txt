@@ -1,1 +1,0 @@
-(Aipaensis_araip.K30076.gnm1.ann1.Araip.IW8UC:0.758568,((Mdomestica_MD02G1252300:0.013594,Mdomestica_MD02G1251500:0.014504)n2:0.411869,(Pxbretschneideri_LOC103954638:0,Pxbretschneideri_LOC103954637:0)n3:0.502875)n1:0.758568)n0;

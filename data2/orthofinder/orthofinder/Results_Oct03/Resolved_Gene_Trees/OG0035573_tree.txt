@@ -1,1 +1,0 @@
-((Macuminata_GSMUA_Achr9G06240_001:0.320535,Macuminata_GSMUA_Achr6G17380_001:0.207601)n1:0.368381,(Fxananassa_snap_masked-Fvb3-3-processed-gene-192.12:0.129596,Fxananassa_augustus_masked-Fvb3-2-processed-gene-218.11:0.185445)n2:0.368381)n0;

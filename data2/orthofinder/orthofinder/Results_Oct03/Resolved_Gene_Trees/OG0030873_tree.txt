@@ -1,1 +1,0 @@
-((Nattenuata_NIATv7_g61505:0.132388,(Nattenuata_NIATv7_g14636:0.112812,Nattenuata_NIATv7_g61949:0.211753)n2:0.0140279)n1:0.157069,(Fxananassa_snap_masked-Fvb2-4-processed-gene-172.25:0.418675,Mdomestica_MD11G1307400:0.426445)n3:0.157069)n0;

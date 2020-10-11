@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00057.93:0.364691,((Nnucifera_XP_010269729.1:1.04402,(Cpapaya_evm.TU.contig_40521.2:0.162671,Cpapaya_evm.TU.contig_40896:0.0287834)n3:0.00319816)n2:0.10581,(Eguineensis_p5.00_sc00311_p0002:0.754987,(Aofficinalis_evm.TU.AsparagusV1_05.3111:0.355176,Fvesca_FvH4_c1g00740:0.774488)n5:0.131651)n4:0.147514)n1:0.364691)n0;

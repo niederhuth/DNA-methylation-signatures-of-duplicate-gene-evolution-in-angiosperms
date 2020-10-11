@@ -1,1 +1,0 @@
-(Graimondii_Gorai.007G369500:0.465816,(Roccidentalis_maker-Ro06-snap-gene-443.32:0.883624,(Roccidentalis_maker-Ro02-snap-gene-318.49:0.673445,((Roccidentalis_maker-Ro06-snap-gene-97.42:0.770578,Roccidentalis_maker-Ro06-exonerate_protein2genome-gene-124.34:0.0746893)n4:0.128146,Roccidentalis_maker-Ro06-snap-gene-84.36:0.748554)n3:0.0521217)n2:0.133634)n1:0.465816)n0;

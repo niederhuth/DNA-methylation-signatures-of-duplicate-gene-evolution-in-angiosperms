@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00060.94:0.245014,(Brapa_Brara.A02391:0.407358,(Esalsugineum_Thhalv10015055m.g:0.447209,Boleracea_Bo00673s170:0.640354)n2:0.297851)n1:0.245014)n0;

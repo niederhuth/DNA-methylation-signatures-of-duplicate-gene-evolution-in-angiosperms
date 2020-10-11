@@ -1,1 +1,0 @@
-((Mtruncatula_Medtr5g027050:0.421872,Roccidentalis_maker-Ro05-snap-gene-191.58:0.270584)n1:0.134924,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00060.166:0.21961,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00060.170:0.183615)n2:0.134924)n0;

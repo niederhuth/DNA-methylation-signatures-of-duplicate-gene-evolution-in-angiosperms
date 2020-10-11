@@ -1,1 +1,0 @@
-((Cclementina_Ciclev10023765m.g:0.255416,Cclementina_Ciclev10024169m.g:0.136571)n1:0.164463,((Cpapaya_evm.TU.supercontig_52.19:1.05405,Cpapaya_evm.TU.supercontig_52.20:2.24025e-06)n3:0.194253,Cpapaya_evm.TU.supercontig_52.21:0.418596)n2:0.164463)n0;

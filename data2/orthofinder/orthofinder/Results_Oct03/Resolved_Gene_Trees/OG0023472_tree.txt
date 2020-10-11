@@ -1,1 +1,0 @@
-(((Roccidentalis_maker-Ro04-snap-gene-156.38:1.34489,Rchinensis_RcHm_v2.0_Chr5g0013591:1.21614)n2:0.184999,Mdomestica_MD02G1276400:0.992081)n1:0.160011,(Acoerulea_Aqcoe1G218100:0.684601,((Acoerulea_Aqcoe7G034900:0.0198757,Acoerulea_Aqcoe7G251700:0.0569383)n5:0.0874399,Acoerulea_Aqcoe7G137200:0.198876)n4:0.15557)n3:0.160011)n0;

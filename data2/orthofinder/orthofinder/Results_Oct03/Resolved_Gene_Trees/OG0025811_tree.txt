@@ -1,1 +1,0 @@
-(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.1RA4U:0.483027,(Paxillaris_Peaxi162Scf00197g00050:0.403229,(Stuberosum_PGSC0003DMG400017856:0.366761,(Slycopersicum_Solyc01g016350.1:0.39933,(Slycopersicum_Solyc12g036640.1:0.525609,Slycopersicum_Solyc06g009920.1:0.202841)n4:0.0337764)n3:0.00375294)n2:0.295705)n1:0.483027)n0;

@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00130.40:0.232737,((Slycopersicum_Solyc09g011610.3:0.534278,Cannuum_CA09g05880:0.104841)n2:0.238373,Rchinensis_RcHm_v2.0_Chr6g0252711:0.434374)n1:0.232737)n0;

@@ -1,1 +1,0 @@
-(Cpapaya_evm.TU.supercontig_115.36:0.277604,(Mtruncatula_Medtr3g018620:0.862292,((Rchinensis_RcHm_v2.0_Chr1g0345921:0.202657,Rchinensis_RcHm_v2.0_Chr1g0344171:0.150093)n3:0.122453,(Rchinensis_RcHm_v2.0_Chr1g0345951:0.455279,Rchinensis_RcHm_v2.0_Chr1g0345561:0.171416)n4:0.0567115)n2:0.235875)n1:0.277604)n0;

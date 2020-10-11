@@ -1,1 +1,0 @@
-(Boleracea_Bo00940s060:0.817482,(Mtruncatula_Medtr3g008410:0.290863,(Mtruncatula_Medtr1g013090:0.395276,(Mtruncatula_Medtr1g012210:0,Mtruncatula_Medtr1g012160:0)n3:0.0807708)n2:0.128157)n1:0.817482)n0;

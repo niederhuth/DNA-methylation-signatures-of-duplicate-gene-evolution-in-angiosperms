@@ -1,1 +1,0 @@
-(Phallii_Pahal.5G318300:0.545727,(Aipaensis_araip.K30076.gnm1.ann1.Araip.Z30YB:0.564825,(Mdomestica_MD11G1168000:0.330374,Ljaponicus_Lj3g3v1193490:0.143948)n2:0.773945)n1:0.545727)n0;

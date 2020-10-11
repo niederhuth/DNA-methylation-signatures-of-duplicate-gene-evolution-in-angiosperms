@@ -1,1 +1,0 @@
-(Tcacao_Thecc1EG043263:0.503307,((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00002.237:0.22189,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00002.162:0.45827)n2:0.71309,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00006.31:1.3274)n1:0.503307)n0;

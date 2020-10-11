@@ -1,1 +1,0 @@
-(((Sviridis_Sevir.1G349300:0.00335913,Sitalica_Seita.1G342300:0.0201189)n2:0.673723,(Bdistachyon_Bradi2g25966:1.02821,Bdistachyon_Bradi1g75067:0.868209)n3:0.0964677)n1:0.121249,Sbicolor_Sobic.006G032000:0.527974)n0;

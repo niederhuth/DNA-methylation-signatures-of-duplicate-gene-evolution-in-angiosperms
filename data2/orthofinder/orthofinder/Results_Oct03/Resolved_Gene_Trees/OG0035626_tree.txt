@@ -1,1 +1,0 @@
-(Roccidentalis_snap_masked-Ro06-processed-gene-232.22:0.332544,((Fxananassa_snap_masked-Fvb6-3-processed-gene-39.35:0.115509,Fxananassa_snap_masked-Fvb6-4-processed-gene-330.39:0.127285)n2:0.312612,Fxananassa_snap_masked-Fvb6-3-processed-gene-39.36:0.917024)n1:0.332544)n0;

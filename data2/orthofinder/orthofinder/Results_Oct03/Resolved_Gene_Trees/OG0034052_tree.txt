@@ -1,1 +1,0 @@
-(Cannuum_CA04g18800:0.230901,(Pvulgaris_Phvul.002G270800:0.277573,(Boleracea_Bo3g036610:0,Boleracea_Bo5g117270:0)n2:0.236006)n1:0.230901)n0;

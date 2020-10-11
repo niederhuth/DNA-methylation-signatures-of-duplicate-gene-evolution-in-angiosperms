@@ -1,1 +1,0 @@
-(Acoerulea_Aqcoe6G109900:0.217102,(((Vcorymbosum_maker-VaccDscaff2-snap-gene-340.37:0.273179,Vcorymbosum_maker-VaccDscaff25-snap-gene-339.32:0.50212)n3:0.30215,Vcorymbosum_maker-VaccDscaff14-snap-gene-295.24:0.333751)n2:0.652696,(Mdomestica_MD05G1233400:0.261853,(Mdomestica_MD05G1233300:0.0232746,Mdomestica_MD05G1233100:0.0479954)n5:0.326793)n4:0.279251)n1:0.217102)n0;

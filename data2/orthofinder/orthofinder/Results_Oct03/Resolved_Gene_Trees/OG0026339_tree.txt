@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_06.29:0.33023,((Rchinensis_RcHm_v2.0_Chr4g0435311:0.351719,(Slycopersicum_Solyc04g007160.1:0.142213,(Ljaponicus_Lj5g3v2205000:0.379823,Ljaponicus_Lj2g3v1155290:0.110709)n4:0.373088)n3:0.403493)n2:0.270525,Gmax_Glyma.15G133832:0.546276)n1:0.33023)n0;

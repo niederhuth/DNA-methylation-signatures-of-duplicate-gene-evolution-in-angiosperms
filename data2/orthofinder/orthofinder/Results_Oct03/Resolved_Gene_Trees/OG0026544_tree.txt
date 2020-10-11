@@ -1,1 +1,0 @@
-((Esalsugineum_Thhalv10025768m.g:0,Esalsugineum_Thhalv10025769m.g:0)n1:0.378408,(Brapa_Brara.E02417:0.0880777,(Boleracea_Bo8g043250:0.904161,(Boleracea_Bo7g075290:0.314015,Boleracea_Bo5g122660:0.12362)n4:0.012362)n3:0.00137355)n2:0.355316)n0;

@@ -1,1 +1,0 @@
-(Ljaponicus_Lj0g3v0133819:0.0930594,((Fxananassa_augustus_masked-Fvb2-2-processed-gene-146.4:0.270572,Fvesca_FvH4_2g11890:0.400635)n2:0.190535,(Ppersica_Prupe.8G063900:0.138216,(Mdomestica_MD10G1050600:0.118349,Pxbretschneideri_LOC103940699:0.168544)n4:0.349995)n3:0.0723308)n1:0.0930594)n0;

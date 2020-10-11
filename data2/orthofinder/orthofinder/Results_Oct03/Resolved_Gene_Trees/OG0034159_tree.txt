@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_AchrUn_randomG19840_001:0.15459,(Smelongena_SMEL_009g335740.1:0.335303,(Vcorymbosum_snap_masked-VaccDscaff33-processed-gene-276.24:0.550614,Boleracea_Bo8g050890:1.47799e-06)n2:0.410331)n1:0.15459)n0;

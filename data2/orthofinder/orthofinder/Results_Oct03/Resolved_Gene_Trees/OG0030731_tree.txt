@@ -1,1 +1,0 @@
-(Ljaponicus_Lj0g3v0125159:0.204863,(Mdomestica_MD09G1143100:0.271813,(Ppersica_Prupe.8G030600:0.534931,(Fxananassa_snap_masked-Fvb6-1-processed-gene-77.31:0.132231,Fxananassa_snap_masked-Fvb3-2-processed-gene-98.21:0.361769)n3:0.0401966)n2:0.137373)n1:0.204863)n0;

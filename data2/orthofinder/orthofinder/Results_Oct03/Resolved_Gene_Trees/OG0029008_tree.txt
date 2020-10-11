@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_23734:0.331885,((Rchinensis_RcHm_v2.0_Chr3g0479081:0.671678,(Aipaensis_araip.K30076.gnm1.ann1.Araip.I6W4W:0.0721871,Boleracea_Bo1g054970:0.629186)n3:0.0580124)n2:0.0511169,Ljaponicus_Lj6g3v1211460:0.285854)n1:0.331885)n0;

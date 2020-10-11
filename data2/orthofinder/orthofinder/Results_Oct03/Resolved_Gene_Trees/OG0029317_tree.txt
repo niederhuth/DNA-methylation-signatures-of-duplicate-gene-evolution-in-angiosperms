@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_04.2898:0.490152,((Paxillaris_Peaxi162Scf55153g00001:0.167458,Slycopersicum_Solyc03g043940.3:0.703413)n2:0.053445,(Cannuum_CA06g10890:0.348727,Cannuum_CA06g05760:0.193109)n3:0.233174)n1:0.490152)n0;

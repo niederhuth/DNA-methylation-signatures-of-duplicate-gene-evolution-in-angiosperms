@@ -1,1 +1,0 @@
-(Vcorymbosum_augustus_masked-VaccDscaff1-processed-gene-30.5:0.581436,(Tcacao_Thecc1EG021225:0.428516,((Egrandis_Eucgr.H03933:0.309436,Vvinifera_VIT_205s0077g02345:0.461803)n3:0.0269991,(Ptrichocarpa_Potri.008G226700:0.0145599,Ptrichocarpa_Potri.008G220900:0.00503313)n4:0.265423)n2:0.114243)n1:0.581436)n0;

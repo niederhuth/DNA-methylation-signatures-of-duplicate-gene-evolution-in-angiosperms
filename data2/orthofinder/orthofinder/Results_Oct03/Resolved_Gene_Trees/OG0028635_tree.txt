@@ -1,1 +1,0 @@
-((Pvirgatum_Pavir.6KG298924:0.56531,Mdomestica_MD13G1132400:0.296766)n1:0.0804714,(Eguineensis_p5.00_sc00072_p0061:0.563952,(Fxananassa_snap_masked-Fvb6-3-processed-gene-30.65:0.343686,Acoerulea_Aqcoe1G312200:0.156374)n3:0.177354)n2:0.0804714)n0;

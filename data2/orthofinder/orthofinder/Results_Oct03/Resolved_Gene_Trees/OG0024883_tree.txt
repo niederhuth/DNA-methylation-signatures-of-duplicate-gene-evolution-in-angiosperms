@@ -1,1 +1,0 @@
-(((Nattenuata_NIATv7_g42424:0.0024289,Nattenuata_NIATv7_g62900:0.0005851)n2:0.168182,Nattenuata_NIATv7_g00263:0.490713)n1:0.357259,(Ptrichocarpa_Potri.001G290501:0.636081,(Pxbretschneideri_LOC103939649:0.661388,(Mtruncatula_Medtr0286s0050:0.842581,Fxananassa_snap_masked-Fvb6-2-processed-gene-297.33:0.800091)n5:0.100126)n4:0.0744928)n3:0.357259)n0;

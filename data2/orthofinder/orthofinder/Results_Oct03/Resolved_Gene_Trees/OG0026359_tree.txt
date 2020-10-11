@@ -1,1 +1,0 @@
-(Athaliana_AT3G56450:0.741563,(Rchinensis_RcHm_v2.0_Chr6g0293631:0.145813,(Fvesca_FvH4_2g25420:0,((Fxananassa_snap_masked-Fvb2-4-processed-gene-217.36:0.0406199,Fxananassa_maker-Fvb2-1-snap-gene-164.62:0.154977)n4:0.0663886,Fxananassa_snap_masked-Fvb2-2-processed-gene-47.35:0)n3:0)n2:0.0340844)n1:0.741563)n0;

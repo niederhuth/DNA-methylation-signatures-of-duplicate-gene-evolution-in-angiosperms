@@ -1,1 +1,0 @@
-(((Macuminata_GSMUA_AchrUn_randomG27510_001:0.0142099,Macuminata_GSMUA_AchrUn_randomG28630_001:0.0188741)n2:0.411966,Sitalica_Seita.4G092700:0.223136)n1:0.0919059,(Cpapaya_evm.TU.supercontig_42.66:0.362654,Ljaponicus_Lj0g3v0353329:0.399806)n3:0.0919059)n0;

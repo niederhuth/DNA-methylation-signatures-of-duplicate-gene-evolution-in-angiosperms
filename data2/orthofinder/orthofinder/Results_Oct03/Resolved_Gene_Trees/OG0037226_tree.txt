@@ -1,1 +1,0 @@
-((Sviridis_Sevir.2G123900:0.052392,Sitalica_Seita.2G117500:0.040087)n1:0.681684,(Pvirgatum_Pavir.2NG281100:0.694558,Phallii_Pahal.2G114400:0.606978)n2:0.681684)n0;

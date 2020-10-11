@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_08031:0.349819,((Sitalica_Seita.9G120200:0.006745,Sviridis_Sevir.9G118801:0.129016)n2:0.225554,Sbicolor_Sobic.001G118500:0.335086)n1:0.349819)n0;

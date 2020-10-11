@@ -1,1 +1,0 @@
-((Ptrichocarpa_Potri.014G084300:0.445997,Ptrichocarpa_Potri.002G159800:0.0516325)n1:0.228941,(Graimondii_Gorai.001G169500:0.325476,Tcacao_Thecc1EG005329:0.394887)n2:0.228941)n0;

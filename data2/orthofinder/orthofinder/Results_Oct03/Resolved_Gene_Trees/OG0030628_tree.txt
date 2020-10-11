@@ -1,1 +1,0 @@
-((Fvesca_FvH4_7g32200:0.00509487,Fxananassa_maker-Fvb7-2-snap-gene-288.116:0.00397913)n1:0.250931,(Roccidentalis_maker-Ro02-snap-gene-267.40:0.774509,(Roccidentalis_maker-Ro07-exonerate_protein2genome-gene-332.37:0.0929686,Roccidentalis_maker-Ro07-snap-gene-332.43:0.233254)n3:0.31381)n2:0.250931)n0;

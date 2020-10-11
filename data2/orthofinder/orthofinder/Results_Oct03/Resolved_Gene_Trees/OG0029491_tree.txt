@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00025.134:0.292627,(Cpapaya_evm.TU.supercontig_1652.3:0.675286,(Osativa_LOC_Os05g33320:0.447677,(Sbicolor_Sobic.006G027601:0.519538,Sbicolor_Sobic.005G135100:0.219678)n3:0.505306)n2:0.0824642)n1:0.292627)n0;

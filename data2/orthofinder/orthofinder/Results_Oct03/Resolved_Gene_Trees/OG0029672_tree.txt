@@ -1,1 +1,0 @@
-((Boleracea_Bo2g055470:0.463395,Boleracea_Bo2g055460:0.661748)n1:0.322939,((Esalsugineum_Thhalv10017260m.g:0.0204422,Esalsugineum_Thhalv10017254m.g:0.0308147)n3:0.0703663,Esalsugineum_Thhalv10017271m.g:0.0455192)n2:0.322939)n0;

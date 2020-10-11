@@ -1,1 +1,0 @@
-(Slycopersicum_Solyc12g005093.1:0.535672,(Vvinifera_VIT_219s0090g00880:0.447684,((Aipaensis_araip.K30076.gnm1.ann1.Araip.3D0VK:0.617571,Cpapaya_evm.TU.supercontig_12.273:0.603925)n3:0.0673405,Egrandis_Eucgr.F03486:0.581604)n2:0.0664364)n1:0.535672)n0;

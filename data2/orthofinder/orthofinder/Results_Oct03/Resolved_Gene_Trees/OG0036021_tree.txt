@@ -1,1 +1,0 @@
-(Graimondii_Gorai.N024900:0.325155,((Roccidentalis_maker-Ro02-snap-gene-365.69:0.37539,Roccidentalis_maker-Ro05-snap-gene-42.87:0.171526)n2:0.486703,Mdomestica_MD10G1176200:0.690883)n1:0.325155)n0;

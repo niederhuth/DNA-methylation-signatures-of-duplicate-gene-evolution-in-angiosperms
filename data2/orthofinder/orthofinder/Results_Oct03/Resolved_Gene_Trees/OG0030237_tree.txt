@@ -1,1 +1,0 @@
-(Nnucifera_XP_010248223.2:0.31573,(Egrandis_Eucgr.J01109:0.58327,((Rchinensis_RcHm_v2.0_Chr7g0229551:0.0725212,Rchinensis_RcHm_v2.0_Chr6g0253301:0.0264687)n3:0.759113,Vcorymbosum_maker-VaccDscaff9-augustus-gene-48.23:0.676139)n2:0.190035)n1:0.31573)n0;

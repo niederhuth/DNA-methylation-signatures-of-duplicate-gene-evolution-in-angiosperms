@@ -1,1 +1,0 @@
-((Aofficinalis_evm.TU.AsparagusV1_02.707:0.166778,Eguineensis_p5.00_sc00045_p0193:0.630328)n1:0.0589312,(Boleracea_Bo4g081180:0.555348,Cpapaya_evm.TU.supercontig_30.30:0.130456)n2:0.0589312)n0;

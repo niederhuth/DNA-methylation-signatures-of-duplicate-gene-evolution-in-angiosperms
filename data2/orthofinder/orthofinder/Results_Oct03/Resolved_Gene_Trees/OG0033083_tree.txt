@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00044.190:0.376904,(Boleracea_Bo3g166950:0.554811,(Aipaensis_araip.K30076.gnm1.ann1.Araip.6QW2Y:0.231661,Aipaensis_araip.K30076.gnm1.ann1.Araip.16Y1B:0.15141)n2:0.633159)n1:0.376904)n0;

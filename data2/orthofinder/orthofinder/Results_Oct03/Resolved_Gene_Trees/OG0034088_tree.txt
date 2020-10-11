@@ -1,1 +1,0 @@
-(Boleracea_Bo4g145510:0.287929,((Vcorymbosum_augustus_masked-VaccDscaff28-processed-gene-246.4:0.178139,Vcorymbosum_maker-VaccDscaff43-augustus-gene-21.21:0.674906)n2:0.180646,Stuberosum_PGSC0003DMG402018864:0.591579)n1:0.287929)n0;

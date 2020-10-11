@@ -1,1 +1,0 @@
-(Paxillaris_Peaxi162Scf00170g01342:0.647462,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00005.107:0.59567,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00001.4:0.00826823,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00005.106:0.58912)n2:0.343205)n1:0.647462)n0;

@@ -1,1 +1,0 @@
-((Graimondii_Gorai.011G162200:0.147179,Vcorymbosum_maker-VaccDscaff45-augustus-gene-81.34:0.570589)n1:0.134483,(Egrandis_Eucgr.H04803:0.275048,(Slycopersicum_Solyc05g005125.1:0.0932939,(Cannuum_CA05g08950:0.0697133,Cannuum_CA06g03810:0.414307)n4:0.0460341)n3:0.105831)n2:0.134483)n0;

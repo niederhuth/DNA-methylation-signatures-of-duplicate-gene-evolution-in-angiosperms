@@ -1,1 +1,0 @@
-(Eguineensis_p5.00_sc01516_p0001:0.0548715,(Vcorymbosum_maker-VaccDscaff162-augustus-gene-0.25:0.097378,((Gsoja_GlysoPI483463.11G090300:0.120018,Gmax_Glyma.11G098051:0.114366)n3:0.259811,Ptrichocarpa_Potri.014G188200:0.462258)n2:0.225067)n1:0.0548715)n0;

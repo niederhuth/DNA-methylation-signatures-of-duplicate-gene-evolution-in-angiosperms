@@ -1,1 +1,0 @@
-(Acoerulea_Aqcoe1G139900:0.580466,((Cpapaya_evm.TU.supercontig_311.5:1.14794,(Ptrichocarpa_Potri.004G212750:0.625325,((Ptrichocarpa_Potri.005G010133:0.560557,Ptrichocarpa_Potri.T092900:0.217055)n5:0.0149,Ptrichocarpa_Potri.005G008301:0.0788635)n4:0.770223)n3:0.106562)n2:0.0274825,Slycopersicum_Solyc06g010240.2:0.651048)n1:0.580466)n0;

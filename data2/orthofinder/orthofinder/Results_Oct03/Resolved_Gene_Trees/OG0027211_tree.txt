@@ -1,1 +1,0 @@
-(Vvinifera_VIT_218s0001g00320:0.0661615,(((Fvesca_FvH4_2g16060:0.201069,Fxananassa_maker-Fvb2-3-snap-gene-115.56:0.0225645)n3:0.0413239,Roccidentalis_maker-Ro02-snap-gene-139.43:0.161259)n2:0.0641041,(Fxananassa_maker-Fvb2-1-snap-gene-97.47:0.234913,Roccidentalis_maker-Ro02-snap-gene-18.104:0.173368)n4:0.0192631)n1:0.0661615)n0;

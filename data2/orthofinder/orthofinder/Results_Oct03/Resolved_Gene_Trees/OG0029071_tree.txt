@@ -1,1 +1,0 @@
-(Eguineensis_p5.00_sc00301_p0005:0.410572,((Aipaensis_araip.K30076.gnm1.ann1.Araip.UUX0H:0.368298,(Egrandis_Eucgr.D00450:0.381036,Alyrata_AL6G14800:0.470676)n3:0.162179)n2:0.280552,Mtruncatula_Medtr5g015770:0.638165)n1:0.410572)n0;

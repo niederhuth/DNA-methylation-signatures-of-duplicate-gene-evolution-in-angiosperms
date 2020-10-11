@@ -1,1 +1,0 @@
-(Vcorymbosum_maker-VaccDscaff31-snap-gene-277.46:0.362106,((Roccidentalis_maker-Ro05-snap-gene-385.73:0.0872222,Roccidentalis_maker-Ro05-snap-gene-387.47:0.326148)n2:0.576419,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.S84M5:0.163316,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.6F8B8:0.122531)n3:0.476083)n1:0.362106)n0;

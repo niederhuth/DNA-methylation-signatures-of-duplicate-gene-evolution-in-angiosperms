@@ -1,1 +1,0 @@
-((Bvulgaris_gene_BVRB_8g199010:0.79853,Aofficinalis_evm.TU.AsparagusV1_10.1931:0.249028)n1:0.0358497,(Alyrata_AL3G45680:0.410879,Macuminata_GSMUA_Achr11G13260_001:0.496648)n2:0.0358497)n0;

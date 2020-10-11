@@ -1,1 +1,0 @@
-(Zmays_Zm00001d020067:0.524057,((Bdistachyon_Bradi2g25681:0.786436,Bdistachyon_Bradi1g56535:0.9157)n2:0.10606,((Bdistachyon_Bradi3g06251:0.106538,Bdistachyon_Bradi3g35500:0.0789177)n4:0.141915,(Bdistachyon_Bradi3g06252:0.0391477,Bdistachyon_Bradi3g06256:0.220696)n5:0.183367)n3:0.303753)n1:0.524057)n0;

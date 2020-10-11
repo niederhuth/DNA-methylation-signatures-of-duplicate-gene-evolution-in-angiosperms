@@ -1,1 +1,0 @@
-(Cannuum_CA09g01020:0.119413,(Fxananassa_maker-Fvb6-2-augustus-gene-154.41:0.136715,(Esalsugineum_Thhalv10015763m.g:0.0109138,(Esalsugineum_Thhalv10015647m.g:0.421994,Esalsugineum_Thhalv10015502m.g:0.255218)n3:0.0153557)n2:0.18481)n1:0.119413)n0;

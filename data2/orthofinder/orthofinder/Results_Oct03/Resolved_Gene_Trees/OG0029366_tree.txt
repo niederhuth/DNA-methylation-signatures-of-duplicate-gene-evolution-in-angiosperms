@@ -1,1 +1,0 @@
-((Gmax_Glyma.08G036802:0.327624,Mdomestica_MD15G1191500:0.482918)n1:0.0294002,(Aofficinalis_evm.TU.AsparagusV1_Unassigned.1140:0.38154,(Bdistachyon_Bradi3g17216:0.0432214,Bdistachyon_Bradi1g13223:0.144264)n3:0.821324)n2:0.0294002)n0;

@@ -1,1 +1,0 @@
-(Gmax_Glyma.10G282333:0.38962,(Fvesca_FvH4_4g09610:0.718127,(Fxananassa_augustus_masked-Fvb1-4-processed-gene-61.11:0.295932,Fxananassa_maker-Fvb4-3-snap-gene-243.40:0.435428)n2:0.0483809)n1:0.131188)n0;

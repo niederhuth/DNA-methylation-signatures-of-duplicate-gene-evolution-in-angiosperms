@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00075.14:0.281957,(Othomaeum_Oropetium_20150105_01446:1.00691,(Ljaponicus_Lj0g3v0185029:0.384926,((Nattenuata_NIATv7_g59014:0.104652,Nattenuata_NIATv7_g57478:0.0940301)n4:0.235247,Nattenuata_NIATv7_g15560:0.0908206)n3:0.467174)n2:0.112654)n1:0.281957)n0;

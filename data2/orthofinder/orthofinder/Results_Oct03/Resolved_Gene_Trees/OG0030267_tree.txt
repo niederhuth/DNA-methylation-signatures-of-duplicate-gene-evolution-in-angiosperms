@@ -1,1 +1,0 @@
-(Egrandis_Eucgr.D02388:0.320613,(Ptrichocarpa_Potri.014G100500:1.10491,(Fvesca_FvH4_7g21580:2.48768e-06,(Fxananassa_maker-Fvb7-1-snap-gene-247.95:0.410543,Fxananassa_maker-Fvb7-4-augustus-gene-73.36:0.0331577)n3:0.00368419)n2:0.311084)n1:0.320613)n0;

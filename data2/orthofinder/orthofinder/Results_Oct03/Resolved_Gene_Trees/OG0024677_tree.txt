@@ -1,1 +1,0 @@
-(Fvesca_FvH4_4g24370:0.234551,(Rchinensis_RcHm_v2.0_Chr5g0002311:0.809368,(Rchinensis_RcHm_v2.0_Chr5g0067171:0.167841,((Rchinensis_RcHm_v2.0_Chr6g0257091:2.32693e-06,Rchinensis_RcHm_v2.0_Chr1g0318961:0.107081)n4:0.140968,(Rchinensis_RcHm_v2.0_Chr2g0141351:0.023646,Rchinensis_RcHm_v2.0_Chr6g0251581:0.0041)n5:0.00916788)n3:0.13708)n2:0.464583)n1:0.234551)n0;

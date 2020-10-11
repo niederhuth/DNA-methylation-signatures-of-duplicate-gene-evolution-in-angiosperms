@@ -1,1 +1,0 @@
-(Cannuum_CA06g07820:0.321374,(Aofficinalis_evm.TU.AsparagusV1_06.1625:0.444339,((Aofficinalis_evm.TU.AsparagusV1_01.1831:0,Aofficinalis_evm.TU.AsparagusV1_04.2016:0)n3:0.107381,(Aofficinalis_evm.TU.AsparagusV1_05.3502:0.401044,Aofficinalis_evm.TU.AsparagusV1_10.881:0.021242)n4:0.0114078)n2:0.142948)n1:0.321374)n0;

@@ -1,1 +1,0 @@
-((Nattenuata_NIATv7_g32634:0.0614577,Aipaensis_araip.K30076.gnm1.ann1.Araip.X333R:0.696293)n1:0.0762254,(Vvinifera_VIT_216s0115g00376:0.532226,Bvulgaris_gene_BVRB_028200:0.394308)n2:0.0762254)n0;

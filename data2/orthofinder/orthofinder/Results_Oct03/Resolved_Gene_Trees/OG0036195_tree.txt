@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_AchrUn_randomG01330_001:0.119031,((Macuminata_GSMUA_AchrUn_randomG22400_001:0.357851,Macuminata_GSMUA_Achr11G12880_001:0.526971)n2:0.00989725,Macuminata_GSMUA_AchrUn_randomG21020_001:0.48851)n1:0.119031)n0;

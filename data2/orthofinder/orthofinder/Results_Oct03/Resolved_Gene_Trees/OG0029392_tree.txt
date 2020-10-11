@@ -1,1 +1,0 @@
-((Athaliana_AT2G07706:0.850759,Athaliana_ATMG00470:0.075755)n1:0.208936,(Brapa_Brara.G03209:0.386932,(Esalsugineum_Thhalv10023097m.g:0.00656147,Esalsugineum_Thhalv10002987m.g:0.0246695)n3:0.231122)n2:0.208936)n0;

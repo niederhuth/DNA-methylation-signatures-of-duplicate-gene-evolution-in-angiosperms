@@ -1,1 +1,0 @@
-((Nnucifera_XP_010244145.1:0.296079,Acoerulea_Aqcoe4G220200:0.299245)n1:0.113037,(Aofficinalis_evm.TU.AsparagusV1_08.734:0.340537,(Macuminata_GSMUA_Achr7G18500_001:0.155036,(Eguineensis_p5.00_sc00005_p0078:0.52716,Eguineensis_p5.00_sc00005_p0077:2.21443e-06)n4:0.295576)n3:0.201188)n2:0.113037)n0;

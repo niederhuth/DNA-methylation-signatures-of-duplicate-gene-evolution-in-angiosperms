@@ -1,1 +1,0 @@
-(Smelongena_SMEL_001g133050.1:0.128131,((Mdomestica_MD07G1089000:0.186887,Mdomestica_MD07G1089800:0.0842075)n2:0.496397,Fxananassa_augustus_masked-Fvb7-1-processed-gene-127.4:0.055745)n1:0.128131)n0;

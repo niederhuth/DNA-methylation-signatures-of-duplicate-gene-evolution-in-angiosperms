@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_28199:0.565258,(Macuminata_GSMUA_AchrUn_randomG28560_001:0.529052,(Aofficinalis_evm.TU.AsparagusV1_07.3971:0.258315,((Aofficinalis_evm.TU.AsparagusV1_07.3933:0,(Aofficinalis_evm.TU.AsparagusV1_07.3934:0,Aofficinalis_evm.TU.AsparagusV1_07.3935:0)n5:0)n4:0,Aofficinalis_evm.TU.AsparagusV1_07.3972:0)n3:0.0429585)n2:0.166788)n1:0.565258)n0;

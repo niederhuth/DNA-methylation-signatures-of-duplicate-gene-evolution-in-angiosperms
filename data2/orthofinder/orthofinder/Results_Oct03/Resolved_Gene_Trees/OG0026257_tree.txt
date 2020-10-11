@@ -1,1 +1,0 @@
-(Mesculenta_Manes.03G097803:0.222055,(((Aofficinalis_evm.TU.AsparagusV1_08.2980:1.8879e-06,Aofficinalis_evm.TU.AsparagusV1_05.2486:0.39201)n3:0.311136,(Aofficinalis_evm.TU.AsparagusV1_06.1524:0.376762,Aofficinalis_evm.TU.AsparagusV1_08.1997:2.36667e-05)n4:0.125819)n2:0.0440506,Aofficinalis_evm.TU.AsparagusV1_10.576:0.226658)n1:0.222055)n0;

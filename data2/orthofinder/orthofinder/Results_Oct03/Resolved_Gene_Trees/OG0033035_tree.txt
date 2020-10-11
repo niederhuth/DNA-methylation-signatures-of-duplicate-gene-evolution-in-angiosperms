@@ -1,1 +1,0 @@
-(Rchinensis_RcHm_v2.0_Chr1g0355421:0.12953,(Gmax_Glyma.11G170101:0.274976,(Aipaensis_araip.K30076.gnm1.ann1.Araip.V9H2E:0.182061,Aipaensis_araip.K30076.gnm1.ann1.Araip.QR73J:0.221834)n2:0.0246482)n1:0.116337)n0;

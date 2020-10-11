@@ -1,1 +1,0 @@
-(Cannuum_CA00g85970:0.137605,(Fvesca_FvH4_2g12100:0.72286,((Fvesca_FvH4_6g25630:0.634923,Fxananassa_maker-Fvb5-1-augustus-gene-212.27:0.308428)n3:0.0573883,(Fvesca_FvH4_5g28440:0.172576,(Fxananassa_maker-Fvb2-2-snap-gene-144.20:0.466669,Fxananassa_maker-Fvb2-2-snap-gene-143.29:0.670557)n5:0.172784)n4:0.0191982)n2:0.0702617)n1:0.137605)n0;

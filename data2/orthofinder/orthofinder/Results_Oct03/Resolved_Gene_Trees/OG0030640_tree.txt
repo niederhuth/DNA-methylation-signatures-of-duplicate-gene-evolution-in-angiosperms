@@ -1,1 +1,0 @@
-(Osativa_LOC_Os09g20630:0.135467,(((Fxananassa_augustus_masked-Fvb5-2-processed-gene-73.18:0.351787,Fxananassa_maker-Fvb5-1-augustus-gene-82.57:0.0595193)n3:0.0163177,Fvesca_FvH4_5g13070:0.0337083)n2:0.330487,Nattenuata_NIATv7_g56226:0.34336)n1:0.135467)n0;

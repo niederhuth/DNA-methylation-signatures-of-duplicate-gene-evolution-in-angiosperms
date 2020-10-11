@@ -1,1 +1,0 @@
-(Zmays_Zm00001d046808:0.378162,((Ptrichocarpa_Potri.003G112150:0.684512,Vcorymbosum_maker-VaccDscaff46-augustus-gene-22.33:0.113043)n2:0.0915857,(Mdomestica_MD06G1063400:0.266194,Gmax_Glyma.15G003100:0.299172)n3:0.175067)n1:0.378162)n0;

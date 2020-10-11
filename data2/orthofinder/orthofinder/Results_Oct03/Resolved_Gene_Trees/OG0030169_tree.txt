@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_Achr1G27240_001:0.148196,(Cpapaya_evm.TU.supercontig_44.140:0.235258,(Rchinensis_RcHm_v2.0_Chr4g0388851:0.0711794,(Rchinensis_RcHm_v2.0_Chr7g0214281:0.201576,Rchinensis_RcHm_v2.0_Chr7g0214171:0.0558832)n3:0.192289)n2:0.0213654)n1:0.0286702)n0;

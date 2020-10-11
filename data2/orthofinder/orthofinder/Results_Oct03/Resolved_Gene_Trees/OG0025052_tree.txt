@@ -1,1 +1,0 @@
-(Vvinifera_VIT_219s0014g03750:0.293968,((Pxbretschneideri_LOC103941546:0.481911,(Rchinensis_RcHm_v2.0_Chr5g0036141:0.0613582,(Rchinensis_RcHm_v2.0_Chr5g0036171:0.223773,Roccidentalis_maker-Ro03-exonerate_protein2genome-gene-299.47:0.188212)n4:0.200138)n3:0.0222375)n2:0.0924316,(Ptrichocarpa_Potri.011G126100:0.528395,Mesculenta_Manes.15G082300:0.457124)n5:0.139678)n1:0.293968)n0;

@@ -1,1 +1,0 @@
-(Sbicolor_Sobic.007G117700:2.7376e-08,(Sbicolor_Sobic.003G170400:0.018531,(Sbicolor_Sobic.003G175500:0.008845,Sbicolor_Sobic.004G122300:0)n2:2.9e-05)n1:2.7376e-08)n0;

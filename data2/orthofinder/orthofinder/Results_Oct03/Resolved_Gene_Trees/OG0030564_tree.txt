@@ -1,1 +1,0 @@
-(Smelongena_SMEL_000g094010.1:0.208574,(Ljaponicus_Lj1g3v0984450:0.393627,(Rchinensis_RcHm_v2.0_Chr5g0011101:0.295346,(Fvesca_FvH4_3g07590:0.0298027,Fxananassa_snap_masked-Fvb3-4-processed-gene-253.36:0.0297563)n3:0.210357)n2:0.562121)n1:0.208574)n0;

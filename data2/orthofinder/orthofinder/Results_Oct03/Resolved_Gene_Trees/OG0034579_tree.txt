@@ -1,1 +1,0 @@
-(Stuberosum_PGSC0003DMG400003951:0.30765,(Fxananassa_maker-Fvb1-2-snap-gene-29.63:0.479915,(Cpapaya_evm.TU.supercontig_23.55:0.471542,Cmelo_MELO3C029710.2:0.518848)n2:0.171527)n1:0.30765)n0;

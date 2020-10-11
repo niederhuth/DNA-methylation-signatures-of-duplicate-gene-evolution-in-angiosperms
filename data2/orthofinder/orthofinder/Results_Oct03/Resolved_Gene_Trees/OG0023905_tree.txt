@@ -1,1 +1,0 @@
-((((Esalsugineum_Thhalv10029408m.g:0.388697,Esalsugineum_Thhalv10029302m.g:0.932125)n3:0.533709,Alyrata_AL7G12140:0.347426)n2:0.0259367,Crubella_Carub.0007s0183:0.267448)n1:0.0173757,((Brapa_Brara.H01770:0.393087,Crubella_Carub.0002s2327:0.252944)n5:0.00747434,Esalsugineum_Thhalv10025580m.g:0.254565)n4:0.0173757)n0;

@@ -1,1 +1,0 @@
-((Aofficinalis_evm.TU.AsparagusV1_08.3501:0.45098,Aofficinalis_evm.TU.AsparagusV1_08.1498:0.564537)n1:0.36122,(Fxananassa_augustus_masked-Fvb3-2-processed-gene-134.3:0.428607,(Ljaponicus_Lj0g3v0156099:0.102898,Ljaponicus_Lj0g3v0156089:0.068262)n3:0.188186)n2:0.36122)n0;

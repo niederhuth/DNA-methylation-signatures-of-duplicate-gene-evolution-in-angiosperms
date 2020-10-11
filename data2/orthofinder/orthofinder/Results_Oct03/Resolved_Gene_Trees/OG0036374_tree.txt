@@ -1,1 +1,0 @@
-(Mesculenta_Manes.09G077218:0.477149,((Mesculenta_Manes.11G058201:0.393846,Mesculenta_Manes.12G101202:0.306778)n2:0.522737,Mesculenta_Manes.02G206000:0.611729)n1:0.477149)n0;

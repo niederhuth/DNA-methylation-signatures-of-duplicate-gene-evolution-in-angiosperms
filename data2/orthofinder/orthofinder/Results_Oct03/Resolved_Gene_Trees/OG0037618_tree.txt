@@ -1,1 +1,0 @@
-(Roccidentalis_maker-Ro07-exonerate_est2genome-gene-53.15:0.394004,(Rchinensis_RcHm_v2.0_Chr1g0324381:0.937831,(Rchinensis_RcHm_v2.0_Chr7g0234181:0.297984,Rchinensis_RcHm_v2.0_Chr7g0192841:0.78801)n2:0.050231)n1:0.394004)n0;

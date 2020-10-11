@@ -1,1 +1,0 @@
-(((Pvirgatum_Pavir.4NG166133:0.763088,(Sitalica_Seita.9G360700:0.00420006,Sviridis_Sevir.9G366600:0.00389994)n3:0.0658228)n2:0.570473,Ljaponicus_Lj0g3v0123969:0.305119)n1:0.167042,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00090.37:0.23466,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00101.90:0.226962)n4:0.167042)n0;

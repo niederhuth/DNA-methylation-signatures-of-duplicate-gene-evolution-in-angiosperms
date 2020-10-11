@@ -1,1 +1,0 @@
-(Eguineensis_p5.00_sc00001_p0102:0.387981,((Vcorymbosum_snap_masked-VaccDscaff37-processed-gene-72.25:0.537159,Tcacao_Thecc1EG022495:0.591347)n2:0.211188,(Roccidentalis_maker-Ro07-snap-gene-134.34:0.157722,Roccidentalis_maker-Ro07-snap-gene-337.40:0.237457)n3:0.536127)n1:0.387981)n0;

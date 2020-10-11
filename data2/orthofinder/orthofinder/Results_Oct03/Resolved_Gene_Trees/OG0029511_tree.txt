@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00023.201:0.628271,(Sbicolor_Sobic.009G037500:0.968898,(Cclementina_Ciclev10024332m.g:0.268732,(Cclementina_Ciclev10024013m.g:0.141036,Cclementina_Ciclev10023567m.g:0.0929378)n3:0.327522)n2:0.899673)n1:0.628271)n0;

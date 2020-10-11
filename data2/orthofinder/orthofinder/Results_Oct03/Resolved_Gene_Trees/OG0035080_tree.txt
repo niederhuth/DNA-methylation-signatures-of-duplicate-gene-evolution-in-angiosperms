@@ -1,1 +1,0 @@
-(Fxananassa_augustus_masked-Fvb5-1-processed-gene-286.10:0.0499439,((Fvesca_FvH4_6g17620:0.066688,Fvesca_FvH4_3g30570:0.476096)n2:0.139995,Fvesca_FvH4_5g37980:0.0615593)n1:0.0499439)n0;

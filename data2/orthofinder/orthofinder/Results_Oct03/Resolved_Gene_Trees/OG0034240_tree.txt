@@ -1,1 +1,0 @@
-((Bvulgaris_gene_BVRB_2g046220:0.259655,Bvulgaris_gene_BVRB_6g144420:0.214089)n1:0.173256,(Rchinensis_RcHm_v2.0_Chr6g0247011:0.140403,Rchinensis_RcHm_v2.0_Chr7g0224431:0.485567)n2:0.173256)n0;

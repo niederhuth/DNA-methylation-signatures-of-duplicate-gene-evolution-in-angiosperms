@@ -1,1 +1,0 @@
-((Cviolacea_Clevi.0012s0898:2.16721e-07,(Brapa_Brara.A03942:0.152152,Crubella_Carub.0003s0062:2.16721e-07)n2:0.0365598)n1:0.0333149,(Pvulgaris_Phvul.004G017450:0,(Gmax_Glyma.19G010001:0,Gmax_Glyma.13G169833:0)n4:0)n3:0)n0;

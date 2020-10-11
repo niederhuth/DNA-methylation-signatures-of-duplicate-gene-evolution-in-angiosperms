@@ -1,1 +1,0 @@
-(Vcorymbosum_maker-VaccDscaff2-augustus-gene-316.32:0.458605,(Mguttatus_Migut.K01043:0.005234,(Mguttatus_Migut.G00985:0.614287,(Mguttatus_Migut.F00712:0.105553,Mguttatus_Migut.E01670:2.29655e-06)n3:0.274073)n2:0.39856)n1:0.458605)n0;

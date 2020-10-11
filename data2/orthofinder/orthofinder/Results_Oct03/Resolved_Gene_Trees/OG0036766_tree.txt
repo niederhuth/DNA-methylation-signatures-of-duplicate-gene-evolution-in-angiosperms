@@ -1,1 +1,0 @@
-(Osativa_LOC_Os05g27830:0.258115,((Osativa_LOC_Os05g43190:0.518583,Osativa_LOC_Os04g26600:0.730946)n2:0.135104,Osativa_ChrSy.fgenesh.gene.33:1.00846)n1:0.258115)n0;

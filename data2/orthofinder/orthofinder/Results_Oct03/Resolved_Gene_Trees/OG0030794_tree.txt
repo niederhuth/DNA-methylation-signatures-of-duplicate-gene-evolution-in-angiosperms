@@ -1,1 +1,0 @@
-(Ppersica_Prupe.4G102700:0.353662,(Roccidentalis_maker-Ro03-snap-gene-373.69:0.353908,(Rchinensis_RcHm_v2.0_Chr5g0018481:0.173175,(Fxananassa_augustus_masked-Fvb3-3-processed-gene-44.13:0.0173419,Fxananassa_augustus_masked-Fvb3-2-processed-gene-60.17:0.0530581)n3:0.467404)n2:0.323394)n1:0.353662)n0;

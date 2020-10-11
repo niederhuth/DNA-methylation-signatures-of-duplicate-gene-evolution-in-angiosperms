@@ -1,1 +1,0 @@
-((((Cpapaya_evm.TU.supercontig_16.119:3.36985e-06,Cpapaya_evm.TU.supercontig_16.121:0.0585994)n3:0.054571,Cpapaya_evm.TU.supercontig_16.123:0.0714434)n2:0.460405,Cpapaya_evm.TU.supercontig_16.117:0.618593)n1:0.0658131,(Tcacao_Thecc1EG017040:0.749079,(Graimondii_Gorai.001G260100:0.669911,Graimondii_Gorai.006G099300:0.468524)n5:0.0520582)n4:0.122764)n0;

@@ -1,1 +1,0 @@
-(((Cclementina_Ciclev10033666m.g:0.0394224,(Cclementina_Ciclev10033746m.g:0.00710462,Cclementina_Ciclev10033568m.g:0.217897)n3:0.0260341)n2:0.425316,Bvulgaris_gene_BVRB_7g161350:0.508333)n1:0.185313,(Sitalica_Seita.1G178100:0,Sviridis_Sevir.1G180900:0)n4:0.185313)n0;

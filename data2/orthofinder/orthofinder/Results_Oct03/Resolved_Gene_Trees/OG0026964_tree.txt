@@ -1,1 +1,0 @@
-(((Pvirgatum_Pavir.1NG336600:0.679015,Sbicolor_Sobic.002G144732:0.0904839)n2:0.424926,(Vcorymbosum_maker-VaccDscaff2-snap-gene-149.26:0.330469,Graimondii_Gorai.006G233000:0.676014)n3:0.0887967)n1:0.0760803,(Cpapaya_evm.TU.supercontig_250.16:0.319237,Eguineensis_p5.00_sc00276_p0016:0.338351)n4:0.0760803)n0;

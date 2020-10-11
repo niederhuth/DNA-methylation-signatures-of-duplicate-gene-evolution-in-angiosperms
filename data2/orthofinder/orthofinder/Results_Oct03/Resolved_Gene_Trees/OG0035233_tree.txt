@@ -1,1 +1,0 @@
-(Paxillaris_Peaxi162Scf00709g00310:0.286923,(Fvesca_FvH4_3g32140:0.544057,(Mdomestica_MD03G1062000:0.346264,Fxananassa_maker-Fvb1-4-snap-gene-116.46:0.215731)n2:0.118118)n1:0.286923)n0;

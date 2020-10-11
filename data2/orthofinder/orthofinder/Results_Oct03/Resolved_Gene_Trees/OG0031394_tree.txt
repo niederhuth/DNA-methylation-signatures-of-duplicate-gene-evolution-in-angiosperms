@@ -1,1 +1,0 @@
-(Mtruncatula_Medtr4g097810:0.409295,((Vcorymbosum_augustus_masked-VaccDscaff30-processed-gene-343.12:0.14539,Vcorymbosum_maker-VaccDscaff13-augustus-gene-63.40:0.466887)n2:0.109634,(Vcorymbosum_maker-VaccDscaff30-snap-gene-343.75:0.127408,Vcorymbosum_maker-VaccDscaff32-snap-gene-302.33:0.0729993)n3:0.100214)n1:0.409295)n0;

@@ -1,1 +1,0 @@
-((Vcorymbosum_maker-VaccDscaff20-augustus-gene-32.27:0.0573468,Vcorymbosum_maker-VaccDscaff48-snap-gene-84.43:0.46266)n1:0.0685271,(Csativus_CsaV3_4G017430:0.627467,(Graimondii_Gorai.004G012300:0.606533,(Tcacao_Thecc1EG041138:0.419141,Clanatus_Cla97C03G064570:0.496719)n4:0.136442)n3:0.0128233)n2:0.0685271)n0;

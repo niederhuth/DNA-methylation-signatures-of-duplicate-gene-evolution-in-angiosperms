@@ -1,1 +1,0 @@
-(Smelongena_SMEL_005g226620.1:0.318026,(Mtruncatula_Medtr3g072105:0.41935,(Ljaponicus_Lj6g3v0466600:1.04388e-06,Ljaponicus_Lj0g3v0138719:0.101741)n2:0.0113045)n1:0.206502)n0;

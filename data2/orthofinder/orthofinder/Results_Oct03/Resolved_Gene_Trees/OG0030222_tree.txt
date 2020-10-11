@@ -1,1 +1,0 @@
-(Nattenuata_NIATv7_g03709:0.170394,(Ptrichocarpa_Potri.018G115866:0.256298,((Egrandis_Eucgr.L03668:0,Egrandis_Eucgr.L01042:0)n3:0.237887,Egrandis_Eucgr.C00444:0.832557)n2:0.207759)n1:0.170394)n0;

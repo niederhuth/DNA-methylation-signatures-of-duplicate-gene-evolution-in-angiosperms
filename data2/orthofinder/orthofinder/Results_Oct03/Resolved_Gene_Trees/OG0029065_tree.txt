@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_22908:0.239007,(Aipaensis_araip.K30076.gnm1.ann1.Araip.40H6F:0.604131,((Ptrichocarpa_Potri.011G042200:0.284542,Fxananassa_maker-Fvb6-1-augustus-gene-317.50:0.715373)n3:0.175467,Alyrata_AL3G52770:0.550021)n2:0.0497751)n1:0.239007)n0;

@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00111.13:0.457327,(Mguttatus_Migut.B01564:0.368881,(Vvinifera_VIT_215s0021g02185:0.212883,(Mtruncatula_Medtr7g045502:0.61285,Brapa_Brara.I01563:0.816272)n3:0.0519737)n2:0.0587056)n1:0.457327)n0;

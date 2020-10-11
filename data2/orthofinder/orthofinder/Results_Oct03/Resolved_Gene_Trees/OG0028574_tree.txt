@@ -1,1 +1,0 @@
-(Vcorymbosum_maker-VaccDscaff36-snap-gene-141.40:0.619781,(Acoerulea_Aqcoe3G120700:0.108751,((Acoerulea_Aqcoe3G120600:0.32524,Acoerulea_Aqcoe3G121300:0.888475)n3:0.152457,Acoerulea_Aqcoe2G362100:1.22097)n2:0.147748)n1:0.619781)n0;

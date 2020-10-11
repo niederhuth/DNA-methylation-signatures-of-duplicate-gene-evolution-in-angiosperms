@@ -1,1 +1,0 @@
-((Brapa_Brara.E01870:0.401396,Boleracea_Bo6g003280:0.283581)n1:0.0443918,(Fxananassa_maker-Fvb2-4-augustus-gene-217.66:0.262404,(Ljaponicus_Lj0g3v0015979:0.142236,Ljaponicus_Lj1g3v1306830:0.220774)n3:0.0245304)n2:0.23146)n0;

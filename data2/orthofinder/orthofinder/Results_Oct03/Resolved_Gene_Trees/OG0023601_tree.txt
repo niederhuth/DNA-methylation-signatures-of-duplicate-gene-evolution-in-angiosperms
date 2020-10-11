@@ -1,1 +1,0 @@
-(Nattenuata_NIATv7_g21036:0.545863,((Graimondii_Gorai.009G370800:1.0238,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.GE83I:0.972262)n2:0.0115147,(Tcacao_Thecc1EG031805:0.445179,((Cclementina_Ciclev10023523m.g:0.309853,Cclementina_Ciclev10023821m.g:0.702865)n5:0.321009,Cclementina_Ciclev10023624m.g:0.288794)n4:0.0320882)n3:0.116756)n1:0.545863)n0;

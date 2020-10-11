@@ -1,1 +1,0 @@
-((Acoerulea_Aqcoe2G195300:0.227775,Acoerulea_Aqcoe7G225600:0.0050945)n1:0.0635967,(Rchinensis_RcHm_v2.0_CPg0502681:0.0628045,(Mguttatus_Migut.D01498:1.3121e-06,Mguttatus_Migut.G00962:0.632035)n3:0.30287)n2:0.0635967)n0;

@@ -1,1 +1,0 @@
-(Ppersica_Prupe.5G101700:0.355299,((Aofficinalis_evm.TU.AsparagusV1_06.1254:0.375132,Aofficinalis_evm.TU.AsparagusV1_05.1087:0.241346)n2:0.274909,Aofficinalis_evm.TU.AsparagusV1_09.1378:0.562217)n1:0.355299)n0;

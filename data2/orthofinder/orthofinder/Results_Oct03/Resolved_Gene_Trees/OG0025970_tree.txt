@@ -1,1 +1,0 @@
-((Boleracea_Bo7g111660:0.149912,Boleracea_Bo4g165340:0.231915)n1:0.142295,((Aipaensis_araip.K30076.gnm1.ann1.Araip.19BFF:0.84705,Roccidentalis_maker-Ro02-snap-gene-352.86:0.542797)n3:0.406134,(Ppersica_Prupe.8G000300:0.311255,Ppersica_Prupe.3G211300:0.403839)n4:0.044871)n2:0.211755)n0;

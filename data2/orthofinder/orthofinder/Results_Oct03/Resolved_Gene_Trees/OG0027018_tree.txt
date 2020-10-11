@@ -1,1 +1,0 @@
-((Spolyrhiza_Spipo11G0028800:0.311533,Othomaeum_Oropetium_20150105_23589:0.445055)n1:0.148789,((Egrandis_Eucgr.E01421:0.0325915,(Egrandis_Eucgr.I00725:0.74751,Egrandis_Eucgr.L02075:0.0602761)n4:0.031199)n3:0.476739,Slycopersicum_Solyc01g091430.2:0.464283)n2:0.148789)n0;

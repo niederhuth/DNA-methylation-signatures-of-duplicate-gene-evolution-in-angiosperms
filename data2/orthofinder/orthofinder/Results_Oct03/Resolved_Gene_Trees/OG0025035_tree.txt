@@ -1,1 +1,0 @@
-((Pvirgatum_Pavir.6KG259100:0.411214,Mtruncatula_Medtr5g009580:0.70036)n1:0.0634432,(Mdomestica_MD08G1247200:0.519513,((Vcorymbosum_maker-VaccDscaff25-snap-gene-353.37:0.0260905,Vcorymbosum_maker-VaccDscaff3-snap-gene-50.41:0.0836175)n4:0.204345,(Othomaeum_Oropetium_20150105_20813:0.385099,Paxillaris_Peaxi162Scf00011g00173:0.404588)n5:0.0580307)n3:0.232053)n2:0.0634432)n0;

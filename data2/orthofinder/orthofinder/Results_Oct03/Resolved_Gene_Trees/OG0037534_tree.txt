@@ -1,1 +1,0 @@
-(Pvirgatum_Pavir.7NG021500:0.161055,(Sitalica_Seita.3G388700:1.60277e-06,(Sviridis_Sevir.3G405400:1.60277e-06,Sviridis_Sevir.8G254400:1.32298)n2:0.146997)n1:0.095418)n0;

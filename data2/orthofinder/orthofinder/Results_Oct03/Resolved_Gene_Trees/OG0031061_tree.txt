@@ -1,1 +1,0 @@
-(Vcorymbosum_maker-VaccDscaff8-augustus-gene-401.27:0.492867,(((Tcacao_Thecc1EG021391:0.27722,Tcacao_Thecc1EG021393:0.440323)n3:0.0991979,Tcacao_Thecc1EG021390:0.1692)n2:0.503349,Graimondii_Gorai.005G067700:0.881855)n1:0.492867)n0;

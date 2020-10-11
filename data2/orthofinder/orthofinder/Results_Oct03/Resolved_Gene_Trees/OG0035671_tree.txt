@@ -1,1 +1,0 @@
-((Mdomestica_MD02G1041000:0.339013,Fxananassa_snap_masked-Fvb1-3-processed-gene-20.27:0.130098)n1:0.0922776,(Vcorymbosum_maker-VaccDscaff37-augustus-gene-219.28:0.0994466,Vcorymbosum_maker-VaccDscaff5-augustus-gene-93.19:0.246918)n2:0.0922776)n0;

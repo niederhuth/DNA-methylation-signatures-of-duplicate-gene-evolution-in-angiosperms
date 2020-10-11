@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_27998:0.0664395,(Slycopersicum_Solyc10g062200.2:0.646353,(Cclementina_Ciclev10033570m.g:0.161823,((Cclementina_Ciclev10033723m.g:0.0305383,Cclementina_Ciclev10033824m.g:0.00160768)n4:0.00947457,Cclementina_Ciclev10033185m.g:0.0106687)n3:0.0207652)n2:0.112893)n1:0.0664395)n0;

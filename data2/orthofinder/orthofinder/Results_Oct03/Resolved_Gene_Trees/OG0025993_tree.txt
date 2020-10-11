@@ -1,1 +1,0 @@
-(Sviridis_Sevir.9G338700:0.397094,((Aipaensis_araip.K30076.gnm1.ann1.Araip.57C5G:0.644402,Aipaensis_araip.K30076.gnm1.ann1.Araip.PW15K:0.287415)n2:0.134969,((Ljaponicus_Lj0g3v0292159:0.547983,Ljaponicus_Lj5g3v2045670:0.122513)n4:0.30451,Cannuum_CA03g12190:0.494856)n3:0.150634)n1:0.397094)n0;

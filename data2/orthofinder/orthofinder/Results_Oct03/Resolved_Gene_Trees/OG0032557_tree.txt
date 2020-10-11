@@ -1,1 +1,0 @@
-(Mesculenta_Manes.16G106250:0.44805,(Acoerulea_Aqcoe1G141900:1.383e-06,(Acoerulea_Aqcoe2G100200:0.0371833,Acoerulea_Aqcoe2G165500:0.265736)n2:0.217045)n1:0.44805)n0;

@@ -1,1 +1,0 @@
-(((Mesculenta_Manes.S022791:5e-07,(Mesculenta_Manes.S022075:5e-07,Mesculenta_Manes.S022330:5e-07)n3:-0)n2:0,Mesculenta_Manes.S022606:5e-07)n1:0.0343948,(Bdistachyon_Bradi1g17528:2.09989e-07,(Sitalica_Seita.9G334100:0.0405586,Sviridis_Sevir.6G248100:0.0560774)n5:0.048222)n4:0.0343948)n0;

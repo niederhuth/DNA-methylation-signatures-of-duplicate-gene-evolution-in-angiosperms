@@ -1,1 +1,0 @@
-(Osativa_LOC_Os01g33290:0.460139,(Athaliana_AT3G57787:0.905202,(Fxananassa_augustus_masked-Fvb6-4-processed-gene-168.9:0.773004,Vcorymbosum_snap_masked-VaccDscaff26-processed-gene-347.16:0.334781)n2:0.259846)n1:0.460139)n0;

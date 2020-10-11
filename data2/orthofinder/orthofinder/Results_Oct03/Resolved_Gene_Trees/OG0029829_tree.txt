@@ -1,1 +1,0 @@
-(Bvulgaris_gene_BVRB_034180:0.291199,(Cannuum_CA07g09160:0.291131,((Slycopersicum_Solyc11g030953.1:0.0471554,Slycopersicum_Solyc11g030945.1:1.74902e-06)n3:0.304047,Slycopersicum_Solyc11g039660.1:0.0141831)n2:0.521485)n1:0.291199)n0;

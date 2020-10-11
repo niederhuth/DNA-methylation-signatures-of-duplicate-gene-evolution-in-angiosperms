@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00009.164:0.202563,(Smelongena_SMEL_003g176300.1:1.01684,((Mtruncatula_Medtr4g019260:0.680793,Othomaeum_Oropetium_20150105_14694:0.948377)n3:0.0942814,((Ljaponicus_Lj0g3v0294369:0.308848,Sitalica_Seita.9G386900:0.338958)n5:0.265703,Cviolacea_Clevi.0014s0252:0.596917)n4:0.177867)n2:0.0889238)n1:0.202563)n0;

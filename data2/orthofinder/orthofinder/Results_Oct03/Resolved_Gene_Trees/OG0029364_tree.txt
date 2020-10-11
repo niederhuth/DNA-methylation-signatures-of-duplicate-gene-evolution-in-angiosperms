@@ -1,1 +1,0 @@
-(((Roccidentalis_maker-Ro04-snap-gene-204.4:0.277145,Roccidentalis_maker-Ro06-snap-gene-394.44:0.124132)n2:0.455685,Othomaeum_Oropetium_20150105_27864:0.0601392)n1:0.0765374,(Aofficinalis_evm.TU.AsparagusV1_01.308:0.182,Boleracea_Bo13163s010:0.227734)n3:0.0765374)n0;

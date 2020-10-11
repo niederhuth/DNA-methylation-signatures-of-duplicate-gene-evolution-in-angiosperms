@@ -1,1 +1,0 @@
-(Fxananassa_snap_masked-Fvb4-4-processed-gene-0.21:0.400541,(Nattenuata_NIATv7_g54012:0.0192317,(Nattenuata_NIATv7_g65971:0.0446303,Nattenuata_NIATv7_g64391:0.0951188)n2:0.00178575)n1:0.400541)n0;

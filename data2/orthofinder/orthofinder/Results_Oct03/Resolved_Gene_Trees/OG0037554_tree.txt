@@ -1,1 +1,0 @@
-(Pvirgatum_Pavir.4NG070417:0.28987,(Sitalica_Seita.4G054600:0.226991,(Sviridis_Sevir.4G052100:0.547059,Sviridis_Sevir.4G052201:0.0738761)n2:0.00820845)n1:0.331065)n0;

@@ -1,1 +1,0 @@
-((Paxillaris_Peaxi162Scf00371g00086:0.734516,Mtruncatula_Medtr8g007280:0.341995)n1:0.0422226,(Graimondii_Gorai.005G261400:0.458952,Vcorymbosum_maker-VaccDscaff15-augustus-gene-161.15:0.73961)n2:0.0422226)n0;

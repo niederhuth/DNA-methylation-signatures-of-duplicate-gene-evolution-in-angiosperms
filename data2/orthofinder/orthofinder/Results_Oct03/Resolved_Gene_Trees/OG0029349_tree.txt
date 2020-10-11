@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_09.191:0.237044,((Slycopersicum_Solyc04g051374.1:0.191764,Nattenuata_NIATv7_g54096:0.620355)n2:0.25426,(Cpapaya_evm.TU.supercontig_72.49:0.200273,Ptrichocarpa_Potri.T164300:0.353498)n3:0.0644882)n1:0.237044)n0;

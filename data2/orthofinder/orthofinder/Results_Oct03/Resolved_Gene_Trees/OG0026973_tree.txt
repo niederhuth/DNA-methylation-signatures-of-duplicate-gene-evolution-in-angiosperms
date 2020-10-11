@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_28079:0.458997,((Cpapaya_evm.TU.supercontig_999.1:1.12729,Cpapaya_evm.TU.supercontig_54.47:0.36448)n2:0.0915446,(Vvinifera_VIT_218s0075g00200:0.200621,(Fxananassa_maker-Fvb5-3-snap-gene-93.62:0.419135,Vcorymbosum_augustus_masked-VaccDscaff1382-processed-gene-0.0:0.258633)n4:0.0683056)n3:0.0886606)n1:0.458997)n0;

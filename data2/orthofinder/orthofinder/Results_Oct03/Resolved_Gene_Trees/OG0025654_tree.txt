@@ -1,1 +1,0 @@
-(Eguineensis_p5.00_sc06131_p0001:0.410111,((Acoerulea_Aqcoe7G244700:3.30114e-06,Acoerulea_Aqcoe5G414400:0.0153866)n2:0.445572,(Ptrichocarpa_Potri.002G230500:0.696036,(Fxananassa_maker-Fvb7-1-snap-gene-130.32:0.395213,Fxananassa_maker-Fvb3-3-augustus-gene-34.39:0.232201)n4:0.445452)n3:0.254931)n1:0.410111)n0;

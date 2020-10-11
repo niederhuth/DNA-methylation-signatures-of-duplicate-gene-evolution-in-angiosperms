@@ -1,1 +1,0 @@
-((Cmelo_MELO3C028465.2:0.310673,Aipaensis_araip.K30076.gnm1.ann1.Araip.38UGY:0.468473)n1:0.199108,(Vcorymbosum_maker-VaccDscaff9-snap-gene-347.20:0.120335,(Vcorymbosum_maker-VaccDscaff4-augustus-gene-366.28:0.006842,Vcorymbosum_maker-VaccDscaff36-augustus-gene-63.41:0.00281)n3:0.0191872)n2:0.199108)n0;

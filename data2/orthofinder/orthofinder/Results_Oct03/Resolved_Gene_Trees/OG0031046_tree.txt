@@ -1,1 +1,0 @@
-(Graimondii_Gorai.007G289800:0.443551,(Vcorymbosum_maker-VaccDscaff40-snap-gene-87.30:0.221599,(Vcorymbosum_maker-VaccDscaff16-snap-gene-170.22:0.107515,(Vcorymbosum_maker-VaccDscaff5-augustus-gene-338.33:0.273358,Vcorymbosum_maker-VaccDscaff26-augustus-gene-249.34:0.070467)n3:0.213685)n2:0.100028)n1:0.443551)n0;

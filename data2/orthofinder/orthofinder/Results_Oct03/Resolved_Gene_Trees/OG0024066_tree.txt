@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00089.96:0.322269,(Cpapaya_evm.TU.supercontig_146.58:0.580284,((Ljaponicus_Lj0g3v0156549:0.318021,(Mdomestica_MD16G1156600:0.399583,(Rchinensis_RcHm_v2.0_Chr4g0407781:0.0623778,Rchinensis_RcHm_v2.0_Chr4g0407731:0.170894)n5:0.175049)n4:0.161264)n3:0.0794917,Eguineensis_p5.00_sc00138_p0001:0.475532)n2:0.216421)n1:0.322269)n0;

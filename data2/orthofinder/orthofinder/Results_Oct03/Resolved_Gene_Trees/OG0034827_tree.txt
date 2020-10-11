@@ -1,1 +1,0 @@
-((Egrandis_Eucgr.D00723:0.396038,Egrandis_Eucgr.F04219:1.27938e-06)n1:0.176352,(Ptrichocarpa_Potri.005G193600:0.311125,Ptrichocarpa_Potri.005G193800:0.313927)n2:0.176352)n0;

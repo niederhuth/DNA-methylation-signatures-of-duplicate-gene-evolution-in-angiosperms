@@ -1,1 +1,0 @@
-((Aipaensis_araip.K30076.gnm1.ann1.Araip.FM06S:0.389359,Aipaensis_araip.K30076.gnm1.ann1.Araip.N9DPA:1.60381e-06)n1:0.194158,(Ljaponicus_Lj0g3v0124019:0.228613,(Pvulgaris_Phvul.005G061300:0.340234,Pvulgaris_Phvul.007G202500:1.60381e-06)n3:0.417198)n2:0.194158)n0;

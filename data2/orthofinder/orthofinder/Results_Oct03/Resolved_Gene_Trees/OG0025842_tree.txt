@@ -1,1 +1,0 @@
-((Zmays_Zm00001d053073:0.471933,Zmays_Zm00001d046373:0.299381)n1:0.207878,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.E8BLM:0.540698,((Aipaensis_araip.K30076.gnm1.ann1.Araip.DI0MV:0.925829,Aipaensis_araip.K30076.gnm1.ann1.Araip.Y00ZV:0.543572)n4:0.398096,Aipaensis_araip.K30076.gnm1.ann1.Araip.8HH4Z:0.277225)n3:0.0308027)n2:0.209384)n0;

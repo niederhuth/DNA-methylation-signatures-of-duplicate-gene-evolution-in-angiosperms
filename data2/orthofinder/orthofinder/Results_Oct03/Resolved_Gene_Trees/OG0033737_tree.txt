@@ -1,1 +1,0 @@
-(Nnucifera_XP_010249547.1:0.674462,((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00070.12:1.05111,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00062.158:0.947012)n2:0.0171095,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00016.372:0.761333)n1:0.674462)n0;

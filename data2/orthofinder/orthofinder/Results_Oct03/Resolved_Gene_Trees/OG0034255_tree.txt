@@ -1,1 +1,0 @@
-(Eguineensis_p5.00_sc00018_p0108:0.0423717,(Bvulgaris_gene_BVRB_6g145710:0.74038,(Cpapaya_evm.TU.supercontig_17.17:0.914532,Cpapaya_evm.TU.supercontig_17.16:0.025895)n2:0.00287722)n1:0.538925)n0;

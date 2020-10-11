@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_Achr10G22800_001:0.192783,(Rchinensis_RcHm_v2.0_Chr7g0200751:1.07008,(Roccidentalis_snap_masked-Ro02-processed-gene-397.9:0.236845,(Roccidentalis_snap_masked-Ro02-processed-gene-398.14:0.0237239,Roccidentalis_snap_masked-Ro02-processed-gene-398.15:0.00122813)n3:0.106801)n2:0.184697)n1:0.192783)n0;

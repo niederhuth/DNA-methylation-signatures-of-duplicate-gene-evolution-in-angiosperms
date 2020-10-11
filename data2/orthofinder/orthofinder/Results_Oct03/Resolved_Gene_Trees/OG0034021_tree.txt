@@ -1,1 +1,0 @@
-(Boleracea_Bo8g102690:0.208327,(Fxananassa_maker-Fvb1-2-snap-gene-20.56:0.00302675,(Fxananassa_augustus_masked-Fvb1-2-processed-gene-56.11:0.00653675,Fxananassa_augustus_masked-Fvb1-3-processed-gene-36.16:0.0127432)n2:0.00573475)n1:0.208327)n0;

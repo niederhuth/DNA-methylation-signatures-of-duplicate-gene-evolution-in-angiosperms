@@ -1,1 +1,0 @@
-(Osativa_LOC_Os09g16670:0.5183,(Nattenuata_NIATv7_g53889:0.55008,(Slycopersicum_Solyc10g047770.1:0.231624,Slycopersicum_Solyc10g047700.2:0.381345)n2:0.477574)n1:0.5183)n0;

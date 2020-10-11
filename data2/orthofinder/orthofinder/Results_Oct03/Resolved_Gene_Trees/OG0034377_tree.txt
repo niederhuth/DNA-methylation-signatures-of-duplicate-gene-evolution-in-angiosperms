@@ -1,1 +1,0 @@
-(Cannuum_CA12g02030:2.91467e-06,(Cpapaya_evm.TU.supercontig_85.121:0.708595,(Rchinensis_RcHm_v2.0_Chr4g0440691:0.98692,Rchinensis_RcHm_v2.0_Chr2g0167151:0.999237)n2:0.271932)n1:2.91467e-06)n0;

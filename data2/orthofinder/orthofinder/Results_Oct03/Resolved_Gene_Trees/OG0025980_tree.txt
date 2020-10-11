@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_Achr4G18120_001:0.29932,(((Fxananassa_maker-Fvb6-2-augustus-gene-279.69:0.418835,Aipaensis_araip.K30076.gnm1.ann1.Araip.S526H:0.499724)n3:0.141249,(Vvinifera_VIT_200s0160g00275:0.709724,Brapa_Brara.G02706:0.147008)n4:0.0414821)n2:0.0535861,Vcorymbosum_maker-VaccDscaff36-snap-gene-184.42:0.124172)n1:0.29932)n0;

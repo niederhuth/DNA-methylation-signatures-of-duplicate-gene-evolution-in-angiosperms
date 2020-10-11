@@ -1,1 +1,0 @@
-((Aofficinalis_evm.TU.AsparagusV1_07.1963:1.59565,Aofficinalis_evm.TU.AsparagusV1_07.2379:0.153808)n1:0.0885294,((Graimondii_Gorai.006G138500:0.009216,Graimondii_Gorai.009G236800:0.029181)n3:0.105272,(Mesculenta_Manes.04G149701:0.245155,Ljaponicus_Lj0g3v0190609:0.144144)n4:0.0716354)n2:0.0885294)n0;

@@ -1,1 +1,0 @@
-((Mguttatus_Migut.D01396:0.401237,Mesculenta_Manes.S028134:1.33359e-06)n1:0.00172597,((Gmax_Glyma.05G084450:0.239497,Mguttatus_Migut.H02382:0.536236)n3:0.161795,(Mesculenta_Manes.03G124008:1.33359e-06,Mesculenta_Manes.S023533:1.33359e-06)n4:1.33359e-06)n2:0.00345194)n0;

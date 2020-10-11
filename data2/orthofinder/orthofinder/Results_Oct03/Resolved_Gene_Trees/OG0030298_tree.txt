@@ -1,1 +1,0 @@
-(Eguineensis_p5.00_sc00066_p0026:0.253912,(((Mtruncatula_Medtr2g072740:0.30056,Ljaponicus_Lj0g3v0346599:0.281332)n3:0.374153,Slycopersicum_Solyc02g021780.2:0.335463)n2:0.234655,Ppersica_Prupe.8G047600:0.70881)n1:0.253912)n0;

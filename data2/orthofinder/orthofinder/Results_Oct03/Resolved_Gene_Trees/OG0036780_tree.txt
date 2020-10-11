@@ -1,1 +1,0 @@
-(Osativa_LOC_Os07g07300:0.81711,(Pvirgatum_Pavir.8KG054900:2.31973e-06,(Pvirgatum_Pavir.8NG059501:0.68551,Pvirgatum_Pavir.8KG056104:0)n2:0.00829225)n1:0.81711)n0;

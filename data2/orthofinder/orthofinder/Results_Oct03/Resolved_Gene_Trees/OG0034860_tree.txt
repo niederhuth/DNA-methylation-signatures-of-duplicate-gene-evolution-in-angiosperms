@@ -1,1 +1,0 @@
-((Spolyrhiza_Spipo8G0041000:0.606874,Eguineensis_p5.00_sc00059_p0061:0.230678)n1:0.161248,(Ppersica_Prupe.1G081000:0.437938,Fxananassa_maker-Fvb1-3-augustus-gene-27.42:0.178739)n2:0.161248)n0;

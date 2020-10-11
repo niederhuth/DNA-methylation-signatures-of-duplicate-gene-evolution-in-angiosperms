@@ -1,1 +1,0 @@
-((Othomaeum_Oropetium_20150105_27935:0.268018,Othomaeum_Oropetium_20150105_27776:0.556079)n1:0.0878832,(Aipaensis_araip.K30076.gnm1.ann1.Araip.22V1Z:0.797679,Ljaponicus_Lj5g3v0975640:0.328555)n2:0.0878832)n0;

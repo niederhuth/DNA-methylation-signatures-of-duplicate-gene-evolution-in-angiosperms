@@ -1,1 +1,0 @@
-(Graimondii_Gorai.013G268900:0.835893,(Fvesca_FvH4_5g13100:0.0279252,(((Fxananassa_augustus_masked-Fvb5-3-processed-gene-208.4:0.325707,Fxananassa_augustus_masked-Fvb5-2-processed-gene-73.19:1.96868e-06)n4:0.285949,Fxananassa_maker-Fvb5-1-snap-gene-83.57:0.186104)n3:0.230136,Fxananassa_augustus_masked-Fvb5-3-processed-gene-208.0:0.0153808)n2:0.00170898)n1:0.103547)n0;

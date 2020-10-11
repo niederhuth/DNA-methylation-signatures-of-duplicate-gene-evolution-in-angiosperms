@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_Achr10G07500_001:0.13296,(Gmax_Glyma.04G148600:0.156042,(Rchinensis_RcHm_v2.0_Chr1g0351871:0.51654,Slycopersicum_Solyc06g074463.1:0.487789)n2:0.0768865)n1:0.13296)n0;

@@ -1,1 +1,0 @@
-(((Gmax_Glyma.04G137400:0.604819,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.FMV9M:0.14831)n2:0.0419154,Aipaensis_araip.K30076.gnm1.ann1.Araip.DQG2N:0.139818)n1:0.0697588,(Ppersica_Prupe.3G026600:0.75639,Pxbretschneideri_LOC103938170:0.628162)n3:0.0697588)n0;

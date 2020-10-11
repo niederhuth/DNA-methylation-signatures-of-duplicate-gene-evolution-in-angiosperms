@@ -1,1 +1,0 @@
-(Spolyrhiza_Spipo6G0056000:0.361201,((Ljaponicus_Lj1g3v4564990:0,Ljaponicus_Lj1g3v3704920:0)n2:0.748051,(Aipaensis_araip.K30076.gnm1.ann1.Araip.N0INT:0.531629,Aipaensis_araip.K30076.gnm1.ann1.Araip.PYI63:0.151403)n3:0.0168225)n1:0.284086)n0;

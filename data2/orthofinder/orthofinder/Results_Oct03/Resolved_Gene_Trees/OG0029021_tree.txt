@@ -1,1 +1,0 @@
-(Aipaensis_araip.K30076.gnm1.ann1.Araip.68328:0.258642,(Roccidentalis_maker-Ro01-snap-gene-47.95:0.0831564,(Fvesca_FvH4_1g10210:0.104958,(Fxananassa_maker-Fvb1-4-snap-gene-47.58:0.198932,Fxananassa_maker-Fvb1-4-snap-gene-47.51:0.0763944)n3:0.00848826)n2:0.0921706)n1:0.258642)n0;

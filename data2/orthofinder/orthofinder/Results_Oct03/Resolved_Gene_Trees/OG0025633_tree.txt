@@ -1,1 +1,0 @@
-(Acoerulea_Aqcoe7G222700:0,(Acoerulea_Aqcoe5G124000:0,(Acoerulea_Aqcoe3G223400:0,(Acoerulea_Aqcoe6G249000:1.17621e-06,(Acoerulea_Aqcoe3G113100:0.0035695,Acoerulea_Aqcoe4G061500:0.0035695)n4:1.14855)n3:0.0212515)n2:0)n1:0)n0;

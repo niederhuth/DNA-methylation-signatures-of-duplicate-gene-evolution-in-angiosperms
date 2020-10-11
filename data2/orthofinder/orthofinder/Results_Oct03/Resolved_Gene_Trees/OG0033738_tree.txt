@@ -1,1 +1,0 @@
-(Slycopersicum_Solyc01g111460.3:0.142024,((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00119.104:0.219758,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00062.70:0.070435)n2:0.0372895,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00055.16:0.337681)n1:0.142024)n0;

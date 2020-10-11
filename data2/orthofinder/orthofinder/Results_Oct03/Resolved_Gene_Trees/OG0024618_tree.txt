@@ -1,1 +1,0 @@
-(Eguineensis_p5.00_sc00050_p0133:0.189558,((Ljaponicus_Lj0g3v0113419:0.394592,Fxananassa_maker-Fvb6-4-augustus-gene-4.34:0.350362)n2:0.0365165,(Ptrichocarpa_Potri.008G122400:0.447077,(Slycopersicum_Solyc06g048720.1:0.0984714,(Slycopersicum_Solyc10g018280.1:0.0803728,Slycopersicum_Solyc10g018290.2:0.0148542)n5:0.0270276)n4:0.27081)n3:0.188029)n1:0.189558)n0;

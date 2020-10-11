@@ -1,1 +1,0 @@
-(Fxananassa_snap_masked-Fvb6-3-processed-gene-424.36:0.318145,((Slycopersicum_Solyc01g087770.3:0.0967783,(Slycopersicum_Solyc01g087785.1:0.920833,Slycopersicum_Solyc01g087760.2:0.280722)n3:0.383128)n2:0.489282,Smelongena_SMEL_001g138100.1:0.317344)n1:0.318145)n0;

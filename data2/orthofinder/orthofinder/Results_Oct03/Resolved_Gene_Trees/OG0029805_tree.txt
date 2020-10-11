@@ -1,1 +1,0 @@
-(Mguttatus_Migut.M01377:0.290379,(Brapa_Brara.I00074:0.612756,(Cviolacea_Clevi.0002s0993:0.28822,(Ptrichocarpa_Potri.004G006300:0.352927,Crubella_Carub.0002s0268:0.464488)n3:0.0824803)n2:0.0645897)n1:0.290379)n0;

@@ -1,1 +1,0 @@
-((Eguineensis_p5.00_sc00103_p0001:0.314552,Eguineensis_p5.00_sc39758_p0001:0.654835)n1:0.0796331,(Mdomestica_MD09G1281700:0.475864,(Rchinensis_RcHm_v2.0_Chr3g0487841:0.162473,Roccidentalis_maker-Ro01-snap-gene-144.38:0.418705)n3:0.175952)n2:0.0796331)n0;

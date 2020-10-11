@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00048.203:0.328871,(Othomaeum_Oropetium_20150105_16634:0.476258,(Roccidentalis_snap_masked-Ro03-processed-gene-4.17:0.107815,Esalsugineum_Thhalv10021940m.g:0.223323)n2:0.0460248)n1:0.328871)n0;

@@ -1,1 +1,0 @@
-(Osativa_LOC_Os11g47740:0.463447,((Ljaponicus_Lj5g3v1303500:0.850521,Cpapaya_evm.TU.supercontig_51.20:0.397475)n2:0.323938,(Esalsugineum_Thhalv10005365m.g:0.355492,Athaliana_AT3G16930:0.342207)n3:0.239221)n1:0.463447)n0;

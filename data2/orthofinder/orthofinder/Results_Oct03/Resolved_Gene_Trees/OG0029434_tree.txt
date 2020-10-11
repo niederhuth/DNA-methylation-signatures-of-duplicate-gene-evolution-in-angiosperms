@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00069.3:0.152562,(((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00022.1:0.0515782,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold01062.1:0.111405)n3:0.109039,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00149.4:0.475338)n2:0.0373187,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00040.14:0.538161)n1:0.152562)n0;

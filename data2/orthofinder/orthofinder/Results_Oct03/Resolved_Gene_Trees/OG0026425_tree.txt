@@ -1,1 +1,0 @@
-(((Ptrichocarpa_Potri.005G059800:0.709033,(Vvinifera_VIT_213s0084g00550:2.56046e-06,Vvinifera_VIT_211s0016g01620:0.51018)n3:0.471481)n2:0.149619,Ljaponicus_Lj1g3v4538860:0.0630038)n1:0.317821,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00071.47:0.00873738,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00071.54:0.0248536)n4:0.317821)n0;

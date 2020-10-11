@@ -1,1 +1,0 @@
-(Boleracea_Bo31048s010:0.31448,((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00030.15:0.393515,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00007.187:0.210551)n2:0.369158,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00003.273:1.56268e-06)n1:0.31448)n0;

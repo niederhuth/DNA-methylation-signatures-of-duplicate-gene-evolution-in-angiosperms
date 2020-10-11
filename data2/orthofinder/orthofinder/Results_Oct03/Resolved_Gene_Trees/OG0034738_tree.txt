@@ -1,1 +1,0 @@
-(Vcorymbosum_maker-VaccDscaff22-augustus-gene-286.26:0.166897,(Csativus_CsaV3_1G034570:0.259224,(Roccidentalis_maker-Ro05-snap-gene-187.29:0.733071,Mtruncatula_Medtr2g060330:0.104565)n2:0.306279)n1:0.166897)n0;

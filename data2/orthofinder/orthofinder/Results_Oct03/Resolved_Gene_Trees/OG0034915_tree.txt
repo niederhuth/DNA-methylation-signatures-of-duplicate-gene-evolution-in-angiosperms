@@ -1,1 +1,0 @@
-(Esalsugineum_Thhalv10029472m.g:0.402448,(Rchinensis_RcHm_v2.0_Chr2g0124281:0.298256,(Rchinensis_RcHm_v2.0_Chr6g0260281:0.464495,Rchinensis_RcHm_v2.0_Chr6g0266751:1.86357e-06)n2:0.314014)n1:0.402448)n0;

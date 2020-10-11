@@ -1,1 +1,0 @@
-(Egrandis_Eucgr.G00032:0.495906,(Roccidentalis_maker-Ro04-snap-gene-11.97:0.328713,(Fxananassa_snap_masked-Fvb4-2-processed-gene-10.27:0.526848,(Fxananassa_snap_masked-Fvb4-4-processed-gene-12.27:0.00700042,Fxananassa_snap_masked-Fvb4-1-processed-gene-193.28:0.00300556)n3:0.000300556)n2:3.33951e-05)n1:0.0136241)n0;

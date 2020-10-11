@@ -1,1 +1,0 @@
-(Vvinifera_VIT_219s0027g00360:0.402129,(Zjujuba_LOC107405721:0.36074,((Fxananassa_snap_masked-Fvb6-2-processed-gene-62.32:2.38634e-06,Fxananassa_snap_masked-Fvb7-1-processed-gene-167.18:0.451586)n3:0.388725,(Rchinensis_RcHm_v2.0_Chr4g0433821:0.0743257,Rchinensis_RcHm_v2.0_Chr4g0393721:2.38634e-06)n4:2.38634e-06)n2:0.42871)n1:0.402129)n0;

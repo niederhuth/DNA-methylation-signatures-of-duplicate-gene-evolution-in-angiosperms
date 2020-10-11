@@ -1,1 +1,0 @@
-(Sbicolor_Sobic.002G304200:0.566658,((Pvirgatum_Pavir.2NG497400:0.35783,Pvirgatum_Pavir.6NG332740:0.166224)n2:0.525579,Pvirgatum_Pavir.2KG418705:0.499402)n1:0.566658)n0;

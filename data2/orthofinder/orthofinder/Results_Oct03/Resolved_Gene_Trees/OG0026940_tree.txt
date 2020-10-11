@@ -1,1 +1,0 @@
-((Tcacao_Thecc1EG035432:0.594094,Stuberosum_PGSC0003DMG400045644:0.70139)n1:0.157341,(Nattenuata_NIATv7_g54276:0.777018,((Cpapaya_evm.TU.supercontig_17.193:0.244339,Cpapaya_evm.TU.contig_44722:0.363353)n4:0.0708977,Cpapaya_evm.TU.supercontig_109.44:0.62965)n3:0.0699611)n2:0.101505)n0;

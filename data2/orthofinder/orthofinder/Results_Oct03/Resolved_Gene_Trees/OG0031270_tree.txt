@@ -1,1 +1,0 @@
-((Mesculenta_Manes.11G148201:0.296749,Ptrichocarpa_Potri.017G153000:0.206594)n1:0.43563,((Sitalica_Seita.9G210700:0.233961,Sitalica_Seita.9G210600:0.003619)n3:0.090008,Sviridis_Sevir.9G209500:0.181905)n2:0.43563)n0;

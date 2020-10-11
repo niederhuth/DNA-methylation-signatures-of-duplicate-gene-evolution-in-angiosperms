@@ -1,1 +1,0 @@
-(Slycopersicum_Solyc08g013890.3:0.402508,(Gsoja_GlysoPI483463.06G259700:0.740908,(Aipaensis_araip.K30076.gnm1.ann1.Araip.H4AQC:0.299227,Aipaensis_araip.K30076.gnm1.ann1.Araip.X99F6:1.99065e-06)n2:0.162874)n1:0.402508)n0;

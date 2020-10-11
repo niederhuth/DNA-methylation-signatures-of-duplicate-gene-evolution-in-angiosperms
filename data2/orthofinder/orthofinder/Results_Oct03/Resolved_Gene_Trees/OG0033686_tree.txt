@@ -1,1 +1,0 @@
-((Fxananassa_augustus_masked-Fvb7-2-processed-gene-284.7:0.604913,Boleracea_Bo3g037070:0.340503)n1:0.122661,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00129.12:0.127218,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00035.60:0.119798)n2:0.122661)n0;

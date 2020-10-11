@@ -1,1 +1,0 @@
-((Mtruncatula_Medtr3g064150:0.301919,Mtruncatula_Medtr2g102410:0.403113)n1:0.29421,(Fvesca_FvH4_4g32610:0.0514171,(Fxananassa_maker-Fvb4-3-augustus-gene-25.41:0.0570426,Fxananassa_maker-Fvb4-4-snap-gene-24.70:0.164973)n3:0.0183303)n2:0.163955)n0;

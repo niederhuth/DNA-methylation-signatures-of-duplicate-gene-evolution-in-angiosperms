@@ -1,1 +1,0 @@
-(Vvinifera_VIT_207s0031g01520:0.277518,(Cpapaya_evm.TU.supercontig_196.9:0.617026,((Ptrichocarpa_Potri.007G081650:0.183418,Ptrichocarpa_Potri.005G084100:0.191574)n3:0.220455,Mesculenta_Manes.12G142300:0.461441)n2:0.0905194)n1:0.277518)n0;

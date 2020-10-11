@@ -1,1 +1,0 @@
-(Aipaensis_araip.K30076.gnm1.ann1.Araip.SF3ME:0.239713,(Macuminata_GSMUA_Achr2G02680_001:0.351438,(Pvirgatum_Pavir.3KG464302:0.102676,Pvirgatum_Pavir.4NG078595:0.135989)n2:0.141129)n1:0.239713)n0;

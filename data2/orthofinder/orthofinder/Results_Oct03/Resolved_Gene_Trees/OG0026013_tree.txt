@@ -1,1 +1,0 @@
-(Sbicolor_Sobic.008G088809:0.219816,(((Ljaponicus_Lj0g3v0327699:0.679327,Vcorymbosum_maker-VaccDscaff6-snap-gene-0.19:0.289026)n3:0.181978,(Aipaensis_araip.K30076.gnm1.ann1.Araip.Z8XGI:0.52583,Mdomestica_MD10G1071300:0.569417)n4:0.0957682)n2:0.035236,Nnucifera_XP_010248243.1:0.77164)n1:0.219816)n0;

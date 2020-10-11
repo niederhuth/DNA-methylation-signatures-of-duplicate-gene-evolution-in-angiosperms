@@ -1,1 +1,0 @@
-(Sbicolor_Sobic.004G326700:0.348612,(Phallii_Pahal.3G097100:0.465798,(((Sviridis_Sevir.3G061000:0,Sitalica_Seita.3G060200:0)n4:0,(Sitalica_Seita.3G041000:0,Sviridis_Sevir.3G042000:0)n5:0)n3:0.379417,Pvirgatum_Pavir.3NG095679:0.159318)n2:0.0982116)n1:0.348612)n0;

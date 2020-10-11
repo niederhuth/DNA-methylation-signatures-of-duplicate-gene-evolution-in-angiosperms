@@ -1,1 +1,0 @@
-(Nattenuata_NIATv7_g59518:0.0894724,(Mtruncatula_Medtr2g067240:0.454551,(Egrandis_Eucgr.C00012:0.586112,Ljaponicus_Lj4g3v0210330:0.248448)n2:0.178237)n1:0.0894724)n0;

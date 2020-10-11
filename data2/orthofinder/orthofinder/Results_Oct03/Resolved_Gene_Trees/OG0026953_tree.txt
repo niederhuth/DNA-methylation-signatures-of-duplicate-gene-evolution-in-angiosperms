@@ -1,1 +1,0 @@
-(((Smelongena_SMEL_007g284880.1:0.504387,Fxananassa_maker-Fvb2-3-augustus-gene-65.62:0.576721)n2:0.0630338,(Macuminata_GSMUA_Achr6G23100_001:0.0220729,Macuminata_GSMUA_Achr6G23090_001:0.212211)n3:0.023579)n1:0.0230306,(Pxbretschneideri_LOC103957777:0.804142,Cpapaya_evm.TU.supercontig_142.43:0.906075)n4:0.137238)n0;

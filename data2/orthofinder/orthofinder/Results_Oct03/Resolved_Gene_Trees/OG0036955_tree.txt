@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_23486:0.309548,(Pvirgatum_Pavir.4NG236411:0.880427,(Phallii_Pahal.4G240700:0.422658,Sbicolor_Sobic.010G133275:0.465911)n2:0.060194)n1:0.309548)n0;

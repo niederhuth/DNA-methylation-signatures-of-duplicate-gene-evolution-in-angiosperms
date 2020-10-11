@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00003.396:0.454394,(Smelongena_SMEL_005g233060.1:0.0300787,(Rchinensis_RcHm_v2.0_Chr4g0426391:0.385919,Fvesca_FvH4_3g05690:0.423203)n2:0.182481)n1:0.454394)n0;

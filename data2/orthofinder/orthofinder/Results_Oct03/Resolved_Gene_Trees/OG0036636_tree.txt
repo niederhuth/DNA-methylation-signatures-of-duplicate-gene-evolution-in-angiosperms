@@ -1,1 +1,0 @@
-((Ppersica_Prupe.8G023000:0.221393,Ppersica_Prupe.8G023400:0.120738)n1:0.341957,(Nattenuata_NIATv7_g51409:0.302055,Nattenuata_NIATv7_g52354:0.321981)n2:0.341957)n0;

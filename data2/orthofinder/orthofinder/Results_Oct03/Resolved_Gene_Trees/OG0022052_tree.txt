@@ -1,1 +1,0 @@
-(Smelongena_SMEL_003g172580.1:0.222812,((Crubella_Carub.0001s3790:0.432719,Alyrata_AL1G55460:0.356581)n2:0.270316,(((Fxananassa_snap_masked-Fvb5-1-processed-gene-102.34:0.812237,Csativus_CsaV3_1G006900:0.527042)n5:0.187623,(Ljaponicus_Lj5g3v2182110:0.77938,Vvinifera_VIT_201s0011g04030:1.0873)n6:0.111282)n4:0.125093,Ptrichocarpa_Potri.T063700:0.613747)n3:0.088832)n1:0.222812)n0;

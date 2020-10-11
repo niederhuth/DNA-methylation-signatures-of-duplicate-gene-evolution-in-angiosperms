@@ -1,1 +1,0 @@
-(Vvinifera_VIT_211s0037g01160:0.284067,((Cpapaya_evm.TU.supercontig_127.40:0.683439,Cmelo_MELO3C031519.2:0.158399)n2:0.178576,Aipaensis_araip.K30076.gnm1.ann1.Araip.6G8JI:0.625416)n1:0.284067)n0;

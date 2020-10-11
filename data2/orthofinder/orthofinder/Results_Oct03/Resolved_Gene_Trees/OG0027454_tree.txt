@@ -1,1 +1,0 @@
-(((Rchinensis_RcHm_v2.0_Chr4g0407941:0.189922,Rchinensis_RcHm_v2.0_Chr4g0408121:0.126669)n2:0.395856,Fxananassa_maker-Fvb7-1-snap-gene-73.44:0.54636)n1:0.0591911,(Macuminata_GSMUA_AchrUn_randomG06030_001:0.72911,(Macuminata_GSMUA_AchrUn_randomG06660_001:0.133168,Macuminata_GSMUA_AchrUn_randomG24230_001:0.077904)n4:0.140016)n3:0.0591911)n0;

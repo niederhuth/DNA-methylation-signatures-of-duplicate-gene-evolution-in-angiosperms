@@ -1,1 +1,0 @@
-(Brapa_Brara.I03976:0.680466,((Aipaensis_araip.K30076.gnm1.ann1.Araip.40UH8:0.0530287,Aipaensis_araip.K30076.gnm1.ann1.Araip.8LP0T:0.186265)n2:0.0704233,Aipaensis_araip.K30076.gnm1.ann1.Araip.U0ZKP:0.372633)n1:0.680466)n0;

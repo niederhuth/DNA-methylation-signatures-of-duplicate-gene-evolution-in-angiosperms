@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_05.167:0.293383,(Mtruncatula_Medtr5g029850:0.43745,(Vvinifera_VIT_216s0039g01960:0.462485,((Acoerulea_Aqcoe6G182300:0.00816425,Acoerulea_Aqcoe4G116500:0.227626)n4:0.59212,Acoerulea_Aqcoe7G281800:0.651667)n3:0.0886886)n2:0.150071)n1:0.293383)n0;

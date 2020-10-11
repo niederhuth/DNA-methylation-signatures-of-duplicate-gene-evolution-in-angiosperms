@@ -1,1 +1,0 @@
-((Aofficinalis_evm.TU.AsparagusV1_05.2963:0.42294,Aofficinalis_evm.TU.AsparagusV1_08.666:0.236202)n1:0.0591943,((Fxananassa_snap_masked-Fvb7-3-processed-gene-106.24:0.413108,(Fxananassa_snap_masked-Fvb7-1-processed-gene-185.33:2.5562e-06,Fxananassa_snap_masked-Fvb7-1-processed-gene-198.23:0.149691)n4:0.0339718)n3:0.354848,Mtruncatula_Medtr0256s0060:0.838668)n2:0.0591943)n0;

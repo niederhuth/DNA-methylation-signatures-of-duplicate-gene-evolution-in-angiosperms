@@ -1,1 +1,0 @@
-((Fxananassa_snap_masked-Fvb2-4-processed-gene-261.41:0.386022,(Roccidentalis_maker-Ro02-snap-gene-5.109:0.475069,Roccidentalis_snap_masked-Ro01-processed-gene-65.33:0.410147)n2:0.477932)n1:0.330035,(Phallii_Pahal.3G511100:0.216676,Sitalica_Seita.3G404500:0.205945)n3:0.330035)n0;

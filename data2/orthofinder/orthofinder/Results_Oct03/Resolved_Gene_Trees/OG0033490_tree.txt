@@ -1,1 +1,0 @@
-((Egrandis_Eucgr.F00174:0.954267,Fxananassa_snap_masked-Fvb1-4-processed-gene-87.21:0.774968)n1:0.055138,(Aofficinalis_evm.TU.AsparagusV1_07.2996:0.949328,Aofficinalis_evm.TU.AsparagusV1_08.629:2.38614e-06)n2:0.055138)n0;

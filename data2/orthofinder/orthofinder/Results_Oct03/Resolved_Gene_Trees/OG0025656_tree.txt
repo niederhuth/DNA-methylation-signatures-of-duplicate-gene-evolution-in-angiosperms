@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_01.253:0.285844,(((Acoerulea_Aqcoe7G362800:0.600595,(Slycopersicum_Solyc10g074510.1:0.29235,Boleracea_Bo00285s270:0.305318)n4:0.0402115)n3:0.119074,Rchinensis_RcHm_v2.0_Chr6g0280551:0.463564)n2:0.0908807,Athaliana_AT4G31740:0.391641)n1:0.285844)n0;

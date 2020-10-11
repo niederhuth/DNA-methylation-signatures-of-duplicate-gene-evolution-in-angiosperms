@@ -1,1 +1,0 @@
-(Nattenuata_NIATv7_g33907:0.398841,(Ptrichocarpa_Potri.009G144200:0.628799,(((Rchinensis_RcHm_v2.0_Chr2g0101721:0.269882,Rchinensis_RcHm_v2.0_Chr6g0255971:0.162342)n4:0.11922,Rchinensis_RcHm_v2.0_Chr6g0260081:0.288499)n3:0.138192,Rchinensis_RcHm_v2.0_Chr7g0184771:0.294088)n2:0.208197)n1:0.398841)n0;

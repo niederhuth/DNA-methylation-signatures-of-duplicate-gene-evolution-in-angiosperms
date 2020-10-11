@@ -1,1 +1,0 @@
-(Fxananassa_maker-Fvb6-1-augustus-gene-98.44:0.242814,(Aofficinalis_evm.TU.AsparagusV1_10.971:0.560841,(Pvirgatum_Pavir.9NG418000:0.249397,(Pvirgatum_Pavir.3NG284625:2.20366e-06,Pvirgatum_Pavir.6NG239800:0.469203)n3:0.36523)n2:0.164136)n1:0.242814)n0;

@@ -1,1 +1,0 @@
-(Spolyrhiza_Spipo0G0052300:0.136401,((Fxananassa_augustus_masked-Fvb5-2-processed-gene-82.16:2.06194e-06,Fxananassa_augustus_masked-Fvb5-4-processed-gene-64.12:0.118319)n2:0.406313,((Vcorymbosum_maker-VaccDscaff44-snap-gene-84.37:0.717023,Stuberosum_PGSC0003DMG400019530:2.06194e-06)n4:0.182577,Mdomestica_MD14G1200900:0.302981)n3:0.210359)n1:0.136401)n0;

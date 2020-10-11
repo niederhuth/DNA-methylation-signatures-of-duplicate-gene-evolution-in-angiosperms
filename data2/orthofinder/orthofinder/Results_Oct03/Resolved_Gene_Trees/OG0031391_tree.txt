@@ -1,1 +1,0 @@
-(Smelongena_SMEL_008g313810.1:0.521249,((Mtruncatula_Medtr6g046760:0.250712,Mtruncatula_Medtr6g046750:0.00804087)n2:0.441869,(Mtruncatula_Medtr0511s0010:1.05302,Mtruncatula_Medtr6g046900:0.668611)n3:0.294263)n1:0.521249)n0;

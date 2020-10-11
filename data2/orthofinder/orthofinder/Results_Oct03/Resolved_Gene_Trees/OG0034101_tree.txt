@@ -1,1 +1,0 @@
-(Eguineensis_p5.00_sc00329_p0001:0.20193,((Rchinensis_RcHm_v2.0_Chr5g0040371:0.204012,Rchinensis_RcHm_v2.0_Chr2g0146401:1.19204e-06)n2:0.479608,Boleracea_Bo5g012220:0.123996)n1:0.20193)n0;

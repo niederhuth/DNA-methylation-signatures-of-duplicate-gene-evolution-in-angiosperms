@@ -1,1 +1,0 @@
-((Fxananassa_maker-Fvb1-1-augustus-gene-71.19:0.103351,((Cpapaya_evm.TU.contig_35570.1:0.045295,Egrandis_Eucgr.D02003:0.58387)n3:0.0271702,Egrandis_Eucgr.C03234:0.0467395)n2:0.00519328)n1:0.0670731,Rchinensis_RcHm_v2.0_Chr3g0487821:0.274061)n0;

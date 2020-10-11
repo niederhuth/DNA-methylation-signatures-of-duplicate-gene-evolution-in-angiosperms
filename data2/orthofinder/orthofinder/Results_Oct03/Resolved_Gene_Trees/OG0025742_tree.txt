@@ -1,1 +1,0 @@
-(Mdomestica_MD15G1151800:0.480683,((Gmax_Glyma.12G163601:0,Gsoja_GlysoPI483463.12G132800:0)n2:0.679442,(Aipaensis_araip.K30076.gnm1.ann1.Araip.J235V:0.30752,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.K9R5L:0.111306,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.568QK:0.210917)n4:0.0234353)n3:0.177162)n1:0.480683)n0;

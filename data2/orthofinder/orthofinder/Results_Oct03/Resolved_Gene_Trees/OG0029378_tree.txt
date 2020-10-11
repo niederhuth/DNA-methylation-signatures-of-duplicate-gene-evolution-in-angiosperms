@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_10.1845:0.223917,(Mdomestica_MD09G1127200:0.322888,(Mtruncatula_Medtr2g093510:0.51243,(Pvulgaris_Phvul.005G086200:0.159405,Pvulgaris_Phvul.004G096300:0.252864)n3:0.225839)n2:0.0630109)n1:0.223917)n0;

@@ -1,1 +1,0 @@
-((Crubella_Carub.0003s0475:0.764925,Boleracea_Bo5g145330:0.556589)n1:0.011984,(Alyrata_AL3G15800:0.716929,Esalsugineum_Thhalv10021778m.g:0.76795)n2:0.011984)n0;

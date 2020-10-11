@@ -1,1 +1,0 @@
-(Sbicolor_Sobic.005G098501:0.845699,(Bdistachyon_Bradi4g22012:0.270921,(Bdistachyon_Bradi4g21980:3.18981e-06,Bdistachyon_Bradi3g07790:0.941051)n2:0.309144)n1:0.845699)n0;

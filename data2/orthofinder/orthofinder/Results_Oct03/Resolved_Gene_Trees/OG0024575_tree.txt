@@ -1,1 +1,0 @@
-((Slycopersicum_Solyc03g083090.3:0.477278,Mguttatus_Migut.D00999:0.114746)n1:0.0174244,(((Cviolacea_Clevi.0136s0013:0.58122,Crubella_Carub.0007s3289:1.02158)n4:0.0524446,(Mtruncatula_Medtr7g021040:0.549712,Mtruncatula_Medtr4g093670:0.397316)n5:0.0663871)n3:0.0729029,Ptrichocarpa_Potri.008G175700:0.317792)n2:0.0174244)n0;

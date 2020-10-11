@@ -1,1 +1,0 @@
-((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00802.1:0.110186,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00814.1:0.0387062)n1:0.229439,(Boleracea_Bo7g113620:0.617487,(Mdomestica_MD10G1013400:0.0302537,Mdomestica_MD10G1012700:0.226698)n3:0.674258)n2:0.229439)n0;

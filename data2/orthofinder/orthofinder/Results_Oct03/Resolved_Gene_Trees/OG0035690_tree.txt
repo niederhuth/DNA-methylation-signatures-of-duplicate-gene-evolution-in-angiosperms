@@ -1,1 +1,0 @@
-(Ppersica_Prupe.3G159700:0.443313,(Fxananassa_augustus_masked-Fvb4-3-processed-gene-270.5:1.1759e-06,(Fxananassa_augustus_masked-Fvb2-4-processed-gene-18.6:0.0356283,Fxananassa_augustus_masked-Fvb2-3-processed-gene-216.12:0.0913708)n2:0.309256)n1:0.443313)n0;

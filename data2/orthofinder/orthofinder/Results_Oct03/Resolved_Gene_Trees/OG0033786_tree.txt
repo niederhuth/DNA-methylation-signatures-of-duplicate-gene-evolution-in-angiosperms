@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00166.9:0.2549,(Roccidentalis_maker-Ro05-snap-gene-55.62:0.895584,(Fxananassa_snap_masked-Fvb4-2-processed-gene-62.32:0.007014,Fxananassa_augustus_masked-Fvb4-4-processed-gene-61.4:0.044378)n2:0.636888)n1:0.2549)n0;

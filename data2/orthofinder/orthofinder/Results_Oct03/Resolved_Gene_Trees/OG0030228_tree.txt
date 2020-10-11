@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_07220:0.254355,(Egrandis_Eucgr.B01035:0.0143486,((Egrandis_Eucgr.E03910:0.272931,Egrandis_Eucgr.B00940:1.06438e-06)n3:0.0503599,Egrandis_Eucgr.B01050:0.161292)n2:0.0819324)n1:0.254355)n0;

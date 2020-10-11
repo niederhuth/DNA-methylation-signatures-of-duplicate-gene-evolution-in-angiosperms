@@ -1,1 +1,0 @@
-(Mdomestica_MD14G1009000:0.324226,(Roccidentalis_maker-Ro06-snap-gene-343.48:0.38444,(Roccidentalis_maker-Ro05-exonerate_est2genome-gene-190.6:0.00950963,(Roccidentalis_snap_masked-Ro04-processed-gene-327.11:0.336638,(Roccidentalis_maker-Ro03-snap-gene-193.10:0.124232,Roccidentalis_maker-Ro02-snap-gene-125.101:0.276282)n4:0.132482)n3:0.305166)n2:0.0691579)n1:0.324226)n0;

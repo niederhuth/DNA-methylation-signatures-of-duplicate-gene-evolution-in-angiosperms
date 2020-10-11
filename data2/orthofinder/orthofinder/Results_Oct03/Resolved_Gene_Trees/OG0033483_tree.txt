@@ -1,1 +1,0 @@
-(Sbicolor_Sobic.003G138100:0.223838,(Eguineensis_p5.00_sc00037_p0144:0.388231,(Aofficinalis_evm.TU.AsparagusV1_08.2039:0.736589,Aofficinalis_evm.TU.AsparagusV1_07.2677:0.641172)n2:0.0712414)n1:0.171659)n0;

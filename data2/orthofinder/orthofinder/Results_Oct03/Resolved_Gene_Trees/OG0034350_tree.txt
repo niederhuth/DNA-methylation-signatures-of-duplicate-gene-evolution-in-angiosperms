@@ -1,1 +1,0 @@
-(Vcorymbosum_maker-VaccDscaff33-snap-gene-12.37:0.447858,(Stuberosum_PGSC0003DMG400020217:0.288668,(Cannuum_CA08g05230:0.140403,Cannuum_CA09g11420:0.513747)n2:0.324688)n1:0.447858)n0;

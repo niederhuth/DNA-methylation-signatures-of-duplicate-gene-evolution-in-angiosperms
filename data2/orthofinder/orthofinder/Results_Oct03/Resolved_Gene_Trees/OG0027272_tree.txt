@@ -1,1 +1,0 @@
-(Mdomestica_MD12G1214800:0.410911,(Fxananassa_augustus_masked-Fvb7-1-processed-gene-58.4:0.470558,((Fxananassa_augustus_masked-Fvb7-1-processed-gene-58.3:0.174622,Fvesca_FvH4_7g06250:0.235092)n3:0.203991,(Fvesca_FvH4_7g06240:0.153157,Fxananassa_augustus_masked-Fvb7-1-processed-gene-58.2:0.538557)n4:0.0598396)n2:0.111089)n1:0.410911)n0;

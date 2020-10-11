@@ -1,1 +1,0 @@
-((Paxillaris_Peaxi162Scf00016g01738:0.655969,((Roccidentalis_maker-Ro02-snap-gene-366.98:0.208517,Fxananassa_maker-Fvb2-1-snap-gene-31.41:0.263877)n3:0.351607,Roccidentalis_maker-Ro04-snap-gene-116.55:0.543251)n2:0.0603612)n1:0.117144,Vcorymbosum_maker-VaccDscaff3-snap-gene-8.40:0.562297)n0;

@@ -1,1 +1,0 @@
-(Mesculenta_Manes.04G089910:0.152352,(Fvesca_FvH4_3g29110:0.0475289,(Fxananassa_maker-Fvb6-3-augustus-gene-8.34:0.0449349,(Fxananassa_augustus_masked-Fvb3-2-processed-gene-197.6:0.0341136,Fxananassa_augustus_masked-Fvb3-4-processed-gene-115.0:0.0138952)n3:0.00138952)n2:0.000154391)n1:0.157776)n0;

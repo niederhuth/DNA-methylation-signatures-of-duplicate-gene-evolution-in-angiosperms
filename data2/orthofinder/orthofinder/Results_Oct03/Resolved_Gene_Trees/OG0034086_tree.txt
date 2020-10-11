@@ -1,1 +1,0 @@
-(Vvinifera_VIT_215s0024g01050:0.243402,(Cpapaya_evm.TU.supercontig_74.42:0.709738,(Boleracea_Bo6g086140:0.449938,Boleracea_Bo3g007630:0.572125)n2:0.0635695)n1:0.156195)n0;

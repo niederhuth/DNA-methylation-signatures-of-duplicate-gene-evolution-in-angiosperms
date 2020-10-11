@@ -1,1 +1,0 @@
-(Fxananassa_maker-Fvb7-1-snap-gene-25.30:0.567236,((Graimondii_Gorai.009G392300:0.282596,Graimondii_Gorai.002G187100:2.51675e-06)n2:0.233602,(Graimondii_Gorai.011G078500:0.179368,Graimondii_Gorai.002G097600:0.062778)n3:0.654725)n1:0.567236)n0;

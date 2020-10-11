@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00098.2:0.199984,((Mesculenta_Manes.02G110300:1.21921e-06,Mesculenta_Manes.02G110601:0.193812)n2:0.351488,Macuminata_GSMUA_AchrUn_randomG25130_001:0.276705)n1:0.199984)n0;

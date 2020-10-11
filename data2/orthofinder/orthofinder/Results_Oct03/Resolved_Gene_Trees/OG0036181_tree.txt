@@ -1,1 +1,0 @@
-((Vcorymbosum_maker-VaccDscaff9-augustus-gene-59.30:0.934562,Ljaponicus_Lj5g3v1204410:0.663397)n1:0.0496866,(Zmays_Zm00001d013912:0.736643,Macuminata_GSMUA_Achr10G07870_001:0.797775)n2:0.0496866)n0;

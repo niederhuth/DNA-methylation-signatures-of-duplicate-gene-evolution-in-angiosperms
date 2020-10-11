@@ -1,1 +1,0 @@
-(Paxillaris_Peaxi162Scf00058g00823:0.068142,(Smelongena_SMEL_002g155560.1:0.366717,(Slycopersicum_Solyc11g021085.1:0.266373,Slycopersicum_Solyc02g014777.1:0.148888)n2:0.0165431)n1:0.0911375)n0;

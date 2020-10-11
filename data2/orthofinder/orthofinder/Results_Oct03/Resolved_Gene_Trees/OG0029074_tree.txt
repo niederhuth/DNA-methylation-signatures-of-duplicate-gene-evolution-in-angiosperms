@@ -1,1 +1,0 @@
-((Brapa_Brara.B02078:0.300136,Aipaensis_araip.K30076.gnm1.ann1.Araip.RI7AH:0.444678)n1:0.0368081,(Macuminata_GSMUA_Achr10G09940_001:0.0385942,(Sitalica_Seita.9G065100:0,Sviridis_Sevir.9G064600:0)n3:0.543211)n2:0.0368081)n0;

@@ -1,1 +1,0 @@
-((Eguineensis_p5.00_sc00068_p0060:0.509416,Aofficinalis_evm.TU.AsparagusV1_01.3573:0.0725541)n1:0.0225955,(Vcorymbosum_maker-VaccDscaff1284-augustus-gene-0.6:0.0678142,(Mguttatus_Migut.H01283:0.313964,Mesculenta_Manes.12G066305:0.73704)n3:0.13415)n2:0.0225955)n0;

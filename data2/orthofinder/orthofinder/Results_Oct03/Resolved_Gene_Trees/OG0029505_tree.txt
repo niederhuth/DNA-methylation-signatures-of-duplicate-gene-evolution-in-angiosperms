@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00038.133:0.224821,(Vcorymbosum_maker-VaccDscaff452-snap-gene-0.16:0.449618,(Othomaeum_Oropetium_20150105_04251:0.519251,(Ljaponicus_Lj0g3v0244489:0.208818,Mdomestica_MD00G1192500:0.346971)n3:0.174894)n2:0.0731306)n1:0.224821)n0;

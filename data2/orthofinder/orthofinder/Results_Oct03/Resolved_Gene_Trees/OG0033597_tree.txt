@@ -1,1 +1,0 @@
-((Aofficinalis_evm.TU.AsparagusV1_06.1120:0.252165,Ptrichocarpa_Potri.T065801:0.501584)n1:0.111502,(Paxillaris_Peaxi162Scf01205g00193:0.620835,Spolyrhiza_Spipo19G0033300:0.130986)n2:0.111502)n0;

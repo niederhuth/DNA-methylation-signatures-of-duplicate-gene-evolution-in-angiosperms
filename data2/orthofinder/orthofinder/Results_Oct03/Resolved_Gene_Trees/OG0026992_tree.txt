@@ -1,1 +1,0 @@
-(Osativa_LOC_Os03g52830:0.447132,(Crubella_Carub.0003s2982:0.966673,(Rchinensis_RcHm_v2.0_Chr6g0260721:3.00881e-06,(Rchinensis_RcHm_v2.0_Chr6g0260231:0.440037,(Rchinensis_RcHm_v2.0_Chr6g0260001:0.22254,Rchinensis_RcHm_v2.0_Chr6g0260711:0.377639)n4:0.153733)n3:0.269217)n2:0.029913)n1:0.142209)n0;

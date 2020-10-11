@@ -1,1 +1,0 @@
-((Mesculenta_Manes.12G066302:0.431621,Egrandis_Eucgr.J02690:0.93623)n1:0.324923,(Aofficinalis_evm.TU.AsparagusV1_03.1306:0.045421,Aofficinalis_evm.TU.AsparagusV1_01.872:0.1072)n2:0.324923)n0;

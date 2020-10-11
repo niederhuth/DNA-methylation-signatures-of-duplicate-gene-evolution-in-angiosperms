@@ -1,1 +1,0 @@
-(Cmelo_MELO3C035199.2:0.357288,(Rchinensis_RcHm_v2.0_Chr4g0426141:0.374609,(Fvesca_FvH4_4g20720:0.00257838,(Fxananassa_maker-Fvb4-4-augustus-gene-90.46:0.063587,Fxananassa_maker-Fvb4-3-augustus-gene-122.25:0.00518546)n3:0.000576162)n2:0.0274661)n1:0.357288)n0;

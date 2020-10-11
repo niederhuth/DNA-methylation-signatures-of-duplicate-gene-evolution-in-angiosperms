@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_Achr8G26390_001:0.310584,(Vcorymbosum_augustus_masked-VaccDscaff208-processed-gene-0.0:0.447785,(Slycopersicum_Solyc10g051360.1:0.653475,Stuberosum_PGSC0003DMG400033913:0.0562148)n2:0.192134)n1:0.310584)n0;

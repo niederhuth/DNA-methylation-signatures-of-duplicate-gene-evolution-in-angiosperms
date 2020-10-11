@@ -1,1 +1,0 @@
-((Boleracea_Bo1g078610:0.94581,(Roccidentalis_maker-Ro04-snap-gene-303.120:0.801052,Roccidentalis_maker-Ro04-snap-gene-303.119:0.356421)n2:0.0396023)n1:0.0258311,(Graimondii_Gorai.001G168300:0.539038,Alyrata_AL3G44480:0.507946)n3:0.194562)n0;

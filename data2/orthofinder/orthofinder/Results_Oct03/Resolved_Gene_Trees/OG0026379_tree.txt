@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00001.70:0.0781913,(Ppersica_Prupe.1G510600:0.643734,((Rchinensis_RcHm_v2.0_Chr1g0354441:0.0880151,Rchinensis_RcHm_v2.0_Chr5g0040271:0.252515)n3:0.235984,(Graimondii_Gorai.005G060100:0.0977818,Graimondii_Gorai.002G139600:0.0526542)n4:0.19933)n2:0.194683)n1:0.0781913)n0;

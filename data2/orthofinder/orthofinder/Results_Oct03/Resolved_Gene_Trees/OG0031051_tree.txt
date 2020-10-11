@@ -1,1 +1,0 @@
-(Vcorymbosum_maker-VaccDscaff90-snap-gene-1.28:0.30541,((Graimondii_Gorai.005G165300:0.717047,Graimondii_Gorai.013G167300:0.28732)n2:0.556618,(Graimondii_Gorai.011G182300:0.054683,Graimondii_Gorai.001G195300:0.168621)n3:0.0602222)n1:0.30541)n0;

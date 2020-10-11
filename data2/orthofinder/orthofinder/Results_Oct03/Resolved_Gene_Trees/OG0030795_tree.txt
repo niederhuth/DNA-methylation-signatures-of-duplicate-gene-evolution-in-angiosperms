@@ -1,1 +1,0 @@
-((Pvirgatum_Pavir.2NG505703:0.85229,(Macuminata_GSMUA_Achr6G00310_001:0.0993742,Macuminata_GSMUA_Achr6G00330_001:0.576236)n2:0.417432)n1:0.0786612,(Fxananassa_maker-Fvb3-3-snap-gene-60.40:0.549741,Mdomestica_MD05G1242100:0.614806)n3:0.0786612)n0;

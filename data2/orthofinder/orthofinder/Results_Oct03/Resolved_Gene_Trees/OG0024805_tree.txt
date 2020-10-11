@@ -1,1 +1,0 @@
-((Zmays_Zm00001d032865:0.506982,Zmays_Zm00001d036552:1.46099e-06)n1:0.413526,((Fvesca_FvH4_5g20010:0.0260417,Fxananassa_maker-Fvb5-1-snap-gene-125.54:0.0231463)n3:0.110424,(Fvesca_FvH4_5g23410:0.0374803,(Fxananassa_maker-Fvb5-1-augustus-gene-191.30:0.00687413,Fxananassa_maker-Fvb5-1-augustus-gene-152.24:0.00941647)n5:0.00104627)n4:0.00841587)n2:0.413526)n0;

@@ -1,1 +1,0 @@
-(Spolyrhiza_Spipo20G0032600:0.4555,(Mtruncatula_Medtr3g030840:0.528435,(Mtruncatula_Medtr7g021110:0.105916,Mtruncatula_Medtr7g021080:1.63063e-06)n2:0.134103)n1:0.4555)n0;

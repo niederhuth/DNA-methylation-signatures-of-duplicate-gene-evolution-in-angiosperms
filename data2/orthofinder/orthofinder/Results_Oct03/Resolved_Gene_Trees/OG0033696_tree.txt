@@ -1,1 +1,0 @@
-(Nattenuata_NIATv7_g12494:0.654624,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00002.468:0.764848,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00006.118:0.342357,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00022.178:0.626717)n2:0.273353)n1:0.654624)n0;

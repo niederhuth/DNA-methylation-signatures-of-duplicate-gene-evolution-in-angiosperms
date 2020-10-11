@@ -1,1 +1,0 @@
-((Smelongena_SMEL_012g389190.1:0.254488,Smelongena_SMEL_005g224060.1:0.11096)n1:0.152803,(Slycopersicum_Solyc05g010200.1:0.103191,Slycopersicum_Solyc08g005940.1:0.589678)n2:0.152803)n0;

@@ -1,1 +1,0 @@
-(Cpapaya_evm.TU.contig_32694.1:0.171167,((((Fvesca_FvH4_5g03480:0.103108,Fxananassa_snap_masked-Fvb5-2-processed-gene-23.47:0.169186)n4:0.109885,(Mdomestica_MD09G1115600:0.720572,Rchinensis_RcHm_v2.0_Chr2g0101861:0.10469)n5:0.163214)n3:0.517715,Pvulgaris_Phvul.004G054900:0.397572)n2:0.0623032,Zjujuba_LOC107427865:0.308857)n1:0.171167)n0;

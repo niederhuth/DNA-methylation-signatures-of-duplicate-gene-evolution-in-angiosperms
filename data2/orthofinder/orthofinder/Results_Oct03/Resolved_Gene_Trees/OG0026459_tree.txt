@@ -1,1 +1,0 @@
-((Mtruncatula_Medtr5g063660:0.705807,Rchinensis_RcHm_v2.0_Chr2g0161571:0.575706)n1:0.0151527,(Othomaeum_Oropetium_20150105_25554:1.04628,(Bdistachyon_Bradi2g34096:0.502216,(Bdistachyon_Bradi2g49770:0.424858,Bdistachyon_Bradi3g31471:0.52268)n4:0.181588)n3:0.0282112)n2:0.0151527)n0;

@@ -1,1 +1,0 @@
-(Bvulgaris_gene_BVRB_015740:0.328561,((Cviolacea_Clevi.0007s0697:0.238436,Cviolacea_Clevi.0007s0672:0.00686512)n2:0.17906,(Cviolacea_Clevi.0012s0879:1.95006e-06,(Cviolacea_Clevi.0012s0901:0.165961,Cviolacea_Clevi.0021s0069:0.514426)n4:0.161399)n3:0.0415482)n1:0.328561)n0;

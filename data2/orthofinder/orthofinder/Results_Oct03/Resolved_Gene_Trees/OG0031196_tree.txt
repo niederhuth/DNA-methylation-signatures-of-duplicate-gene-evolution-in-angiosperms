@@ -1,1 +1,0 @@
-(Roccidentalis_maker-Ro01-snap-gene-59.124:0.550352,(Ppersica_Prupe.7G161000:0.804608,(Pxbretschneideri_LOC103937810:0.0910823,(Mdomestica_MD02G1139800:0.628896,Mdomestica_MD15G1253900:0.274002)n3:0.0304447)n2:0.593426)n1:0.0397088)n0;

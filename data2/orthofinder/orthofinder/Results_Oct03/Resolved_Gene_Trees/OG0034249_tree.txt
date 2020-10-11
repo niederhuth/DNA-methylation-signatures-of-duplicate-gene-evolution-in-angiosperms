@@ -1,1 +1,0 @@
-(Ppersica_Prupe.4G265400:0.664219,((Bvulgaris_gene_BVRB_1g023100:0.519664,Bvulgaris_gene_BVRB_6g143880:0.312583)n2:0.789623,Bvulgaris_gene_BVRB_7g168960:0.171198)n1:0.664219)n0;

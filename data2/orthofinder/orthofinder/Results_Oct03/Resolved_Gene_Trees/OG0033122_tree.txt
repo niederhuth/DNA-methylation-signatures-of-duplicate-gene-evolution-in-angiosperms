@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_26620:0.361565,(Mdomestica_MD16G1082500:0.52289,(Aipaensis_araip.K30076.gnm1.ann1.Araip.4277N:0.488185,Aipaensis_araip.K30076.gnm1.ann1.Araip.X58QR:0.355176)n2:0.168163)n1:0.361565)n0;

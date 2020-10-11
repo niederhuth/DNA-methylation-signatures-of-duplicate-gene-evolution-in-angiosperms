@@ -1,1 +1,0 @@
-((Alyrata_AL6G46220:0.458829,(Slycopersicum_Solyc11g044400.1:0.2866,Slycopersicum_Solyc08g080600.1:0.113013)n2:0.012557)n1:0.0891639,Csativus_CsaV3_5G003120:0.650864)n0;

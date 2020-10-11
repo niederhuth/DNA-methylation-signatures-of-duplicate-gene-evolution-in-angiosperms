@@ -1,1 +1,0 @@
-(((Slycopersicum_Solyc10g085510.2:0.867972,Slycopersicum_Solyc02g071583.1:0.779902)n2:0.0300825,Slycopersicum_Solyc01g006665.1:0.789241)n1:0.0562101,((Gmax_Glyma.07G223450:0.00989862,Gsoja_GlysoPI483463.07G185500:0.0146814)n4:0.640007,Roccidentalis_maker-Ro05-snap-gene-88.76:0.709796)n3:0.0562101)n0;

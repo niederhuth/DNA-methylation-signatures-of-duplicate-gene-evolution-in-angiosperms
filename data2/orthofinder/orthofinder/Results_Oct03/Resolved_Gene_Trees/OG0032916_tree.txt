@@ -1,1 +1,0 @@
-(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.RID4R:0.459946,(Fvesca_FvH4_7g15710:0.0043405,(Fxananassa_maker-Fvb7-3-snap-gene-109.50:0.259919,Fxananassa_snap_masked-Fvb7-4-processed-gene-105.20:0.235179)n2:0.469386)n1:0.459946)n0;

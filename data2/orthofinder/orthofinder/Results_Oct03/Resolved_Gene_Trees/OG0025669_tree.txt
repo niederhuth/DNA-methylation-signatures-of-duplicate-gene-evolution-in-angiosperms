@@ -1,1 +1,0 @@
-(Acoerulea_Aqcoe1G427200:0.411643,(Bvulgaris_gene_BVRB_2g024000:0.634974,(Mtruncatula_Medtr3g070270:0.398524,(Cclementina_Ciclev10033074m.g:0.37385,(Ptrichocarpa_Potri.010G190900:0.431363,Mesculenta_Manes.10G015200:0.304575)n4:0.159097)n3:0.0446677)n2:0.0885629)n1:0.411643)n0;

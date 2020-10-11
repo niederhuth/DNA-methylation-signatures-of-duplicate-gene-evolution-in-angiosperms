@@ -1,1 +1,0 @@
-(Rchinensis_RcHm_v2.0_Chr5g0064431:0.383656,(Roccidentalis_maker-Ro01-exonerate_protein2genome-gene-294.24:0.217891,(Roccidentalis_maker-Ro03-exonerate_protein2genome-gene-63.49:0.349261,Roccidentalis_maker-Ro01-exonerate_protein2genome-gene-294.18:0.373091)n2:0.199479)n1:0.383656)n0;

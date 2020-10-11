@@ -1,1 +1,0 @@
-(Paxillaris_Peaxi162Scf00009g00345:0.805933,(Acoerulea_Aqcoe3G188300:0.315152,(Acoerulea_Aqcoe7G364400:0.081459,Acoerulea_Aqcoe7G364900:0.06779)n2:0.414675)n1:0.805933)n0;

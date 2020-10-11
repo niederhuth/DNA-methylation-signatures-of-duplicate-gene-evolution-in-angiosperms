@@ -1,1 +1,0 @@
-((Fxananassa_augustus_masked-Fvb3-2-processed-gene-28.3:0.0173431,((Roccidentalis_maker-Ro03-snap-gene-433.73:0.159757,Rchinensis_RcHm_v2.0_Chr5g0001441:0.0210152)n3:0.119441,Fvesca_FvH4_3g00920:0.0133659)n2:0.0166464)n1:0.119722,(Ppersica_Prupe.4G009800:0.10047,Mdomestica_MD10G1332400:0.115663)n4:0.119722)n0;

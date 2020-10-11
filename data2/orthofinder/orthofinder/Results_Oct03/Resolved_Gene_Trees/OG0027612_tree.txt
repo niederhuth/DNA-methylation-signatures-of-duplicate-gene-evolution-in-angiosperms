@@ -1,1 +1,0 @@
-(Slycopersicum_Solyc07g055620.2:0.342553,(Ljaponicus_Lj0g3v0302519:0.682993,((Ljaponicus_Lj3g3v1571430:0,(Ljaponicus_Lj0g3v0044789:0,Ljaponicus_Lj0g3v0245259:0)n4:0)n3:0,Ljaponicus_Lj0g3v0240069:0)n2:0.154803)n1:0.342553)n0;

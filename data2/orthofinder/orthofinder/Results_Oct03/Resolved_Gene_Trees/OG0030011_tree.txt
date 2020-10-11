@@ -1,1 +1,0 @@
-(Clanatus_Cla97C01G005970:0.458501,((Fxananassa_snap_masked-Fvb4-3-processed-gene-49.17:0.0748047,Fvesca_FvH4_4g28150:0.149857)n2:0.205,(Fxananassa_augustus_masked-Fvb3-4-processed-gene-108.6:0.235639,Fvesca_FvH4_3g29890:0.364208)n3:0.257685)n1:0.458501)n0;

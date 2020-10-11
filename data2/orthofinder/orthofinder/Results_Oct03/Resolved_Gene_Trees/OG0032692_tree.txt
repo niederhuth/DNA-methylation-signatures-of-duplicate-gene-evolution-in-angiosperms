@@ -1,1 +1,0 @@
-(Rchinensis_RcHm_v2.0_Chr5g0070891:0.672316,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.U5JQ5:0.236225,(Aipaensis_araip.K30076.gnm1.ann1.Araip.P3YN7:0.287845,Aipaensis_araip.K30076.gnm1.ann1.Araip.P36ID:0.684752)n2:0.0760835)n1:0.411191)n0;

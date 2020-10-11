@@ -1,1 +1,0 @@
-(Gsoja_GlysoPI483463.16G039100:0.526026,((Fxananassa_maker-Fvb1-3-snap-gene-52.36:0.186839,Fxananassa_snap_masked-Fvb1-3-processed-gene-84.34:0.201286)n2:0.1196,Fxananassa_augustus_masked-Fvb1-4-processed-gene-71.10:0.455768)n1:0.526026)n0;

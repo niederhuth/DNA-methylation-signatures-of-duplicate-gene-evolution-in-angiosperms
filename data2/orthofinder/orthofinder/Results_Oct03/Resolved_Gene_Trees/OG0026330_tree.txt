@@ -1,1 +1,0 @@
-((Mtruncatula_Medtr6g051390:0.501989,Nnucifera_XP_019052177.1:1.02639)n1:0.111705,(Macuminata_GSMUA_AchrUn_randomG09230_001:0.597341,((Aofficinalis_evm.TU.AsparagusV1_10.723:0.123133,Aofficinalis_evm.TU.AsparagusV1_01.2635:0.768945)n4:0.0811304,Aofficinalis_evm.TU.AsparagusV1_01.1023:0.291366)n3:0.032374)n2:0.0975336)n0;

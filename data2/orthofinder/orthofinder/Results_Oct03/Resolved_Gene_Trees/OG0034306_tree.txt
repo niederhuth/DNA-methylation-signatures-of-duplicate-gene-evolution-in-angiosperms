@@ -1,1 +1,0 @@
-(Fxananassa_maker-Fvb4-1-snap-gene-67.22:0.322094,(Cannuum_CA12g04680:0.0994785,(Cannuum_CA03g21620:0.118901,Cannuum_CA08g10670:0.126345)n2:0.005291)n1:0.322094)n0;

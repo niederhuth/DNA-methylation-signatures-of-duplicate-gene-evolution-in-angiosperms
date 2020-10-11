@@ -1,1 +1,0 @@
-(Cpapaya_evm.TU.supercontig_131.30:0.257335,(Aipaensis_araip.K30076.gnm1.ann1.Araip.U0BWS:0.476904,(Aipaensis_araip.K30076.gnm1.ann1.Araip.9X8PV:0.075341,Aipaensis_araip.K30076.gnm1.ann1.Araip.N44JY:0.128619)n2:0.227791)n1:0.257335)n0;

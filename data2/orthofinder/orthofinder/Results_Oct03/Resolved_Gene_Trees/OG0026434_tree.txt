@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold01006.2:0.270358,(Ljaponicus_Lj1g3v3439090:0.181197,(Ptrichocarpa_Potri.004G020800:0.275351,((Cclementina_Ciclev10013554m.g:0.241831,Cclementina_Ciclev10013698m.g:0.0839883)n4:0.555418,Cannuum_CA03g10780:0.250137)n3:0.27094)n2:0.164691)n1:0.270358)n0;

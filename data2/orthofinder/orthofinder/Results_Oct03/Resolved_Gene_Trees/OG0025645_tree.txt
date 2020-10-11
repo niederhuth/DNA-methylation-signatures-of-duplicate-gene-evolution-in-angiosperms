@@ -1,1 +1,0 @@
-(Pvirgatum_Pavir.8NG066901:0.161024,((Acoerulea_Aqcoe4G043300:0.718282,(Fxananassa_maker-Fvb6-2-augustus-gene-131.17:0.353469,(Boleracea_Bo01014s050:0.354221,Fxananassa_maker-Fvb5-4-snap-gene-157.51:0.362666)n4:0.152415)n3:0.016935)n2:0.0878955,Ppersica_Prupe.6G356500:0.614142)n1:0.161024)n0;

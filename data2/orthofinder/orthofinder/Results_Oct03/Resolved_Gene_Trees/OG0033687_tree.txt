@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00129.53:0.291815,((Boleracea_Bo8g067100:0.176851,Boleracea_Bo8g067090:0.547713)n2:0.619486,Spolyrhiza_Spipo0G0055700:0.195003)n1:0.291815)n0;

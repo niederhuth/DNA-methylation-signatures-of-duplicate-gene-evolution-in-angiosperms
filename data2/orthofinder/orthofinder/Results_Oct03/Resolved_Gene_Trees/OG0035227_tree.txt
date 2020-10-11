@@ -1,1 +1,0 @@
-(Mtruncatula_Medtr4g033275:0.383876,(Fvesca_FvH4_3g30130:0.794838,(Fxananassa_maker-Fvb3-2-snap-gene-208.42:0.0659968,Fxananassa_maker-Fvb3-3-snap-gene-186.31:0.186119)n2:0.418783)n1:0.383876)n0;

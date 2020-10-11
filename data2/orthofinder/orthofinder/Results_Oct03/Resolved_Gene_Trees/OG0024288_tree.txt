@@ -1,1 +1,0 @@
-((Nnucifera_XP_019053870.1:0.282239,Nnucifera_XP_019052872.1:0.302583)n1:0.185822,((Boleracea_Bo1g012090:0.870538,(Fvesca_FvH4_7g22640:0.310216,(Fxananassa_maker-Fvb7-2-snap-gene-229.54:0.31476,Fxananassa_maker-Fvb7-4-snap-gene-63.44:0.339302)n5:0.0377002)n4:0.175655)n3:0.233478,Rchinensis_RcHm_v2.0_Chr5g0036011:0.32127)n2:0.185822)n0;

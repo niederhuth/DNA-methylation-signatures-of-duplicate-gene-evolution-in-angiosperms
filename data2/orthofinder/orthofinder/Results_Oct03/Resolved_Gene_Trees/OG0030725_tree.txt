@@ -1,1 +1,0 @@
-(Fxananassa_maker-Fvb6-4-snap-gene-317.30:0.131064,(Fxananassa_maker-Fvb6-3-snap-gene-52.82:0.210308,(Fxananassa_augustus_masked-Fvb6-1-processed-gene-0.4:0.401045,(Fxananassa_maker-Fvb6-3-snap-gene-52.70:0.565641,Fxananassa_maker-Fvb6-3-snap-gene-52.68:0.18188)n3:0.404746)n2:0.142356)n1:0.131064)n0;

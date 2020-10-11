@@ -1,1 +1,0 @@
-(Boleracea_Bo7g089620:0.70868,(((Mesculenta_Manes.02G090401:1.59379e-06,Mesculenta_Manes.11G126301:0.0165899)n3:0.00489987,Mesculenta_Manes.05G152950:1.59379e-06)n2:0.0102804,Mesculenta_Manes.12G075701:0.154463)n1:0.70868)n0;

@@ -1,1 +1,0 @@
-(Cpapaya_evm.TU.supercontig_66.66:0.370458,((Aofficinalis_evm.TU.AsparagusV1_08.3079:0.508787,(Aofficinalis_evm.TU.AsparagusV1_06.1262:0.323141,Aofficinalis_evm.TU.AsparagusV1_06.1353:0.394841)n3:0.0739086)n2:0.500486,(Spolyrhiza_Spipo4G0115900:0.547797,Pvirgatum_Pavir.3NG140784:0.891475)n4:0.120362)n1:0.370458)n0;

@@ -1,1 +1,0 @@
-(Pvirgatum_Pavir.2KG411586:0.1564,(Gmax_Glyma.04G057566:0.363909,(Rchinensis_RcHm_v2.0_Chr4g0447321:0.352997,Rchinensis_RcHm_v2.0_Chr7g0223511:0.215033)n2:0.434567)n1:0.1564)n0;

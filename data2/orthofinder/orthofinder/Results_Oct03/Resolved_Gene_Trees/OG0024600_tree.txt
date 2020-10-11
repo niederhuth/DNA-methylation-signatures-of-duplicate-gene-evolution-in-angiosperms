@@ -1,1 +1,0 @@
-(Zmays_Zm00001d008575:0.39276,(Vcorymbosum_maker-VaccDscaff17-augustus-gene-123.30:0.518523,(((Egrandis_Eucgr.L00316:0.00752706,Egrandis_Eucgr.L00478:0.0369059)n4:0.0170829,Egrandis_Eucgr.L00175:0.000660066)n3:0.198198,(Egrandis_Eucgr.G00757:2.22102e-06,Egrandis_Eucgr.L00211:0.305343)n5:0.068396)n2:0.294217)n1:0.39276)n0;

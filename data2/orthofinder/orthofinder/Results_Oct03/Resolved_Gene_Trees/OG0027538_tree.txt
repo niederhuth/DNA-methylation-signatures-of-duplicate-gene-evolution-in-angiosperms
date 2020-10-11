@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_Achr11G16210_001:0.108558,((Slycopersicum_Solyc08g078250.3:0.302999,((Vcorymbosum_maker-VaccDscaff41-augustus-gene-139.19:0.00508125,Vcorymbosum_maker-VaccDscaff23-augustus-gene-143.22:0.00431875)n4:0.391836,Vcorymbosum_maker-VaccDscaff43-augustus-gene-212.26:0.282199)n3:0.0313554)n2:0.0365945,Gmax_Glyma.11G036032:0.759686)n1:0.058857)n0;

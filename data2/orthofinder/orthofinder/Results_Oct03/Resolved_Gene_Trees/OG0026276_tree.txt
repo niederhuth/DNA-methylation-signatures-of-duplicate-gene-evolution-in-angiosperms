@@ -1,1 +1,0 @@
-((Aofficinalis_evm.TU.AsparagusV1_08.1318:0.408021,(Pvirgatum_Pavir.7NG217817:0.892585,Pvirgatum_Pavir.9KG344932:0.097999)n2:0.407176)n1:0.0335249,(Paxillaris_Peaxi162Scf00166g00078:0.128755,(Ljaponicus_Lj5g3v0642740:2.30282e-06,Ljaponicus_Lj1g3v4361110:0.118289)n4:0.0131432)n3:0.228686)n0;

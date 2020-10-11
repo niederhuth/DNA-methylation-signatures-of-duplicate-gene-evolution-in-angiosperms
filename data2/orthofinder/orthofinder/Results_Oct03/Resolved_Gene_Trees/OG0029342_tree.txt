@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00101.27:0.159343,((Nnucifera_XP_010276952.1:0.346724,(Eguineensis_p5.00_sc00015_p0096:0.25071,Aofficinalis_evm.TU.AsparagusV1_02.1361:0.289429)n3:0.0361615)n2:0.112679,Spolyrhiza_Spipo29G0009000:0.695894)n1:0.159343)n0;

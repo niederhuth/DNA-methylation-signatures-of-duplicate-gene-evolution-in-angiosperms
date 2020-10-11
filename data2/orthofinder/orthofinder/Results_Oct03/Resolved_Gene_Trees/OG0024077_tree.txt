@@ -1,1 +1,0 @@
-((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00095.38:0.557622,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00012.169:0.345316,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00012.167:0.371321)n2:0.472502)n1:0.184473,(Sitalica_Seita.3G195600:0.48581,(Zmays_Zm00001d029404:3.4084e-06,(Zmays_Zm00001d027791:0.53857,Zmays_Zm00001d003255:0.334464)n5:0.048186)n4:0.005354)n3:0.528165)n0;

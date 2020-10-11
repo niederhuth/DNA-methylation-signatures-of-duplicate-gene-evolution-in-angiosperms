@@ -1,1 +1,0 @@
-((Bdistachyon_Bradi5g21610:0.310737,Zmays_Zm00001d041859:0.812361)n1:0.195699,(Rchinensis_RcHm_v2.0_Chr6g0290591:0,Rchinensis_RcHm_v2.0_Chr3g0496461:0)n2:0.195699)n0;

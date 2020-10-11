@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_10.1847:0.163449,(Ptrichocarpa_Potri.012G042900:0.133849,((Mtruncatula_Medtr1g060060:5e-07,Mtruncatula_Medtr1g060100:5e-07)n3:0.0130789,Fxananassa_maker-Fvb6-2-augustus-gene-327.61:0.516111)n2:0.546659)n1:0.163449)n0;

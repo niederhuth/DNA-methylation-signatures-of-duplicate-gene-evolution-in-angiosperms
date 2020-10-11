@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00061.13:0.331037,(Cviolacea_Clevi.0010s0016:0.930363,(Tcacao_Thecc1EG038025:0.575011,Cpapaya_evm.TU.contig_28770.1:0.616578)n2:0.302079)n1:0.331037)n0;

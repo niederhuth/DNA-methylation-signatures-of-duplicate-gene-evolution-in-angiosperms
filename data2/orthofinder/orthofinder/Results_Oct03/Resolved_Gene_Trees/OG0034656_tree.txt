@@ -1,1 +1,0 @@
-(Smelongena_SMEL_009g322910.1:0.105082,(Cpapaya_evm.TU.supercontig_139.53:0.67688,(Ptrichocarpa_Potri.003G131775:0.12155,Zjujuba_LOC107428917:0.186841)n2:0.2325)n1:0.105082)n0;

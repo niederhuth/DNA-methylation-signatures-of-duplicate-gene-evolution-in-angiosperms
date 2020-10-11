@@ -1,1 +1,0 @@
-(Bvulgaris_gene_BVRB_6g149990:0.348857,(Zjujuba_LOC107427138:0.199683,(Ljaponicus_Lj5g3v2110870:0.235522,Fxananassa_maker-Fvb2-4-augustus-gene-19.58:0.140843)n2:0.119222)n1:0.348857)n0;

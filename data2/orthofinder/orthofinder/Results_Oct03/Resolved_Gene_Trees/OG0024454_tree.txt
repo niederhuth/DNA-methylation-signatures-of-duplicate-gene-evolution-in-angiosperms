@@ -1,1 +1,0 @@
-(Graimondii_Gorai.001G091300:0.496356,(Cclementina_Ciclev10002900m.g:0.270808,(Cclementina_Ciclev10006215m.g:0.720428,(Cclementina_Ciclev10002876m.g:0.151137,((Cclementina_Ciclev10002906m.g:0.252123,Cclementina_Ciclev10002869m.g:0.0636245)n5:0.266526,Cclementina_Ciclev10002794m.g:0.323092)n4:0.0642141)n3:0.0752511)n2:0.0260572)n1:0.496356)n0;

@@ -1,1 +1,0 @@
-(Vcorymbosum_maker-VaccDscaff4-augustus-gene-314.24:0.18258,((Ljaponicus_Lj0g3v0080719:0.238542,Ljaponicus_Lj0g3v0240719:0.005953)n2:0.366734,Gmax_Glyma.05G218200:0.388844)n1:0.18258)n0;

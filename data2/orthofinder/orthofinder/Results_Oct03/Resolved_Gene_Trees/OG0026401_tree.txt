@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00165.18:0.39985,(Vvinifera_VIT_208s0007g01480:0.460214,(Roccidentalis_maker-Ro06-snap-gene-248.120:0.0418126,((Fxananassa_maker-Fvb6-3-snap-gene-424.72:0.263482,Fxananassa_maker-Fvb6-3-snap-gene-394.73:0.306691)n4:0.408708,Rchinensis_RcHm_v2.0_Chr3g0448591:0.0700426)n3:0.0687519)n2:0.401986)n1:0.39985)n0;

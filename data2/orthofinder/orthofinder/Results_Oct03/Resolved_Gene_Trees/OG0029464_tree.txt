@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold01428.1:0.190703,(Cmelo_MELO3C035566.2:0.647227,(Ptrichocarpa_Potri.006G141000:0.387576,(Ptrichocarpa_Potri.003G113200:0.0121318,Ptrichocarpa_Potri.001G449200:0.0242433)n3:0.0456239)n2:0.00506933)n1:0.0991313)n0;

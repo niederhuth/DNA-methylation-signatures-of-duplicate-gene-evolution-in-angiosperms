@@ -1,1 +1,0 @@
-((((Mtruncatula_Medtr7g056733:0.157052,Ljaponicus_Lj0g3v0262749:0.0706529)n3:0.0707307,Pvirgatum_Pavir.9KG113866:0.485663)n2:0.0920808,Vcorymbosum_maker-VaccDscaff47-augustus-gene-143.49:0.450213)n1:0.0400968,(Othomaeum_Oropetium_20150105_24572:0.342497,Boleracea_Bo9g155900:0.717368)n4:0.0400968)n0;

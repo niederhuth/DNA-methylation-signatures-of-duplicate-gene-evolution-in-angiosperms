@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00003.281:0.290743,(Pvulgaris_Phvul.005G084200:0.603595,(Rchinensis_RcHm_v2.0_Chr5g0034691:0.362397,Roccidentalis_maker-Ro03-snap-gene-305.68:0.0454798)n2:0.208778)n1:0.290743)n0;

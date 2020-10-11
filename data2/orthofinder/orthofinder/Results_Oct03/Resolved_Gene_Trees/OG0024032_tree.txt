@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_03.1120:0.294002,(Ptrichocarpa_Potri.004G130100:0.164893,(((Ptrichocarpa_Potri.003G094600:0.0188907,Ptrichocarpa_Potri.004G157900:0.0231493)n4:0.0961314,Ptrichocarpa_Potri.006G161300:0.0701636)n3:0.0525834,(Ptrichocarpa_Potri.013G151800:0.0530542,Ptrichocarpa_Potri.002G207300:0.180573)n5:0.100653)n2:0.0641491)n1:0.294002)n0;

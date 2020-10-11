@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00122.60:0.23046,((Mdomestica_MD05G1363100:0.529798,Cclementina_Ciclev10018187m.g:0.433301)n2:0.226639,(Roccidentalis_maker-Ro05-snap-gene-144.71:0.718551,(Cpapaya_evm.TU.contig_47523:0.577291,Cpapaya_evm.TU.supercontig_169.44:0.426532)n4:0.271134)n3:0.0369685)n1:0.23046)n0;

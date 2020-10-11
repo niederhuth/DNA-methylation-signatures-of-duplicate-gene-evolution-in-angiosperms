@@ -1,1 +1,0 @@
-((Othomaeum_Oropetium_20150105_11322:0.92957,Osativa_LOC_Os09g23710:0.452424)n1:0.0861711,(Athaliana_AT3G06870:0.639719,(Fxananassa_maker-Fvb4-4-snap-gene-104.38:0.718704,Fxananassa_maker-Fvb4-4-snap-gene-104.39:0.61925)n3:0.0688055)n2:0.0594246)n0;

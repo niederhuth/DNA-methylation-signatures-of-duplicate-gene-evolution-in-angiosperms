@@ -1,1 +1,0 @@
-(Vcorymbosum_maker-VaccDscaff2-augustus-gene-41.36:0.360194,(Mdomestica_MD16G1281200:0.481294,(Aipaensis_araip.K30076.gnm1.ann1.Araip.4P87L:0.730062,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.FY2NQ:0.771879)n2:0.165846)n1:0.360194)n0;

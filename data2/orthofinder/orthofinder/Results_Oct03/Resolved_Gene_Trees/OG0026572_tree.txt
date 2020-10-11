@@ -1,1 +1,0 @@
-(Slycopersicum_Solyc12g044570.1:0.168438,(((Mtruncatula_Medtr8g015780:0.386114,Mtruncatula_Medtr4g128980:0.206992)n3:0.189648,Mtruncatula_Medtr3g093460:0.298292)n2:0.490424,(Boleracea_Bo5g043580:0.811839,Boleracea_Bo5g070920:0.62428)n4:0.0693644)n1:0.150759)n0;

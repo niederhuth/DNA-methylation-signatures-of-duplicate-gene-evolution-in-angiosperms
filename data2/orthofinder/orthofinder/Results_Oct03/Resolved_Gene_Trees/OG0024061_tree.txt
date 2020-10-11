@@ -1,1 +1,0 @@
-((((Athaliana_AT3G18485:0.259032,Crubella_Carub.0003s1825:0.112116)n3:0.098623,Esalsugineum_Thhalv10011013m.g:0.294746)n2:0.192168,Mguttatus_Migut.K00724:0.51322)n1:0.807214,((Mtruncatula_Medtr3g053550:0.480821,Brapa_Brara.B00941:0.420681)n5:0.125757,Nattenuata_NIATv7_g22659:0.399019)n4:0.807214)n0;

@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_Achr11G12420_001:0.165311,((Fxananassa_snap_masked-Fvb2-2-processed-gene-226.15:0.577225,Fvesca_FvH4_2g01130:0.265904)n2:0.425389,Cclementina_Ciclev10017994m.g:0.720413)n1:0.165311)n0;

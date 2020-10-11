@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00071.163:0.295707,(((Ppersica_Prupe.I002700:0.308295,Ppersica_Prupe.4G163300:0.1691)n3:0.750903,Cannuum_CA11g09840:0.217265)n2:0.151784,Pvirgatum_Pavir.2KG026700:0.583822)n1:0.295707)n0;

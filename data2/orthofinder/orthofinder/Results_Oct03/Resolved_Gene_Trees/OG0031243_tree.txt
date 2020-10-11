@@ -1,1 +1,0 @@
-((Mdomestica_MD10G1207300:0.13191,Rchinensis_RcHm_v2.0_Chr5g0072881:0.549868)n1:0.300324,(Pvulgaris_Phvul.011G175500:0.319634,(Mtruncatula_Medtr8g051840:0.283419,Mtruncatula_Medtr8g052350:2.02813e-06)n3:0.179801)n2:0.300324)n0;

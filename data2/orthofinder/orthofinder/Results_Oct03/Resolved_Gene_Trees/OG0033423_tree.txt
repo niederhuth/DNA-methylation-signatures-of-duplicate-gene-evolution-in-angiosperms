@@ -1,1 +1,0 @@
-(Paxillaris_Peaxi162Scf00013g00138:0.32951,((Ljaponicus_Lj0g3v0033239:0,Ljaponicus_Lj0g3v0095689:0)n2:0.35844,Alyrata_AL8G38450:0.916694)n1:0.32951)n0;

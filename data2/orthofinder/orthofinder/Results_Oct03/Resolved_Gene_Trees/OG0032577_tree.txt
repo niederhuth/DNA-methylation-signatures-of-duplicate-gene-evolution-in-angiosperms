@@ -1,1 +1,0 @@
-(Acoerulea_Aqcoe2G192500:0.44319,(Cpapaya_evm.TU.contig_30479:0.368589,(Boleracea_Bo5g098620:0.313395,Alyrata_AL2G21850:0.0982261)n2:0.0656525)n1:0.44319)n0;

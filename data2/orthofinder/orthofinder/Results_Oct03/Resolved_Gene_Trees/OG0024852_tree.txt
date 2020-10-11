@@ -1,1 +1,0 @@
-(((((Ptrichocarpa_Potri.011G034700:0.788969,Ptrichocarpa_Potri.011G035850:1.97378e-06)n4:0.148672,Ptrichocarpa_Potri.011G036466:1.97378e-06)n3:0.0846706,Ptrichocarpa_Potri.011G035350:0.242296)n2:0.162093,Ptrichocarpa_Potri.T088550:0.141699)n1:0.104433,(Fxananassa_maker-Fvb6-1-augustus-gene-355.32:0.170972,Mdomestica_MD05G1328500:0.205402)n5:0.104433)n0;

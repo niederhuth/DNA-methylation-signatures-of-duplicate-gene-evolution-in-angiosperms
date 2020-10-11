@@ -1,1 +1,0 @@
-(Sbicolor_Sobic.006G036700:0.327441,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.Q3LSU:0.930691,(Csativus_CsaV3_6G019130:0.726335,(Fvesca_FvH4_6g44040:0.083983,(Fxananassa_maker-Fvb1-2-augustus-gene-230.29:0.255212,Fxananassa_maker-Fvb7-4-snap-gene-45.71:0.0875583)n4:0.0097287)n3:0.358999)n2:0.0685841)n1:0.327441)n0;

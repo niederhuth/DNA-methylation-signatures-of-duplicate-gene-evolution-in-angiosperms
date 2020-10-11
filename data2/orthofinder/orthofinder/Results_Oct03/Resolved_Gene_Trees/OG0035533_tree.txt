@@ -1,1 +1,0 @@
-(Spolyrhiza_Spipo3G0065200:0.523991,(Vcorymbosum_maker-VaccDscaff21-snap-gene-319.41:0.348691,(Fxananassa_snap_masked-Fvb7-2-processed-gene-72.23:0.329792,Fxananassa_snap_masked-Fvb1-1-processed-gene-42.19:0.0947382)n2:0.435825)n1:0.523991)n0;

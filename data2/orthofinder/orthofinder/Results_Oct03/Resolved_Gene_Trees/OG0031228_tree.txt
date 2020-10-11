@@ -1,1 +1,0 @@
-(Mdomestica_MD07G1295400:0.168999,(((Vcorymbosum_maker-VaccDscaff1492-snap-gene-0.8:0.156886,Vcorymbosum_maker-VaccDscaff36-augustus-gene-79.24:0.168832)n3:0.00518154,Vcorymbosum_maker-VaccDscaff22-snap-gene-168.43:0.208789)n2:0.0226411,Vcorymbosum_maker-VaccDscaff29-augustus-gene-228.23:0.014333)n1:0.168999)n0;

@@ -1,1 +1,0 @@
-(((Sitalica_Seita.1G119600:0.652567,Sbicolor_Sobic.001G021200:0.613508)n2:0.0406123,Macuminata_GSMUA_Achr6G26370_001:0.880107)n1:0.153937,(Ljaponicus_Lj0g3v0212609:3.39584e-06,(Vcorymbosum_maker-VaccDscaff2-augustus-gene-21.25:0.217931,Vcorymbosum_maker-VaccDscaff14-snap-gene-9.42:0.385542)n4:0.33084)n3:0.153937)n0;

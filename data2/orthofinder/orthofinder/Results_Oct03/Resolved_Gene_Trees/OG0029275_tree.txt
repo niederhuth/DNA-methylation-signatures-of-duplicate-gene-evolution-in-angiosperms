@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_05.289:0.113143,((Rchinensis_RcHm_v2.0_Chr6g0263981:0.0744375,Ljaponicus_Lj4g3v1614660:0.213518)n2:0.431223,(Vcorymbosum_maker-VaccDscaff22-augustus-gene-110.34:0.007842,Vcorymbosum_augustus_masked-VaccDscaff43-processed-gene-256.3:8.46226e-07)n3:8.46226e-07)n1:0.0284721)n0;

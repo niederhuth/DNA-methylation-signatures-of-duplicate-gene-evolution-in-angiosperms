@@ -1,1 +1,0 @@
-((Vcorymbosum_maker-VaccDscaff46-augustus-gene-187.45:0.353909,Vcorymbosum_maker-VaccDscaff49-snap-gene-13.35:0.194667)n1:0.211616,(Gmax_Glyma.20G051850:0.696216,(Csativus_CsaV3_6G025240:0.0916004,(Csativus_CsaV3_6G024070:0.0515014,(Csativus_CsaV3_6G024110:0.249054,Csativus_CsaV3_6G023960:0.0833086)n5:0.212849)n4:0.0212849)n3:0.00236499)n2:0.11719)n0;

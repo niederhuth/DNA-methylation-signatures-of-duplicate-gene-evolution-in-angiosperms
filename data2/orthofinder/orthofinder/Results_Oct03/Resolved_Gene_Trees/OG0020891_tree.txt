@@ -1,1 +1,0 @@
-((Bdistachyon_Bradi3g19875:1.07179,Osativa_LOC_Os08g19210:1.08798)n1:0.0488528,(Phallii_Pahal.6G202800:0.164131,((Pvirgatum_Pavir.6NG111403:0.302155,Pvirgatum_Pavir.6KG254424:0.402187)n4:0.084789,((Sitalica_Seita.6G151800:0,Sviridis_Sevir.6G158100:0)n6:0.585767,(Sitalica_Seita.6G109200:0,Sviridis_Sevir.6G119400:0)n7:0.587321)n5:0.13655)n3:0.105224)n2:0.0488528)n0;

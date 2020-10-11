@@ -1,1 +1,0 @@
-((Cannuum_CA02g03050:0.280977,Aofficinalis_evm.TU.AsparagusV1_08.2000:0.535914)n1:0.122679,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00002.467:0.313536,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00034.27:0.127413)n2:0.122679)n0;

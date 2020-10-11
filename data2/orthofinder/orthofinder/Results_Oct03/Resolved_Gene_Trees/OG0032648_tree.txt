@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold04823.1:0.495212,((Acoerulea_Aqcoe1G087600:0.00529664,Acoerulea_Aqcoe3G037300:0.00893536)n2:0.25761,Nnucifera_XP_010256705.1:0.331445)n1:0.495212)n0;

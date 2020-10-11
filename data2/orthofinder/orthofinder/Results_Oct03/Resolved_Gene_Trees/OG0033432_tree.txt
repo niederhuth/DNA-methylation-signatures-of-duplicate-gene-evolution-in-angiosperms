@@ -1,1 +1,0 @@
-((Mesculenta_Manes.18G052850:0.733593,(Aofficinalis_evm.TU.AsparagusV1_05.1955:0.798913,Aofficinalis_evm.TU.AsparagusV1_01.1963:0.41699)n2:0.0463322)n1:0.022967,Boleracea_Bo6g094470:0.700857)n0;

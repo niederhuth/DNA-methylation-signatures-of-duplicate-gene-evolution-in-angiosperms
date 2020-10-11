@@ -1,1 +1,0 @@
-(Boleracea_Bo7g005840:0.340561,(Mtruncatula_Medtr7g070170:0.850607,(Rchinensis_RcHm_v2.0_Chr2g0162281:2.9869e-06,((Rchinensis_RcHm_v2.0_Chr4g0442961:0.000721625,Rchinensis_RcHm_v2.0_Chr4g0442881:0.00145838)n4:0.553709,Rchinensis_RcHm_v2.0_Chr2g0123271:0.796622)n3:0.126562)n2:0.0140624)n1:0.31594)n0;

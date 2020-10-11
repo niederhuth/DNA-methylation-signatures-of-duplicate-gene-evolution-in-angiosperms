@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00044.50:0.311987,(Paxillaris_Peaxi162Scf00271g00518:0.531968,(Aipaensis_araip.K30076.gnm1.ann1.Araip.HL4D1:0.0319506,(Aipaensis_araip.K30076.gnm1.ann1.Araip.99G4Z:1.6379e-06,Aipaensis_araip.K30076.gnm1.ann1.Araip.MN3CK:0.121352)n3:0.0754494)n2:0.256376)n1:0.311987)n0;

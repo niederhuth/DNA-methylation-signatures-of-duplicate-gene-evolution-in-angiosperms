@@ -1,1 +1,0 @@
-((Roccidentalis_maker-Ro06-snap-gene-200.49:0.172837,Rchinensis_RcHm_v2.0_Chr2g0154251:0.318801)n1:0.281398,(Ppersica_Prupe.4G237100:0.476486,Ppersica_Prupe.4G236900:1.41223e-06)n2:0.281398)n0;

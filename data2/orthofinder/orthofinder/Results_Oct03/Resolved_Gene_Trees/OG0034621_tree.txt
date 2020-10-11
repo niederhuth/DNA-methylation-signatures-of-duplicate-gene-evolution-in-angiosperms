@@ -1,1 +1,0 @@
-(Vvinifera_VIT_219s0027g01000:0.325082,(Cmelo_MELO3C032255.2:0.971965,(Fxananassa_maker-Fvb6-3-augustus-gene-27.36:0.914662,Fxananassa_maker-Fvb6-2-augustus-gene-302.47:0.773151)n2:0.346151)n1:0.325082)n0;

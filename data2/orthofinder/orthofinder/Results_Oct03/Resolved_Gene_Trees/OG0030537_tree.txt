@@ -1,1 +1,0 @@
-((Fvesca_FvH4_2g23410:0.0714389,Fvesca_FvH4_3g17460:0.0772691)n1:0.100616,(Fxananassa_snap_masked-Fvb1-3-processed-gene-55.32:0.738233,(Fxananassa_maker-Fvb2-4-augustus-gene-124.33:0.14104,Fxananassa_snap_masked-Fvb1-1-processed-gene-264.24:0.399529)n3:0.0275274)n2:0.100616)n0;

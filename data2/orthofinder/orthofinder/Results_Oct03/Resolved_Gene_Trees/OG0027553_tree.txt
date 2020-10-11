@@ -1,1 +1,0 @@
-(((Gmax_Glyma.05G207200:0.637028,Vcorymbosum_maker-VaccDscaff22-snap-gene-119.48:0.330358)n2:0.0684456,Sbicolor_Sobic.004G290200:0.664042)n1:0.0558697,(Ljaponicus_Lj5g3v0962490:0.339027,(Spolyrhiza_Spipo16G0036800:0.2344,Spolyrhiza_Spipo16G0036900:0.438562)n4:0.142734)n3:0.0558697)n0;

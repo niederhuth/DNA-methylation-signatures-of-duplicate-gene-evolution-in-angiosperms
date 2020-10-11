@@ -1,1 +1,0 @@
-(Vcorymbosum_maker-VaccDscaff37-snap-gene-281.40:0.320149,(((Rchinensis_RcHm_v2.0_Chr7g0225291:0.681042,Ptrichocarpa_Potri.016G107000:0.280832)n3:0.104912,Brapa_Brara.G01075:0.590036)n2:0.0558764,(Ljaponicus_Lj0g3v0011649:0.459639,Boleracea_Bo28618s010:0.323291)n4:0.101134)n1:0.320149)n0;

@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00070.78:0.48769,(Sitalica_Seita.3G002300:1.03535,(Vcorymbosum_snap_masked-VaccDscaff38-processed-gene-149.9:0.595018,Fxananassa_snap_masked-Fvb5-3-processed-gene-193.33:0.778996)n2:0.173378)n1:0.48769)n0;

@@ -1,1 +1,0 @@
-(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.7XJ2Y:0.234647,(Aofficinalis_evm.TU.AsparagusV1_03.1987:0.57067,(Sviridis_Sevir.1G363700:0.77039,Zmays_Zm00001d012730:0.798898)n2:0.173855)n1:0.234647)n0;

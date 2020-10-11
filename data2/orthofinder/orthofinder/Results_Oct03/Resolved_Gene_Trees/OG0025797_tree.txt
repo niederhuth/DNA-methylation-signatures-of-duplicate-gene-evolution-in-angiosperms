@@ -1,1 +1,0 @@
-((Sviridis_Sevir.6G034850:0.592694,(Cannuum_CA12g17980:0.341008,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.5V8SR:0.51202)n2:0.194004)n1:0.0689439,(Ljaponicus_Lj5g3v0087390:0.58765,(Eguineensis_p5.00_sc00026_p0015:0.621221,Eguineensis_p5.00_sc35435_p0001:0.296025)n4:0.0328916)n3:0.163145)n0;

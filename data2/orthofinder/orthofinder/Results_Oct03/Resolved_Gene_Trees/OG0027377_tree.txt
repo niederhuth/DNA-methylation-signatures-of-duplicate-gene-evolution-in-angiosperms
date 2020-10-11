@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_Achr8G21120_001:0.235293,(Roccidentalis_maker-Ro03-snap-gene-45.65:0.575993,(Fxananassa_maker-Fvb6-1-augustus-gene-289.46:0.309455,(Zjujuba_LOC107410758:0.242329,(Mdomestica_MD11G1072300:0.155495,Ljaponicus_Lj0g3v0123589:0.238837)n4:0.0212822)n3:0.0968482)n2:0.173688)n1:0.235293)n0;

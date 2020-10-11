@@ -1,1 +1,0 @@
-((Tcacao_Thecc1EG024990:0.663323,Aipaensis_araip.K30076.gnm1.ann1.Araip.R4IEB:0.748612)n1:0.148351,((Phallii_Pahal.9G234600:0.279609,Phallii_Pahal.3G387000:0.111422)n3:0.50096,Phallii_Pahal.3G421200:2.3386e-06)n2:0.148351)n0;

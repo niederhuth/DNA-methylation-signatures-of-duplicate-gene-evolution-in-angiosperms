@@ -1,1 +1,0 @@
-((Mdomestica_MD14G1171400:1.03951,((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00062.190:0.0021745,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00038.55:0.239202)n3:0.477845,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00156.13:0.956831)n2:0.106315)n1:0.0175007,Csativus_CsaV3_3G010150:0.702151)n0;

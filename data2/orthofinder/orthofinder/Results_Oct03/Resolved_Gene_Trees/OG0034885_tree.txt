@@ -1,1 +1,0 @@
-(Eguineensis_p5.00_sc00044_p0134:0.495869,(Vcorymbosum_snap_masked-VaccDscaff12-processed-gene-380.16:0.0679913,(Vcorymbosum_maker-VaccDscaff41-snap-gene-261.51:0.0877098,Vcorymbosum_maker-VaccDscaff23-augustus-gene-61.43:0.520302)n2:0.181527)n1:0.495869)n0;

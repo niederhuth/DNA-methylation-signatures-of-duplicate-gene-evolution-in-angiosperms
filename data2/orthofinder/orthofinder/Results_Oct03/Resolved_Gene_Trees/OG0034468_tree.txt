@@ -1,1 +1,0 @@
-((Mguttatus_Migut.M00449:0.42572,Cclementina_Ciclev10017202m.g:0.646324)n1:0.0345371,(Fxananassa_maker-Fvb5-4-snap-gene-101.47:0.913234,Slycopersicum_Solyc07g054130.2:0.530481)n2:0.0345371)n0;

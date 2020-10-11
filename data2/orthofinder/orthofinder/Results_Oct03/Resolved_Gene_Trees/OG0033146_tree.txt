@@ -1,1 +1,0 @@
-((Aipaensis_araip.K30076.gnm1.ann1.Araip.ZS5IF:0,Aipaensis_araip.K30076.gnm1.ann1.Araip.Q8YJZ:0)n1:0.308053,(Tcacao_Thecc1EG035613:0.759108,Ptrichocarpa_Potri.005G192500:0.818967)n2:0.308053)n0;

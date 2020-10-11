@@ -1,1 +1,0 @@
-(Bvulgaris_gene_BVRB_011890:0.263552,((Ljaponicus_Lj4g3v0214620:0.0573269,Ljaponicus_Lj0g3v0027139:1.41378e-06)n2:0.0913309,(Aipaensis_araip.K30076.gnm1.ann1.Araip.M6QFD:0.233177,Boleracea_Bo00613s110:0.313716)n3:0.200036)n1:0.263552)n0;

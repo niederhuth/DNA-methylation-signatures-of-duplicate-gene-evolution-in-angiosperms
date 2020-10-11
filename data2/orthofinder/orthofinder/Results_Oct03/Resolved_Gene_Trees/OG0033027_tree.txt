@@ -1,1 +1,0 @@
-((Aipaensis_araip.K30076.gnm1.ann1.Araip.25CKK:0.235521,Rchinensis_RcHm_v2.0_Chr4g0390381:0.593409)n1:0.204509,(Rchinensis_RcHm_v2.0_Chr4g0390371:0.555031,Aipaensis_araip.K30076.gnm1.ann1.Araip.Q2RUX:0.20665)n2:0.204509)n0;

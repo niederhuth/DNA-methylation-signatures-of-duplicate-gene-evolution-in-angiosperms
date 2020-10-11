@@ -1,1 +1,0 @@
-(Vcorymbosum_maker-VaccDscaff34-augustus-gene-6.36:0.328482,((Zjujuba_LOC107434088:0.359901,Ptrichocarpa_Potri.T173800:0.175898)n2:0.0927048,Ljaponicus_Lj0g3v0278359:0.149613)n1:0.328482)n0;

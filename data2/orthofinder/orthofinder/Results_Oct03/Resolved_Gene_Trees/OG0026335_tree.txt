@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_06.872:0.297691,(Vcorymbosum_snap_masked-VaccDscaff14-processed-gene-138.12:0.335549,(Fvesca_FvH4_5g25210:0.209754,(Fxananassa_maker-Fvb5-1-augustus-gene-170.23:0.322693,(Fxananassa_maker-Fvb5-1-augustus-gene-245.40:0.262333,Fxananassa_maker-Fvb6-1-augustus-gene-151.32:0.203441)n4:0.0203441)n3:0.00226045)n2:0.262002)n1:0.297691)n0;

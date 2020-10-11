@@ -1,1 +1,0 @@
-(((Mtruncatula_Medtr3g453160:0.274034,Ljaponicus_Lj0g3v0179219:0.391376)n2:0.179417,(Ljaponicus_Lj5g3v0615620:0.27109,Mtruncatula_Medtr1g052620:0.771278)n3:0.0856976)n1:0.632259,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.I294M:0.0756144,Aipaensis_araip.K30076.gnm1.ann1.Araip.G7685:0.00209956)n4:0.632259)n0;

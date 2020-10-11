@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_AchrUn_randomG24130_001:0.307,(Roccidentalis_maker-Ro06-snap-gene-246.124:0.423149,((Graimondii_Gorai.010G051800:0,Graimondii_Gorai.003G092500:0)n3:0.332624,Graimondii_Gorai.011G156900:0.51681)n2:0.0574233)n1:0.29058)n0;

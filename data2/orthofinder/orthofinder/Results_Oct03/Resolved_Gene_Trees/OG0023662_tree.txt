@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_06.796:0.504365,((Tcacao_Thecc1EG040813:0.788835,(Ljaponicus_Lj3g3v0349320:0.185422,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.L4MUM:0.270823,Aipaensis_araip.K30076.gnm1.ann1.Araip.S3XFX:0.196809)n4:0.167893)n3:0.248062)n2:0.0666344,(Vvinifera_VIT_204s0008g03940:0.495955,Vvinifera_VIT_204s0008g03990:0.751436)n5:0.0834929)n1:0.0265923)n0;

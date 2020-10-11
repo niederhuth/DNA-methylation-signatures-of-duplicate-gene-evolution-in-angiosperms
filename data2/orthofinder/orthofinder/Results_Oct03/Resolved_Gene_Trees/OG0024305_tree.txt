@@ -1,1 +1,0 @@
-(Zmays_Zm00001d038613:0.0465909,(Slycopersicum_Solyc06g051560.3:0.373836,(((Fxananassa_snap_masked-Fvb1-4-processed-gene-69.35:0.0310723,Fvesca_FvH4_1g14220:2.61774e-06)n4:0.512291,Boleracea_Bo2g068540:0.317967)n3:0.0140426,(Mguttatus_Migut.D01946:0.583233,Mguttatus_Migut.O00021:0.0796295)n5:0.545849)n2:0.0722667)n1:0.0465909)n0;

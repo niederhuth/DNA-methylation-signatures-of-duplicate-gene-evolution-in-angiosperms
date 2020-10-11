@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_01422:0.287133,((Mtruncatula_Medtr8g104370:0.711011,Mtruncatula_Medtr2g088315:0.661896)n2:0.123721,(Graimondii_Gorai.001G171200:0.141454,(Graimondii_Gorai.013G107900:0.0847141,Graimondii_Gorai.013G078400:0.0645629)n4:0.0732489)n3:0.475263)n1:0.287133)n0;

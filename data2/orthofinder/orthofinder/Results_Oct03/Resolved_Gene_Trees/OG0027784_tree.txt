@@ -1,1 +1,0 @@
-((Pvulgaris_Phvul.002G093900:0.0307836,Pvulgaris_Phvul.004G085300:0.40208)n1:0.377457,((Mtruncatula_Medtr2g047220:0,Mtruncatula_Medtr0097s0020:0)n3:0.142407,(Mtruncatula_Medtr0097s0010:0.331073,Mtruncatula_Medtr2g047818:0.112265)n4:0.0977364)n2:0.377457)n0;

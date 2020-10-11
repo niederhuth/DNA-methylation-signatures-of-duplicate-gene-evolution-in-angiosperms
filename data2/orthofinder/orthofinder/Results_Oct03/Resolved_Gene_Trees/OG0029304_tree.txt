@@ -1,1 +1,0 @@
-(Tcacao_Thecc1EG039671:0.366349,(((Aofficinalis_evm.TU.AsparagusV1_07.3118:1.10076,Aofficinalis_evm.TU.AsparagusV1_01.1998:0.479187)n3:0.130672,Aofficinalis_evm.TU.AsparagusV1_07.2703:0.681037)n2:0.475506,Aofficinalis_evm.TU.AsparagusV1_06.1329:0.384211)n1:0.366349)n0;

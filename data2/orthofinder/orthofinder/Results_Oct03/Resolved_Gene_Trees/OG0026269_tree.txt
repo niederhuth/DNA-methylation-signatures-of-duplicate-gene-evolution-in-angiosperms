@@ -1,1 +1,0 @@
-((Aofficinalis_evm.TU.AsparagusV1_08.2006:0.84575,Rchinensis_RcHm_v2.0_Chr6g0312351:0.857493)n1:0.116297,((Bdistachyon_Bradi4g22420:2.7737e-06,(Bdistachyon_Bradi2g30465:2.7737e-06,Bdistachyon_Bradi2g22870:0.0689219)n4:0.0320044)n3:0.197087,Mdomestica_MD05G1354500:0.565002)n2:0.116297)n0;

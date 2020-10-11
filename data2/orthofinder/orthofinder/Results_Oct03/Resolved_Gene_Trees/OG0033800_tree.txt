@@ -1,1 +1,0 @@
-(Vcorymbosum_maker-VaccDscaff4-augustus-gene-29.47:0.610808,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00038.45:0.186812,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00038.48:0.100876,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold02764.1:0.062942)n2:0.100267)n1:0.610808)n0;

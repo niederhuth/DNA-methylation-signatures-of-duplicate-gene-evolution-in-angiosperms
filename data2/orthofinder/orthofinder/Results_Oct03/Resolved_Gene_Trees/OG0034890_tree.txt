@@ -1,1 +1,0 @@
-(Eguineensis_p5.00_sc26109_p0001:0.446574,(Graimondii_Gorai.007G279000:0.0339592,(Graimondii_Gorai.010G162600:0.287546,Graimondii_Gorai.008G069300:0.134315)n2:0.245894)n1:0.446574)n0;

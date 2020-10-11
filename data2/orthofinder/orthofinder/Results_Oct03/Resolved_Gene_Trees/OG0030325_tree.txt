@@ -1,1 +1,0 @@
-(Phallii_Pahal.3G311200:0.556887,((Esalsugineum_Thhalv10029080m.g:0.576056,Fxananassa_snap_masked-Fvb2-1-processed-gene-166.31:0.347407)n2:0.0861205,(Gmax_Glyma.02G018500:0,Gsoja_GlysoPI483463.02G017000:0)n3:0.60676)n1:0.556887)n0;

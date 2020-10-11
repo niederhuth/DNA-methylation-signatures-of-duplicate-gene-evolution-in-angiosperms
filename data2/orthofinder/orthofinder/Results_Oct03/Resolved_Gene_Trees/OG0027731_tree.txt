@@ -1,1 +1,0 @@
-((((Rchinensis_RcHm_v2.0_Chr4g0388831:0.323295,Ppersica_Prupe.1G023900:0.49703)n3:0.0470457,Roccidentalis_maker-Ro04-snap-gene-229.68:0.239904)n2:0.0318681,Ptrichocarpa_Potri.008G159600:0.843176)n1:0.0132566,(Pxbretschneideri_LOC103929787:0.539687,Mesculenta_Manes.15G034100:0.571567)n4:0.0132566)n0;

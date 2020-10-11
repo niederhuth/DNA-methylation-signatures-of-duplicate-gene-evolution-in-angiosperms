@@ -1,1 +1,0 @@
-((Alyrata_AL2G18340:0.223514,Ljaponicus_Lj2g3v2149650:0.309762)n1:0.0500675,(Cpapaya_evm.TU.supercontig_2735.1:0.113279,Mdomestica_MD15G1392200:0.307655)n2:0.0500675)n0;

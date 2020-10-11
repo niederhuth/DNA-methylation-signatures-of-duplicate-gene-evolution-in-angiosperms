@@ -1,1 +1,0 @@
-((Gsoja_GlysoPI483463.09G107300:0.203676,Gmax_Glyma.09G140050:0.025824)n1:0.476582,(Vcorymbosum_maker-VaccDscaff1-snap-gene-26.29:0.112284,Vcorymbosum_augustus_masked-VaccDscaff5-processed-gene-23.11:0.372196)n2:0.476582)n0;

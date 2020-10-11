@@ -1,1 +1,0 @@
-((Aipaensis_araip.K30076.gnm1.ann1.Araip.TY1F4:0.116855,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.R2VGA:0.0497957)n1:0.243193,(Roccidentalis_maker-Ro07-snap-gene-297.38:0.175086,Fxananassa_maker-Fvb7-2-snap-gene-28.37:0.426693)n2:0.243193)n0;

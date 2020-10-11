@@ -1,1 +1,0 @@
-(Vcorymbosum_maker-VaccDscaff32-snap-gene-73.46:0.257056,((Mdomestica_MD15G1241300:0.261138,Mdomestica_MD02G1126100:0.459064)n2:0.21229,(Egrandis_Eucgr.I02320:0.893281,Egrandis_Eucgr.J02475:0.308559)n3:0.244939)n1:0.257056)n0;

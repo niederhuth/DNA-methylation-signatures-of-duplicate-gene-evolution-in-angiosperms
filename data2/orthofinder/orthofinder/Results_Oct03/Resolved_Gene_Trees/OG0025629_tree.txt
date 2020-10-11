@@ -1,1 +1,0 @@
-(((Mtruncatula_Medtr2g104370:0.616101,Mtruncatula_Medtr2g104330:0.349351)n2:0.447302,Roccidentalis_maker-Ro02-exonerate_protein2genome-gene-344.49:1.07433)n1:0.111276,(Acoerulea_Aqcoe2G063900:1.03482,(Acoerulea_Aqcoe6G214900:0.0686018,Acoerulea_Aqcoe4G223400:0.176054)n4:0.63183)n3:0.111276)n0;

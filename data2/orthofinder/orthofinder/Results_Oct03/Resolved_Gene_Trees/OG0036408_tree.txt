@@ -1,1 +1,0 @@
-((Mguttatus_Migut.D00278:0.70331,Ptrichocarpa_Potri.003G003800:0.87708)n1:0.307471,(Sbicolor_Sobic.005G116601:0.364902,Phallii_Pahal.8G169100:0.314305)n2:0.307471)n0;

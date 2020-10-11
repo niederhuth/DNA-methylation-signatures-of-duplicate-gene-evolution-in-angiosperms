@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_01763:0.270177,(Fxananassa_maker-Fvb3-1-augustus-gene-319.27:0.367805,(Ljaponicus_Lj5g3v0802990:0.327201,((Ljaponicus_Lj5g3v0802980:0.689975,Ljaponicus_Lj5g3v0803020:2.91466e-06)n4:0.440946,Ljaponicus_Lj3g3v2316600:0.0656534)n3:0.491586)n2:0.268316)n1:0.270177)n0;

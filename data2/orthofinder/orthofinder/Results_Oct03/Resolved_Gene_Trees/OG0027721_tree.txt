@@ -1,1 +1,0 @@
-(Ppersica_Prupe.3G243400:0.0513497,((Mdomestica_MD17G1071000:0,(Pxbretschneideri_LOC103960305:0,Pxbretschneideri_LOC103962693:0)n3:0)n2:0,(Pxbretschneideri_LOC103960306:0,Mdomestica_MD17G1070800:0.0167125)n4:0.00185695)n1:0.0513497)n0;

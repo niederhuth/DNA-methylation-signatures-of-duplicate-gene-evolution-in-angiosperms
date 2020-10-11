@@ -1,1 +1,0 @@
-(Smelongena_SMEL_002g164880.1:0.0403081,(Fvesca_FvH4_c1g00550:0.0321987,(Fxananassa_maker-Fvb2-3-snap-gene-203.20:0.30591,Fxananassa_augustus_masked-Fvb2-3-processed-gene-206.4:0.119236)n2:0.0132484)n1:0.487628)n0;

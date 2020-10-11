@@ -1,1 +1,0 @@
-(((Cclementina_Ciclev10013770m.g:0.642216,Ptrichocarpa_Potri.017G079900:0.260028)n2:0.0666993,((Mtruncatula_Medtr7g009830:0.592354,(Ljaponicus_Lj0g3v0107519:0.225342,Aipaensis_araip.K30076.gnm1.ann1.Araip.LG3DB:0.456565)n5:0.107036)n4:0.147481,Aipaensis_araip.K30076.gnm1.ann1.Araip.9BB1P:0.405647)n3:0.0450719)n1:0.025481,Graimondii_Gorai.012G057400:0.288898)n0;

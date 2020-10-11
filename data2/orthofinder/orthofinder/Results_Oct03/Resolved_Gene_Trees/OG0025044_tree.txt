@@ -1,1 +1,0 @@
-(Ptrichocarpa_Potri.003G123900:0.236836,((Mtruncatula_Medtr6g004330:0.293282,(Mtruncatula_Medtr8g068180:2.83301e-06,(Mtruncatula_Medtr7g055620:0.690924,(Mtruncatula_Medtr3g110015:0.121696,Mtruncatula_Medtr3g109978:0.180949)n5:0.155805)n4:0.248288)n3:0.0880124)n2:0.218535,Mdomestica_MD14G1098300:0.408042)n1:0.236836)n0;

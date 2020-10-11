@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00021.157:0.270665,(Othomaeum_Oropetium_20150105_05800:0.376589,(Boleracea_Bo9g006420:0.248944,Fxananassa_snap_masked-Fvb6-1-processed-gene-115.24:0.541599)n2:0.00946775)n1:0.270665)n0;

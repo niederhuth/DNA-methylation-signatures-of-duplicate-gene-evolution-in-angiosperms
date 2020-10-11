@@ -1,1 +1,0 @@
-((Stuberosum_PGSC0003DMG400032236:0.126345,Paxillaris_Peaxi162Scf00226g00933:0.487631)n1:0.102597,(Fxananassa_snap_masked-Fvb6-3-processed-gene-213.36:0.485497,(Aipaensis_araip.K30076.gnm1.ann1.Araip.18SBL:0.588521,(Graimondii_Gorai.002G168700:0.143446,Graimondii_Gorai.009G358700:0.0924851)n4:0.181484)n3:0.121976)n2:0.102597)n0;

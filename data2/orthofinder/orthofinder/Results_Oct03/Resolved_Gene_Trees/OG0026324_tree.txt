@@ -1,1 +1,0 @@
-((Macuminata_GSMUA_Achr8G09750_001:0.225794,Aofficinalis_evm.TU.AsparagusV1_09.1321:0.488569)n1:0.118267,(((Cpapaya_evm.TU.supercontig_25.21:0.365555,Fxananassa_maker-Fvb6-4-snap-gene-244.40:0.233668)n4:0.282258,Vcorymbosum_augustus_masked-VaccDscaff15-processed-gene-21.2:0.419219)n3:0.0238261,Gsoja_GlysoPI483463.07G107900:0.247658)n2:0.118267)n0;

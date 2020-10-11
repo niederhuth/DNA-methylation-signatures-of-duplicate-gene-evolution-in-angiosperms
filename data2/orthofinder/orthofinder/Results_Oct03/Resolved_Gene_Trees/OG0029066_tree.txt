@@ -1,1 +1,0 @@
-(Zmays_Zm00001d039998:0.270398,(Rchinensis_RcHm_v2.0_Chr6g0269321:0.50232,((Cpapaya_evm.TU.contig_43454:0.179005,Aipaensis_araip.K30076.gnm1.ann1.Araip.GM311:0.481966)n3:0.112761,Athaliana_AT3G44740:0.404955)n2:0.0558762)n1:0.270398)n0;

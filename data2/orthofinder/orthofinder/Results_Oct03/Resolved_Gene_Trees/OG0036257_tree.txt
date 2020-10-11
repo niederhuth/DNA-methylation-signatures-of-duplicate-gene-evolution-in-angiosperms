@@ -1,1 +1,0 @@
-((Mdomestica_MD02G1081300:0.156549,Roccidentalis_maker-Ro01-snap-gene-35.113:0.637201)n1:0.229902,(Slycopersicum_Solyc05g014100.2:0.609285,Slycopersicum_Solyc05g025620.2:0.27533)n2:0.229902)n0;

@@ -1,1 +1,0 @@
-(Cpapaya_evm.TU.contig_40037:0.421847,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00046.101:0.19598,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00046.99:0.553101,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00070.18:0.204706)n2:0.062516)n1:0.421847)n0;

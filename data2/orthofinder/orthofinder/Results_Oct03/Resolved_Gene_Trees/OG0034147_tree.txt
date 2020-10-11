@@ -1,1 +1,0 @@
-(Nattenuata_NIATv7_g42434:0.141017,(Boleracea_Bo8g054690:1.02305,(Rchinensis_RcHm_v2.0_Chr4g0406341:0.206033,Rchinensis_RcHm_v2.0_Chr4g0425531:0.0688592)n2:0.2538)n1:0.141017)n0;

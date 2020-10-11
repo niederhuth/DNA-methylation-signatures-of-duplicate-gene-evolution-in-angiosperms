@@ -1,1 +1,0 @@
-(Vvinifera_VIT_215s0024g01360:0.213481,(((Esalsugineum_Thhalv10023067m.g:0.0320628,(Esalsugineum_Thhalv10022966m.g:0,Esalsugineum_Thhalv10023195m.g:0)n4:0.00039125)n3:0.360972,Rchinensis_RcHm_v2.0_Chr2g0108181:0.343817)n2:0.0675235,Boleracea_Bo4g197290:0.158578)n1:0.213481)n0;

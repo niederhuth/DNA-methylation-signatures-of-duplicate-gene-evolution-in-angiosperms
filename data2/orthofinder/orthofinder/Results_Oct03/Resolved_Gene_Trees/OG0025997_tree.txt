@@ -1,1 +1,0 @@
-(Smelongena_SMEL_011g362720.1:0.152189,(((Fxananassa_snap_masked-Fvb5-4-processed-gene-121.23:1.98683e-06,(Fxananassa_snap_masked-Fvb6-2-processed-gene-5.18:0.0506869,Fxananassa_augustus_masked-Fvb4-3-processed-gene-54.8:1.98683e-06)n4:0.0125149)n3:0.470633,Alyrata_AL4G15590:0.401759)n2:0.109216,Aipaensis_araip.K30076.gnm1.ann1.Araip.SW6SF:0.662667)n1:0.152189)n0;

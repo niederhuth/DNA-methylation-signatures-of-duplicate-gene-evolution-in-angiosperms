@@ -1,1 +1,0 @@
-((Bdistachyon_Bradi1g35852:0.772935,Sitalica_Seita.9G403800:0.531702)n1:0.0805615,(Pvirgatum_Pavir.2NG472606:1.11356,(Osativa_LOC_Os06g04734:0,Osativa_LOC_Os06g04699:0)n3:1.28066)n2:0.0805615)n0;

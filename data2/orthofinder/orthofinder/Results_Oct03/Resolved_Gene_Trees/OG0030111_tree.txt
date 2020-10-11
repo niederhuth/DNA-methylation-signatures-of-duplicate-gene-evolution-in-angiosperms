@@ -1,1 +1,0 @@
-((Macuminata_GSMUA_Achr3G32220_001:0.7322,Cmelo_MELO3C019176.2:0.157227)n1:0.0792184,(Pvirgatum_Pavir.9NG013001:1.06257,(Crubella_Carub.0003s2129:0.352419,Vcorymbosum_maker-VaccDscaff9-augustus-gene-398.34:0.188381)n3:0.167349)n2:0.0792184)n0;

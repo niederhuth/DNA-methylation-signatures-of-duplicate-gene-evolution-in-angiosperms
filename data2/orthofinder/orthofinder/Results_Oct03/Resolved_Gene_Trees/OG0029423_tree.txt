@@ -1,1 +1,0 @@
-(((Zmays_Zm00001d009154:0.399474,Zmays_Zm00001d006622:0.797169)n2:0.26248,Boleracea_Bo08486s010:0.609399)n1:0.116479,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00004.283:0.126715,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00064.12:0.548443)n3:0.116479)n0;

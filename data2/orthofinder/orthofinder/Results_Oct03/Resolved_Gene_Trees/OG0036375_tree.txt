@@ -1,1 +1,0 @@
-(Mesculenta_Manes.09G183250:0.718332,(Spolyrhiza_Spipo20G0031800:0.0103185,(Spolyrhiza_Spipo20G0030800:0.15069,Spolyrhiza_Spipo20G0031100:0.749539)n2:0.328078)n1:0.718332)n0;

@@ -1,1 +1,0 @@
-((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00090.77:0.525108,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00090.75:0.250092)n1:0.174879,((Cpapaya_evm.TU.supercontig_14.242:0.680458,Rchinensis_RcHm_v2.0_Chr6g0258851:0.512399)n3:0.273813,(Stuberosum_PGSC0003DMG401024348:0.315311,Cannuum_CA04g10140:0.251633)n4:0.362793)n2:0.174879)n0;

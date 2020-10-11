@@ -1,1 +1,0 @@
-(Eguineensis_p5.00_sc00051_p0047:0.18377,((Bvulgaris_gene_BVRB_5g107420:0.102499,Bvulgaris_gene_BVRB_7g160620:0.0976391)n2:0.486445,((Fxananassa_snap_masked-Fvb1-1-processed-gene-121.19:0.555987,Mdomestica_MD15G1135300:0.67236)n4:0.228902,(Boleracea_Bo2g151770:0.442815,Boleracea_Bo4g052540:0.377078)n5:0.321026)n3:0.182889)n1:0.18377)n0;

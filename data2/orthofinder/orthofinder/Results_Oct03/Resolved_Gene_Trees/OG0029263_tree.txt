@@ -1,1 +1,0 @@
-((Aofficinalis_evm.TU.AsparagusV1_05.1841:0.481174,Spolyrhiza_Spipo12G0059100:0.63457)n1:0.0722379,(Zjujuba_LOC107428214:0.403864,(Cpapaya_evm.TU.contig_34573:2.69835e-06,Cpapaya_evm.TU.contig_45389:0.50405)n3:0.54186)n2:0.0722379)n0;

@@ -1,1 +1,0 @@
-(((Rchinensis_RcHm_v2.0_Chr4g0438831:0.38433,Fxananassa_augustus_masked-Fvb6-2-processed-gene-308.5:0.400988)n2:0.0140881,(Ljaponicus_Lj2g3v1267160:0.188162,Mtruncatula_Medtr5g043630:0.357387)n3:0.144527)n1:0.348002,(((Acoerulea_Aqcoe7G191400:0,Acoerulea_Aqcoe7G191200:0)n6:0.061045,Acoerulea_Aqcoe0015s0001:0.00767003)n5:0.0268178,Acoerulea_Aqcoe6G291900:0.0110651)n4:0.348002)n0;

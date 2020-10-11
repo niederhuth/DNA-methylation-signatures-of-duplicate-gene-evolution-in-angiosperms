@@ -1,1 +1,0 @@
-((Alyrata_AL1G63380:0,(Athaliana_AT1G55330:0,Crubella_Carub.0001s4384:0)n2:0)n1:0.0544735,(Brapa_Brara.H00063:0.013703,(Boleracea_Bo6g034440:0.125173,Boleracea_Bo3g185090:2.42134e-07)n4:2.42134e-07)n3:0.059796)n0;

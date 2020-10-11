@@ -1,1 +1,0 @@
-(Roccidentalis_snap_masked-Ro02-processed-gene-398.31:0.282242,(Cannuum_CA12g19350:0.104804,(Nattenuata_NIATv7_g13234:0.412942,(Smelongena_SMEL_012g393940.1:0.0346334,Smelongena_SMEL_012g389460.1:0.262955)n3:0.0182059)n2:0.0187939)n1:0.282242)n0;

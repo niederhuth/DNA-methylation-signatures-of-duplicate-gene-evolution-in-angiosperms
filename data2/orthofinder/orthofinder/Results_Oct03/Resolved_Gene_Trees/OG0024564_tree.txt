@@ -1,1 +1,0 @@
-(Slycopersicum_Solyc07g064470.3:0.273703,((Fxananassa_maker-Fvb3-2-snap-gene-140.43:0.474725,((Rchinensis_RcHm_v2.0_Chr5g0073171:0.625284,(Vvinifera_VIT_219s0090g00170:0.804077,Fvesca_FvH4_3g22460:0.302838)n5:0.163646)n4:0.240902,Egrandis_Eucgr.F00794:0.35259)n3:0.169035)n2:0.0622912,Cpapaya_evm.TU.supercontig_97.20:0.267923)n1:0.273703)n0;

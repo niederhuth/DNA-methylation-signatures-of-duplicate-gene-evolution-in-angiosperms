@@ -1,1 +1,0 @@
-((Mtruncatula_Medtr2g021730:1.2199,Mtruncatula_Medtr2g021830:0.459928)n1:0.359211,(Vcorymbosum_maker-VaccDscaff31-snap-gene-55.22:0.0219276,(Vcorymbosum_maker-VaccDscaff16-snap-gene-140.27:2.7154e-06,Vcorymbosum_maker-VaccDscaff18-snap-gene-262.45:0.00156587)n3:0.294386)n2:0.359211)n0;
