@@ -91,11 +91,16 @@ otherOG <- geneCounts[!(row.names(geneCounts) %in% c(row.names(coreGenes),
 	row.names(speciesSpecific),row.names(lineageSpecific))),]
 #Create dataframe of each orthogroup's category
 ogCat <- data.frame(Orthogroup=row.names(geneCounts),ogCat=NA)
-ogCat$ogCat <- ifelse(ogCat$Orthogroup %in% row.names(speciesSpecific),"Species/Lineage Specific",ogCat$ogCat)
-ogCat$ogCat <- ifelse(ogCat$Orthogroup %in% row.names(lineageSpecific),"Family Specific",ogCat$ogCat)
-ogCat$ogCat <- ifelse(ogCat$Orthogroup %in% row.names(otherOG),"Cross-Family",ogCat$ogCat)
-ogCat$ogCat <- ifelse(ogCat$Orthogroup %in% row.names(multiCopy),"Core: Other",ogCat$ogCat)
-ogCat$ogCat <- ifelse(ogCat$Orthogroup %in% row.names(singleCopy),"Core: Single Copy",ogCat$ogCat)
+ogCat$ogCat <- ifelse(ogCat$Orthogroup %in% row.names(speciesSpecific),
+	"Species/Lineage Specific",ogCat$ogCat)
+ogCat$ogCat <- ifelse(ogCat$Orthogroup %in% row.names(lineageSpecific),
+	"Family Specific",ogCat$ogCat)
+ogCat$ogCat <- ifelse(ogCat$Orthogroup %in% row.names(otherOG),
+	"Cross-Family",ogCat$ogCat)
+ogCat$ogCat <- ifelse(ogCat$Orthogroup %in% row.names(multiCopy),
+	"Core: Other",ogCat$ogCat)
+ogCat$ogCat <- ifelse(ogCat$Orthogroup %in% row.names(singleCopy),
+	"Core: Single Copy",ogCat$ogCat)
 
 top <- pOG <- data.frame()
 #Iterate over each species
@@ -108,7 +113,8 @@ for(a in species$Species){
 	#Change "NA" to "Missing"
 	df1$Classification <- ifelse(is.na(df1$Classification),"Missing",df1$Classification)
 	#Read in the orthogroups for that species
-	df2 <- read.table(paste(a,"/ref/mcscanx/",a,"_orthogroups.tsv",sep=""),header=FALSE,sep="\t")[c(1,2)]
+	df2 <- read.table(paste(a,"/ref/mcscanx/",a,"_orthogroups.tsv",sep=""),
+		header=FALSE,sep="\t")[c(1,2)]
 	#Redo the original orthogroup list for that species for other analyses
 	new <- merge(df2,ogCat,by.x="V2",by.y="Orthogroup")[c("V1","V2","ogCat")]
 	write.table(new,paste(a,"/ref/mcscanx/",a,"_orthogroups.tsv",sep=""),
@@ -179,4 +185,13 @@ for(a in c("gbM","TE.like","Unmethylated","Unclassified","Missing")){
 	ggsave(paste(a,"_orthogroup_distribution.pdf",sep=""),p,width=10,height=4)
 }
 
+for(a in c("Species/Lineage Specific","Family Specific","Cross-Family","Core: Other",
+	"Core: Single Copy")){
+	p <- ggplot(pOG[pOG$ogCat==a & pOG$variabl != "Total",]) + 
+		geom_bar(aes(x=reorder(Species,Order),y=pOG,fill=variable),stat="identity") + 
+		theme_bw() + theme(axis.text.x=element_text(angle=90,hjust=1,vjust=0.5)) + 
+		scale_y_continuous("Percentage of Genes",expand=c(0,0))
+	ggsave(paste(gsub(":","",gsub("/","-",gsub(" ","_",a))),"_methylation_distribution.pdf",
+		sep=""),p,width=10,height=4)
+}
 
