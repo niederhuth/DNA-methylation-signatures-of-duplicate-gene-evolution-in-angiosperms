@@ -1,0 +1,1 @@
+(Nnucifera_XP_010260199.1:0.289291,(Brapa_Brara.G01118:0.56105,(Mguttatus_Migut.J00958:0.233066,Mguttatus_Migut.J00920:0.0331033)n2:0.5807)n1:0.289291)n0;

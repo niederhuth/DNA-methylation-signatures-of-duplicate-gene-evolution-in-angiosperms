@@ -1,0 +1,1 @@
+(Tcacao_Thecc1EG016524:0.266384,((Vcorymbosum_maker-VaccDscaff49-snap-gene-10.36:0.126956,Vcorymbosum_maker-VaccDscaff20-snap-gene-371.34:0.293307)n2:0.26002,Vcorymbosum_maker-VaccDscaff28-snap-gene-5.30:0.950926)n1:0.266384)n0;

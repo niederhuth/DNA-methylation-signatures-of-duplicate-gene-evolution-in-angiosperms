@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_08.1445:0.355705,((Zjujuba_LOC107434094:0.269014,Ljaponicus_Lj2g3v2220830:0.17603)n2:0.0899385,Ppersica_Prupe.1G264600:0.750014)n1:0.355705)n0;

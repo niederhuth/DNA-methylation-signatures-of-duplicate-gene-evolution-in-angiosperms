@@ -1,0 +1,1 @@
+(((Aipaensis_araip.K30076.gnm1.ann1.Araip.9A8CM:0.408724,Clanatus_Cla97C05G098290:0.238296)n2:0.0297948,Cpapaya_evm.TU.supercontig_603.4:0.045821)n1:0.0235909,(Vvinifera_VIT_207s0141g00500:0.144056,Vvinifera_VIT_218s0086g00420:0.130788)n3:0.0235909)n0;

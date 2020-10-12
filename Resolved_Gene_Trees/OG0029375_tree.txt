@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_06.304:0.294864,(Fvesca_FvH4_3g21900:0.0799465,(Slycopersicum_Solyc12g038110.1:0.211647,(Slycopersicum_Solyc12g038000.2:0.965036,Slycopersicum_Solyc12g038030.1:0.202137)n3:0.217767)n2:0.137805)n1:0.294864)n0;

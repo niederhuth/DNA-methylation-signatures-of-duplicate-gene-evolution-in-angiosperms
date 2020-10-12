@@ -1,0 +1,1 @@
+(((Vvinifera_VIT_215s0048g00480:0.788591,Paxillaris_Peaxi162Scf00535g00039:0.681743)n2:0.113613,(Nnucifera_XP_010264397.1:0.0723977,((Ppersica_Prupe.2G210900:0.928907,Roccidentalis_maker-Ro05-snap-gene-376.64:0.115598)n5:0.171232,Nnucifera_XP_010278285.1:0.481053)n4:0.096002)n3:0.0106669)n1:0.095669,Aipaensis_araip.K30076.gnm1.ann1.Araip.PKY4B:0.601672)n0;

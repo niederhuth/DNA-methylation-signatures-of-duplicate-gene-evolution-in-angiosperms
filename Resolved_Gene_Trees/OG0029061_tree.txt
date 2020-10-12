@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr4G15770_001:0.304804,((Ljaponicus_Lj4g3v0484740:0.355307,Boleracea_Bo9g011150:0.493945)n2:0.0838575,(Aipaensis_araip.K30076.gnm1.ann1.Araip.0JD7C:0.113528,Aipaensis_araip.K30076.gnm1.ann1.Araip.L0C6M:0.502589)n3:0.251845)n1:0.304804)n0;

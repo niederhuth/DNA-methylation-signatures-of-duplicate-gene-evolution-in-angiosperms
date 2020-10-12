@@ -1,0 +1,1 @@
+(((Esalsugineum_Thhalv10028419m.g:0.240737,Esalsugineum_Thhalv10015515m.g:0.216928)n2:0.308041,(Athaliana_AT1G44020:0.127114,Athaliana_AT1G44030:0.128057)n3:0.0142286)n1:0.0214774,Boleracea_Bo4g096760:0.697048)n0;

@@ -1,0 +1,1 @@
+(Mguttatus_Migut.M00504:0.670527,((Paxillaris_Peaxi162Scf00818g00018:0.218364,Paxillaris_Peaxi162Scf00818g00017:0.248057)n2:0.116745,Nattenuata_NIATv7_g39610:0.325777)n1:0.670527)n0;

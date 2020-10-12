@@ -1,0 +1,1 @@
+((Nattenuata_NIATv7_g08658:0.923415,Nattenuata_NIATv7_g33662:0.782283)n1:0.159071,(Slycopersicum_Solyc07g053225.1:2.39547e-06,Smelongena_SMEL_007g289300.1:0.796572)n2:0.159071)n0;

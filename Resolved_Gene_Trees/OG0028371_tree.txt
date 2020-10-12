@@ -1,0 +1,1 @@
+(Smelongena_SMEL_005g241190.1:0.0416322,((Slycopersicum_Solyc12g098260.1:5e-07,Slycopersicum_Solyc12g098240.1:5e-07)n2:0.0387491,(Slycopersicum_Solyc12g098270.1:0.190862,(Slycopersicum_Solyc12g098250.1:0.144654,Slycopersicum_Solyc12g098230.1:0.0929791)n4:0.0591741)n3:0.0429956)n1:0.0416322)n0;

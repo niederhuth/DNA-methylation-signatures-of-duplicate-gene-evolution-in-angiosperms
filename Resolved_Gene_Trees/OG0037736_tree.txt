@@ -1,0 +1,1 @@
+(Smelongena_SMEL_007g275790.1:0.157018,(Vvinifera_VIT_208s0007g08820:0.668598,(Roccidentalis_maker-Ro06-snap-gene-195.96:0.489931,Roccidentalis_maker-Ro02-snap-gene-333.34:0.440868)n2:0.199375)n1:0.157018)n0;

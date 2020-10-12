@@ -1,0 +1,1 @@
+(Bvulgaris_gene_BVRB_037350:0.431775,(Cpapaya_evm.TU.contig_47546:0.040494,(Graimondii_Gorai.003G112600:0.343039,(Graimondii_Gorai.002G122100:0.092289,(Graimondii_Gorai.012G059000:0.194512,Graimondii_Gorai.008G128700:0.148016)n4:0.01565)n3:0.0841894)n2:0.300047)n1:0.431775)n0;

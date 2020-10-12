@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00086.95:0.194233,((Fxananassa_augustus_masked-Fvb6-2-processed-gene-261.5:0.0434727,Fvesca_FvH4_6g02010:3.44272e-06)n2:0.884472,(Aofficinalis_evm.TU.AsparagusV1_01.2089:0.804626,(Pxbretschneideri_LOC103963022:0.563203,Mdomestica_MD15G1180300:0.300964)n4:0.406556)n3:0.0865208)n1:0.194233)n0;

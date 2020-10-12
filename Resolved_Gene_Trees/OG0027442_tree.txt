@@ -1,0 +1,1 @@
+(Zmays_Zm00001d044372:0.607887,((Fxananassa_maker-Fvb1-3-snap-gene-25.59:0.0361625,(Fxananassa_snap_masked-Fvb1-2-processed-gene-19.25:3.2511e-06,Fxananassa_maker-Fvb1-2-snap-gene-30.74:0.119043)n3:0.0882352)n2:0.797158,(Fxananassa_maker-Fvb3-2-snap-gene-0.43:0.00437588,Fxananassa_maker-Fvb3-2-snap-gene-35.28:0.00390413)n4:1.00343)n1:0.607887)n0;

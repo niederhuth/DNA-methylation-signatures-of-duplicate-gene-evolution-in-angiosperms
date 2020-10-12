@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr2G07980_001:0.151375,(((Mdomestica_MD17G1156300:0.338641,Fxananassa_maker-Fvb1-3-snap-gene-197.38:0.616918)n3:0.05776,Slycopersicum_Solyc09g008290.3:0.520808)n2:0.114049,Vvinifera_VIT_218s0001g15160:0.489478)n1:0.151375)n0;

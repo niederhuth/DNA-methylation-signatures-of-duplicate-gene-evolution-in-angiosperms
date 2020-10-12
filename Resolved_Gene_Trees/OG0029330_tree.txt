@@ -1,0 +1,1 @@
+((Cannuum_CA07g04670:0.465635,Rchinensis_RcHm_v2.0_Chr4g0412701:0.227486)n1:0.0588689,((Aofficinalis_evm.TU.AsparagusV1_03.1726:0.241231,Aofficinalis_evm.TU.AsparagusV1_03.1725:0.424731)n3:0.253427,Pvirgatum_Pavir.8NG031200:0.455151)n2:0.0588689)n0;

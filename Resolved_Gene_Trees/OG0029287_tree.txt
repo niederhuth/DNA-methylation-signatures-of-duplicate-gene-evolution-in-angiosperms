@@ -1,0 +1,1 @@
+(Boleracea_Bo2g134300:0.509616,(Sitalica_Seita.4G003700:1.03772,((Aofficinalis_evm.TU.AsparagusV1_01.2538:0.345857,Aofficinalis_evm.TU.AsparagusV1_03.2574:0.304424)n3:0.386457,Aofficinalis_evm.TU.AsparagusV1_08.2333:0.677531)n2:0.0752812)n1:0.176453)n0;

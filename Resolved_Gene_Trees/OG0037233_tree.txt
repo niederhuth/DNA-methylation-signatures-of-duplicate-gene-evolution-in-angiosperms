@@ -1,0 +1,1 @@
+(Vcorymbosum_maker-VaccDscaff29-snap-gene-205.38:0.353668,((Zjujuba_LOC107434173:0.727261,Ppersica_Prupe.2G069700:0.572542)n2:0.257,Vvinifera_VIT_213s0101g00460:0.87104)n1:0.353668)n0;

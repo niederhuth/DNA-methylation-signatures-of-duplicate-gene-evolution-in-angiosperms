@@ -1,0 +1,1 @@
+(Vvinifera_VIT_214s0060g00940:0.325687,((Graimondii_Gorai.011G202300:0.601561,(Cpapaya_evm.TU.supercontig_9.20:2.77183e-06,(Tcacao_Thecc1EG021413:0.567799,Cpapaya_evm.TU.supercontig_9.21:0.157207)n4:0.0375642)n3:0.0041738)n2:0.0327555,Ljaponicus_Lj0g3v0326349:0.754548)n1:0.325687)n0;

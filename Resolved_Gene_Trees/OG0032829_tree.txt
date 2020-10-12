@@ -1,0 +1,1 @@
+((Aduranensis_aradu.V14167.gnm1.ann1.Aradu.6SA52:0.389615,Vcorymbosum_maker-VaccDscaff29-augustus-gene-153.28:0.156947)n1:0.0724575,(Nattenuata_NIATv7_g45001:0.408657,Boleracea_Bo4g069180:0.19719)n2:0.0724575)n0;

@@ -1,0 +1,1 @@
+(Zmays_Zm00001d031254:0.196813,(Roccidentalis_maker-Ro03-snap-gene-70.57:0.357774,(Gsoja_GlysoPI483463.13G282000:0,Gmax_Glyma.13G332633:0)n2:0.183777)n1:0.196813)n0;

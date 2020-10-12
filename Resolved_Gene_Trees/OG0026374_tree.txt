@@ -1,0 +1,1 @@
+((Roccidentalis_maker-Ro04-snap-gene-307.92:0.674747,((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00062.105:0.817751,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00001.549:0.107585,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00002.125:0.0445999)n4:0.122477)n3:0.0860016,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00004.209:0.453299)n2:0.0503665)n1:0.0123008,Cannuum_CA11g01650:0.25655)n0;

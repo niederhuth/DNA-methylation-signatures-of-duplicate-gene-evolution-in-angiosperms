@@ -1,0 +1,1 @@
+(Mdomestica_MD03G1019400:0.371248,(Roccidentalis_maker-Ro06-snap-gene-191.96:0.389891,(((Rchinensis_RcHm_v2.0_Chr2g0151941:0.567175,Rchinensis_RcHm_v2.0_Chr2g0152191:0.705424)n4:0.308317,Rchinensis_RcHm_v2.0_Chr2g0151881:0.568724)n3:0.179802,Rchinensis_RcHm_v2.0_Chr2g0151921:0.334733)n2:0.0371925)n1:0.24889)n0;

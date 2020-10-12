@@ -1,0 +1,1 @@
+(Slycopersicum_Solyc04g080860.1:0.212436,(Roccidentalis_maker-Ro05-snap-gene-89.56:0.771568,((Fxananassa_maker-Fvb2-3-augustus-gene-10.30:0.11118,Fxananassa_augustus_masked-Fvb1-3-processed-gene-258.0:0.0991196)n3:0.277829,Fxananassa_augustus_masked-Fvb1-3-processed-gene-233.2:0.28377)n2:0.526237)n1:0.212436)n0;

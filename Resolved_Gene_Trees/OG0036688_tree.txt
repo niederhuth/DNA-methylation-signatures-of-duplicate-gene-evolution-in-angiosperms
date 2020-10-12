@@ -1,0 +1,1 @@
+((Rchinensis_RcHm_v2.0_Chr6g0252451:0.0702525,Rchinensis_RcHm_v2.0_Chr7g0237401:0.0160675)n1:0.0941789,(Nattenuata_NIATv7_g43855:0.346517,Slycopersicum_Solyc11g030770.1:1.04853)n2:0.0941789)n0;

@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_05.2526:0.385901,(Mesculenta_Manes.03G139812:1.05123,(Boleracea_Bo01265s020:0.0674287,Boleracea_Bo4g107730:0.0974733)n2:0.208606)n1:0.385901)n0;

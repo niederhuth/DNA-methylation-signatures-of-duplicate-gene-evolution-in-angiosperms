@@ -1,0 +1,1 @@
+(Sviridis_Sevir.4G117301:0.483111,((Othomaeum_Oropetium_20150105_09577:1.11854,Othomaeum_Oropetium_20150105_16031:0.0981745)n2:0.173405,Othomaeum_Oropetium_20150105_16030:2.18571e-06)n1:0.483111)n0;

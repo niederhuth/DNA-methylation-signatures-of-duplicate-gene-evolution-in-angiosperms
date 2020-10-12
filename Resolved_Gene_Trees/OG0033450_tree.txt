@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_05.1681:0.259576,((Mtruncatula_Medtr7g076780:0.662209,Mtruncatula_Medtr2g075885:0.377664)n2:0.328576,Paxillaris_Peaxi162Scf00017g00412:0.698298)n1:0.259576)n0;

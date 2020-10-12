@@ -1,0 +1,1 @@
+(Zjujuba_LOC107414819:0.536986,(Roccidentalis_snap_masked-Ro07-processed-gene-303.7:0.964393,(Rchinensis_RcHm_v2.0_Chr5g0022011:0.677597,((Fxananassa_augustus_masked-Fvb3-1-processed-gene-172.2:0.129543,Fxananassa_augustus_masked-Fvb3-1-processed-gene-168.7:0.181886)n4:0.219652,Fxananassa_augustus_masked-Fvb3-3-processed-gene-128.2:0.668283)n3:0.243333)n2:0.214418)n1:0.536986)n0;

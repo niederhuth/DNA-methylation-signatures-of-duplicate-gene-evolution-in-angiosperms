@@ -1,0 +1,1 @@
+(Pvirgatum_Pavir.2KG102316:0.413363,((Cpapaya_evm.TU.supercontig_3.173:0.453281,Slycopersicum_Solyc03g080070.3:0.392192)n2:0.177864,(Rchinensis_RcHm_v2.0_Chr7g0227821:0.350118,(Rchinensis_RcHm_v2.0_Chr1g0332301:0.116138,Rchinensis_RcHm_v2.0_Chr7g0221901:0.442018)n4:0.174534)n3:0.0193927)n1:0.104197)n0;

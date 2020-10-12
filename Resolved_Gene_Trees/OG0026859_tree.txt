@@ -1,0 +1,1 @@
+(Vvinifera_VIT_209s0002g05850:0.37698,(Ptrichocarpa_Potri.017G034000:0.645535,(Cclementina_Ciclev10026881m.g:0.333385,(Cclementina_Ciclev10027279m.g:3.00101e-06,(Cclementina_Ciclev10026844m.g:0.0686055,Cclementina_Ciclev10027049m.g:0.47228)n4:0.0376402)n3:0.193892)n2:0.497242)n1:0.37698)n0;

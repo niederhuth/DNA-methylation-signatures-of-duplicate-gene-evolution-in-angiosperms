@@ -1,0 +1,1 @@
+(Athaliana_AT2G07806:0.644691,(Fvesca_FvH4_c1g00170:0.0080345,(Fxananassa_maker-Fvb4-2-snap-gene-83.75:0.0609667,Fxananassa_maker-Fvb2-3-snap-gene-204.8:0.0367646)n2:0.00408495)n1:0.263304)n0;

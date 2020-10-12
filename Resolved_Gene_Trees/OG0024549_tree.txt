@@ -1,0 +1,1 @@
+((Pvirgatum_Pavir.J034419:0.65881,Cpapaya_evm.TU.supercontig_263.11:0.548511)n1:0.0500032,(Phallii_Pahal.8G257300:0.567045,((Slycopersicum_Solyc01g065790.1:0.135239,Smelongena_SMEL_005g233580.1:0.356509)n4:0.265253,(Fvesca_FvH4_c1g00100:3.32433e-06,Fxananassa_maker-Fvb2-3-augustus-gene-203.18:0.0184146)n5:0.549913)n3:0.128228)n2:0.0500032)n0;

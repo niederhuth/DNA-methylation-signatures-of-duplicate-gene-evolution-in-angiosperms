@@ -1,0 +1,1 @@
+((Nattenuata_NIATv7_g44387:1.14918,((Aduranensis_aradu.V14167.gnm1.ann1.Aradu.79T48:0.207149,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.Y5PC3:0.20565)n3:0.240692,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.IVM0L:0.0321109)n2:0.00356787)n1:0.0578072,(Vcorymbosum_maker-VaccDscaff8-snap-gene-280.43:0.0480716,Vcorymbosum_maker-VaccDscaff10-snap-gene-262.24:0.242199)n4:0.475048)n0;

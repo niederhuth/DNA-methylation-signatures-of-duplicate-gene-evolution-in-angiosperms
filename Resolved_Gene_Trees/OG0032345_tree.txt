@@ -1,0 +1,1 @@
+(Zjujuba_LOC107435940:0.305855,(((Vcorymbosum_augustus_masked-VaccDscaff18-processed-gene-11.0:2.68154e-06,Vcorymbosum_snap_masked-VaccDscaff11-processed-gene-170.9:0.220324)n3:0.219047,Vcorymbosum_maker-VaccDscaff30-snap-gene-35.40:0.600695)n2:0.161749,Vcorymbosum_snap_masked-VaccDscaff8-processed-gene-353.16:0.880014)n1:0.305855)n0;

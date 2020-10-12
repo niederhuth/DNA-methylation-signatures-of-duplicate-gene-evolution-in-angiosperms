@@ -1,0 +1,1 @@
+(Stuberosum_PGSC0003DMG400006278:0.629279,(Vcorymbosum_maker-VaccDscaff9-snap-gene-16.30:0.437233,(Vcorymbosum_maker-VaccDscaff36-augustus-gene-264.31:5e-07,Vcorymbosum_maker-VaccDscaff36-augustus-gene-264.29:5e-07)n2:0.27269)n1:0.629279)n0;

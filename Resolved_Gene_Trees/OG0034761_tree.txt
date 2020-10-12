@@ -1,0 +1,1 @@
+(Cviolacea_Clevi.0149s0006:0.018399,((Cviolacea_Clevi.0585s0001:9.42532e-08,Cviolacea_Clevi.0585s0004:0.0574552)n2:0.00036225,Cviolacea_Clevi.1081s0001:0)n1:0.018399)n0;

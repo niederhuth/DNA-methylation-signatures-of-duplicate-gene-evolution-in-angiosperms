@@ -1,0 +1,1 @@
+((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00010.463:0.34675,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00010.468:0.520895)n1:0.109817,(Fxananassa_snap_masked-Fvb5-4-processed-gene-64.38:0.970861,Acoerulea_Aqcoe3G192600:0.640913)n2:0.109817)n0;

@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00087.58:0.348724,(Smelongena_SMEL_006g248100.1:0.814208,(Cannuum_CA10g11270:0.338714,Cannuum_CA12g18320:0.717947)n2:0.306679)n1:0.348724)n0;

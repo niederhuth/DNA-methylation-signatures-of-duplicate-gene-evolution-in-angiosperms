@@ -1,0 +1,1 @@
+(Cannuum_CA01g23830:0.189059,(Gmax_Glyma.18G123732:0.24443,(Aipaensis_araip.K30076.gnm1.ann1.Araip.ZM7S7:0.237387,Aipaensis_araip.K30076.gnm1.ann1.Araip.NIT2A:0.363146)n2:0.0403495)n1:0.164996)n0;

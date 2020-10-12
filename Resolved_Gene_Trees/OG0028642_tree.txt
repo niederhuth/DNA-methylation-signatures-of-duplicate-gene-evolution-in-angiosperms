@@ -1,0 +1,1 @@
+(Pvirgatum_Pavir.7KG167130:0.340283,((Acoerulea_Aqcoe1G211700:1.07277,(Mtruncatula_Medtr5g040130:0.573166,Mtruncatula_Medtr7g110960:0.360754)n3:0.0400838)n2:0.0486036,Egrandis_Eucgr.L03392:1.04556)n1:0.340283)n0;

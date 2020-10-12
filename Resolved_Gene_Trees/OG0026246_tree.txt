@@ -1,0 +1,1 @@
+(Mtruncatula_Medtr0374s0010:0.274186,(Aofficinalis_evm.TU.AsparagusV1_10.1344:0.982773,(Aofficinalis_evm.TU.AsparagusV1_02.2089:0.68478,(Aofficinalis_evm.TU.AsparagusV1_05.1837:0.147254,(Aofficinalis_evm.TU.AsparagusV1_08.2678:0.0790385,Aofficinalis_evm.TU.AsparagusV1_06.920:0.181758)n4:0.0587022)n3:0.22595)n2:0.077309)n1:0.274186)n0;

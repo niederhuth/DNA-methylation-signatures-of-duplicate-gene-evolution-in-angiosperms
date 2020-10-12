@@ -1,0 +1,1 @@
+((((Rchinensis_RcHm_v2.0_Chr5g0032071:0.481685,Rchinensis_RcHm_v2.0_Chr5g0038981:0.048406)n3:0.109168,(Rchinensis_RcHm_v2.0_Chr2g0106871:0.119002,Rchinensis_RcHm_v2.0_Chr4g0402291:0.00491675)n4:0.244631)n2:0.319786,(Aofficinalis_evm.TU.AsparagusV1_07.2322:0.213079,Aofficinalis_evm.TU.AsparagusV1_03.2007:0.574431)n5:0.0638257)n1:0.00745569,Boleracea_Bo1g098320:0.75763)n0;

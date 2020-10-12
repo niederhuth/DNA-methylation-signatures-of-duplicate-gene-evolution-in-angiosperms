@@ -1,0 +1,1 @@
+((Bdistachyon_Bradi2g37631:1.24818,(Fxananassa_snap_masked-Fvb2-1-processed-gene-13.35:0.5263,(Fxananassa_snap_masked-Fvb7-2-processed-gene-220.31:0.590046,Fxananassa_snap_masked-Fvb7-1-processed-gene-245.43:0.212223)n3:0.395727)n2:0.0439697)n1:0.0502449,Zmays_Zm00001d053050:1.057)n0;

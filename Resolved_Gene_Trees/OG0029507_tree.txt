@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00055.4:0.493693,(Ljaponicus_Lj0g3v0170779:0.741498,((Mtruncatula_Medtr4g007350:0.576539,Mtruncatula_Medtr6g015705:0.929594)n3:0.16306,Mtruncatula_Medtr5g029790:0.758541)n2:0.0844765)n1:0.493693)n0;

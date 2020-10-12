@@ -1,0 +1,1 @@
+((Spolyrhiza_Spipo13G0049800:0.604617,(Boleracea_Bo4g039330:0.424979,Vcorymbosum_maker-VaccDscaff28-snap-gene-130.17:0.242504)n2:0.0346928)n1:0.0490554,(Fxananassa_snap_masked-Fvb3-2-processed-gene-57.21:0.326311,Othomaeum_Oropetium_20150105_26123:0.634587)n3:0.0490554)n0;

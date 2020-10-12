@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00003.214:0.20778,(Smelongena_SMEL_005g227580.1:0.755893,(((Ljaponicus_Lj6g3v0216910:0,Ljaponicus_Lj0g3v0281419:0)n4:0,Ljaponicus_Lj4g3v0254300:0)n3:0.152469,(Gmax_Glyma.15G248401:0.105242,Gmax_Glyma.01G105200:0.325204)n5:0.338954)n2:0.538296)n1:0.20778)n0;

@@ -1,0 +1,1 @@
+((Othomaeum_Oropetium_20150105_09381:0.172079,((Aipaensis_araip.K30076.gnm1.ann1.Araip.0Y93R:0.238033,Phallii_Pahal.4G013500:0.457085)n3:0.0892319,Aipaensis_araip.K30076.gnm1.ann1.Araip.ZKY1K:0.494454)n2:0.0549393)n1:0.0383319,(Boleracea_Bo9g135660:0.429133,Alyrata_AL5G26420:0.13356)n4:0.113127)n0;

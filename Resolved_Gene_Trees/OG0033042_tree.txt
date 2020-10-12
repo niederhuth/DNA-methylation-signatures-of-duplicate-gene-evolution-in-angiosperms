@@ -1,0 +1,1 @@
+((Pvirgatum_Pavir.2KG174116:0.777209,Aipaensis_araip.K30076.gnm1.ann1.Araip.81UW0:0.316272)n1:0.0660625,(Mdomestica_MD04G1248000:0.668262,Spolyrhiza_Spipo9G0052700:0.667142)n2:0.0660625)n0;

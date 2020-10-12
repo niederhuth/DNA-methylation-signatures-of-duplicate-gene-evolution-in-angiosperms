@@ -1,0 +1,1 @@
+(((Pvirgatum_Pavir.J371220:1.1003e-07,Pvirgatum_Pavir.4KG103720:0.00368937)n2:3.075e-05,((Pvirgatum_Pavir.J683278:0.0855748,Pvirgatum_Pavir.J220301:1.1003e-07)n4:7.075e-05,Pvirgatum_Pavir.J007152:1.1003e-07)n3:5.15e-05)n1:0.0104066,(Sviridis_Sevir.1G145621:5e-07,Sitalica_Seita.J006400:5e-07)n5:0.0104066)n0;

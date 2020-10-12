@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_07.1508:0.0760855,(Aipaensis_araip.K30076.gnm1.ann1.Araip.ZKD5R:0.732475,(Gmax_Glyma.06G084900:0.32203,Roccidentalis_maker-Ro02-snap-gene-288.46:0.832851)n2:0.269591)n1:0.0760855)n0;

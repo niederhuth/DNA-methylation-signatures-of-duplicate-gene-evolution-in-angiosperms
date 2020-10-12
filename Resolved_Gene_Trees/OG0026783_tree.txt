@@ -1,0 +1,1 @@
+(Cannuum_CA08g05450:0.447019,(((Mtruncatula_Medtr0106s0030:0.797294,Mtruncatula_Medtr8g045770:0.597292)n3:0.202829,Mtruncatula_Medtr7g406750:0.8063)n2:0.176237,(Ljaponicus_Lj4g3v2337910:0,Ljaponicus_Lj1g3v3846990:0)n4:0.850847)n1:0.447019)n0;

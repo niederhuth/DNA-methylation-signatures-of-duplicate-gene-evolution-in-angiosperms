@@ -1,0 +1,1 @@
+(Pvirgatum_Pavir.1NG424300:0.56722,((Vcorymbosum_maker-VaccDscaff16-snap-gene-303.40:0.124919,(Vcorymbosum_maker-VaccDscaff32-augustus-gene-37.32:0.0916437,Vcorymbosum_maker-VaccDscaff31-augustus-gene-245.23:0.0661782)n3:0.187526)n2:0.111089,Vcorymbosum_maker-VaccDscaff13-augustus-gene-357.30:0.597509)n1:0.56722)n0;

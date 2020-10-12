@@ -1,0 +1,1 @@
+((Cclementina_Ciclev10002218m.g:0.120235,Cclementina_Ciclev10003223m.g:0.310754)n1:0.0373647,(Ljaponicus_Lj0g3v0160969:0.240738,(((Fxananassa_snap_masked-Fvb6-1-processed-gene-330.39:1.32169,Fxananassa_snap_masked-Fvb6-1-processed-gene-330.34:2.81874e-06)n5:0.497411,Gmax_Glyma.08G164600:0.011095)n4:0.0419068,Gsoja_GlysoPI483463.08G151700:0.0470371)n3:0.166597)n2:0.0373647)n0;

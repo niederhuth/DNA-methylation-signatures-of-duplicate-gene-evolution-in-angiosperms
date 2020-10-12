@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00041.261:0.0881278,((Zmays_Zm00001d040375:0.22948,((Cclementina_Ciclev10024370m.g:0.166645,Cclementina_Ciclev10024450m.g:0.147609)n4:0.16501,Cclementina_Ciclev10003291m.g:0.206258)n3:0.100301)n2:0.11508,Vcorymbosum_maker-VaccDscaff30-snap-gene-98.37:0.303992)n1:0.0881278)n0;

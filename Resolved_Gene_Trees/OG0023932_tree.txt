@@ -1,0 +1,1 @@
+(Cannuum_CA01g17000:0.205811,((Alyrata_AL3G13650:0.604814,Cpapaya_evm.TU.contig_44999:0.115931)n2:0.0476477,(Roccidentalis_maker-Ro06-exonerate_est2genome-gene-179.8:0.490147,(Fvesca_FvH4_6g36670:0.0476178,(Fxananassa_augustus_masked-Fvb6-3-processed-gene-100.4:0.0515838,Fxananassa_maker-Fvb6-1-snap-gene-100.59:0.147513)n5:0.0163903)n4:0.222946)n3:0.0566965)n1:0.205811)n0;

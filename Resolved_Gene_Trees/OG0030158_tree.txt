@@ -1,0 +1,1 @@
+(Cpapaya_evm.TU.supercontig_24.43:0.174666,((Phallii_Pahal.3G282500:0.0358202,(Phallii_Pahal.1G321400:0.161256,Phallii_Pahal.2G130400:1.63088e-06)n3:0.229366)n2:0.401857,Macuminata_GSMUA_Achr3G27310_001:0.475513)n1:0.174666)n0;

@@ -1,0 +1,1 @@
+(Cannuum_CA12g14290:0.237088,(Cpapaya_evm.TU.supercontig_26.116:0.472746,(Mesculenta_Manes.16G043040:1.05771,(Mesculenta_Manes.07G106104:0.0667843,Mesculenta_Manes.12G146601:0.0354187)n3:0.442713)n2:0.019104)n1:0.237088)n0;

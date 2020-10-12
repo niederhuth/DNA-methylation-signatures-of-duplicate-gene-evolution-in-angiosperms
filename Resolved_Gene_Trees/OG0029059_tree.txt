@@ -1,0 +1,1 @@
+(Eguineensis_p5.00_sc00396_p0004:0.277515,(Cpapaya_evm.TU.supercontig_17.55:0.474467,((Aipaensis_araip.K30076.gnm1.ann1.Araip.5V2I2:0.281904,Ptrichocarpa_Potri.011G091800:0.736644)n3:0.134649,Mdomestica_MD05G1278900:0.415394)n2:0.0797376)n1:0.277515)n0;

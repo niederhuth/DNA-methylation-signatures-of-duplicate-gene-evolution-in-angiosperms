@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00001.95:0.192005,(Aofficinalis_evm.TU.AsparagusV1_10.1808:0.611041,(Macuminata_GSMUA_Achr9G29550_001:0.755505,(Zjujuba_LOC107419226:0.167824,(Rchinensis_RcHm_v2.0_Chr4g0385701:0.385848,Rchinensis_RcHm_v2.0_Chr1g0314231:0.0521843)n4:0.00579825)n3:0.437597)n2:0.163467)n1:0.192005)n0;

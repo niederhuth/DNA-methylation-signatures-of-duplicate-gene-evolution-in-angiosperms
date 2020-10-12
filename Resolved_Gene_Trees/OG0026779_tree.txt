@@ -1,0 +1,1 @@
+((Ljaponicus_Lj2g3v3104820:0.63994,(Fxananassa_augustus_masked-Fvb5-3-processed-gene-203.10:0.682347,Fvesca_FvH4_6g37920:0.265276)n2:0.171544)n1:0.146877,((Cannuum_CA07g12660:0.330393,Cannuum_CA11g04310:0.181183)n4:0.265315,Vcorymbosum_maker-VaccDscaff14-augustus-gene-182.18:0.354716)n3:0.146877)n0;

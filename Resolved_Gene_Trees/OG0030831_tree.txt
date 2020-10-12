@@ -1,0 +1,1 @@
+(Fxananassa_augustus_masked-Fvb6-2-processed-gene-13.6:0.988803,(Mtruncatula_Medtr2g064475:0.331769,(Mtruncatula_Medtr2g067900:0.259935,(Mtruncatula_Medtr2g067560:0.623519,Mtruncatula_Medtr2g066980:0.324403)n3:0.0447501)n2:0.032633)n1:0.988803)n0;

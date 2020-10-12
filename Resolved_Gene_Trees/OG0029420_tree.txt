@@ -1,0 +1,1 @@
+(((Bvulgaris_gene_BVRB_026790:0.369789,Fxananassa_maker-Fvb2-2-augustus-gene-189.36:0.528983)n2:0.0876164,Ljaponicus_Lj0g3v0317639:0.680009)n1:0.306605,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00065.4:0.0768882,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00029.34:0.0383078)n3:0.306605)n0;

@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00173.14:0.285001,(Cclementina_Ciclev10010051m.g:0.443172,(Mdomestica_MD15G1096200:0.359303,(Gmax_Glyma.04G081300:0.461847,Gmax_Glyma.04G081501:0.617639)n3:0.144775)n2:0.243912)n1:0.285001)n0;

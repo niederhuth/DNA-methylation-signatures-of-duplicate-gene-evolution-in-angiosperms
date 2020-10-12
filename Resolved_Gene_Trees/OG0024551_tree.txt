@@ -1,0 +1,1 @@
+(((Ppersica_Prupe.1G121300:0.240171,(Ppersica_Prupe.1G121100:0.428431,Ppersica_Prupe.1G121000:0.145733)n3:0.0436568)n2:0.059438,((Cpapaya_evm.TU.supercontig_277.7:0.722398,Graimondii_Gorai.005G066200:0.667225)n5:0.215389,Cpapaya_evm.TU.supercontig_9.83:0.475165)n4:0.0527961)n1:0.03953,Roccidentalis_snap_masked-Ro05-processed-gene-147.5:0.527447)n0;

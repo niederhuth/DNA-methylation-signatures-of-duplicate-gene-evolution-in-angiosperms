@@ -1,0 +1,1 @@
+(Cpapaya_evm.TU.supercontig_263.30:0.312906,(Smelongena_SMEL_005g233620.1:0.55994,(Slycopersicum_Solyc03g061570.1:0.0476065,Slycopersicum_Solyc00g019970.2:0.412289)n2:0.0458098)n1:0.143394)n0;

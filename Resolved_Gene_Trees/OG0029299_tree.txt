@@ -1,0 +1,1 @@
+((Fxananassa_augustus_masked-Fvb5-2-processed-gene-122.1:0.594171,Rchinensis_RcHm_v2.0_Chr1g0359101:0.559215)n1:0.132849,(Spolyrhiza_Spipo0G0043200:0.517366,(Aofficinalis_evm.TU.AsparagusV1_07.2840:0.508815,Aofficinalis_evm.TU.AsparagusV1_03.1971:0.216464)n3:0.0240516)n2:0.225178)n0;

@@ -1,0 +1,1 @@
+(Roccidentalis_maker-Ro01-snap-gene-53.94:0.595281,(Mdomestica_MD00G1176000:0.140154,(Mdomestica_MD02G1135200:1.71617e-06,Mdomestica_MD02G1110300:0.117201)n2:0.284124)n1:0.595281)n0;

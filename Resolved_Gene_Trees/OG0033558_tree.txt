@@ -1,0 +1,1 @@
+(Vcorymbosum_snap_masked-VaccDscaff33-processed-gene-2.17:0.314057,((Eguineensis_p5.00_sc01277_p0002:0.202002,Eguineensis_p5.00_sc00047_p0010:0.345836)n2:0.0724725,Aofficinalis_evm.TU.AsparagusV1_03.3066:1.30679)n1:0.314057)n0;

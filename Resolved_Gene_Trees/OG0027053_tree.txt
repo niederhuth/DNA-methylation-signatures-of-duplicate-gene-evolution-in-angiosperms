@@ -1,0 +1,1 @@
+(Fxananassa_snap_masked-Fvb2-2-processed-gene-41.18:0.4595,(((Othomaeum_Oropetium_20150105_08056:1.20596,Zmays_Zm00001d021824:1.07337)n3:0.0999681,Sitalica_Seita.8G250100:1.15299)n2:0.107829,(Eguineensis_p5.00_sc00158_p0030:1.43656,Eguineensis_p5.00_sc00003_p0016:1.16529)n4:0.129476)n1:0.0275706)n0;

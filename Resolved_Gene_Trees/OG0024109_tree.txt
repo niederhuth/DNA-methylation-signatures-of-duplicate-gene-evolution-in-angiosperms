@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00059.246:0.342871,(((Cpapaya_evm.TU.supercontig_62.71:0.21719,(Tcacao_Thecc1EG006981:0.130841,Graimondii_Gorai.005G239500:0.209943)n4:0.0486061)n3:0.0466871,(Mesculenta_Manes.17G095700:0.161953,Mesculenta_Manes.15G144600:0.116159)n5:0.157215)n2:0.0176404,Vvinifera_VIT_203s0063g01365:0.282388)n1:0.342871)n0;

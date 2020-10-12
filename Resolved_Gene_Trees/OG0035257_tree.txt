@@ -1,0 +1,1 @@
+((Roccidentalis_maker-Ro07-exonerate_protein2genome-gene-123.37:0.193279,Roccidentalis_snap_masked-Ro07-processed-gene-122.18:0.197174)n1:0.141103,(Fvesca_FvH4_7g04280:1.71884e-06,Fxananassa_maker-Fvb7-3-snap-gene-200.50:1.05261)n2:0.141103)n0;

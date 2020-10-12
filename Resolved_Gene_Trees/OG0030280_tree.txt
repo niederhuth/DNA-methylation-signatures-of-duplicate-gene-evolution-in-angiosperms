@@ -1,0 +1,1 @@
+(Pvirgatum_Pavir.9KG376600:0.635791,(Egrandis_Eucgr.L00180:0.187253,(Egrandis_Eucgr.G00756:0.18009,(Egrandis_Eucgr.G00666:0,Egrandis_Eucgr.L00174:0)n3:0.362274)n2:0.0189017)n1:0.635791)n0;

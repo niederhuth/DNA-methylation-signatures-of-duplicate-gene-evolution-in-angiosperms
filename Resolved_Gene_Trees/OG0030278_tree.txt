@@ -1,0 +1,1 @@
+(Vvinifera_VIT_200s0246g00130:0.114298,(Egrandis_Eucgr.B01961:0.299866,((Mesculenta_Manes.S022840:5e-07,Mesculenta_Manes.09G076354:5e-07)n3:0.102136,Mesculenta_Manes.18G017433:0.208787)n2:0.094768)n1:0.114298)n0;

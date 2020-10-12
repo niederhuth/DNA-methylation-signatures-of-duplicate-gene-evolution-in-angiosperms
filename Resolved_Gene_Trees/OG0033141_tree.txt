@@ -1,0 +1,1 @@
+(Cpapaya_evm.TU.contig_32512:0.235017,(Aipaensis_araip.K30076.gnm1.ann1.Araip.GY2X0:0.902143,(Rchinensis_RcHm_v2.0_Chr5g0083381:0.360001,Rchinensis_RcHm_v2.0_Chr5g0034711:0.439889)n2:0.357777)n1:0.235017)n0;

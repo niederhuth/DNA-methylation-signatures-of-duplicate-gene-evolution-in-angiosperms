@@ -1,0 +1,1 @@
+(Ptrichocarpa_Potri.007G111300:0.224373,((Fvesca_FvH4_4g05640:0.158377,Fxananassa_augustus_masked-Fvb7-4-processed-gene-144.4:0.294394)n2:0.13777,(Pxbretschneideri_LOC103953425:0.116582,(Mdomestica_MD09G1181000:0.278317,(Mdomestica_MD11G1248000:0.202215,Mdomestica_MD06G1090400:0.102919)n5:0.0102919)n4:0.00114354)n3:0.0501646)n1:0.224373)n0;

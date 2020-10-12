@@ -1,0 +1,1 @@
+(Ptrichocarpa_Potri.019G125400:0.288092,((Roccidentalis_maker-Ro07-snap-gene-169.64:0.622356,Roccidentalis_maker-Ro07-snap-gene-169.63:0.132631)n2:0.190694,Roccidentalis_maker-Ro06-exonerate_protein2genome-gene-434.22:0.302941)n1:0.288092)n0;

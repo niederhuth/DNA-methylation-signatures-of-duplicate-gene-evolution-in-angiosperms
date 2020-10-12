@@ -1,0 +1,1 @@
+(Cannuum_CA12g08010:0.151329,(((Fxananassa_maker-Fvb4-3-augustus-gene-88.37:0.043578,Fvesca_FvH4_4g25840:0.112181)n3:0.412444,(Rchinensis_RcHm_v2.0_Chr5g0057371:0.466301,Rchinensis_RcHm_v2.0_Chr2g0097681:0.619348)n4:0.0688164)n2:0.194002,(Gmax_Glyma.01G028033:5e-07,Gsoja_GlysoPI483463.01G026200:5e-07)n5:0.483275)n1:0.239911)n0;

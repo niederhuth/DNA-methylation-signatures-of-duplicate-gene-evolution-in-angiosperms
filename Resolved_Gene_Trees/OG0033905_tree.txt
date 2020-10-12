@@ -1,0 +1,1 @@
+(Bdistachyon_Bradi3g44863:0.339975,(Ptrichocarpa_Potri.017G046000:0.763722,(Roccidentalis_maker-Ro05-snap-gene-204.63:0.563852,Mdomestica_MD11G1100000:0.510322)n2:0.0883157)n1:0.339975)n0;

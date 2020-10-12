@@ -1,0 +1,1 @@
+(Mtruncatula_Medtr3g044903:0.90496,(Boleracea_Bo9g160100:0.141791,(Boleracea_Bo2g055330:0.254115,Boleracea_Bo9g097240:0.325572)n2:0.0637405)n1:0.90496)n0;

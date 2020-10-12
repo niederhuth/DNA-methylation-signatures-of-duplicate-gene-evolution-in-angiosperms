@@ -1,0 +1,1 @@
+(Eguineensis_p5.00_sc00025_p0145:0.414016,(Roccidentalis_maker-Ro03-snap-gene-17.62:0.337296,(Roccidentalis_maker-Ro03-snap-gene-20.82:0,Roccidentalis_maker-Ro03-snap-gene-0.80:0)n2:0.786358)n1:0.414016)n0;

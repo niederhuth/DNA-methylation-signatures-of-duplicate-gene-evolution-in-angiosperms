@@ -1,0 +1,1 @@
+(((Fxananassa_snap_masked-Fvb4-1-processed-gene-196.18:0.217298,Roccidentalis_maker-Ro04-snap-gene-8.124:0.538622)n2:0.150831,Rchinensis_RcHm_v2.0_Chr4g0445511:1.71783e-06)n1:0.276126,(Cmelo_MELO3C005227.2:0.112125,Csativus_CsaV3_5G017260:0.223376)n3:0.276126)n0;

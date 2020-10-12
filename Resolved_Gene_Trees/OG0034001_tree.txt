@@ -1,0 +1,1 @@
+(Slycopersicum_Solyc10g048050.1:0.264136,((Boleracea_Bo8g067270:0.334581,Mdomestica_MD09G1185200:0.222931)n2:0.27078,Pvulgaris_Phvul.010G133100:0.655023)n1:0.264136)n0;

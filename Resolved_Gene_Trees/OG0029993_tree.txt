@@ -1,0 +1,1 @@
+(((Vcorymbosum_maker-VaccDscaff36-augustus-gene-261.37:0.291099,Vcorymbosum_maker-VaccDscaff9-snap-gene-14.50:2.2232e-06)n2:0.227613,Vcorymbosum_maker-VaccDscaff4-snap-gene-17.41:0.0827937)n1:0.143362,(Cclementina_Ciclev10010830m.g:0.658177,Ljaponicus_Lj0g3v0110559:0.697326)n3:0.143362)n0;

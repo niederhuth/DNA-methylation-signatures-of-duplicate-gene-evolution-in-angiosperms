@@ -1,0 +1,1 @@
+((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold04872.1:0.0871885,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00040.1:0.0031085)n1:0.257907,(Osativa_LOC_Os06g26170:1.06284,Mtruncatula_Medtr6g071995:0.547469)n2:0.257907)n0;

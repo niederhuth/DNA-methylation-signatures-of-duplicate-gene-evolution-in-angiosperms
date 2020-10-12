@@ -1,0 +1,1 @@
+((Esalsugineum_Thhalv10021986m.g:0.281613,Crubella_Carub.0003s0541:0.48824)n1:0.360979,(Bvulgaris_gene_BVRB_2g033520:0.0323286,Bvulgaris_gene_BVRB_3g060520:0.243828)n2:0.360979)n0;

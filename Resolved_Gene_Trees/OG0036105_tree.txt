@@ -1,0 +1,1 @@
+(Ljaponicus_Lj0g3v0159479:0.280821,((Ptrichocarpa_Potri.018G045700:1.17685,Ptrichocarpa_Potri.004G114900:1.17739)n2:0.005481,Ptrichocarpa_Potri.017G086250:0.694863)n1:0.280821)n0;

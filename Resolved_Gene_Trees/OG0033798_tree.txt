@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00008.123:0.460075,(Fvesca_FvH4_6g42050:0.000892616,(Fxananassa_maker-Fvb6-2-snap-gene-339.51:0.419349,Fxananassa_maker-Fvb6-1-snap-gene-68.49:0.276751)n2:0.0307501)n1:0.0329018)n0;

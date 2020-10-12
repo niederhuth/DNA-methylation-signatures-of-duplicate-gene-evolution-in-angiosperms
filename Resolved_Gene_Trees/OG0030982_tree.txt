@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_24726:0.200908,(Gmax_Glyma.07G118066:0.361181,(Mtruncatula_Medtr0727s0010:0.709557,(Rchinensis_RcHm_v2.0_Chr1g0344961:0.220674,Rchinensis_RcHm_v2.0_Chr1g0345061:0.217489)n3:0.182108)n2:0.126004)n1:0.200908)n0;

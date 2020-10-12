@@ -1,0 +1,1 @@
+(Smelongena_SMEL_000g070880.1:0.358361,((Pvulgaris_Phvul.003G000330:0.478746,Pvulgaris_Phvul.003G000278:1.5558e-06)n2:0.320618,(Pvulgaris_Phvul.L008801:0,Pvulgaris_Phvul.L001639:0)n3:0.094487)n1:0.358361)n0;

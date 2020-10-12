@@ -1,0 +1,1 @@
+((Alyrata_AL4G35540:0.798212,Alyrata_AL96U10040:0.306212)n1:0.2368,(Esalsugineum_Thhalv10009518m.g:0.452927,Esalsugineum_Thhalv10009332m.g:0.212815)n2:0.2368)n0;

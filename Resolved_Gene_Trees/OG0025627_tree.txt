@@ -1,0 +1,1 @@
+(((Acoerulea_Aqcoe1G176600:0,Acoerulea_Aqcoe3G229300:0)n2:0,(Acoerulea_Aqcoe2G053500:0.0267795,Acoerulea_Aqcoe5G306800:1.17726e-06)n3:0.0045135)n1:0.495514,(Fvesca_FvH4_3g33930:1.17726e-06,Fxananassa_maker-Fvb3-4-snap-gene-77.45:0.209633)n4:0.495514)n0;

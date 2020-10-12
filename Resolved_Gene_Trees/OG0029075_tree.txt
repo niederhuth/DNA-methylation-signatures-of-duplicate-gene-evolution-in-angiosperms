@@ -1,0 +1,1 @@
+((Cpapaya_evm.TU.supercontig_212.1:0.820819,Cmelo_MELO3C028577.2:0.663139)n1:0.0896714,((Brapa_Brara.E02702:0.0895325,Boleracea_Bo1g078260:0.550624)n3:0.498751,Aipaensis_araip.K30076.gnm1.ann1.Araip.M9VKA:0.331277)n2:0.0896714)n0;

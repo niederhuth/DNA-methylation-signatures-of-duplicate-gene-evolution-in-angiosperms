@@ -1,0 +1,1 @@
+((Macuminata_GSMUA_AchrUn_randomG02980_001:0.70071,Macuminata_GSMUA_Achr4G18850_001:0.564125)n1:0.292582,(Fxananassa_maker-Fvb7-3-snap-gene-16.71:0.0121319,(Fvesca_FvH4_7g33180:0.194101,Fvesca_FvH4_5g02260:0.0994465)n3:0.0110496)n2:0.0491806)n0;

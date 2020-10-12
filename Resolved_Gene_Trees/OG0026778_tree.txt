@@ -1,0 +1,1 @@
+((Cannuum_CA00g32370:0.346563,(Cannuum_CA00g50120:0.393368,Cannuum_CA07g11900:0.124889)n2:0.065909)n1:0.308522,(Roccidentalis_maker-Ro05-snap-gene-89.59:0.348934,(Fxananassa_augustus_masked-Fvb1-2-processed-gene-59.0:0.0785716,Fxananassa_augustus_masked-Fvb3-3-processed-gene-225.0:0.0334314)n4:0.113146)n3:0.308522)n0;

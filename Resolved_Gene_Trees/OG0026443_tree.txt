@@ -1,0 +1,1 @@
+((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00038.174:0.466118,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00038.181:0.0069455)n1:0.18367,(Rchinensis_RcHm_v2.0_Chr2g0124491:0.312276,(Boleracea_Bo7g058140:0.494776,(Mdomestica_MD16G1231200:0.362688,Mdomestica_MD09G1143200:0.110108)n4:0.311923)n3:0.0213559)n2:0.18367)n0;

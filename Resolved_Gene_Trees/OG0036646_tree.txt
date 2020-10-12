@@ -1,0 +1,1 @@
+(Paxillaris_Peaxi162Scf00128g00647:0.131486,(Nattenuata_NIATv7_g12001:0.820516,(Slycopersicum_Solyc05g014165.1:0.70968,Slycopersicum_Solyc05g054790.1:0.50292)n2:0.05588)n1:0.279211)n0;

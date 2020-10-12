@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr9G28270_001:0.449254,(Aipaensis_araip.K30076.gnm1.ann1.Araip.I76QW:0.997248,((Mtruncatula_Medtr2g073040:0.102085,Mtruncatula_Medtr2g073020:0.0787147)n3:0.370534,Mtruncatula_Medtr8g069585:0.868343)n2:0.0964825)n1:0.231813)n0;

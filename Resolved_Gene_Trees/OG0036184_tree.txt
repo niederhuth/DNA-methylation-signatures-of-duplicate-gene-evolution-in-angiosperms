@@ -1,0 +1,1 @@
+(Roccidentalis_maker-Ro03-snap-gene-384.111:0.647985,((Ljaponicus_Lj6g3v0440040:0,Ljaponicus_Lj6g3v0437430:0)n2:0.366795,Ljaponicus_Lj6g3v0437360:0.458377)n1:0.647985)n0;

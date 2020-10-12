@@ -1,0 +1,1 @@
+((Ljaponicus_Lj0g3v0329949:0.854601,Aipaensis_araip.K30076.gnm1.ann1.Araip.BBK8I:0.730093)n1:0.0539938,((Graimondii_Gorai.009G376800:0.105493,Graimondii_Gorai.009G378700:0.156824)n3:0.64428,(Graimondii_Gorai.003G078100:0.481455,Graimondii_Gorai.012G090500:0.67137)n4:0.0629709)n2:0.0539938)n0;

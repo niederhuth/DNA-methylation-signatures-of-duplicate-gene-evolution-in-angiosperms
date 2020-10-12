@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_08.1413:0.231035,(Mtruncatula_Medtr6g013600:0.253396,(Cannuum_CA06g08330:0.392659,(Rchinensis_RcHm_v2.0_Chr7g0228661:0.14445,(Cclementina_Ciclev10017899m.g:0.517102,Smelongena_SMEL_000g087870.1:0.62751)n4:0.138545)n3:0.654696)n2:0.165758)n1:0.231035)n0;

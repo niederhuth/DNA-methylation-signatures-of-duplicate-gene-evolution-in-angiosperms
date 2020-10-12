@@ -1,0 +1,1 @@
+((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold02767.1:0.0297852,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold02938.1:0.00818079)n1:0.127423,(Mguttatus_Migut.N01103:0.473379,Slycopersicum_Solyc07g006095.1:0.36565)n2:0.127423)n0;

@@ -1,0 +1,1 @@
+(Mguttatus_Migut.O00937:0.449278,((Fxananassa_augustus_masked-Fvb3-4-processed-gene-111.3:0.503472,Fvesca_FvH4_3g29580:0.149235)n2:0.205934,(Mdomestica_MD05G1331800:0.344553,(Rchinensis_RcHm_v2.0_Chr3g0485181:0.763002,Rchinensis_RcHm_v2.0_Chr5g0005631:1.12533)n4:0.125037)n3:0.460358)n1:0.449278)n0;

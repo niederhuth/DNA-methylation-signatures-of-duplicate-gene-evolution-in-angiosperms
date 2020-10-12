@@ -1,0 +1,1 @@
+(Spolyrhiza_Spipo0G0125100:0.251711,((Roccidentalis_maker-Ro07-snap-gene-350.100:0.366904,Roccidentalis_maker-Ro06-exonerate_protein2genome-gene-175.32:0.19566)n2:0.105841,Rchinensis_RcHm_v2.0_Chr5g0016311:0.769645)n1:0.251711)n0;

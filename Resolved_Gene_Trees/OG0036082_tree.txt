@@ -1,0 +1,1 @@
+(Ptrichocarpa_Potri.017G150740:0.120727,((Ljaponicus_Lj0g3v0211899:0.744525,Ljaponicus_Lj0g3v0097369:1.99264e-06)n2:0.258929,Mtruncatula_Medtr1626s0010:0.78381)n1:0.120727)n0;

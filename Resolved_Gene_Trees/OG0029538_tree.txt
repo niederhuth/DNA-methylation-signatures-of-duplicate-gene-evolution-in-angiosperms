@@ -1,0 +1,1 @@
+(Bdistachyon_Bradi2g19130:0.391614,(((Mtruncatula_Medtr8g094080:0.43318,Cpapaya_evm.TU.contig_40991:0.890114)n3:0.292789,Mdomestica_MD15G1135400:0.190613)n2:0.693779,Roccidentalis_maker-Ro05-snap-gene-112.42:0.38726)n1:0.391614)n0;

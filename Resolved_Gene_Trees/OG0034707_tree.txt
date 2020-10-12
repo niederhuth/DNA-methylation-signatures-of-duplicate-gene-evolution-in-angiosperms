@@ -1,0 +1,1 @@
+(Nattenuata_NIATv7_g21825:0.212679,(Cpapaya_evm.TU.contig_36278:0.946936,(Graimondii_Gorai.N003100:0.275155,Graimondii_Gorai.N004300:0.071627)n2:0.366133)n1:0.212679)n0;

@@ -1,0 +1,1 @@
+(Clanatus_Cla97C11G215180:0.479607,(Ptrichocarpa_Potri.004G025000:0.381427,((Ptrichocarpa_Potri.004G179700:0.116039,Ptrichocarpa_Potri.019G127700:0.209883)n3:0.119912,Ptrichocarpa_Potri.T049900:0.631123)n2:0.432925)n1:0.479607)n0;

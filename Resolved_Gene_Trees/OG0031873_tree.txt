@@ -1,0 +1,1 @@
+((Ppersica_Prupe.4G247700:0.75096,(Vcorymbosum_maker-VaccDscaff20-snap-gene-192.22:0.55932,(Vcorymbosum_snap_masked-VaccDscaff28-processed-gene-181.14:0.361783,Vcorymbosum_snap_masked-VaccDscaff33-processed-gene-122.23:0.439159)n3:0.262191)n2:0.0291323)n1:0.047713,Rchinensis_RcHm_v2.0_Chr7g0220911:0.62348)n0;

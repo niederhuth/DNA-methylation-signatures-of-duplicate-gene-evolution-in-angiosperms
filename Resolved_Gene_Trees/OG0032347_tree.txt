@@ -1,0 +1,1 @@
+(Zmays_Zm00001d012492:0.893129,((Vcorymbosum_augustus_masked-VaccDscaff11-processed-gene-315.3:0,Vcorymbosum_maker-VaccDscaff19-augustus-gene-371.26:0)n2:0.340705,(Vcorymbosum_maker-VaccDscaff15-snap-gene-302.35:0.041503,Vcorymbosum_maker-VaccDscaff24-augustus-gene-61.36:0.200487)n3:0.06033)n1:0.893129)n0;

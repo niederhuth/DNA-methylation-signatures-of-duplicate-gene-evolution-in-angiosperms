@@ -1,0 +1,1 @@
+((Smelongena_SMEL_000g066460.1:0.77696,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00181.28:0.143879,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00181.13:0.040671,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00181.18:0.428556)n3:0.173057)n2:0.0192285)n1:0.163149,Phallii_Pahal.5G531500:1.01741)n0;

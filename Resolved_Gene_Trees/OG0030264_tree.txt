@@ -1,0 +1,1 @@
+(Egrandis_Eucgr.A02612:0.330195,((Mguttatus_Migut.O00976:0.00045,Mguttatus_Migut.O00780:0.035587)n2:0.53789,(Nattenuata_NIATv7_g40495:0.368152,Paxillaris_Peaxi162Scf00102g00018:0.533201)n3:0.215906)n1:0.330195)n0;

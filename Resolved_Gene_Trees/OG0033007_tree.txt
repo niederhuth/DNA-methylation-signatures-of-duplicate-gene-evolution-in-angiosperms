@@ -1,0 +1,1 @@
+(Smelongena_SMEL_004g211990.1:0.0905714,(Crubella_Carub.0005s1998:0.382754,(Aipaensis_araip.K30076.gnm1.ann1.Araip.N9WCD:0.397316,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.XW0SE:0.235557)n2:0.458286)n1:0.0905714)n0;

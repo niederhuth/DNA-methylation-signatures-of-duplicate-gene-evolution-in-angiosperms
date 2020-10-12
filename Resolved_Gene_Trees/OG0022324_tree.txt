@@ -1,0 +1,1 @@
+((Sviridis_Sevir.3G135200:0.0363494,Sitalica_Seita.3G133600:0.00457959)n1:0.210984,(Osativa_LOC_Os08g04100:0.434608,(Bdistachyon_Bradi1g18840:0.509477,((Bdistachyon_Bradi3g15125:0.0404469,Bdistachyon_Bradi1g18890:0.0754411)n5:0.284485,(Bdistachyon_Bradi1g18745:0.35948,Bdistachyon_Bradi1g18700:0.49988)n6:0.0199202)n4:0.0414356)n3:0.299712)n2:0.210984)n0;

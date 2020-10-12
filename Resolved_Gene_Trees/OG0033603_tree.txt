@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_10.1205:0.266738,(Paxillaris_Peaxi162Scf00098g00813:0.123728,(Cpapaya_evm.TU.supercontig_157.36:0.0403025,Fxananassa_augustus_masked-Fvb4-2-processed-gene-136.1:0.297584)n2:0.363853)n1:0.266738)n0;

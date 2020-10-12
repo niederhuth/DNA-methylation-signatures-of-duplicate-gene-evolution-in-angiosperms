@@ -1,0 +1,1 @@
+(Vcorymbosum_snap_masked-VaccDscaff35-processed-gene-1.8:0.104261,(Othomaeum_Oropetium_20150105_25986:0.608869,(Macuminata_GSMUA_Achr10G26260_001:0.111623,Macuminata_GSMUA_Achr2G15300_001:0.0737103)n2:0.146548)n1:0.104261)n0;

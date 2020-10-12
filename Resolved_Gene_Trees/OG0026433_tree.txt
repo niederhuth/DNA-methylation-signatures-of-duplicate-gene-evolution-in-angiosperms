@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00021.134:0.139939,(Rchinensis_RcHm_v2.0_Chr2g0143101:0.712388,((Rchinensis_RcHm_v2.0_Chr2g0143161:0.385578,Pvulgaris_Phvul.011G133600:0.164212)n3:0.248006,(Rchinensis_RcHm_v2.0_Chr2g0119131:0.518081,Fxananassa_augustus_masked-Fvb1-2-processed-gene-170.2:0.45222)n4:0.288946)n2:0.476607)n1:0.139939)n0;

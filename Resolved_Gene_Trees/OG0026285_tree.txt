@@ -1,0 +1,1 @@
+(((Boleracea_Bo2g097480:0.82671,Boleracea_Bo2g049420:0.357043)n2:0.190565,Roccidentalis_maker-Ro06-snap-gene-382.53:0.888448)n1:0.110347,(Aofficinalis_evm.TU.AsparagusV1_01.2145:0.678685,(Aofficinalis_evm.TU.AsparagusV1_07.2966:0.423698,Aofficinalis_evm.TU.AsparagusV1_02.1365:0.353455)n4:0.221896)n3:0.110347)n0;

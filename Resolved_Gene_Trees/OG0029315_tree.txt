@@ -1,0 +1,1 @@
+((Othomaeum_Oropetium_20150105_09476:0.200786,Othomaeum_Oropetium_20150105_08099:0.918767)n1:0.0756216,((Aofficinalis_evm.TU.AsparagusV1_04.64:0.842082,Aofficinalis_evm.TU.AsparagusV1_04.63:0.658073)n3:0.121453,Eguineensis_p5.00_sc00205_p0037:0.862)n2:0.0756216)n0;

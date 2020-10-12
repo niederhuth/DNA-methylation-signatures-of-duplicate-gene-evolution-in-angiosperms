@@ -1,0 +1,1 @@
+(Eguineensis_p5.00_sc00053_p0029:0.506832,((Boleracea_Bo9g156110:1.06764,(Roccidentalis_maker-Ro07-snap-gene-55.54:0.271269,Roccidentalis_maker-Ro01-snap-gene-155.39:0.775536)n3:0.206919)n2:0.0419241,(Egrandis_Eucgr.C01629:0.500723,(Egrandis_Eucgr.C01459:0.627593,Egrandis_Eucgr.C01469:0.526732)n5:0.0948518)n4:0.135344)n1:0.506832)n0;

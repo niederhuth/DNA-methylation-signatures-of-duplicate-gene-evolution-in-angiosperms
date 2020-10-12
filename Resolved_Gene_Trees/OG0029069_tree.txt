@@ -1,0 +1,1 @@
+(Nnucifera_XP_019053743.1:0.143507,(Mtruncatula_Medtr1g069305:0.20186,(Aipaensis_araip.K30076.gnm1.ann1.Araip.N8JRR:0.604951,(Slycopersicum_Solyc06g011550.3:0.170476,Slycopersicum_Solyc06g011540.3:0.047508)n3:0.676972)n2:0.183317)n1:0.143507)n0;

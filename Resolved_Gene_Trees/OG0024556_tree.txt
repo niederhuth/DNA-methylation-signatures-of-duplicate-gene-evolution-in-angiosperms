@@ -1,0 +1,1 @@
+((Nnucifera_XP_019051562.1:0.41727,Nnucifera_XP_010260423.1:0.336625)n1:0.24771,(Ptrichocarpa_Potri.014G152500:0.988045,(Cpapaya_evm.TU.supercontig_3603.1:0.30512,(Egrandis_Eucgr.I02066:0.578308,(Vcorymbosum_maker-VaccDscaff18-snap-gene-310.44:0.0185075,Vcorymbosum_maker-VaccDscaff16-snap-gene-86.43:0.0998365)n5:0.453551)n4:0.0982125)n3:0.0466888)n2:0.24771)n0;

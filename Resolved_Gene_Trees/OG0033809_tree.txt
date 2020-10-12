@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00019.107:0.379827,(Spolyrhiza_Spipo5G0009600:0.878762,(Macuminata_GSMUA_Achr9G13440_001:0.852608,Macuminata_GSMUA_Achr3G04820_001:0.393227)n2:0.300514)n1:0.379827)n0;

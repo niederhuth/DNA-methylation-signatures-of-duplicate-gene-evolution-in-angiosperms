@@ -1,0 +1,1 @@
+(Bvulgaris_gene_BVRB_3g069730:0.231537,(Ljaponicus_Lj0g3v0084219:0.427926,(Fxananassa_augustus_masked-Fvb6-3-processed-gene-79.1:0,Fxananassa_augustus_masked-Fvb6-1-processed-gene-85.13:0)n2:0.256951)n1:0.231537)n0;

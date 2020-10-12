@@ -1,0 +1,1 @@
+(Vcorymbosum_maker-VaccDscaff32-snap-gene-0.16:0.0542955,((Rchinensis_RcHm_v2.0_Chr1g0332471:0.496901,Rchinensis_RcHm_v2.0_Chr1g0332481:0.807787)n2:0.111823,Ljaponicus_Lj0g3v0357459:0.229734)n1:0.0542955)n0;

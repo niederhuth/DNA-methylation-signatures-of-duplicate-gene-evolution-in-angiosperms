@@ -1,0 +1,1 @@
+((Gmax_Glyma.20G218902:0.250464,(Vcorymbosum_maker-VaccDscaff44-augustus-gene-140.23:0.238036,Vcorymbosum_maker-VaccDscaff34-snap-gene-160.23:0.465947)n2:0.0517719)n1:0.164257,(Ptrichocarpa_Potri.002G232900:0.404829,(Cpapaya_evm.TU.supercontig_39.30:0.222424,Cpapaya_evm.TU.supercontig_39.28:0.43904)n4:0.0666238)n3:0.242948)n0;

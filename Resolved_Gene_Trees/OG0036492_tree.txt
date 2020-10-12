@@ -1,0 +1,1 @@
+(Osativa_LOC_Os07g07770:0.254872,((Rchinensis_RcHm_v2.0_Chr7g0225541:0.371538,Rchinensis_RcHm_v2.0_Chr5g0034931:0.194942)n2:0.219672,Mtruncatula_Medtr2g104630:0.455025)n1:0.254872)n0;

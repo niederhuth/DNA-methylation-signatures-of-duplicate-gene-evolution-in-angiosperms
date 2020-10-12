@@ -1,0 +1,1 @@
+(Mguttatus_Migut.J01383:0.72925,((Roccidentalis_snap_masked-Ro03-processed-gene-80.20:0.13835,Roccidentalis_snap_masked-Ro03-processed-gene-80.22:0.246151)n2:0.761626,(Ppersica_Prupe.6G093500:0.372481,(Pxbretschneideri_LOC103948994:0.312027,(Mdomestica_MD11G1124800:0.192417,Mdomestica_MD03G1110900:0.0811096)n5:0.00901218)n4:0.105128)n3:0.636151)n1:0.72925)n0;

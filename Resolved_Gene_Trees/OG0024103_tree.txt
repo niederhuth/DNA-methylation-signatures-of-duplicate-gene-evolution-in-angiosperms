@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00248.3:0.333211,(Mtruncatula_Medtr2g064110:0.837114,(Fvesca_FvH4_4g17830:0.986015,(Rchinensis_RcHm_v2.0_Chr4g0421791:0.249301,(Rchinensis_RcHm_v2.0_Chr4g0421881:3.64688e-06,(Rchinensis_RcHm_v2.0_Chr4g0421781:0.294808,Rchinensis_RcHm_v2.0_Chr4g0421951:0.014126)n5:0.13311)n4:0.276977)n3:0.0307752)n2:0.177355)n1:0.333211)n0;

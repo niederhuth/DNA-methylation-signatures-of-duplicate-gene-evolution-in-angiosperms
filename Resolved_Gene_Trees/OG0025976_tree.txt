@@ -1,0 +1,1 @@
+(((Tcacao_Thecc1EG040657:0.659132,Aipaensis_araip.K30076.gnm1.ann1.Araip.LU3FH:0.495929)n2:0.139634,Mguttatus_Migut.D00590:0.0867151)n1:0.0496822,(Fxananassa_maker-Fvb3-1-augustus-gene-113.43:0.0560834,(Vcorymbosum_snap_masked-VaccDscaff15-processed-gene-50.18:0.00522,Vcorymbosum_maker-VaccDscaff11-snap-gene-40.22:0.00522)n4:0.0708546)n3:0.0496822)n0;

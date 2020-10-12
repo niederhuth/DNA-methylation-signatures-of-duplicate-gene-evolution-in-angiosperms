@@ -1,0 +1,1 @@
+(Alyrata_AL6G13830:0.0480071,(Mtruncatula_Medtr1g023620:0.633773,(Rchinensis_RcHm_v2.0_Chr7g0241511:0.37372,Fxananassa_snap_masked-Fvb5-2-processed-gene-246.31:0.268187)n2:0.150869)n1:0.0480071)n0;

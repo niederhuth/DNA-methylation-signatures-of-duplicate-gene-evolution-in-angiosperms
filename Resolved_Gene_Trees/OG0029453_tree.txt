@@ -1,0 +1,1 @@
+((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00036.81:1.20722e-06,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00036.80:0.0354715)n1:0.221757,(Zmays_Zm00001d011694:0.320254,(Mdomestica_MD02G1083000:0.0728913,Eguineensis_p5.00_sc00001_p0091:0.136431)n3:0.202094)n2:0.221757)n0;

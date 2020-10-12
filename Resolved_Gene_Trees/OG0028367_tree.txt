@@ -1,0 +1,1 @@
+(Stuberosum_PGSC0003DMG400036530:0.182489,(Slycopersicum_Solyc11g019860.2:0.454143,(((Slycopersicum_Solyc11g020360.2:0.12326,Slycopersicum_Solyc11g020500.2:2.21344e-06)n4:0.269928,Slycopersicum_Solyc11g020430.2:0.535073)n3:0.400809,Slycopersicum_Solyc11g019880.2:2.21344e-06)n2:0.188658)n1:0.182489)n0;

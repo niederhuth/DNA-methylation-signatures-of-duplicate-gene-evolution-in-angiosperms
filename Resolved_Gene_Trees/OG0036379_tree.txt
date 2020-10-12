@@ -1,0 +1,1 @@
+(Mesculenta_Manes.18G028970:0.284521,(Vcorymbosum_maker-VaccDscaff25-augustus-gene-25.17:0.367888,(Vcorymbosum_maker-VaccDscaff605-snap-gene-0.15:0.260989,Vcorymbosum_maker-VaccDscaff22-snap-gene-53.53:0.309818)n2:0.188449)n1:0.284521)n0;

@@ -1,0 +1,1 @@
+(Eguineensis_p5.00_sc00060_p0068:0.435397,((Rchinensis_RcHm_v2.0_Chr6g0253951:0.449948,Rchinensis_RcHm_v2.0_Chr5g0025001:0.558641)n2:0.145123,Rchinensis_RcHm_v2.0_Chr5g0011851:0.669821)n1:0.435397)n0;

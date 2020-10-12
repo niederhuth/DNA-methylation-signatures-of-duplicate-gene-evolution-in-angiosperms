@@ -1,0 +1,1 @@
+(((Nattenuata_NIATv7_g65930:0.312474,Vcorymbosum_maker-VaccDscaff57-snap-gene-11.57:0.0317806)n2:0.275715,Mtruncatula_Medtr6g077490:0.549899)n1:0.0455552,(Smelongena_SMEL_000g070760.1:0.00704256,(Mdomestica_MD10G1018100:0.249539,Mdomestica_MD09G1124500:1.84948e-06)n4:0.392332)n3:0.0455552)n0;

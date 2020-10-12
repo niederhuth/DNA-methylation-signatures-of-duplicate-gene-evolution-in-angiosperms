@@ -1,0 +1,1 @@
+(((Mdomestica_MD02G1126000:0.854342,Pxbretschneideri_LOC103927750:0.818843)n2:0.0777952,Bvulgaris_gene_BVRB_1g021860:0.558168)n1:0.0913767,(Fxananassa_augustus_masked-Fvb3-4-processed-gene-68.7:0.382606,(Paxillaris_Peaxi162Scf00616g00635:0.489957,(Nattenuata_NIATv7_g61136:0.328886,Nattenuata_NIATv7_g25794:4.24431e-06)n5:0.485255)n4:0.131154)n3:0.0913767)n0;

@@ -1,0 +1,1 @@
+(Nnucifera_XP_010241035.1:0.305674,(Ptrichocarpa_Potri.005G018200:0.0963813,(Ptrichocarpa_Potri.005G014950:0.318635,Ptrichocarpa_Potri.005G014801:1.37974e-06)n2:0.397899)n1:0.305674)n0;

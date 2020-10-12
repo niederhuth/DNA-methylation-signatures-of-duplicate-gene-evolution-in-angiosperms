@@ -1,0 +1,1 @@
+(Aipaensis_araip.K30076.gnm1.ann1.Araip.5SF5S:0.487936,(Graimondii_Gorai.002G140000:1.18382e-06,(Graimondii_Gorai.003G023400:1.18382e-06,Graimondii_Gorai.013G106200:0.210391)n2:0.060025)n1:0.487936)n0;

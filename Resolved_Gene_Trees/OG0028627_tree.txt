@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_10.268:0.0749195,(Gsoja_GlysoPI483463.13G074300:1.3256,(Ljaponicus_Lj0g3v0331349:0.353381,(Acoerulea_Aqcoe7G210100:0.661489,Vcorymbosum_augustus_masked-VaccDscaff18-processed-gene-356.1:0.468989)n3:0.0757919)n2:0.273288)n1:0.0749195)n0;

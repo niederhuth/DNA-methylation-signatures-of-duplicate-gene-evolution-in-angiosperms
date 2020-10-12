@@ -1,0 +1,1 @@
+(Fxananassa_maker-Fvb4-2-augustus-gene-56.56:0.267618,(Aipaensis_araip.K30076.gnm1.ann1.Araip.J80F2:0.969537,(Gmax_Glyma.01G053900:0.206783,Gmax_Glyma.11G165500:0.39852)n2:0.04428)n1:0.059632)n0;

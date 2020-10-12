@@ -1,0 +1,1 @@
+(Mguttatus_Migut.B00836:0.0762084,((Vcorymbosum_snap_masked-VaccDscaff45-processed-gene-87.13:0.0566087,Vcorymbosum_maker-VaccDscaff27-augustus-gene-89.22:0.459624)n2:0.0538368,(Vcorymbosum_maker-VaccDscaff34-snap-gene-224.37:0,Vcorymbosum_maker-VaccDscaff17-snap-gene-128.27:0)n3:0.251114)n1:0.0762084)n0;

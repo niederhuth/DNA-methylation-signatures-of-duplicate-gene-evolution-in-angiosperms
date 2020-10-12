@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00131.90:0.0851444,(Stuberosum_PGSC0003DMG400016038:0.107321,(Vcorymbosum_maker-VaccDscaff42-snap-gene-160.32:0.252563,Aofficinalis_evm.TU.AsparagusV1_08.2745:0.288429)n2:0.0599553)n1:0.0851444)n0;

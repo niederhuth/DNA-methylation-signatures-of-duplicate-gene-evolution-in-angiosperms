@@ -1,0 +1,1 @@
+(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.C3CNH:0.405807,((Sitalica_Seita.2G058800:0.00155838,Sviridis_Sevir.2G061700:0.00145962)n2:0.774258,(Pvirgatum_Pavir.2NG062600:0.650355,Pvirgatum_Pavir.2KG089100:0.35357)n3:0.131187)n1:0.405807)n0;

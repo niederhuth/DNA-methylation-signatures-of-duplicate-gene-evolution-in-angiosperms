@@ -1,0 +1,1 @@
+(Sviridis_Sevir.2G228632:0.249946,((Vvinifera_VIT_211s0016g01000:0.3299,Fxananassa_augustus_masked-Fvb1-2-processed-gene-61.10:0.288142)n2:0.196395,((Ljaponicus_Lj0g3v0005249:0,Ljaponicus_Lj3g3v2577060:0)n4:0.0348159,(Ljaponicus_Lj3g3v2576940:0,Ljaponicus_Lj0g3v0005089:0)n5:0.0363871)n3:0.238825)n1:0.249946)n0;

@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00087.45:0.28317,((Zmays_Zm00001d033392:0.465809,(Rchinensis_RcHm_v2.0_Chr7g0221711:0.469807,(Aipaensis_araip.K30076.gnm1.ann1.Araip.TDH2D:0.463918,Rchinensis_RcHm_v2.0_Chr1g0334701:0.246912)n4:0.0259073)n3:0.00287858)n2:0.110369,Vvinifera_VIT_219s0027g01530:0.399019)n1:0.28317)n0;

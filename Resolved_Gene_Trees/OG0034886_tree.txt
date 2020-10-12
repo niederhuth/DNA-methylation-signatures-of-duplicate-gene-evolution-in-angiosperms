@@ -1,0 +1,1 @@
+(Eguineensis_p5.00_sc00092_p0023:0.352821,(Mesculenta_Manes.09G011961:0.450445,(Mesculenta_Manes.12G004700:0.205935,Mesculenta_Manes.S007602:0.366187)n2:0.0635857)n1:0.352821)n0;

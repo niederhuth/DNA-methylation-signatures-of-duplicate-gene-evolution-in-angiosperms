@@ -1,0 +1,1 @@
+(Boleracea_Bo00629s140:0.262652,((Vcorymbosum_maker-VaccDscaff9-snap-gene-14.54:0.00409311,Vcorymbosum_maker-VaccDscaff4-snap-gene-16.20:0.0142729)n2:0.00718058,(Vcorymbosum_maker-VaccDscaff36-snap-gene-262.24:0.102679,Vcorymbosum_maker-VaccDscaff4-snap-gene-39.54:0.0115035)n3:0.0269546)n1:0.262652)n0;

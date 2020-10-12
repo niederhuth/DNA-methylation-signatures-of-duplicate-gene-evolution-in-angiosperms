@@ -1,0 +1,1 @@
+((Smelongena_SMEL_005g238250.1:0.233691,Mguttatus_Migut.C00372:0.297275)n1:0.0754417,(Gmax_Glyma.01G051800:0.549679,(Aipaensis_araip.K30076.gnm1.ann1.Araip.A6CT4:0.0222111,Aipaensis_araip.K30076.gnm1.ann1.Araip.A8435:0.0253538)n3:0.00281709)n2:0.154464)n0;

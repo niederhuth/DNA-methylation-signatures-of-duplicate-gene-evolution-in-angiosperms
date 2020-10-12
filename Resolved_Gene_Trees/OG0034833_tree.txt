@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr11G02860_001:0.32038,((Rchinensis_RcHm_v2.0_Chr5g0028801:0.220794,Rchinensis_RcHm_v2.0_Chr1g0321061:0.19769)n2:0.147094,Egrandis_Eucgr.F02643:0.756345)n1:0.32038)n0;

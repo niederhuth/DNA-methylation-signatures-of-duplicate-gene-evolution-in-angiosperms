@@ -1,0 +1,1 @@
+((Vcorymbosum_maker-VaccDscaff30-snap-gene-210.47:0.0820103,Vcorymbosum_maker-VaccDscaff42-augustus-gene-92.25:0.130201)n1:0.189932,(Fxananassa_snap_masked-Fvb6-2-processed-gene-307.44:0.177248,Aipaensis_araip.K30076.gnm1.ann1.Araip.F8PYY:0.19977)n2:0.189932)n0;

@@ -1,0 +1,1 @@
+(Vvinifera_VIT_211s0065g00070:0.366885,((Crubella_Carub.0007s2677:0.121257,Esalsugineum_Thhalv10026971m.g:0.124274)n2:0.371147,Cclementina_Ciclev10017733m.g:0.526735)n1:0.366885)n0;

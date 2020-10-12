@@ -1,0 +1,1 @@
+((Mguttatus_Migut.G00272:0.0401103,Mguttatus_Migut.O00917:0.13028)n1:0.0747306,(Roccidentalis_maker-Ro01-snap-gene-218.12:0.916531,Mtruncatula_Medtr7g025640:0.588029)n2:0.0747306)n0;

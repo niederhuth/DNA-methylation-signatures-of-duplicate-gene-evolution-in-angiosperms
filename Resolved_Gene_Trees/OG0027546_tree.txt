@@ -1,0 +1,1 @@
+(((Vcorymbosum_maker-VaccDscaff55-snap-gene-8.35:0.398695,Vcorymbosum_maker-VaccDscaff56-snap-gene-9.36:0.170934)n2:0.320643,(Gmax_Glyma.13G048133:2.08527e-06,Gmax_Glyma.13G048300:0.0689025)n3:0.387826)n1:0.0584023,(Macuminata_GSMUA_Achr5G01810_001:0.479409,Othomaeum_Oropetium_20150105_25968:0.158999)n4:0.0584023)n0;

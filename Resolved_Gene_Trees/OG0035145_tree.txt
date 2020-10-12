@@ -1,0 +1,1 @@
+((Fvesca_FvH4_2g07430:0.410631,Roccidentalis_maker-Ro02-snap-gene-354.40:0.087058)n1:0.162923,(Smelongena_SMEL_004g203380.1:0.486851,Paxillaris_Peaxi162Scf00684g00578:0.117378)n2:0.162923)n0;

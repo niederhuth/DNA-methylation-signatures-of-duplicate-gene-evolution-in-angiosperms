@@ -1,0 +1,1 @@
+(Rchinensis_RcHm_v2.0_Chr4g0388971:0.493758,((Pvirgatum_Pavir.2KG589301:0.549095,Sbicolor_Sobic.002G428301:0.825686)n2:0.381575,(Macuminata_GSMUA_Achr6G32580_001:1.01346,(Aofficinalis_evm.TU.AsparagusV1_07.400:0.383522,Aofficinalis_evm.TU.AsparagusV1_05.455:0.345989)n4:0.0384432)n3:0.162091)n1:0.493758)n0;

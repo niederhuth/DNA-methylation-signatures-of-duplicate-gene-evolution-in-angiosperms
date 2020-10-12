@@ -1,0 +1,1 @@
+((Roccidentalis_maker-Ro07-exonerate_protein2genome-gene-339.38:0,Roccidentalis_maker-Ro07-exonerate_protein2genome-gene-339.37:0)n1:0.408598,((Ppersica_Prupe.1G564700:0.289544,Ppersica_Prupe.1G186100:0.16338)n3:0.255425,Ppersica_Prupe.1G564600:0.46667)n2:0.408598)n0;

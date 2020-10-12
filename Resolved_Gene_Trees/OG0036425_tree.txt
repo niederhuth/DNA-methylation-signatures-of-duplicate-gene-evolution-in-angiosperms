@@ -1,0 +1,1 @@
+(Roccidentalis_maker-Ro01-snap-gene-272.36:0.605684,(Mguttatus_Migut.A01003:0.694896,(Mguttatus_Migut.A01206:0.243049,Mguttatus_Migut.A01203:0.0301173)n2:0.714598)n1:0.605684)n0;

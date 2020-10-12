@@ -1,0 +1,1 @@
+(Sbicolor_Sobic.010G057700:0,(Sbicolor_Sobic.006G081400:0,(Sbicolor_Sobic.007G185300:0.179174,Sbicolor_Sobic.003G127001:0.270448)n2:0.041706)n1:0)n0;

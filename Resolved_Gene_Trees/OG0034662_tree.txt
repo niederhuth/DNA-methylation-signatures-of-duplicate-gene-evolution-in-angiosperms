@@ -1,0 +1,1 @@
+(Graimondii_Gorai.001G075500:0.62113,((Cpapaya_evm.TU.supercontig_17.135:0.302573,Cpapaya_evm.TU.supercontig_17.129:0.238517)n2:0.493619,Cpapaya_evm.TU.contig_27218.1:2.2562e-06)n1:0.62113)n0;

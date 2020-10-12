@@ -1,0 +1,1 @@
+((Aofficinalis_evm.TU.AsparagusV1_02.431:0.690126,(Aofficinalis_evm.TU.AsparagusV1_10.1218:0.579365,Aofficinalis_evm.TU.AsparagusV1_03.2077:0.49936)n2:0.226469)n1:0.0277186,(Vcorymbosum_maker-VaccDscaff38-snap-gene-287.30:0.650444,(Vcorymbosum_maker-VaccDscaff28-snap-gene-32.49:0.919919,Vcorymbosum_maker-VaccDscaff28-snap-gene-350.48:0.815936)n4:0.0995632)n3:0.0277186)n0;

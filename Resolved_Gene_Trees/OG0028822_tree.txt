@@ -1,0 +1,1 @@
+(Boleracea_Bo1g020230:0.492969,((Aduranensis_aradu.V14167.gnm1.ann1.Aradu.BKP8V:0.112993,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.I7R09:0.848269,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.QL7P6:0.0973225)n3:0.234761)n2:0.0941331,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.Y6H44:0.350778)n1:0.492969)n0;

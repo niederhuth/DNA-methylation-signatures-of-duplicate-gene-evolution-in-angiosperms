@@ -1,0 +1,1 @@
+(Mtruncatula_Medtr2g039683:0.196539,((Mtruncatula_Medtr0028s0180:1.24266,Mtruncatula_Medtr0240s0020:0.434131)n2:0.0858754,(Mtruncatula_Medtr0077s0060:0.710948,Mtruncatula_Medtr1g052030:0.0781719)n3:0.159116)n1:0.196539)n0;

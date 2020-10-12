@@ -1,0 +1,1 @@
+((Cpapaya_evm.TU.supercontig_521.1:0.432732,((Smelongena_SMEL_010g343090.1:0.162625,Smelongena_SMEL_007g284790.1:0.111568)n3:0.187002,Rchinensis_RcHm_v2.0_Chr1g0367451:0.623934)n2:0.146513)n1:0.0970547,(Eguineensis_p5.00_sc00267_p0009:0.74221,Aofficinalis_evm.TU.AsparagusV1_06.2022:0.484204)n4:0.0970547)n0;

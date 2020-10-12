@@ -1,0 +1,1 @@
+((Bvulgaris_gene_BVRB_8g190490:0.262641,Vcorymbosum_maker-VaccDscaff454-augustus-gene-0.22:0.134184)n1:0.0198154,(Aipaensis_araip.K30076.gnm1.ann1.Araip.95AUD:0.508236,(Pvulgaris_Phvul.002G052800:0.202978,(Gsoja_GlysoPI483463.01G201600:0.0025433,(Gmax_Glyma.11G000900:0.063865,Gmax_Glyma.01G243400:1.59259e-05)n5:1.76955e-06)n4:0.0138695)n3:0.0891342)n2:0.0198154)n0;

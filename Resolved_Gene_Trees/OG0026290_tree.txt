@@ -1,0 +1,1 @@
+(((Slycopersicum_Solyc07g043530.2:0.40658,Smelongena_SMEL_007g282560.1:0.370871)n2:0.219542,((Pvirgatum_Pavir.5NG020008:0.458545,Aofficinalis_evm.TU.AsparagusV1_06.42:0.268099)n4:0.0357777,Aofficinalis_evm.TU.AsparagusV1_07.3198:0.41253)n3:0.0458367)n1:0.0224605,Ptrichocarpa_Potri.016G020632:0.549354)n0;

@@ -1,0 +1,1 @@
+(Eguineensis_p5.00_sc00025_p0144:0.12147,(Eguineensis_p5.00_sc00025_p0141:0.660512,(Eguineensis_p5.00_sc00025_p0122:1.04159,Eguineensis_p5.00_sc09376_p0001:1.2619)n2:0.167669)n1:0.12147)n0;

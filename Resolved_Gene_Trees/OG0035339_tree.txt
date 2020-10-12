@@ -1,0 +1,1 @@
+(Vcorymbosum_maker-VaccDscaff50-augustus-gene-4.19:0.248316,(Ptrichocarpa_Potri.015G097100:0.735522,(Fxananassa_maker-Fvb5-1-augustus-gene-129.53:0.00462775,Fvesca_FvH4_5g20550:0.00403825)n2:0.61611)n1:0.248316)n0;

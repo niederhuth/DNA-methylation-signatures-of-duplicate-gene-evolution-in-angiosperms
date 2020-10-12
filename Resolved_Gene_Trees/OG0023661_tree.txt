@@ -1,0 +1,1 @@
+((Othomaeum_Oropetium_20150105_14256:0.386721,Aofficinalis_evm.TU.AsparagusV1_10.90:0.153732)n1:0.00819503,((Aduranensis_aradu.V14167.gnm1.ann1.Aradu.W37Y5:0.0231083,Vcorymbosum_maker-VaccDscaff1480-augustus-gene-0.6:0.140869)n3:0.0697964,((Cannuum_CA01g11630:0.219594,Cannuum_CA01g11750:0.183271)n5:0.146059,Egrandis_Eucgr.B02613:0.280554)n4:0.0268192)n2:0.00819503)n0;

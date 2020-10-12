@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00077.33:0.153056,((Fxananassa_maker-Fvb3-2-snap-gene-34.59:0.0525385,Fxananassa_maker-Fvb3-2-snap-gene-1.43:0.0358165)n2:0.513564,Stuberosum_PGSC0003DMG402008392:0.253545)n1:0.153056)n0;

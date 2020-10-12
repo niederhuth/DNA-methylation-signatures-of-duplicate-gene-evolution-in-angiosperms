@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_25970:0.417707,((Ljaponicus_Lj0g3v0165259:0.455516,(Fxananassa_maker-Fvb4-1-snap-gene-9.34:0.370152,Fvesca_FvH4_6g44150:0.202518)n3:0.587063)n2:0.264952,Rchinensis_RcHm_v2.0_Chr1g0319291:0.579268)n1:0.417707)n0;

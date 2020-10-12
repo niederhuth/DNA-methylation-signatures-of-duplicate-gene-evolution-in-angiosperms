@@ -1,0 +1,1 @@
+((Slycopersicum_Solyc05g023890.1:0.905824,Paxillaris_Peaxi162Scf48667g00001:0.574681)n1:0.142231,((Fxananassa_augustus_masked-Fvb5-2-processed-gene-163.8:0.12956,Fvesca_FvH4_5g25530:0.276579)n3:0.0958987,(Fxananassa_maker-Fvb5-3-augustus-gene-119.30:0.281069,Fvesca_FvH4_5g25520:0.498402)n4:0.0553779)n2:0.142231)n0;

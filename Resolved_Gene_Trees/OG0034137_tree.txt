@@ -1,0 +1,1 @@
+(Boleracea_Bo14975s010:0.403067,((Ptrichocarpa_Potri.003G020001:0.0342003,Ptrichocarpa_Potri.001G372350:0.0660447)n2:0.760429,Ptrichocarpa_Potri.013G089100:0.12899)n1:0.403067)n0;

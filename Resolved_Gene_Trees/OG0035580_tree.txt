@@ -1,0 +1,1 @@
+(Ppersica_Prupe.6G215000:0.484565,(Fxananassa_augustus_masked-Fvb3-3-processed-gene-271.4:0.625865,(Fxananassa_maker-Fvb1-1-snap-gene-38.45:0,Fxananassa_maker-Fvb3-4-snap-gene-24.57:0)n2:0.661749)n1:0.484565)n0;

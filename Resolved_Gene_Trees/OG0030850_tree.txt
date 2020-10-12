@@ -1,0 +1,1 @@
+(Pxbretschneideri_LOC103928128:0.220271,(Fxananassa_maker-Fvb1-3-snap-gene-136.15:0.0724916,(Fxananassa_snap_masked-Fvb1-3-processed-gene-79.25:0.131901,(Fxananassa_maker-Fvb2-3-snap-gene-2.47:0.205561,Fxananassa_augustus_masked-Fvb1-3-processed-gene-250.0:0.525887)n3:0.123585)n2:0.358775)n1:0.220271)n0;

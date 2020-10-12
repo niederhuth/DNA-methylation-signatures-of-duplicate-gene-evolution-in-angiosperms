@@ -1,0 +1,1 @@
+((Egrandis_Eucgr.L02877:0.0893151,Egrandis_Eucgr.G00173:0.305341)n1:0.246265,((Aipaensis_araip.K30076.gnm1.ann1.Araip.PUY3U:0.228148,Aipaensis_araip.K30076.gnm1.ann1.Araip.4966U:3.44013e-06)n3:0.434355,(Tcacao_Thecc1EG005861:0.845987,Mdomestica_MD07G1013500:0.9339)n4:0.125855)n2:0.246265)n0;

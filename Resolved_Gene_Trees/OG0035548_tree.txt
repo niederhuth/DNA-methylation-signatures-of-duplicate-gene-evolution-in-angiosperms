@@ -1,0 +1,1 @@
+((Fxananassa_snap_masked-Fvb7-2-processed-gene-239.26:0.0424788,Fxananassa_augustus_masked-Fvb7-4-processed-gene-49.19:0.154777)n1:0.149913,(Roccidentalis_maker-Ro07-snap-gene-359.80:0.334209,Roccidentalis_maker-Ro07-exonerate_est2genome-gene-359.3:0.796558)n2:0.149913)n0;

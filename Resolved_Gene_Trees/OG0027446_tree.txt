@@ -1,0 +1,1 @@
+(Paxillaris_Peaxi162Scf01290g00012:0.213576,(((Ljaponicus_Lj0g3v0121959:0.157217,Ljaponicus_Lj4g3v0336450:0.248538)n3:0.0269774,(Ljaponicus_Lj0g3v0113989:5e-07,Ljaponicus_Lj4g3v0336650:5e-07)n4:0.167195)n2:0.0909089,Fxananassa_snap_masked-Fvb6-4-processed-gene-44.33:0.252026)n1:0.213576)n0;

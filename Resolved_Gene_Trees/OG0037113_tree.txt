@@ -1,0 +1,1 @@
+((Sviridis_Sevir.8G005725:0.0361545,Sviridis_Sevir.7G318650:0.117935)n1:0.172921,(Pvirgatum_Pavir.8NG016601:0.728471,Phallii_Pahal.5G353100:0.487397)n2:0.172921)n0;

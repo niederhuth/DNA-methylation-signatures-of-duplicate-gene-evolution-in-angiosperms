@@ -1,0 +1,1 @@
+((Rchinensis_RcHm_v2.0_Chr3g0469351:0.528028,(Roccidentalis_maker-Ro06-exonerate_protein2genome-gene-270.50:0.73665,Roccidentalis_snap_masked-Ro06-processed-gene-327.17:0.410388)n2:0.0455987)n1:0.0431254,Fxananassa_snap_masked-Fvb7-4-processed-gene-201.23:1.11924)n0;

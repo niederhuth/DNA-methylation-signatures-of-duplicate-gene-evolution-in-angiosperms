@@ -1,0 +1,1 @@
+(Fxananassa_snap_masked-Fvb6-2-processed-gene-298.27:0.124008,(Fxananassa_snap_masked-Fvb6-1-processed-gene-28.50:0.275297,(Fxananassa_snap_masked-Fvb5-3-processed-gene-188.28:0.857675,Fxananassa_snap_masked-Fvb5-1-processed-gene-100.37:0.984158)n2:0.465511)n1:0.124008)n0;

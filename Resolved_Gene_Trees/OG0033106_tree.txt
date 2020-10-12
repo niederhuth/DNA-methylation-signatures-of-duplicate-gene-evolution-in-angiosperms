@@ -1,0 +1,1 @@
+(Paxillaris_Peaxi162Scf00018g00310:0.277777,((Aipaensis_araip.K30076.gnm1.ann1.Araip.F75FF:0.240687,Aipaensis_araip.K30076.gnm1.ann1.Araip.KVY6L:0.816828)n2:0.192835,Aipaensis_araip.K30076.gnm1.ann1.Araip.C4IBH:0.963345)n1:0.277777)n0;

@@ -1,0 +1,1 @@
+(Bvulgaris_gene_BVRB_9g212750:0.170062,(Mtruncatula_Medtr6g037690:0.507482,(Mdomestica_MD16G1203900:0.197365,Rchinensis_RcHm_v2.0_Chr6g0280211:0.113132)n2:0.142887)n1:0.170062)n0;

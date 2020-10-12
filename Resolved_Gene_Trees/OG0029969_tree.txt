@@ -1,0 +1,1 @@
+((Sviridis_Sevir.1G369300:0.219559,Sitalica_Seita.1G362900:0.491085)n1:0.125608,(Cannuum_CA11g18610:0.62014,(Fxananassa_snap_masked-Fvb4-3-processed-gene-32.22:0.493293,Fxananassa_snap_masked-Fvb6-2-processed-gene-72.31:0.572287)n3:0.0635875)n2:0.0794425)n0;

@@ -1,0 +1,1 @@
+(Rchinensis_RcHm_v2.0_Chr4g0407821:0.304326,((Pvulgaris_Phvul.003G294701:1.93645e-06,Pvulgaris_Phvul.003G294500:0.646237)n2:0.13641,Pvulgaris_Phvul.003G294601:0.547605)n1:0.304326)n0;

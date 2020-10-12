@@ -1,0 +1,1 @@
+(((Vcorymbosum_maker-VaccDscaff37-snap-gene-276.38:0.152985,Vcorymbosum_maker-VaccDscaff6-augustus-gene-391.34:0.0609531)n2:0.347209,Vcorymbosum_maker-VaccDscaff39-augustus-gene-20.40:0.743309)n1:0.170317,(Vvinifera_VIT_200s0125g00390:0.518262,(Cpapaya_evm.TU.supercontig_71.52:0.621465,Cpapaya_evm.TU.supercontig_71.54:0.607402)n4:0.0674891)n3:0.382833)n0;

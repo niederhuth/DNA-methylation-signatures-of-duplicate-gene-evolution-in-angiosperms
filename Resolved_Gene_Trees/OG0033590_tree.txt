@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00107.30:0.227218,((Graimondii_Gorai.007G107600:0.353327,Aofficinalis_evm.TU.AsparagusV1_01.335:0.652384)n2:0.0279553,Mdomestica_MD04G1169900:0.284164)n1:0.227218)n0;

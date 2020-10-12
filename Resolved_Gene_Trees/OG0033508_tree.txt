@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00017.286:0.115336,((Gmax_Glyma.16G116400:0.340476,Tcacao_Thecc1EG035344:0.453414)n2:0.108137,Aofficinalis_evm.TU.AsparagusV1_07.887:0.509752)n1:0.115336)n0;

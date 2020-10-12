@@ -1,0 +1,1 @@
+(Slycopersicum_Solyc00g028110.2:0.41762,(Zjujuba_LOC107409094:0.842081,(Mtruncatula_Medtr0988s0010:1.58883,(Mtruncatula_Medtr0980s0010:1.19763,Mtruncatula_Medtr0397s0010:1.33066)n3:0.190974)n2:0.0212193)n1:0.228366)n0;

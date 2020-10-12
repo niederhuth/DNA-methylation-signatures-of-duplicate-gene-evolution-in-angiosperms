@@ -1,0 +1,1 @@
+(Gmax_Glyma.13G349200:0.479621,((Fxananassa_maker-Fvb6-1-snap-gene-125.58:0.0398595,Fvesca_FvH4_6g33710:2.07723e-06)n2:0.128892,(Fvesca_FvH4_6g33650:0.294762,(Fxananassa_maker-Fvb6-2-snap-gene-29.80:0.118387,Fxananassa_maker-Fvb6-3-augustus-gene-92.35:0.307413)n4:0.034157)n3:0.220523)n1:0.479621)n0;

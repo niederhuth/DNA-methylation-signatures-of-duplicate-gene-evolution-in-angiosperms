@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_09239:0.285968,(Bvulgaris_gene_BVRB_016370:0.689662,((Slycopersicum_Solyc03g083190.2:0.353743,Slycopersicum_Solyc03g083160.2:0.273778)n3:0.565225,Slycopersicum_Solyc03g071835.1:0.617875)n2:0.0686528)n1:0.0791066)n0;

@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr8G32700_001:0.202555,(Clanatus_Cla97C06G122860:0.664949,((Fxananassa_maker-Fvb6-2-snap-gene-160.41:0.398316,Fxananassa_maker-Fvb6-4-augustus-gene-226.38:0.633088)n3:0.037453,Fvesca_FvH4_4g30680:2.33171e-06)n2:0.306632)n1:0.202555)n0;

@@ -1,0 +1,1 @@
+((Aofficinalis_evm.TU.AsparagusV1_08.2794:0.47284,Aofficinalis_evm.TU.AsparagusV1_07.2907:0.079256)n1:0.395878,(Fxananassa_maker-Fvb2-4-snap-gene-219.64:0.457026,(Gsoja_GlysoPI483463.17G192000:0,Gmax_Glyma.17G226400:0)n3:0.512558)n2:0.395878)n0;

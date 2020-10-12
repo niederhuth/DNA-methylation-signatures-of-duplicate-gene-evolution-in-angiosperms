@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_01.3290:0.417449,(Csativus_CsaV3_4G027980:0.610537,(Cannuum_CA01g08780:0.230759,(Mdomestica_MD13G1243900:0.134675,Fxananassa_maker-Fvb2-4-snap-gene-257.71:0.0825712)n3:0.0693025)n2:0.417733)n1:0.417449)n0;

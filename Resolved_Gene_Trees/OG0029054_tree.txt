@@ -1,0 +1,1 @@
+((Aofficinalis_evm.TU.AsparagusV1_05.409:0.0554988,Nattenuata_NIATv7_g16534:0.0976942)n1:0.0585354,(Brapa_Brara.A03413:0.0936337,(Aipaensis_araip.K30076.gnm1.ann1.Araip.HG8SZ:0.23297,Othomaeum_Oropetium_20150105_00969:0.463017)n3:0.0413133)n2:0.0585354)n0;

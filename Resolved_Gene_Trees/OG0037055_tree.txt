@@ -1,0 +1,1 @@
+(Sviridis_Sevir.3G057950:0.25535,(Phallii_Pahal.3G113900:0.443373,(Pvirgatum_Pavir.3NG181286:0.263878,Pvirgatum_Pavir.3KG140900:0.381593)n2:0.0423992)n1:0.0731523)n0;

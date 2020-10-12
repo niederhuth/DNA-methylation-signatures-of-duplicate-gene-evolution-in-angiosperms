@@ -1,0 +1,1 @@
+((Graimondii_Gorai.009G413300:1.14411,((Cpapaya_evm.TU.supercontig_52.8:0.890274,Cpapaya_evm.TU.supercontig_2283.3:0.354341)n3:0.176668,(Cpapaya_evm.TU.supercontig_1813.1:0.203883,Cpapaya_evm.TU.supercontig_1485.1:0.475246)n4:0.177365)n2:0.0197072)n1:0.0293068,Mesculenta_Manes.04G100000:1.02651)n0;

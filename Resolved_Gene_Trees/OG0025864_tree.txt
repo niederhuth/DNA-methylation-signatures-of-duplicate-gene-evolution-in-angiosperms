@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00004.39:0.257276,((Aipaensis_araip.K30076.gnm1.ann1.Araip.CDG6E:0.287132,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.9B0JF:0.699795,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.0V2J5:0.35868)n3:0.189004)n2:0.253186,(Ljaponicus_Lj3g3v2096020:0.255024,Roccidentalis_snap_masked-Ro06-processed-gene-262.27:0.284718)n4:0.0351786)n1:0.257276)n0;

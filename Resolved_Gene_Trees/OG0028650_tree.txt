@@ -1,0 +1,1 @@
+((Slycopersicum_Solyc01g081180.1:1.65639e-06,((Acoerulea_Aqcoe1718s0001:1.65639e-06,Acoerulea_Aqcoe3G012900:0.0626905)n3:0.489671,Acoerulea_Aqcoe5G209600:0.587906)n2:0.0653229)n1:0.27851,Cannuum_CA02g02860:0.220937)n0;

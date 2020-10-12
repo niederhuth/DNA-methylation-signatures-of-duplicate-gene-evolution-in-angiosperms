@@ -1,0 +1,1 @@
+(((Mdomestica_MD17G1140900:0.504697,Ptrichocarpa_Potri.013G128950:0.482852)n2:0.120605,(Cpapaya_evm.TU.supercontig_21.247:0.759617,Cpapaya_evm.TU.supercontig_107.65:0.709909)n3:0.0788788)n1:0.0538951,Gmax_Glyma.04G168200:0.544193)n0;

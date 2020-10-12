@@ -1,0 +1,1 @@
+(Athaliana_AT5G43935:0.100185,((Crubella_Carub.0008s0462:0.149611,Crubella_Carub.0008s0463:0.0904357)n2:0.13756,Crubella_Carub.0008s0464:0.0794413)n1:0.100185)n0;

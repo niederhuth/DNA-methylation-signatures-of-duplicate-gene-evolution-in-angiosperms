@@ -1,0 +1,1 @@
+(Bvulgaris_gene_BVRB_1g006170:0.534242,(Slycopersicum_Solyc04g081040.1:1.95722e-06,(Smelongena_SMEL_004g221770.1:0.145822,Nattenuata_NIATv7_g13359:0.560427)n2:0.227382)n1:0.534242)n0;

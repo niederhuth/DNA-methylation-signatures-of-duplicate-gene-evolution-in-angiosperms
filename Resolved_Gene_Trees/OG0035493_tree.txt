@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr8G15090_001:0.431541,((Pxbretschneideri_LOC103955308:0.889303,Mdomestica_MD04G1185700:0.814431)n2:0.0837855,Fxananassa_maker-Fvb6-1-augustus-gene-312.43:0.702189)n1:0.431541)n0;

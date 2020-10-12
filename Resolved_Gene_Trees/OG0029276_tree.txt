@@ -1,0 +1,1 @@
+(((Stuberosum_PGSC0003DMG400024809:0.700796,Cpapaya_evm.TU.contig_36123:2.17695e-06)n2:0.418721,Vcorymbosum_maker-VaccDscaff12-snap-gene-319.35:0.664556)n1:0.163481,(Aofficinalis_evm.TU.AsparagusV1_09.1392:0.142562,Aofficinalis_evm.TU.AsparagusV1_05.1534:0.0620619)n3:0.163481)n0;

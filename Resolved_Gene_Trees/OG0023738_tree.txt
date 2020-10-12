@@ -1,0 +1,1 @@
+(Phallii_Pahal.7G212600:0.123855,((Mdomestica_MD05G1338500:0.203046,(((Alyrata_AL3G54460:0.494911,Aipaensis_araip.K30076.gnm1.ann1.Araip.X7IGL:0.418068)n5:0.32663,Mguttatus_Migut.G00565:0.46923)n4:0.199081,Aipaensis_araip.K30076.gnm1.ann1.Araip.T27HA:0.262911)n3:0.0292124)n2:0.0992296,Pxbretschneideri_LOC103933404:0.507774)n1:0.123855)n0;

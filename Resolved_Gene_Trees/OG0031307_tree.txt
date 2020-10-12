@@ -1,0 +1,1 @@
+(Mguttatus_Migut.H01610:0.764532,((Rchinensis_RcHm_v2.0_Chr3g0476961:0,Rchinensis_RcHm_v2.0_Chr3g0476921:0)n2:0.0966938,(Rchinensis_RcHm_v2.0_Chr5g0009751:0.0796773,Rchinensis_RcHm_v2.0_Chr5g0009781:0.121669)n3:0.124689)n1:0.764532)n0;

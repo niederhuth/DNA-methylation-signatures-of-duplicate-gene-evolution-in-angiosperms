@@ -1,0 +1,1 @@
+(Bdistachyon_Bradi4g01766:0.100778,(Pvirgatum_Pavir.4KG375601:0.176029,(((Sviridis_Sevir.3G041100:0,Sitalica_Seita.3G039800:0)n4:0.485749,(Othomaeum_Oropetium_20150105_15512:0.590997,Othomaeum_Oropetium_20150105_02940:0.366376)n5:0.470085)n3:0.339888,Sbicolor_Sobic.008G006700:0.359662)n2:0.100663)n1:0.100778)n0;

@@ -1,0 +1,1 @@
+(Nattenuata_NIATv7_g30732:0.401728,(Mtruncatula_Medtr4g007870:0.821831,(Boleracea_Bo6g022110:0.278816,Boleracea_Bo02889s010:0.163758)n2:0.759065)n1:0.401728)n0;

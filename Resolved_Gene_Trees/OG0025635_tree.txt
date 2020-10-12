@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_03.808:0.366739,((Acoerulea_Aqcoe6G237000:0.232728,Cmelo_MELO3C010621.2:0.440992)n2:0.0301121,(Mdomestica_MD10G1130600:0.389332,(Fxananassa_maker-Fvb2-3-augustus-gene-116.40:0.298049,Fxananassa_snap_masked-Fvb2-2-processed-gene-106.15:0.308343)n4:0.0810001)n3:0.0718571)n1:0.366739)n0;

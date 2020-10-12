@@ -1,0 +1,1 @@
+(Roccidentalis_maker-Ro04-snap-gene-113.73:0.195061,(((Paxillaris_Peaxi162Scf00196g00613:0.601349,Paxillaris_Peaxi162Scf00170g01227:0.789081)n3:0.0440566,Paxillaris_Peaxi162Scf00196g00723:0.417147)n2:0.0925414,(Vcorymbosum_maker-VaccDscaff4-snap-gene-47.48:0.161934,Vcorymbosum_maker-VaccDscaff35-snap-gene-45.54:0.158105)n4:0.386054)n1:0.195061)n0;

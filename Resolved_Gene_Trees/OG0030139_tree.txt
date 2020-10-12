@@ -1,0 +1,1 @@
+(Cpapaya_evm.TU.supercontig_14.213:0.683669,(((Cpapaya_evm.TU.supercontig_33.207:2.05604e-06,Cpapaya_evm.TU.contig_37010:0.151797)n3:0.208945,Cpapaya_evm.TU.supercontig_33.206:0.160406)n2:0.0344026,Cpapaya_evm.TU.supercontig_4056.1:0.162347)n1:0.683669)n0;

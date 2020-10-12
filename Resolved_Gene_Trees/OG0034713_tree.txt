@@ -1,0 +1,1 @@
+(Cpapaya_evm.TU.contig_45132:0.38723,(Fvesca_FvH4_4g35110:0.418253,(Fxananassa_maker-Fvb4-4-snap-gene-13.54:0.321782,Fxananassa_maker-Fvb4-3-snap-gene-12.68:0.0148755)n2:0.00165283)n1:0.121625)n0;

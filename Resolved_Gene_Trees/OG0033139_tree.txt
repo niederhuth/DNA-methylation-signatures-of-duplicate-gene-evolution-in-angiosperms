@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold03609.1:0.0523262,(Cpapaya_evm.TU.contig_44618:0.730715,(Aipaensis_araip.K30076.gnm1.ann1.Araip.RRC53:0.294589,Aipaensis_araip.K30076.gnm1.ann1.Araip.20IQ8:0.294191)n2:0.470743)n1:0.0523262)n0;

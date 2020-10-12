@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00041.194:0.288719,(Clanatus_Cla97C02G037280:0.885174,((Cmelo_MELO3C034704.2:0.557395,Cmelo_MELO3C034706.2:0.563005)n3:0.256421,Fxananassa_snap_masked-Fvb2-1-processed-gene-5.28:0.188544)n2:0.18155)n1:0.288719)n0;

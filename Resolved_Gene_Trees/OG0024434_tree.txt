@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_25450:0.154084,((Mdomestica_MD07G1059700:0.1878,Cpapaya_evm.TU.supercontig_74.49:0.299118)n2:0.0886092,((Cannuum_CA01g02740:0.562618,Cannuum_CA00g85280:0.202389)n4:0.124141,(Vcorymbosum_maker-VaccDscaff44-snap-gene-85.37:0.0815925,Vcorymbosum_snap_masked-VaccDscaff28-processed-gene-91.21:0.0852025)n5:0.301662)n3:0.0154432)n1:0.154084)n0;

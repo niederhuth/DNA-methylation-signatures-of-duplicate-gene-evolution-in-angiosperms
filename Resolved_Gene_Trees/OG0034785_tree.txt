@@ -1,0 +1,1 @@
+((Nattenuata_NIATv7_g44998:0.202376,Nattenuata_NIATv7_g43866:0.025305)n1:0.180529,(Egrandis_Eucgr.E03559:0.312861,Fxananassa_augustus_masked-Fvb6-4-processed-gene-109.5:0.9193)n2:0.180529)n0;

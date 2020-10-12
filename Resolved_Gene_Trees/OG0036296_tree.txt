@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_07140:0.395497,(Roccidentalis_maker-Ro06-snap-gene-395.37:0.413092,(Mdomestica_MD05G1251100:0.747635,Mdomestica_MD11G1042900:0.168365)n2:0.0187073)n1:0.309495)n0;

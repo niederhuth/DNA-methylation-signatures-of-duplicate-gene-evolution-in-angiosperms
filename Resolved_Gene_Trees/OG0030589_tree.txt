@@ -1,0 +1,1 @@
+(((Fvesca_FvH4_3g32480:0.702953,Roccidentalis_maker-Ro04-exonerate_protein2genome-gene-227.20:0.070579)n2:0.132823,Fxananassa_snap_masked-Fvb6-3-processed-gene-11.40:0.278182)n1:0.00983466,(Roccidentalis_maker-Ro01-exonerate_protein2genome-gene-214.28:0.313007,Fxananassa_snap_masked-Fvb4-1-processed-gene-104.26:0.378786)n3:0.00983466)n0;

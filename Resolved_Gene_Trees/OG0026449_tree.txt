@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00019.134:0.19752,(Ljaponicus_Lj2g3v0808900:0.423338,((Mdomestica_MD10G1170000:0.454397,Cpapaya_evm.TU.supercontig_970.3:0.350715)n3:0.0466155,(Gsoja_GlysoPI483463.16G039900:0.303027,Bvulgaris_gene_BVRB_5g115610:0.0920088)n4:0.0305456)n2:0.0477154)n1:0.19752)n0;

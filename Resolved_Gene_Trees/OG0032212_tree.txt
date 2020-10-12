@@ -1,0 +1,1 @@
+(Vcorymbosum_maker-VaccDscaff27-snap-gene-251.27:0.708642,((Sitalica_Seita.3G295100:0,Sviridis_Sevir.3G304900:0)n2:0.096178,(Sviridis_Sevir.3G158900:0.142639,Sitalica_Seita.3G155900:1.64494e-06)n3:1.64494e-06)n1:0.708642)n0;

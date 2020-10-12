@@ -1,0 +1,1 @@
+(Vvinifera_VIT_215s0046g00830:0.221742,(Fxananassa_augustus_masked-Fvb2-3-processed-gene-234.0:0.820387,(Fxananassa_augustus_masked-Fvb5-4-processed-gene-82.6:0.56782,Fxananassa_snap_masked-Fvb3-3-processed-gene-251.24:0.411129)n2:0.250348)n1:0.221742)n0;

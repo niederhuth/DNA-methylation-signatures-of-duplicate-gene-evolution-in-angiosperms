@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_25801:1.52827e-06,(Paxillaris_Peaxi162Scf00165g01726:0.732946,(Aipaensis_araip.K30076.gnm1.ann1.Araip.M1WH2:0.225334,Aipaensis_araip.K30076.gnm1.ann1.Araip.DZ8W6:0.216661)n2:0.483201)n1:1.52827e-06)n0;

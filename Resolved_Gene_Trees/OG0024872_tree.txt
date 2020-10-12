@@ -1,0 +1,1 @@
+((Sitalica_Seita.2G445300:0.473052,Othomaeum_Oropetium_20150105_11793:0.106512)n1:0.100714,(Ljaponicus_Lj0g3v0085329:0.431133,((Gsoja_GlysoPI483463.18G043400:3.65821e-06,Gmax_Glyma.18G047100:0.024213)n4:0.631355,(Ptrichocarpa_Potri.004G078600:0.960007,Fxananassa_snap_masked-Fvb1-1-processed-gene-74.12:0.55859)n5:0.146282)n3:0.126325)n2:0.100714)n0;

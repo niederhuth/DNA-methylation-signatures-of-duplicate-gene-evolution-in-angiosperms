@@ -1,0 +1,1 @@
+((Rchinensis_RcHm_v2.0_Chr6g0256491:0.665015,Aofficinalis_evm.TU.AsparagusV1_02.2010:0.594756)n1:0.0273762,(Macuminata_GSMUA_Achr6G15130_001:0.571126,(Cannuum_CA12g16600:0.882111,(Fxananassa_augustus_masked-Fvb2-4-processed-gene-15.8:0.184311,Fxananassa_augustus_masked-Fvb2-4-processed-gene-33.1:0.330256)n4:0.324637)n3:0.0498765)n2:0.0273762)n0;

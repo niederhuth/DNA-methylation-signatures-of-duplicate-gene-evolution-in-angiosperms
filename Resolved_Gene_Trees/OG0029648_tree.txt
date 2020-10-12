@@ -1,0 +1,1 @@
+((Fxananassa_snap_masked-Fvb6-4-processed-gene-247.11:0.126563,(Mdomestica_MD10G1214000:0.284317,Mdomestica_MD17G1227200:0.261393)n2:0.549786)n1:0.124518,(Brapa_Brara.F02705:0.201576,Boleracea_Bo00963s010:0.394393)n3:0.124518)n0;

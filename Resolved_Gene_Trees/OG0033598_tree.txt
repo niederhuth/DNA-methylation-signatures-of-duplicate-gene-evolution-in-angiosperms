@@ -1,0 +1,1 @@
+((Aofficinalis_evm.TU.AsparagusV1_06.1202:0.320117,Sbicolor_Sobic.004G018000:0.207645)n1:0.220644,(Crubella_Carub.0006s3659:1.29302e-06,Crubella_Carub.0006s3658:0.335307)n2:0.220644)n0;

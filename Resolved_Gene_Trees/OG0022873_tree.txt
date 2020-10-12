@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr7G07900_001:0.306424,(Rchinensis_RcHm_v2.0_Chr2g0108711:0.199414,((Smelongena_SMEL_008g303610.1:0.128999,(Gsoja_GlysoPI483463.19G151500:0,(Gmax_Glyma.17G184700:0.488312,Gmax_Glyma.19G189900:0)n5:0)n4:0.224021)n3:0.16844,(Nnucifera_XP_010247413.1:0.205467,Fxananassa_augustus_masked-Fvb3-3-processed-gene-11.2:0.089575)n6:0.0469061)n2:0.238594)n1:0.306424)n0;

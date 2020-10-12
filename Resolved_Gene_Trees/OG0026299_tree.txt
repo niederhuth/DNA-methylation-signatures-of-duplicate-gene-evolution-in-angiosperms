@@ -1,0 +1,1 @@
+((Zmays_Zm00001d004531:0.407991,(Zjujuba_LOC107421081:0.542042,Fxananassa_maker-Fvb2-1-augustus-gene-183.50:2.48572e-06)n2:0.542577)n1:0.176176,((Aofficinalis_evm.TU.AsparagusV1_04.176:0.0938404,Aofficinalis_evm.TU.AsparagusV1_07.1911:2.48572e-06)n4:0.0955596,Cannuum_CA04g10390:0.575788)n3:0.176176)n0;

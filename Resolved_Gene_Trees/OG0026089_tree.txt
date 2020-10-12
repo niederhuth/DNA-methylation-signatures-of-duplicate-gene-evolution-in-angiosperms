@@ -1,0 +1,1 @@
+(Slycopersicum_Solyc03g117710.2:0.377361,((Fxananassa_snap_masked-Fvb6-2-processed-gene-70.22:0.178679,Fxananassa_maker-Fvb6-2-snap-gene-94.41:0.155845)n2:0.369532,(Alyrata_AL6G36670:0.429881,(Ppersica_Prupe.1G395800:0.428495,Ljaponicus_Lj0g3v0187819:0.328944)n4:0.0314754)n3:0.0903004)n1:0.377361)n0;

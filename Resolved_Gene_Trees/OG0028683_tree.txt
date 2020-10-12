@@ -1,0 +1,1 @@
+(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.BA2YX:0.48413,(Vcorymbosum_maker-VaccDscaff23-snap-gene-157.20:0.716852,((Vcorymbosum_maker-VaccDscaff30-snap-gene-153.32:0.342515,Vcorymbosum_snap_masked-VaccDscaff32-processed-gene-125.10:0.0232597)n3:0.27463,Vcorymbosum_maker-VaccDscaff13-snap-gene-247.33:0.622463)n2:0.2198)n1:0.48413)n0;

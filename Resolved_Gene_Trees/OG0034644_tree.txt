@@ -1,0 +1,1 @@
+(Cpapaya_evm.TU.supercontig_108.56:0.616019,(Paxillaris_Peaxi162Scf00417g00004:0.592568,(Slycopersicum_Solyc01g058690.1:0.18765,Slycopersicum_Solyc02g086510.3:0.034224)n2:0.175626)n1:0.616019)n0;

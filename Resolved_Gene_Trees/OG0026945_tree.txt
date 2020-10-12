@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr1G28180_001:0.133137,((Slycopersicum_Solyc03g113845.1:0.361178,Slycopersicum_Solyc00g112930.3:0.0246345)n2:0.0986187,((Cpapaya_evm.TU.supercontig_120.56:0.617259,Cpapaya_evm.TU.supercontig_79.16:0.241006)n4:0.52107,Cpapaya_evm.TU.supercontig_35.41:0.207606)n3:0.249893)n1:0.133137)n0;

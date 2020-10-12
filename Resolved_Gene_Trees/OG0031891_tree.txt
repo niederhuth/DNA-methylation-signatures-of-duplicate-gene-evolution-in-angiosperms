@@ -1,0 +1,1 @@
+(Vcorymbosum_maker-VaccDscaff23-augustus-gene-70.26:0.0935317,(Ptrichocarpa_Potri.003G028500:0.300783,(Ptrichocarpa_Potri.T041400:0.194664,(Ptrichocarpa_Potri.018G124266:0.47031,Ptrichocarpa_Potri.003G027801:0.524016)n3:0.314643)n2:0.206096)n1:0.0935317)n0;

@@ -1,0 +1,1 @@
+((Ljaponicus_Lj6g3v1491490:0.129498,((Cannuum_CA01g16790:0.216534,(Macuminata_GSMUA_Achr11G05380_001:0.341762,Cpapaya_evm.TU.supercontig_50.147:0.344382)n4:0.10149)n3:0.0941091,Macuminata_GSMUA_Achr2G00290_001:0.195316)n2:0.0217018)n1:0.0335254,Fxananassa_maker-Fvb6-4-augustus-gene-51.42:0.201701)n0;

@@ -1,0 +1,1 @@
+(Osativa_LOC_Os03g52180:0.187212,(Crubella_Carub.0127s0001:0.175978,(Fvesca_FvH4_2g07940:6.29991e-07,((Fxananassa_snap_masked-Fvb2-4-processed-gene-55.17:0.0147984,Fxananassa_augustus_masked-Fvb2-3-processed-gene-174.3:0.00470457)n4:0.000827924,Fxananassa_maker-Fvb2-2-snap-gene-174.43:0.0160302)n3:0.00178114)n2:0.0426199)n1:0.187212)n0;

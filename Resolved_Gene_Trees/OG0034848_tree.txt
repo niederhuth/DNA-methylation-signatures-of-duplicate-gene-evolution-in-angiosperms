@@ -1,0 +1,1 @@
+((Nattenuata_NIATv7_g42670:0.56783,Nattenuata_NIATv7_g42385:2.02e-06)n1:0.341953,(Egrandis_Eucgr.L03231:0.339037,Roccidentalis_maker-Ro02-snap-gene-399.82:0.549161)n2:0.341953)n0;

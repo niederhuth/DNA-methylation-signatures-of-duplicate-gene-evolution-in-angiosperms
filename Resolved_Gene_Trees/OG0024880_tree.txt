@@ -1,0 +1,1 @@
+(Fxananassa_maker-Fvb1-4-augustus-gene-214.39:0.415247,(((Pxbretschneideri_LOC103934070:0,Pxbretschneideri_LOC103934058:0)n3:0,Pxbretschneideri_LOC103934061:0)n2:0.8631,((Mdomestica_MD02G1274100:0.0854459,Mdomestica_MD17G1274400:0.441374)n5:0.256871,Mdomestica_MD01G1098000:0.0895879)n4:0.00995421)n1:0.209915)n0;

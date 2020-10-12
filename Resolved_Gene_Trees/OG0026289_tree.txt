@@ -1,0 +1,1 @@
+((Boleracea_Bo1g147680:0.68639,(((Aofficinalis_evm.TU.AsparagusV1_09.295:0.241263,Aofficinalis_evm.TU.AsparagusV1_07.2468:0.242449)n4:0.381911,Aofficinalis_evm.TU.AsparagusV1_03.1774:0.306887)n3:0.0340986,Aofficinalis_evm.TU.AsparagusV1_07.513:0.480679)n2:0.0534088)n1:0.126127,Vcorymbosum_maker-VaccDscaff4-augustus-gene-236.18:1.15863)n0;

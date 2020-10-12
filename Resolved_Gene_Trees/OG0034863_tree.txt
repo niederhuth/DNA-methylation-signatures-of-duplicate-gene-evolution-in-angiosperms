@@ -1,0 +1,1 @@
+(Eguineensis_p5.00_sc00150_p0027:0.528778,(Fvesca_FvH4_6g28250:0.094624,(Fxananassa_snap_masked-Fvb6-3-processed-gene-164.19:0.65559,Fxananassa_maker-Fvb6-1-augustus-gene-168.46:1.52238e-06)n2:1.52238e-06)n1:0.244426)n0;

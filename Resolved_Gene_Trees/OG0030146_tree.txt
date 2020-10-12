@@ -1,0 +1,1 @@
+((Ptrichocarpa_Potri.001G052200:0.848351,(Cpapaya_evm.TU.supercontig_83.3:0.854383,Cpapaya_evm.TU.supercontig_1954.1:0.310507)n2:0.10478)n1:0.256738,(Gmax_Glyma.13G060202:2.64618e-06,Gsoja_GlysoPI483463.13G037200:0.0310292)n3:0.256738)n0;

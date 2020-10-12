@@ -1,0 +1,1 @@
+(Cannuum_CA03g23320:0.189921,(Roccidentalis_maker-Ro04-snap-gene-100.80:0.827179,(Rchinensis_RcHm_v2.0_Chr7g0227471:0.282877,Boleracea_Bo2g134100:0.328587)n2:0.214713)n1:0.189921)n0;

@@ -1,0 +1,1 @@
+((Phallii_Pahal.8G093200:0.346527,(Pvirgatum_Pavir.5KG170056:0.0609534,Sbicolor_Sobic.003G172600:3.7625e-05)n2:0.0385056)n1:0.0789856,(Bdistachyon_Bradi1g39194:0.000480375,Bdistachyon_Bradi2g23255:0.41584)n3:0.0789856)n0;

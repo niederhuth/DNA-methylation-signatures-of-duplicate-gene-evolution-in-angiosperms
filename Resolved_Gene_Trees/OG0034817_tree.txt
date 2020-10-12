@@ -1,0 +1,1 @@
+(Slycopersicum_Solyc06g083010.1:0.232901,(Mdomestica_MD05G1156800:0.198189,(Egrandis_Eucgr.H00712:0.518175,Ljaponicus_Lj1g3v3597220:0.554495)n2:0.110478)n1:0.232901)n0;

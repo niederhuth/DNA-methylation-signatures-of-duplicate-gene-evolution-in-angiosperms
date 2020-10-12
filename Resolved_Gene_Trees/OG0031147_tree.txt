@@ -1,0 +1,1 @@
+(Sitalica_Seita.7G246000:0.32761,((Mguttatus_Migut.F01356:0.140259,Mguttatus_Migut.E00979:0.0137105)n2:0.473912,(Ljaponicus_Lj5g3v2256170:0.439011,Ptrichocarpa_Potri.001G293150:0.575332)n3:0.028869)n1:0.32761)n0;

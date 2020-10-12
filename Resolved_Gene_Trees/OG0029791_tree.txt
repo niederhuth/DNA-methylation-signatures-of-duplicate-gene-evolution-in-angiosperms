@@ -1,0 +1,1 @@
+(Brapa_Brara.C04664:0.295618,(Slycopersicum_Solyc04g077353.1:0.830161,(Slycopersicum_Solyc04g077357.1:0.121757,(Slycopersicum_Solyc04g077337.1:0.548805,Slycopersicum_Solyc04g077333.1:0.33007)n3:0.223393)n2:0.0390636)n1:0.295618)n0;

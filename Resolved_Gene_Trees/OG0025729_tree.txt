@@ -1,0 +1,1 @@
+(((Aduranensis_aradu.V14167.gnm1.ann1.Aradu.ZE0WK:0.242208,Aipaensis_araip.K30076.gnm1.ann1.Araip.WKT96:0.0582702)n2:0.0551308,Fvesca_FvH4_5g19990:0.950804)n1:0.274657,((Ljaponicus_Lj2g3v0908540:0.200544,Mtruncatula_Medtr4g132680:0.858784)n4:0.31229,Roccidentalis_maker-Ro07-snap-gene-140.51:0.522657)n3:0.274657)n0;

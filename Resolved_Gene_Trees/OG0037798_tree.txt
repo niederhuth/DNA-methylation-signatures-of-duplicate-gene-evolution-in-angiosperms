@@ -1,0 +1,1 @@
+(Roccidentalis_maker-Ro03-snap-gene-255.40:0.329464,(Vcorymbosum_maker-VaccDscaff11-snap-gene-282.30:0.0081035,(Vcorymbosum_maker-VaccDscaff19-snap-gene-313.35:0.0236295,Vcorymbosum_maker-VaccDscaff15-snap-gene-266.43:0.0131575)n2:0.112968)n1:0.329464)n0;

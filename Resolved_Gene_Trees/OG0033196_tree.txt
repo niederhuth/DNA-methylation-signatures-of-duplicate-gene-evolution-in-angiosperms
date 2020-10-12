@@ -1,0 +1,1 @@
+(Aipaensis_araip.K30076.gnm1.ann1.Araip.ZU7PK:0.29651,(Cannuum_CA00g68040:0.522001,(Nattenuata_NIATv7_g15325:0.185391,Nattenuata_NIATv7_g52049:0.075354)n2:0.00837266)n1:0.121727)n0;

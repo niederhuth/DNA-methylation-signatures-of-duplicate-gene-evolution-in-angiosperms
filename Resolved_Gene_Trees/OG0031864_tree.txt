@@ -1,0 +1,1 @@
+(Vcorymbosum_maker-VaccDscaff138-snap-gene-1.51:0.381012,(Ppersica_Prupe.8G146800:0.050457,(Ppersica_Prupe.2G218800:0.0109975,(Ppersica_Prupe.5G039800:0,Ppersica_Prupe.4G279100:0)n3:0.0071615)n2:0.036198)n1:0.381012)n0;

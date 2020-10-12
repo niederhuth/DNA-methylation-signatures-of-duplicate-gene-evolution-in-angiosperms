@@ -1,0 +1,1 @@
+(Athaliana_AT2G18920:0.316937,(Cviolacea_Clevi.0023s0083:0.251596,(Cviolacea_Clevi.0007s0034:0.0941915,Cviolacea_Clevi.0009s0449:0.131782)n2:0.0549925)n1:0.316937)n0;

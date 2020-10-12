@@ -1,0 +1,1 @@
+(Gmax_Glyma.20G093400:0.261608,(((Mguttatus_Migut.N02176:0.0432592,Mguttatus_Migut.O00858:0.100683)n3:0.439173,Stuberosum_PGSC0003DMG402013636:0.168634)n2:0.0281941,(Vcorymbosum_maker-VaccDscaff10-snap-gene-311.24:0.335761,Vcorymbosum_maker-VaccDscaff1-augustus-gene-100.23:0.296827)n4:0.170394)n1:0.261608)n0;

@@ -1,0 +1,1 @@
+(Vcorymbosum_maker-VaccDscaff45-snap-gene-81.50:0.673906,(Zmays_Zm00001d032016:1.14436,(Zmays_Zm00001d027788:0.547215,Zmays_Zm00001d049023:0.630363)n2:0.390043)n1:0.673906)n0;

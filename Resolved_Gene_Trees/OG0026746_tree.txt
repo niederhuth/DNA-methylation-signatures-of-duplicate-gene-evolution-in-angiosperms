@@ -1,0 +1,1 @@
+(((Fxananassa_augustus_masked-Fvb3-4-processed-gene-178.0:0.798037,Fvesca_FvH4_6g12340:2.81917e-06)n2:0.791335,((Cannuum_CA03g14340:0,Cannuum_CA03g10410:0)n4:0.26347,Cannuum_CA00g50210:0.698677)n3:0.0776307)n1:0.107769,Mdomestica_MD05G1232700:0.269217)n0;

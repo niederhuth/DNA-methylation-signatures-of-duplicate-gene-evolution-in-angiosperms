@@ -1,0 +1,1 @@
+(Tcacao_Thecc1EG039494:0.160663,(Ptrichocarpa_Potri.006G074000:0.265074,(Ptrichocarpa_Potri.018G141400:0.108024,Ptrichocarpa_Potri.006G074400:0.160183)n2:0.0688095)n1:0.160663)n0;

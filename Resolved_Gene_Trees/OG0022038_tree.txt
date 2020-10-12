@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_Unassigned.911:0.265883,((((Fvesca_FvH4_3g23710:0.00569825,Fxananassa_maker-Fvb3-4-snap-gene-160.66:0.0368487)n4:0.977508,(Mguttatus_Migut.C00626:0.601276,Mtruncatula_Medtr2g046000:1.13907)n5:0.101467)n3:0.131204,(Nattenuata_NIATv7_g02124:0.47082,Mesculenta_Manes.08G151300:0.608562)n6:0.416511)n2:0.16359,Alyrata_AL6G50190:0.634649)n1:0.265883)n0;

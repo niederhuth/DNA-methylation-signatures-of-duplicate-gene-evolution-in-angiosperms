@@ -1,0 +1,1 @@
+(Brapa_Brara.I02611:0.190908,(Fxananassa_snap_masked-Fvb3-2-processed-gene-294.22:0.229994,(Fxananassa_maker-Fvb3-4-snap-gene-25.49:1.20105e-06,Fxananassa_snap_masked-Fvb3-3-processed-gene-274.38:0.223156)n2:0.371017)n1:0.190908)n0;

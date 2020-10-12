@@ -1,0 +1,1 @@
+(Aipaensis_araip.K30076.gnm1.ann1.Araip.2CE24:0.533927,(((Bvulgaris_gene_BVRB_7g164560:0.307021,Zmays_Zm00001d019137:0.658349)n3:0.229599,(Cpapaya_evm.TU.supercontig_104.64:0.381012,(Bvulgaris_gene_BVRB_001480:0.112852,Osativa_LOC_Os03g46010:0.89775)n5:0.110704)n4:0.0851773)n2:0.0625165,Bvulgaris_gene_BVRB_9g221310:0.158232)n1:0.0175813)n0;

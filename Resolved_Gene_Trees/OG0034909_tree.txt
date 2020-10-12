@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr3G11500_001:0.140968,(Ljaponicus_Lj5g3v2291280:0.17544,(Esalsugineum_Thhalv10006511m.g:0.218056,Vcorymbosum_maker-VaccDscaff887-snap-gene-0.13:0.162215)n2:0.0550863)n1:0.140968)n0;

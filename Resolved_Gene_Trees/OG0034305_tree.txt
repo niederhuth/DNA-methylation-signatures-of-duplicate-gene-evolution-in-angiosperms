@@ -1,0 +1,1 @@
+(Spolyrhiza_Spipo0G0073800:0.429635,((Cviolacea_Clevi.0005s1298:0.736663,Cviolacea_Clevi.0009s0552:0.539695)n2:0.280076,Cannuum_CA03g21510:0.617227)n1:0.429635)n0;

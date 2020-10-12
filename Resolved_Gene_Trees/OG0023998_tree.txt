@@ -1,0 +1,1 @@
+((Aofficinalis_evm.TU.AsparagusV1_10.907:0.467407,Aofficinalis_evm.TU.AsparagusV1_08.26:0.130253)n1:0.162554,((Pxbretschneideri_LOC103937287:0.445492,Rchinensis_RcHm_v2.0_Chr4g0414941:0.0713147)n3:0.0376306,((Gsoja_GlysoPI483463.04G203400:2.75725e-06,Gmax_Glyma.04G248002:0.277844)n5:0.339911,Boleracea_Bo2g092670:0.534081)n4:0.169073)n2:0.162554)n0;

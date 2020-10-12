@@ -1,0 +1,1 @@
+((Csativus_CsaV3_2G010720:0.556227,Fxananassa_maker-Fvb2-1-snap-gene-146.66:0.371183)n1:0.20127,(Gsoja_GlysoPI483463.20G139200:0.341693,Gmax_Glyma.20G174200:1.64436e-06)n2:0.20127)n0;

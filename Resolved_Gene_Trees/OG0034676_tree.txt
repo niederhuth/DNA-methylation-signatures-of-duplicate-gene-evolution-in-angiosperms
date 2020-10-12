@@ -1,0 +1,1 @@
+(Vvinifera_VIT_200s0233g00010:0.274503,((Ljaponicus_Lj0g3v0258289:0.611838,Ljaponicus_Lj0g3v0306719:0.533844)n2:0.444712,Cpapaya_evm.TU.supercontig_29.126:0.52877)n1:0.274503)n0;

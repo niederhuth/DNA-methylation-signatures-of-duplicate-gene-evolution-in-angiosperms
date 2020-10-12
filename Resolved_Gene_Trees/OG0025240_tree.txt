@@ -1,0 +1,1 @@
+(((Phallii_Pahal.7G001800:0.486868,(Pvirgatum_Pavir.7NG062657:0.391918,Pvirgatum_Pavir.7KG024300:3.98439e-06)n3:0.21298)n2:0.326389,(Sitalica_Seita.7G001600:0,Sviridis_Sevir.7G037200:0)n4:0.818868)n1:0.235295,(Othomaeum_Oropetium_20150105_09178:0.815319,Othomaeum_Oropetium_20150105_09095:0.506408)n5:0.235295)n0;

@@ -1,0 +1,1 @@
+(Pvulgaris_Phvul.005G088618:0.161104,(Cpapaya_evm.TU.supercontig_263.9:0.661673,(Ptrichocarpa_Potri.006G080000:0.482937,(Mesculenta_Manes.S022389:0.316697,(Mesculenta_Manes.S023290:0.214142,(Mesculenta_Manes.04G062544:0,Mesculenta_Manes.S022736:0)n5:0.0793816)n4:0.35407)n3:0.382487)n2:0.0367131)n1:0.161104)n0;

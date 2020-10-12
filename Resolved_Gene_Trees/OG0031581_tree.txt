@@ -1,0 +1,1 @@
+(Osativa_LOC_Os06g14450:0.369328,(Othomaeum_Oropetium_20150105_16002:0.688576,(Pvirgatum_Pavir.4KG229300:0.0867387,(Sviridis_Sevir.4G113100:0,Sitalica_Seita.4G113200:0)n3:0.119005)n2:0.0364532)n1:0.369328)n0;

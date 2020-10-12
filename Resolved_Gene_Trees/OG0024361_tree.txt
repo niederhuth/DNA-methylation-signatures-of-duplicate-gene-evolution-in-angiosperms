@@ -1,0 +1,1 @@
+(Sitalica_Seita.3G153200:0.172329,((Cannuum_CA02g10690:0.235514,Cannuum_CA07g04320:0.392321)n2:0.26208,((Ljaponicus_Lj0g3v0254949:0.126546,Vcorymbosum_maker-VaccDscaff21-augustus-gene-38.32:0.390378)n4:0.139976,(Egrandis_Eucgr.C00098:0.197343,Egrandis_Eucgr.L03008:0.0536822)n5:0.00596469)n3:0.118033)n1:0.172329)n0;

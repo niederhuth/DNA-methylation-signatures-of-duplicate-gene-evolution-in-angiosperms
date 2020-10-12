@@ -1,0 +1,1 @@
+(Gmax_Glyma.02G300800:0.212961,(Clanatus_Cla97C10G188870:1.00403,(Fxananassa_maker-Fvb3-2-snap-gene-297.49:0.081171,Fxananassa_maker-Fvb3-3-snap-gene-277.58:0.162187)n2:1.02674)n1:0.212961)n0;

@@ -1,0 +1,1 @@
+(Osativa_LOC_Os06g22850:0.431701,((Egrandis_Eucgr.L03273:0.758552,Crubella_Carub.0008s1310:0.649752)n2:0.0453704,(Esalsugineum_Thhalv10023970m.g:0.0687337,Esalsugineum_Thhalv10009152m.g:0.0608873)n3:0.467769)n1:0.431701)n0;

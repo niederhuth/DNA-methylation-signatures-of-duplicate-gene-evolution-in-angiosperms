@@ -1,0 +1,1 @@
+((Slycopersicum_Solyc07g043040.1:0.362047,Smelongena_SMEL_002g154870.1:0.383545)n1:0.0757219,((Mdomestica_MD09G1141600:0.782673,Rchinensis_RcHm_v2.0_Chr1g0339951:0.357899)n3:0.0780259,(Brapa_Brara.C04425:0.429188,(Cpapaya_evm.TU.supercontig_8.268:0.49663,Cpapaya_evm.TU.supercontig_8.228:0.38625)n5:0.0429167)n4:0.0663312)n2:0.0757219)n0;

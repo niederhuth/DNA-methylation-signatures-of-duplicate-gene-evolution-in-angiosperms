@@ -1,0 +1,1 @@
+((Spolyrhiza_Spipo2G0005800:0.715556,Spolyrhiza_Spipo2G0005700:0.672091)n1:0.250214,(Pvirgatum_Pavir.7KG417901:0.525323,Sbicolor_Sobic.006G238300:0.446798)n2:0.250214)n0;

@@ -1,0 +1,1 @@
+(Aipaensis_araip.K30076.gnm1.ann1.Araip.WGZ78:0.43566,(Paxillaris_Peaxi162Scf00213g00914:0.732327,(Slycopersicum_Solyc07g005595.1:0.389487,Slycopersicum_Solyc02g086980.3:0.472634)n2:0.0525149)n1:0.0318042)n0;

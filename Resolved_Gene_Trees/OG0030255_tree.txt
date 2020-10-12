@@ -1,0 +1,1 @@
+(Pvirgatum_Pavir.6NG166400:0.151916,(Ptrichocarpa_Potri.001G226600:0.649662,((Paxillaris_Peaxi162Scf00902g00111:0.149736,Slycopersicum_Solyc10g062090.1:0.326629)n3:0.446801,Egrandis_Eucgr.H01565:0.492465)n2:0.0921722)n1:0.151916)n0;

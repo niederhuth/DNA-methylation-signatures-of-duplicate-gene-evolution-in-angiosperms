@@ -1,0 +1,1 @@
+((Cmelo_MELO3C033987.2:0.667648,Pvirgatum_Pavir.3KG239100:0.0415572)n1:0.0309406,((Fxananassa_augustus_masked-Fvb3-3-processed-gene-119.7:1.16493,((Eguineensis_p5.00_sc00339_p0001:0.27067,Eguineensis_p5.00_sc00001_p0653:0.12161)n5:0.0179007,Nattenuata_NIATv7_g24734:0.195695)n4:0.207223)n3:0.108328,Mtruncatula_Medtr4g120800:0.637304)n2:0.0309406)n0;

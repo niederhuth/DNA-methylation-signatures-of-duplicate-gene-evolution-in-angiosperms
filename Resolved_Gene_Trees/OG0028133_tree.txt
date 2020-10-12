@@ -1,0 +1,1 @@
+(((Pvirgatum_Pavir.6KG294100:0.108779,Pvirgatum_Pavir.6NG248200:0.116659)n2:0.024598,Phallii_Pahal.6G226700:0.153935)n1:0.0422732,(Sitalica_Seita.6G171700:5e-07,(Sviridis_Sevir.6G177800:1.2977,Sviridis_Sevir.6G177600:4.5e-07)n4:5e-08)n3:0.0938133)n0;

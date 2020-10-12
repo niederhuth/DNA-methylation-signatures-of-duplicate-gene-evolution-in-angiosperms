@@ -1,0 +1,1 @@
+((Egrandis_Eucgr.E03102:0.497682,(Macuminata_GSMUA_Achr6G26240_001:0.223627,Macuminata_GSMUA_Achr6G26190_001:0.449589)n2:0.0499543)n1:0.0782876,(Vcorymbosum_augustus_masked-VaccDscaff44-processed-gene-58.4:0.317926,(Vcorymbosum_maker-VaccDscaff4-augustus-gene-177.23:0.0334891,Vcorymbosum_maker-VaccDscaff20-augustus-gene-308.34:0.0791299)n4:0.209778)n3:0.504445)n0;

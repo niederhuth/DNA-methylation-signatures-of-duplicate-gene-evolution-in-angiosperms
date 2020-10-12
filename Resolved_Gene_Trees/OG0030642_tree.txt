@@ -1,0 +1,1 @@
+((Gmax_Glyma.17G097200:0.0034965,Gsoja_GlysoPI483463.17G089600:0.0087485)n1:0.35826,(Rchinensis_RcHm_v2.0_Chr5g0038861:0.634882,(Fxananassa_snap_masked-Fvb5-1-processed-gene-96.21:0.0484407,Fvesca_FvH4_5g15470:0.220318)n3:0.477277)n2:0.35826)n0;

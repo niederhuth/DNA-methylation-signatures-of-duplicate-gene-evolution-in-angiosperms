@@ -1,0 +1,1 @@
+(((Spolyrhiza_Spipo7G0049100:0.5847,Eguineensis_p5.00_sc00384_p0004:0.619988)n2:0.0804039,Vvinifera_VIT_214s0068g01410:0.665819)n1:0.0425715,((Egrandis_Eucgr.H04411:0.652538,Aofficinalis_evm.TU.AsparagusV1_02.2070:0.428713)n4:0.046543,(Ptrichocarpa_Potri.005G046900:0.362026,Ptrichocarpa_Potri.003G113800:0.399446)n5:0.0443828)n3:0.131196)n0;

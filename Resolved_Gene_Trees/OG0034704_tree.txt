@@ -1,0 +1,1 @@
+((Fvesca_FvH4_7g02240:0.332191,Graimondii_Gorai.013G015300:0.579117)n1:0.0198774,(Cpapaya_evm.TU.contig_33608:0.317254,Csativus_CsaV3_5G024640:0.727061)n2:0.0198774)n0;

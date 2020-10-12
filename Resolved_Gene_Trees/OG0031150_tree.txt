@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr3G04380_001:0.221351,(Tcacao_Thecc1EG034945:0.196069,((Vcorymbosum_maker-VaccDscaff16-snap-gene-322.49:0.0379078,Vcorymbosum_maker-VaccDscaff31-snap-gene-265.29:0.0214042)n3:0.184392,Vcorymbosum_maker-VaccDscaff18-snap-gene-72.39:0.0550136)n2:0.185094)n1:0.221351)n0;

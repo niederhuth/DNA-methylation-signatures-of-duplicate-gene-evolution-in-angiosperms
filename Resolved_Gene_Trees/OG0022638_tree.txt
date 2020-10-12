@@ -1,0 +1,1 @@
+(((Csativus_CsaV3_6G024150:0,(Csativus_CsaV3_6G023990:0,Csativus_CsaV3_UNG208500:0)n3:0)n2:0,Csativus_CsaV3_6G025270:0)n1:0.0232824,((Paxillaris_Peaxi162Scf00864g00008:0.332333,Smelongena_SMEL_007g278170.1:0.394997)n5:0.365144,(Slycopersicum_Solyc01g065780.1:0.136963,Slycopersicum_Solyc12g036610.1:0.183649)n6:0.0204055)n4:0.10777)n0;

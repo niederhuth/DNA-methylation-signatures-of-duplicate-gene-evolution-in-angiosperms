@@ -1,0 +1,1 @@
+(Slycopersicum_Solyc03g114875.1:0.306406,((Ljaponicus_Lj0g3v0102519:0.476634,Gmax_Glyma.05G019101:0.296235)n2:0.138549,((Aipaensis_araip.K30076.gnm1.ann1.Araip.J9CX6:0.242301,Tcacao_Thecc1EG014317:0.87411)n4:0.133011,Roccidentalis_maker-Ro06-snap-gene-149.49:0.815254)n3:0.0724893)n1:0.306406)n0;

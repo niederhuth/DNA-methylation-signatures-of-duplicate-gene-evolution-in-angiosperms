@@ -1,0 +1,1 @@
+((Ppersica_Prupe.1G073500:0.270119,Ppersica_Prupe.4G261300:0.295222)n1:0.63716,(Vcorymbosum_augustus_masked-VaccDscaff30-processed-gene-62.4:0.0326542,Vcorymbosum_augustus_masked-VaccDscaff42-processed-gene-265.1:0.0514748)n2:0.63716)n0;

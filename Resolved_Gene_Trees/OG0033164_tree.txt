@@ -1,0 +1,1 @@
+(Nattenuata_NIATv7_g45871:0.123919,((Aipaensis_araip.K30076.gnm1.ann1.Araip.EYS96:0.329534,Boleracea_Bo03444s010:0.360044)n2:0.0826745,Zjujuba_LOC107409541:0.173644)n1:0.123919)n0;

@@ -1,0 +1,1 @@
+(Graimondii_Gorai.003G026700:0.232545,(Gmax_Glyma.14G202000:0.501178,(Rchinensis_RcHm_v2.0_Chr2g0107221:0.803612,(Fvesca_FvH4_1g17070:0.0166992,(Fxananassa_maker-Fvb1-1-snap-gene-182.44:0.820875,(Fxananassa_maker-Fvb1-2-snap-gene-110.72:0.0772844,Fxananassa_maker-Fvb1-4-snap-gene-88.47:3.36766e-06)n5:3.36766e-06)n4:3.36766e-06)n3:0.286553)n2:0.405429)n1:0.232545)n0;

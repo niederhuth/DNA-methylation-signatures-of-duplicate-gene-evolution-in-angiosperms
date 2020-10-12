@@ -1,0 +1,1 @@
+(Fxananassa_maker-Fvb1-2-augustus-gene-126.31:0.351953,(Mguttatus_Migut.A01069:0.683957,(Mguttatus_Migut.D01527:0.390637,((Mguttatus_Migut.K01243:0.139317,Mguttatus_Migut.L00948:0.358279)n4:0.0872176,Mguttatus_Migut.G00908:0.00820932)n3:0.312709)n2:0.146768)n1:0.351953)n0;

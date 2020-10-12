@@ -1,0 +1,1 @@
+((Boleracea_Bo1g070890:0.679104,Acoerulea_Aqcoe1G065200:0.84839)n1:0.256716,(Pvirgatum_Pavir.4NG230531:0.261962,((Aofficinalis_evm.TU.AsparagusV1_07.2082:0.283221,Aofficinalis_evm.TU.AsparagusV1_Unassigned.397:2.81725e-06)n4:0.193729,Aofficinalis_evm.TU.AsparagusV1_01.30:0.196976)n3:0.0218862)n2:0.0829514)n0;

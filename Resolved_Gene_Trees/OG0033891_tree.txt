@@ -1,0 +1,1 @@
+(Sitalica_Seita.7G223000:0.273945,((Bdistachyon_Bradi5g20424:0.184147,Bdistachyon_Bradi5g20425:0.177424)n2:0.25871,Bdistachyon_Bradi5g20461:0.527832)n1:0.273945)n0;

@@ -1,0 +1,1 @@
+(Roccidentalis_maker-Ro07-exonerate_protein2genome-gene-118.65:0,(Roccidentalis_maker-Ro07-exonerate_protein2genome-gene-117.27:0,(Roccidentalis_maker-Ro07-exonerate_protein2genome-gene-117.26:0,Roccidentalis_maker-Ro07-exonerate_protein2genome-gene-118.54:0)n2:0)n1:0)n0;

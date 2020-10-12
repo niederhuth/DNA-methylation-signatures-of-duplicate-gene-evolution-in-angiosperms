@@ -1,0 +1,1 @@
+((Othomaeum_Oropetium_20150105_10434:0.19201,Ljaponicus_Lj0g3v0176359:0.199677)n1:0.0850128,((Rchinensis_RcHm_v2.0_Chr6g0247851:0.440816,Ptrichocarpa_Potri.002G185600:0.567858)n3:0.190054,Bdistachyon_Bradi2g38823:0.82868)n2:0.0850128)n0;

@@ -1,0 +1,1 @@
+(Mdomestica_MD11G1150300:0.442745,((Mtruncatula_Medtr8g038650:2.70183e-06,Mtruncatula_Medtr7g028885:0.812557)n2:0.19495,Aipaensis_araip.K30076.gnm1.ann1.Araip.34YYM:0.811016)n1:0.442745)n0;

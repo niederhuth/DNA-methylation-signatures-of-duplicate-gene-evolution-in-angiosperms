@@ -1,0 +1,1 @@
+(Cpapaya_evm.TU.supercontig_211.31:0.328748,(Paxillaris_Peaxi162Scf00072g00064:0.443846,(Cannuum_CA12g06310:0.55278,Cannuum_CA01g18340:0.487827)n2:0.054203)n1:0.124162)n0;

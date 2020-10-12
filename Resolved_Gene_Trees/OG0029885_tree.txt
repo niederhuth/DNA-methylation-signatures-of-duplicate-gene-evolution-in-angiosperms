@@ -1,0 +1,1 @@
+((Cannuum_CA02g25110:0.199151,Smelongena_SMEL_000g028040.1:0.113065)n1:0.0925615,(Fxananassa_augustus_masked-Fvb1-1-processed-gene-179.12:0.141428,(Ptrichocarpa_Potri.007G053800:0.770162,Egrandis_Eucgr.H02294:0.416505)n3:0.0813875)n2:0.0925615)n0;

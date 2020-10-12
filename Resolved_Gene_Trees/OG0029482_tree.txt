@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00067.36:0.285517,(((Othomaeum_Oropetium_20150105_07705:0.486864,Brapa_Brara.B03324:0.442733)n3:0.0524132,Esalsugineum_Thhalv10009761m.g:0.362214)n2:0.0618512,Stuberosum_PGSC0003DMG400020806:0.119362)n1:0.285517)n0;

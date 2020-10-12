@@ -1,0 +1,1 @@
+((Graimondii_Gorai.006G147200:0.492953,Graimondii_Gorai.013G210500:0.752441)n1:0.0687219,((Mtruncatula_Medtr7g023220:2.64597e-06,Mtruncatula_Medtr5g059160:0.727282)n3:0.150946,Mtruncatula_Medtr2g005420:0.712529)n2:0.0687219)n0;

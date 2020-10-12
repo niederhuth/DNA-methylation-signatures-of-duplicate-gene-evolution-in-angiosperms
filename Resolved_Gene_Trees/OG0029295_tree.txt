@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_07.4:0.203347,(Fxananassa_maker-Fvb3-1-augustus-gene-41.30:0.528821,(Ptrichocarpa_Potri.001G250300:0.369626,(Smelongena_SMEL_000g089060.1:0.357171,Smelongena_SMEL_000g114870.1:0.0247805)n3:0.26023)n2:0.158429)n1:0.203347)n0;

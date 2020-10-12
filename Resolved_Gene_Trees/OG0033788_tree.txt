@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00003.314:0.501532,(Slycopersicum_Solyc09g065230.1:0.406928,(Fxananassa_snap_masked-Fvb6-4-processed-gene-219.19:0.267844,Fxananassa_maker-Fvb6-3-snap-gene-156.34:0.517365)n2:0.303205)n1:0.501532)n0;

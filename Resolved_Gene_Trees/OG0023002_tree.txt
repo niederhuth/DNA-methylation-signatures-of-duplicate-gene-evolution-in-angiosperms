@@ -1,0 +1,1 @@
+(Nnucifera_XP_010246512.1:0.510565,(Mtruncatula_Medtr6g078470:0.568028,((Mtruncatula_Medtr7g006980:0.776044,Mtruncatula_Medtr3g105030:0.534217)n3:0.117561,(Mtruncatula_Medtr2g025660:0.599784,(Mtruncatula_Medtr8g469660:0.176609,(Mtruncatula_Medtr8g091490:0.133065,Mtruncatula_Medtr4g085600:0.312626)n6:0.17509)n5:0.302951)n4:0.129348)n2:0.032118)n1:0.510565)n0;

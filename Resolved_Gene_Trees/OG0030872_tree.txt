@@ -1,0 +1,1 @@
+(Fxananassa_maker-Fvb2-4-snap-gene-51.38:0.419203,((Roccidentalis_maker-Ro04-exonerate_protein2genome-gene-229.47:0.124968,(Roccidentalis_maker-Ro03-snap-gene-30.42:0.375643,Roccidentalis_maker-Ro06-exonerate_protein2genome-gene-454.7:0.052568)n3:0.0745298)n2:0.167847,Roccidentalis_maker-Ro02-snap-gene-356.27:0.746557)n1:0.419203)n0;

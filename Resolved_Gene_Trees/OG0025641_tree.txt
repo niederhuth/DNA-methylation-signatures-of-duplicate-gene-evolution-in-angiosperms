@@ -1,0 +1,1 @@
+(Acoerulea_Aqcoe2029s0001:0.0178574,(((Mdomestica_MD01G1180200:0.30441,Pxbretschneideri_LOC103942295:0.240551)n3:0.140033,(Pxbretschneideri_LOC103952743:0.439974,Mdomestica_MD01G1178500:0.705712)n4:0.0784125)n2:0.112286,Roccidentalis_snap_masked-Ro03-processed-gene-358.18:0.975885)n1:0.0178574)n0;

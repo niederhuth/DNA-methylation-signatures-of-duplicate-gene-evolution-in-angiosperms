@@ -1,0 +1,1 @@
+(Mguttatus_Migut.K00068:0.185738,(Ppersica_Prupe.7G068200:0.135494,((Rchinensis_RcHm_v2.0_Chr3g0480981:0.0863783,(Fvesca_FvH4_6g23130:0.0076782,Fxananassa_maker-Fvb6-1-snap-gene-195.50:0.27039)n4:0.0733098)n3:0.140725,(Fxananassa_augustus_masked-Fvb6-3-processed-gene-224.5:0.230796,Rchinensis_RcHm_v2.0_Chr3g0480971:0.124648)n5:0.029938)n2:0.00332644)n1:0.0298987)n0;

@@ -1,0 +1,1 @@
+(Pvulgaris_Phvul.003G112800:0.218957,(Ljaponicus_Lj4g3v2267650:0.385299,(Mtruncatula_Medtr2g034350:0.344157,Mtruncatula_Medtr4g121923:0.359803)n2:0.0602063)n1:0.218957)n0;

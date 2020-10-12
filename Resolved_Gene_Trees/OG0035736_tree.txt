@@ -1,0 +1,1 @@
+((Rchinensis_RcHm_v2.0_Chr7g0242871:1.50622e-06,(Mdomestica_MD01G1129600:0.389498,Mdomestica_MD01G1133200:0.40061)n2:0.0445123)n1:0.0591101,Fxananassa_maker-Fvb7-4-augustus-gene-94.37:0.67386)n0;

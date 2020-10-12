@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr8G23930_001:0.531383,(Aipaensis_araip.K30076.gnm1.ann1.Araip.KU4XK:0.201049,(Aipaensis_araip.K30076.gnm1.ann1.Araip.ZW2V7:0.089264,Aipaensis_araip.K30076.gnm1.ann1.Araip.D9UPW:0.864591)n2:0.172725)n1:0.531383)n0;

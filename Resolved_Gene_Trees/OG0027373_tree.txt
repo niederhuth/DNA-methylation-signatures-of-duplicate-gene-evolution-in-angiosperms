@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr5G25350_001:0.224546,((((Fxananassa_maker-Fvb6-2-snap-gene-132.32:0.0878925,Fxananassa_maker-Fvb6-1-snap-gene-215.40:0.170823)n4:0.0284706,Fxananassa_maker-Fvb6-4-snap-gene-155.36:0.0820858)n3:0.0381239,Fxananassa_maker-Fvb6-3-snap-gene-227.54:0.114956)n2:0.00477134,Fxananassa_maker-Fvb6-3-snap-gene-246.34:0.150061)n1:0.224546)n0;

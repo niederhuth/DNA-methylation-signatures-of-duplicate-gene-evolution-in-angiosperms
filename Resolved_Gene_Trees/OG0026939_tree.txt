@@ -1,0 +1,1 @@
+(Rchinensis_RcHm_v2.0_Chr1g0323701:0.308597,(Cpapaya_evm.TU.supercontig_1077.2:0.752173,(Graimondii_Gorai.013G204800:0.0908123,(Graimondii_Gorai.007G291500:0.0126352,(Graimondii_Gorai.009G433400:0.412567,Graimondii_Gorai.001G156100:0.320641)n4:0.0320641)n3:0.00320641)n2:0.000356267)n1:0.179567)n0;

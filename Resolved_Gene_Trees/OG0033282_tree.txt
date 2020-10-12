@@ -1,0 +1,1 @@
+(Cpapaya_evm.TU.supercontig_57.42:0.63244,(Alyrata_AL1G49210:0.0382969,(Alyrata_AL2G19490:0.025928,Alyrata_AL6G39890:0.030962)n2:0.171185)n1:0.63244)n0;

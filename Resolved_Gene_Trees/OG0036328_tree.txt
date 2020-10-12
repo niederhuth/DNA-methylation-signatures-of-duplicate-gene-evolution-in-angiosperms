@@ -1,0 +1,1 @@
+(Mdomestica_MD11G1170400:0.083612,((Pxbretschneideri_LOC103938831:0,Pxbretschneideri_LOC103926595:0)n2:0,Pxbretschneideri_LOC103926585:0)n1:0.083612)n0;

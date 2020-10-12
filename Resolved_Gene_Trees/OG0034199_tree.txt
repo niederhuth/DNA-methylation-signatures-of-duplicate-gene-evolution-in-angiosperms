@@ -1,0 +1,1 @@
+(Bvulgaris_gene_BVRB_2g037830:0.167578,(Rchinensis_RcHm_v2.0_Chr2g0170101:0.645976,(Egrandis_Eucgr.B00327:0.15505,Egrandis_Eucgr.B00329:0.0984464)n2:0.0109385)n1:0.240671)n0;

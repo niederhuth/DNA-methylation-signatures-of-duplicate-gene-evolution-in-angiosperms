@@ -1,0 +1,1 @@
+(Mtruncatula_Medtr1g044040:0.55974,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00011.206:0.466618,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00023.171:0.317578,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00133.25:0.744022)n2:0.326101)n1:0.55974)n0;

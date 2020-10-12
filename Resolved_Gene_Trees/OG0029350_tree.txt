@@ -1,0 +1,1 @@
+((Aofficinalis_evm.TU.AsparagusV1_09.1411:0.0783553,Aofficinalis_evm.TU.AsparagusV1_01.2316:0.0464097)n1:0.0435912,(Rchinensis_RcHm_v2.0_Chr4g0397361:0.464155,(Cpapaya_evm.TU.supercontig_74.40:0.740826,Cpapaya_evm.TU.supercontig_74.37:0.379168)n3:0.0421298)n2:0.514832)n0;

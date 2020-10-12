@@ -1,0 +1,1 @@
+(Osativa_LOC_Os04g07200:0.37802,((Othomaeum_Oropetium_20150105_27846:0.89301,Othomaeum_Oropetium_20150105_20903:0.690409)n2:0.364839,(Othomaeum_Oropetium_20150105_20905:0.23944,Othomaeum_Oropetium_20150105_27847:0.770987)n3:0.197715)n1:0.37802)n0;

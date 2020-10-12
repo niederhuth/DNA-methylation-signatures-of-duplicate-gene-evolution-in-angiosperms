@@ -1,0 +1,1 @@
+(Vcorymbosum_augustus_masked-VaccDscaff7-processed-gene-401.4:0.125924,((Ljaponicus_Lj0g3v0335789:0.534783,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.BP3MM:0.314731)n2:0.0828353,(Graimondii_Gorai.006G094100:0.392985,Mdomestica_MD17G1020600:0.0724229)n3:0.0489887)n1:0.125924)n0;

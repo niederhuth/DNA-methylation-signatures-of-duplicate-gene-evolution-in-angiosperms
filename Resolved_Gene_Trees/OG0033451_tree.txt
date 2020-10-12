@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_07.1979:0.17999,(Aofficinalis_evm.TU.AsparagusV1_07.83:0.573907,(Aofficinalis_evm.TU.AsparagusV1_05.1174:0.60956,Aofficinalis_evm.TU.AsparagusV1_07.3284:1.03715)n2:0.273041)n1:0.17999)n0;

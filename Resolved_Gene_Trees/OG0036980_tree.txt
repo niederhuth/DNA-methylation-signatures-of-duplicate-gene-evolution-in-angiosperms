@@ -1,0 +1,1 @@
+(Paxillaris_Peaxi162Scf00053g01412:0.210973,(Roccidentalis_maker-Ro02-exonerate_protein2genome-gene-210.18:0.690819,(Ptrichocarpa_Potri.013G072901:0.151968,Pxbretschneideri_LOC103962793:0.134542)n2:0.396531)n1:0.210973)n0;

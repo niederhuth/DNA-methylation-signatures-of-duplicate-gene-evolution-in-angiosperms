@@ -1,0 +1,1 @@
+(Bvulgaris_gene_BVRB_9g204060:0.357602,((Fxananassa_snap_masked-Fvb7-2-processed-gene-314.23:0.37277,Fxananassa_snap_masked-Fvb7-4-processed-gene-21.27:0.304179)n2:0.298365,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.Y55NJ:0.55079,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.7FE3R:2.67754e-06)n3:0.448114)n1:0.357602)n0;

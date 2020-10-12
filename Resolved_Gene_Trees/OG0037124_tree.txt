@@ -1,0 +1,1 @@
+(Phallii_Pahal.8G018800:0.0190205,((Phallii_Pahal.8G018600:0,Phallii_Pahal.8G019100:0)n2:0.024046,Phallii_Pahal.8G019300:6.1768e-08)n1:0.0190205)n0;

@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00056.78:0.462062,(Cpapaya_evm.TU.contig_48088:0.71817,((Rchinensis_RcHm_v2.0_Chr7g0238111:0.163246,Rchinensis_RcHm_v2.0_Chr2g0142251:0.221611)n3:0.318867,Rchinensis_RcHm_v2.0_Chr4g0436491:0.283839)n2:0.303048)n1:0.462062)n0;

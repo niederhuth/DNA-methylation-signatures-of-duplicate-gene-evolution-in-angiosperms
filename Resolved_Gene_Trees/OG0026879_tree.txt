@@ -1,0 +1,1 @@
+(Clanatus_Cla97C07G139760:0.44265,(Stuberosum_PGSC0003DMG400002633:0.31109,(Vcorymbosum_maker-VaccDscaff4-snap-gene-426.48:0.0134235,(Vcorymbosum_maker-VaccDscaff9-snap-gene-389.36:1.54781e-06,(Vcorymbosum_maker-VaccDscaff35-snap-gene-301.38:5e-07,Vcorymbosum_maker-VaccDscaff36-snap-gene-21.33:5e-07)n4:0.0371659)n3:0.00521147)n2:0.295813)n1:0.44265)n0;

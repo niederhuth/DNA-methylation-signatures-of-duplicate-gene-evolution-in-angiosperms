@@ -1,0 +1,1 @@
+(((Pvirgatum_Pavir.9KG417724:0.0833689,Pvirgatum_Pavir.4KG170800:0.131206)n2:0.204035,Sitalica_Seita.9G055100:0.309911)n1:0.212787,(Fvesca_FvH4_6g10850:0.064915,(Fxananassa_maker-Fvb6-2-snap-gene-212.50:0,Fxananassa_maker-Fvb6-2-snap-gene-211.48:0)n4:0.432161)n3:0.212787)n0;

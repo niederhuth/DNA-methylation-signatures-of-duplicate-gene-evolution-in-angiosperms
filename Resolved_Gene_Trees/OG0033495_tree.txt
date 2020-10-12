@@ -1,0 +1,1 @@
+((Fxananassa_snap_masked-Fvb7-1-processed-gene-203.24:2.92062e-06,Fxananassa_augustus_masked-Fvb7-1-processed-gene-203.10:0.045603)n1:0.287573,(Aofficinalis_evm.TU.AsparagusV1_07.2461:0.989568,Othomaeum_Oropetium_20150105_23881:1.33247)n2:0.287573)n0;

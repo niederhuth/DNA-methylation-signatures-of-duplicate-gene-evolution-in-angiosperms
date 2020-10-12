@@ -1,0 +1,1 @@
+((Eguineensis_p5.00_sc00082_p0013:0.878007,(((Cclementina_Ciclev10007040m.g:0.183819,Cannuum_CA09g12300:0.405133)n4:0.135576,Bdistachyon_Bradi1g01805:0.167016)n3:0.122234,Cannuum_CA04g09180:0.190449)n2:0.021161)n1:0.129821,Cpapaya_evm.TU.supercontig_83.2:0.452025)n0;

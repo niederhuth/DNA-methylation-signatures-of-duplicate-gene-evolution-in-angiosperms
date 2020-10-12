@@ -1,0 +1,1 @@
+(Bdistachyon_Bradi4g28760:0.389707,(Mdomestica_MD08G1067100:0.63973,(Vcorymbosum_maker-VaccDscaff17-snap-gene-373.44:0.212221,Ptrichocarpa_Potri.001G199000:0.939329)n2:0.193886)n1:0.389707)n0;

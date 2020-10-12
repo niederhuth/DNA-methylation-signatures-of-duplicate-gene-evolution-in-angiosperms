@@ -1,0 +1,1 @@
+(Egrandis_Eucgr.G01023:0.443876,((Rchinensis_RcHm_v2.0_Chr5g0032571:0.417666,Rchinensis_RcHm_v2.0_Chr5g0032471:0.83434)n2:0.168358,Rchinensis_RcHm_v2.0_Chr5g0037291:0.87085)n1:0.443876)n0;

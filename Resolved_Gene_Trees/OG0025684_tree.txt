@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00017.128:0.038095,((Brapa_Brara.J02713:0.567005,(Bvulgaris_gene_BVRB_4g085950:0.0770759,(Bvulgaris_gene_BVRB_2g027510:0.529523,Acoerulea_Aqcoe3G327100:1.04467)n4:0.53097)n3:0.0589967)n2:0.102429,Eguineensis_p5.00_sc00019_p0200:0.333225)n1:0.0442899)n0;

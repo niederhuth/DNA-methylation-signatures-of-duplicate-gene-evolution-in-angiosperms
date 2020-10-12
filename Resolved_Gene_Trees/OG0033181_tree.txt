@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_04.3336:0.299099,((Aipaensis_araip.K30076.gnm1.ann1.Araip.IEJ2Q:0.347423,Gmax_Glyma.03G000300:0.252524)n2:0.237139,Csativus_CsaV3_5G036010:0.444468)n1:0.299099)n0;

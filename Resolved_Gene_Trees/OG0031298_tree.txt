@@ -1,0 +1,1 @@
+(Vcorymbosum_maker-VaccDscaff26-snap-gene-84.44:0.4953,((Nattenuata_NIATv7_g26387:0.722915,Paxillaris_Peaxi162Scf00241g00218:3.48491e-06)n2:0.231934,(Mguttatus_Migut.F01180:0.860087,Mguttatus_Migut.F00472:0.76549)n3:0.0887427)n1:0.4953)n0;

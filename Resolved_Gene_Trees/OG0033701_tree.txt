@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00835.1:0.324765,((Fxananassa_augustus_masked-Fvb2-4-processed-gene-243.14:0.0755994,Mdomestica_MD08G1120800:0.457552)n2:0.244132,Boleracea_Bo02904s010:0.405955)n1:0.324765)n0;

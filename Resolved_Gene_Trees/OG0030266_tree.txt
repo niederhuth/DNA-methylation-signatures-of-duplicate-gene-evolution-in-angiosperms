@@ -1,0 +1,1 @@
+((Pvirgatum_Pavir.3KG245900:0.314891,(Esalsugineum_Thhalv10028262m.g:0.154979,Esalsugineum_Thhalv10011006m.g:0.156627)n2:0.236051)n1:0.00952225,(Othomaeum_Oropetium_20150105_05391:0.108594,Egrandis_Eucgr.A00612:0.441887)n3:0.00952225)n0;

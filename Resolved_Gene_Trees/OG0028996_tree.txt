@@ -1,0 +1,1 @@
+(Nnucifera_XP_010265654.1:0.454621,(((Aipaensis_araip.K30076.gnm1.ann1.Araip.52AKB:0.0857729,Aipaensis_araip.K30076.gnm1.ann1.Araip.A24ZP:0.110751)n3:0.0382744,Aipaensis_araip.K30076.gnm1.ann1.Araip.JVD39:0.851661)n2:0.178296,Aipaensis_araip.K30076.gnm1.ann1.Araip.5PQ0T:0.423882)n1:0.454621)n0;

@@ -1,0 +1,1 @@
+(Zmays_Zm00001d030334:0.343258,((Egrandis_Eucgr.L02883:0.319392,(Vcorymbosum_maker-VaccDscaff16-augustus-gene-387.22:0.262411,Vcorymbosum_maker-VaccDscaff7-augustus-gene-11.29:1.87926e-06)n3:0.205287)n2:0.263615,Cpapaya_evm.TU.contig_42818:0.186318)n1:0.343258)n0;

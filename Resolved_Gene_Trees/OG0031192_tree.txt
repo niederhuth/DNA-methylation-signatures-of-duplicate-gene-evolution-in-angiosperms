@@ -1,0 +1,1 @@
+(Pvirgatum_Pavir.4KG228433:0.204551,((Ptrichocarpa_Potri.010G016500:0.16332,Ptrichocarpa_Potri.010G016000:0.0824448)n2:0.398242,(Mdomestica_MD02G1025600:0.360078,Mtruncatula_Medtr3g110050:1.03607)n3:0.241255)n1:0.204551)n0;

@@ -1,0 +1,1 @@
+(Boleracea_Bo8g093130:0.684945,(Aofficinalis_evm.TU.AsparagusV1_04.2759:0.819907,((Aofficinalis_evm.TU.AsparagusV1_04.2867:0.293941,Aofficinalis_evm.TU.AsparagusV1_04.2154:0.398415)n3:0.774663,Aofficinalis_evm.TU.AsparagusV1_04.315:0.754063)n2:0.098571)n1:0.684945)n0;

@@ -1,0 +1,1 @@
+((Sbicolor_Sobic.009G069901:0.567186,Sbicolor_Sobic.004G233000:0.35994)n1:0.10019,(Sviridis_Sevir.4G167201:0.58636,Pvirgatum_Pavir.6KG156918:0.62004)n2:0.10019)n0;

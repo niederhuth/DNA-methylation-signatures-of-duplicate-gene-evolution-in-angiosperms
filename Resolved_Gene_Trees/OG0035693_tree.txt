@@ -1,0 +1,1 @@
+(Ptrichocarpa_Potri.004G029200:0.473467,(Fxananassa_maker-Fvb4-3-snap-gene-90.56:0.321221,(Gmax_Glyma.01G027433:0.26688,Zjujuba_LOC107409574:0.157657)n2:0.554578)n1:0.473467)n0;

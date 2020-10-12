@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_26222:0.633742,((Cpapaya_evm.TU.supercontig_121.4:0.343339,Vvinifera_VIT_216s0013g02040:0.558351)n2:0.147395,Aipaensis_araip.K30076.gnm1.ann1.Araip.FR24P:0.50607)n1:0.633742)n0;

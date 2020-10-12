@@ -1,0 +1,1 @@
+(Paxillaris_Peaxi162Scf00733g00035:0.612689,((Fxananassa_maker-Fvb3-1-snap-gene-275.46:0,Fxananassa_maker-Fvb3-1-snap-gene-276.63:0)n2:0,Fxananassa_maker-Fvb3-1-snap-gene-275.56:0)n1:0.612689)n0;

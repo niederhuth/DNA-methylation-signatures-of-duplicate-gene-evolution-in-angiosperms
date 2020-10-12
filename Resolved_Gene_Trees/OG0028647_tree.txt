@@ -1,0 +1,1 @@
+(Acoerulea_Aqcoe5G096400:0.552226,(((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00017.246:0.172624,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00017.243:0.216257)n3:0.60492,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00030.115:0.864739)n2:0.173329,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00040.74:1.13185)n1:0.552226)n0;

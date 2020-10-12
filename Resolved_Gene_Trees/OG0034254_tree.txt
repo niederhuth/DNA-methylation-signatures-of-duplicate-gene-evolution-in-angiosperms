@@ -1,0 +1,1 @@
+((Bvulgaris_gene_BVRB_6g133510:0.044225,Bvulgaris_gene_BVRB_6g133520:0.067555)n1:0.273215,(Phallii_Pahal.2G030700:0.577141,Sbicolor_Sobic.005G046400:0.828234)n2:0.273215)n0;

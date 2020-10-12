@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00014.149:0.325669,(Cpapaya_evm.TU.supercontig_103.30:0.117059,((Ppersica_Prupe.7G027000:0.382772,Macuminata_GSMUA_Achr11G15570_001:0.842461)n3:0.108959,(Vvinifera_VIT_202s0012g01025:0.24215,Vvinifera_VIT_209s0054g00265:0.318144)n4:0.7493)n2:0.0823787)n1:0.325669)n0;

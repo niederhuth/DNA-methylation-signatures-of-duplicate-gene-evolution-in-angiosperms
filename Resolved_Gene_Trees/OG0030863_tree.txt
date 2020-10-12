@@ -1,0 +1,1 @@
+(Ptrichocarpa_Potri.014G059500:0.183881,(Fxananassa_snap_masked-Fvb7-1-processed-gene-239.21:0.338377,((Rchinensis_RcHm_v2.0_Chr6g0272641:0.20396,Rchinensis_RcHm_v2.0_Chr2g0099851:0.178849)n3:0.573222,Mtruncatula_Medtr4g026600:0.765653)n2:0.0602845)n1:0.183881)n0;

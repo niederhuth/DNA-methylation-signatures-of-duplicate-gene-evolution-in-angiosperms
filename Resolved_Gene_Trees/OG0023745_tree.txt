@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00008.95:0.23948,(Bdistachyon_Bradi3g32737:0.239386,((Spolyrhiza_Spipo3G0016800:0.711137,Othomaeum_Oropetium_20150105_24519:0.236599)n3:0.0933966,((Aipaensis_araip.K30076.gnm1.ann1.Araip.HHY0N:0,Aipaensis_araip.K30076.gnm1.ann1.Araip.39FW4:0)n5:0.288504,Pvirgatum_Pavir.2NG513103:0.691403)n4:0.0407249)n2:0.0272386)n1:0.23948)n0;

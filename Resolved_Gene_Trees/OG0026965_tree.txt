@@ -1,0 +1,1 @@
+(Cpapaya_evm.TU.supercontig_282.13:0.475368,((((Graimondii_Gorai.001G080400:4.41586e-06,Graimondii_Gorai.001G080500:0.0800001)n4:0.113847,Tcacao_Thecc1EG019452:0.981399)n3:0.154358,Ptrichocarpa_Potri.004G099900:1.06993)n2:0.048782,Mesculenta_Manes.01G110100:1.02467)n1:0.475368)n0;

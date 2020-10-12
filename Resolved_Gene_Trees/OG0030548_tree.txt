@@ -1,0 +1,1 @@
+((Sitalica_Seita.5G135800:0.642061,Phallii_Pahal.3G145000:0.663018)n1:0.58355,(Fvesca_FvH4_2g32350:0.0132582,(Fxananassa_snap_masked-Fvb2-4-processed-gene-226.28:0.0512693,Fxananassa_snap_masked-Fvb2-2-processed-gene-10.38:0.0621952)n3:0.00691058)n2:0.0553167)n0;

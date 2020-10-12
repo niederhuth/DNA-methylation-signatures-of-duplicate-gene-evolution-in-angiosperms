@@ -1,0 +1,1 @@
+((Spolyrhiza_Spipo29G0010300:0.234541,Macuminata_GSMUA_Achr3G09600_001:0.44057)n1:0.0642698,(Crubella_Carub.0005s0002:0.317397,Aipaensis_araip.K30076.gnm1.ann1.Araip.88NZ3:0.627107)n2:0.0642698)n0;

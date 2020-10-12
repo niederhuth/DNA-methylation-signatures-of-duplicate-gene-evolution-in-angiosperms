@@ -1,0 +1,1 @@
+(Mdomestica_MD07G1154600:0.323747,(Bvulgaris_gene_BVRB_5g099900:1.19651e-06,(Bvulgaris_gene_BVRB_2g034970:0.076978,Bvulgaris_gene_BVRB_3g060640:0.440556)n2:0.114391)n1:0.323747)n0;

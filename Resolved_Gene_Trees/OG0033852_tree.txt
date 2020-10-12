@@ -1,0 +1,1 @@
+(Gmax_Glyma.15G253900:0.245204,(Bdistachyon_Bradi4g29286:0.938657,(Bdistachyon_Bradi3g30463:0.108539,Bdistachyon_Bradi5g04854:0.17848)n2:0.427446)n1:0.245204)n0;

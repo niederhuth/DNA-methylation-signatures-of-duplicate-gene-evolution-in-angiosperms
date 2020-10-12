@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr2G15030_001:0.304073,((Fxananassa_maker-Fvb1-1-augustus-gene-76.21:1.81131e-06,Fxananassa_maker-Fvb2-1-augustus-gene-11.47:0.0236905)n2:0.207991,(Paxillaris_Peaxi162Scf00148g00154:0.373031,(Cclementina_Ciclev10030008m.g:0.372893,Vcorymbosum_maker-VaccDscaff41-augustus-gene-227.42:0.177007)n4:0.0339681)n3:0.0220486)n1:0.304073)n0;

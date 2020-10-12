@@ -1,0 +1,1 @@
+(Bdistachyon_Bradi2g10311:0.707594,((Roccidentalis_maker-Ro03-snap-gene-138.44:0.967445,Rchinensis_RcHm_v2.0_Chr7g0218851:0.15681)n2:0.210208,Gmax_Glyma.14G190466:0.404475)n1:0.707594)n0;

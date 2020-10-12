@@ -1,0 +1,1 @@
+(Bvulgaris_gene_BVRB_4g091480:0.358457,(Bvulgaris_gene_BVRB_4g091460:0.170588,(Bvulgaris_gene_BVRB_4g091430:0.719168,(Bvulgaris_gene_BVRB_4g091420:0.437109,Bvulgaris_gene_BVRB_4g091410:0.0752997)n3:0.197871)n2:0.208266)n1:0.358457)n0;

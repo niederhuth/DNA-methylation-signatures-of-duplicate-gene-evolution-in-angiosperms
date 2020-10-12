@@ -1,0 +1,1 @@
+(Eguineensis_p5.00_sc00144_p0011:0.0909028,(Vcorymbosum_snap_masked-VaccDscaff20-processed-gene-252.15:0.314229,((Ptrichocarpa_Potri.012G135800:0.24758,Ptrichocarpa_Potri.005G055000:0.107943)n3:0.162962,(Boleracea_Bo1g153660:0.100918,Alyrata_AL3G13430:0.0497426)n4:0.195885)n2:0.127887)n1:0.0909028)n0;

@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_03.2983:0.155145,((Aipaensis_araip.K30076.gnm1.ann1.Araip.R70ID:0.792668,(Nattenuata_NIATv7_g29560:0.174637,Nattenuata_NIATv7_g65055:0.114723)n3:0.394587)n2:0.162161,Smelongena_SMEL_000g084000.1:0.367731)n1:0.155145)n0;

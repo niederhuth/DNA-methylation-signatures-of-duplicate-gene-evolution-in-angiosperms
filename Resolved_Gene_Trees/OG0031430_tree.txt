@@ -1,0 +1,1 @@
+(Paxillaris_Peaxi162Scf00802g00027:0.447288,((Nattenuata_NIATv7_g23055:0.372626,(Nattenuata_NIATv7_g43099:0,Nattenuata_NIATv7_g62695:0)n3:0.239483)n2:0.221366,Nattenuata_NIATv7_g35021:0.626422)n1:0.447288)n0;

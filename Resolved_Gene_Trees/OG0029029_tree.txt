@@ -1,0 +1,1 @@
+(Smelongena_SMEL_000g111520.1:0.337681,(((Rchinensis_RcHm_v2.0_Chr5g0071001:0.121134,Rchinensis_RcHm_v2.0_Chr5g0042801:0.0759948)n3:0.481619,Cpapaya_evm.TU.supercontig_86.43:0.367601)n2:0.340557,Aipaensis_araip.K30076.gnm1.ann1.Araip.X8WV7:0.735476)n1:0.337681)n0;

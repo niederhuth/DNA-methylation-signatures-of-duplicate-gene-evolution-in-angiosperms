@@ -1,0 +1,1 @@
+(Cviolacea_Clevi.0059s0092:0.596917,(Athaliana_AT5G02000:0.198577,((Esalsugineum_Thhalv10014950m.g:0.0980308,Brapa_Brara.C00001:0.17778)n3:0.130641,Crubella_Carub.0024s0004:0.126043)n2:0.0329676)n1:0.596917)n0;

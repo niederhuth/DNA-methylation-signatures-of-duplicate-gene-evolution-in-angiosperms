@@ -1,0 +1,1 @@
+((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00110.49:0.137678,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00110.47:0.281269)n1:0.291669,((Slycopersicum_Solyc07g006755.1:0.134271,Paxillaris_Peaxi162Scf00050g00420:0.208008)n3:0.325567,Vcorymbosum_maker-VaccDscaff35-snap-gene-234.43:0.288247)n2:0.291669)n0;

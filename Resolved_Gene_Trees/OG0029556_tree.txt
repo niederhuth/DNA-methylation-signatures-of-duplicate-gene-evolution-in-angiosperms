@@ -1,0 +1,1 @@
+(Bdistachyon_Bradi4g42752:0.419386,((Pvirgatum_Pavir.7NG026900:0.331729,Pvirgatum_Pavir.3KG249354:0.580326)n2:0.157594,(Sviridis_Sevir.4G157400:0.0805093,Sitalica_Seita.4G189000:0.0701807)n3:0.202926)n1:0.419386)n0;

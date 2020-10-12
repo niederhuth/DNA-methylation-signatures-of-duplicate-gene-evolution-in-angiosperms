@@ -1,0 +1,1 @@
+(Mguttatus_Migut.H01739:0.431278,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00040.89:0.992656,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00108.7:0.0635552,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold04853.1:0.758474)n2:0.108722)n1:0.431278)n0;

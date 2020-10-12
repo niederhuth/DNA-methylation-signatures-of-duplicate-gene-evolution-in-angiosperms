@@ -1,0 +1,1 @@
+((Othomaeum_Oropetium_20150105_13231:0.138372,(Pvirgatum_Pavir.2NG268609:0.213939,Phallii_Pahal.2G118800:0.228729)n2:0.0717284)n1:0.122347,(Vcorymbosum_maker-VaccDscaff1614-augustus-gene-0.8:0.234598,Cannuum_CA03g20490:0.546672)n3:0.122347)n0;

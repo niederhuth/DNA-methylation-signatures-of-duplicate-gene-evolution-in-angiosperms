@@ -1,0 +1,1 @@
+((Aipaensis_araip.K30076.gnm1.ann1.Araip.400UD:0.413548,Ljaponicus_Lj2g3v0726330:0.373406)n1:0.295835,(Alyrata_AL6G40640:0.316128,Alyrata_AL6G38990:0.072043)n2:0.295835)n0;

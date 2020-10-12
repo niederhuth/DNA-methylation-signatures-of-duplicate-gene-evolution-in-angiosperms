@@ -1,0 +1,1 @@
+(Cannuum_CA00g36620:0.370394,((Roccidentalis_maker-Ro02-snap-gene-98.76:0.196953,Ljaponicus_Lj0g3v0248549:0.838372)n2:0.0369857,Mdomestica_MD10G1188700:0.911662)n1:0.370394)n0;

@@ -1,0 +1,1 @@
+(Nnucifera_XP_010261321.1:0.249806,(Cpapaya_evm.TU.supercontig_66.81:0.284496,(Pvulgaris_Phvul.008G171800:0.087384,Ljaponicus_Lj0g3v0032179:0.192013)n2:0.423028)n1:0.249806)n0;

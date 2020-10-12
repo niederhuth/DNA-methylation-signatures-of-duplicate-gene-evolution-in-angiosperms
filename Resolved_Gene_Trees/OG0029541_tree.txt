@@ -1,0 +1,1 @@
+(Bdistachyon_Bradi3g15306:0.0965105,(((Bdistachyon_Bradi1g62755:1.98085e-06,Bdistachyon_Bradi5g01518:0.806153)n3:0.305378,Bdistachyon_Bradi1g67030:0.38102)n2:0.33868,Bdistachyon_Bradi2g03216:0.0529499)n1:0.0965105)n0;

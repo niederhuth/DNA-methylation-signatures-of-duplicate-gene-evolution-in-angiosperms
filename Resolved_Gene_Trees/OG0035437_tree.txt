@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr3G07590_001:0.111428,(Roccidentalis_snap_masked-Ro04-processed-gene-52.27:0.340934,(Fxananassa_snap_masked-Fvb4-1-processed-gene-30.20:0.116783,Fxananassa_snap_masked-Fvb3-1-processed-gene-115.20:0.0338249)n2:0.340942)n1:0.111428)n0;

@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00004.260:0.32953,((Roccidentalis_maker-Ro05-snap-gene-89.63:0.028262,Roccidentalis_maker-Ro02-snap-gene-194.46:0.076248)n2:0.09951,Roccidentalis_snap_masked-Ro07-processed-gene-313.19:0.212708)n1:0.32953)n0;

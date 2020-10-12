@@ -1,0 +1,1 @@
+(((Roccidentalis_snap_masked-Ro07-processed-gene-340.16:0.10546,Roccidentalis_maker-Ro07-snap-gene-341.75:0.271229)n2:0.23816,Macuminata_GSMUA_Achr8G16650_001:0.374662)n1:0.0661564,(Othomaeum_Oropetium_20150105_07522:0.317565,Mtruncatula_Medtr3g055480:0.685251)n3:0.0661564)n0;

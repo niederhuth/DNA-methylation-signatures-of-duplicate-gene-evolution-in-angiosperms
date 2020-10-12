@@ -1,0 +1,1 @@
+(Sbicolor_Sobic.009G005800:0.427043,((Mtruncatula_Medtr7g451290:0.540469,Mtruncatula_Medtr5g049630:0.792785)n2:0.193928,Mtruncatula_Medtr0094s0010:0.408806)n1:0.427043)n0;

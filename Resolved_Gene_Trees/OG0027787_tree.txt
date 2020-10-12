@@ -1,0 +1,1 @@
+(Mtruncatula_Medtr8g106890:0.796768,(Nattenuata_NIATv7_g60792:0.132736,(Nattenuata_NIATv7_g58872:0.0396058,((Nattenuata_NIATv7_g60708:0,Nattenuata_NIATv7_g64629:0)n4:0,Nattenuata_NIATv7_g58948:0)n3:0.0260083)n2:0.0693877)n1:0.796768)n0;

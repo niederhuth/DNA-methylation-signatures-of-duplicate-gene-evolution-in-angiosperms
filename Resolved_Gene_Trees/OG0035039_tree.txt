@@ -1,0 +1,1 @@
+(Ppersica_Prupe.1G245900:0.597411,(Roccidentalis_maker-Ro04-exonerate_est2genome-gene-55.10:0.125728,(Fvesca_FvH4_4g25680:0.0080055,Fxananassa_maker-Fvb4-3-snap-gene-91.73:0.0760495)n2:0.323753)n1:0.597411)n0;

@@ -1,0 +1,1 @@
+(Egrandis_Eucgr.F00186:0.556664,((Mguttatus_Migut.N02039:0.761725,Mguttatus_Migut.N03244:0.555588)n2:0.280304,(Mguttatus_Migut.N02850:0.665439,(Mguttatus_Migut.N03243:0.675169,(Mguttatus_Migut.N02849:0.301505,Mguttatus_Migut.N02851:0.150319)n5:0.144578)n4:0.304061)n3:0.121356)n1:0.556664)n0;

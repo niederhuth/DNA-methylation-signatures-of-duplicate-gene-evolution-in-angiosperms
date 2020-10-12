@@ -1,0 +1,1 @@
+(Cannuum_CA00g62080:0.226615,((Aipaensis_araip.K30076.gnm1.ann1.Araip.PCM0H:0.696891,Ljaponicus_Lj4g3v0094900:0.378177)n2:0.222546,(Esalsugineum_Thhalv10029273m.g:0.540296,Cpapaya_evm.TU.supercontig_428.6:0.531577)n3:0.0535598)n1:0.226615)n0;

@@ -1,0 +1,1 @@
+(Vcorymbosum_snap_masked-VaccDscaff3-processed-gene-204.23:0.322547,((Mdomestica_MD06G1216100:2.66764e-06,Pxbretschneideri_LOC103938800:0.353186)n2:0.729951,(Brapa_Brara.I01244:0.182061,Brapa_Brara.I01389:0.0624131)n3:0.738503)n1:0.322547)n0;

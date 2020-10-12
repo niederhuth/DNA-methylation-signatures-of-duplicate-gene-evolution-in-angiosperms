@@ -1,0 +1,1 @@
+(Mguttatus_Migut.A00929:0.311738,((Fxananassa_maker-Fvb4-3-augustus-gene-126.39:0,Fvesca_FvH4_4g19770:0)n2:0.527348,Gmax_Glyma.01G053400:0.405654)n1:0.311738)n0;

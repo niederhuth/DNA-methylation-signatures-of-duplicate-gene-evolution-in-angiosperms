@@ -1,0 +1,1 @@
+((Roccidentalis_maker-Ro03-snap-gene-367.76:0.10984,(Rchinensis_RcHm_v2.0_Chr5g0020131:0.102841,Fxananassa_maker-Fvb3-2-snap-gene-65.55:0.120787)n2:0.026615)n1:0.196592,((Pxbretschneideri_LOC103945145:0,Pxbretschneideri_LOC103965091:0)n4:0.257462,Ppersica_Prupe.4G111400:0.229445)n3:0.196592)n0;

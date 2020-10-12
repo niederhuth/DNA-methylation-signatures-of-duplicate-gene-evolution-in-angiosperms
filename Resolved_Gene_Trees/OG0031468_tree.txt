@@ -1,0 +1,1 @@
+(Pvirgatum_Pavir.1NG074538:0.312542,((Paxillaris_Peaxi162Scf00182g00105:0.948359,(Roccidentalis_maker-Ro06-exonerate_protein2genome-gene-311.58:3.19814e-06,Roccidentalis_maker-Ro01-snap-gene-228.64:0.543479)n3:0.0642274)n2:0.328235,Nattenuata_NIATv7_g36317:0.694506)n1:0.312542)n0;

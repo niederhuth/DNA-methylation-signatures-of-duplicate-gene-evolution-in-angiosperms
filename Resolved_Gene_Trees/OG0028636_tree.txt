@@ -1,0 +1,1 @@
+(Smelongena_SMEL_001g147720.1:0.49347,(Acoerulea_Aqcoe1G325300:0.0111125,((Acoerulea_Aqcoe1G328200:0,Acoerulea_Aqcoe1G328000:0)n3:0.0239927,Acoerulea_Aqcoe1G327600:1.04044e-06)n2:0.0188)n1:0.49347)n0;

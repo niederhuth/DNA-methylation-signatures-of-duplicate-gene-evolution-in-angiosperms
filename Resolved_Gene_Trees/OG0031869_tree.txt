@@ -1,0 +1,1 @@
+((Ppersica_Prupe.8G067200:0.834798,(Vcorymbosum_maker-VaccDscaff34-augustus-gene-56.38:0.527442,(Vcorymbosum_maker-VaccDscaff28-augustus-gene-18.17:0.3174,Vcorymbosum_maker-VaccDscaff44-snap-gene-11.38:0.255437)n3:0.172628)n2:0.0191809)n1:0.0921864,Vvinifera_VIT_202s0033g00650:0.623615)n0;

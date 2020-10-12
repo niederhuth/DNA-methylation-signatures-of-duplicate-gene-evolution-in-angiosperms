@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr8G17520_001:0.677046,((Esalsugineum_Thhalv10009018m.g:0.01648,Esalsugineum_Thhalv10009019m.g:2.46495e-06)n2:0.143833,(Esalsugineum_Thhalv10007624m.g:0.724456,Esalsugineum_Thhalv10009384m.g:0.216162)n3:0.0179305)n1:0.677046)n0;

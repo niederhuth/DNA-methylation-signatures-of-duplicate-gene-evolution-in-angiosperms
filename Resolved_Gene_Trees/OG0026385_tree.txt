@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00022.82:0.190232,(Mesculenta_Manes.18G000050:0.3938,((Ljaponicus_Lj1g3v4139610:0.459366,Paxillaris_Peaxi162Scf70848g00003:0.212778)n3:0.0648765,(Boleracea_Bo7g081210:0.934041,Crubella_Carub.0008s0598:0.542012)n4:0.618924)n2:0.117754)n1:0.190232)n0;

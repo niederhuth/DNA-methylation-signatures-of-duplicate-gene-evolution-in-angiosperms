@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_07.3185:0.573795,(Fvesca_FvH4_3g30800:0.057892,(Fxananassa_augustus_masked-Fvb4-4-processed-gene-174.8:0.0070275,(Fxananassa_augustus_masked-Fvb7-3-processed-gene-239.7:5e-07,Fxananassa_augustus_masked-Fvb7-4-processed-gene-151.11:5e-07)n3:0.001696)n2:0.0410465)n1:0.573795)n0;

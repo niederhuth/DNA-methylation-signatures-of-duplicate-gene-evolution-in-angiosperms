@@ -1,0 +1,1 @@
+((Aduranensis_aradu.V14167.gnm1.ann1.Aradu.66ULW:0.0035765,(Aipaensis_araip.K30076.gnm1.ann1.Araip.K89N8:0.43386,Aipaensis_araip.K30076.gnm1.ann1.Araip.I5203:0.486899)n2:0.0540999)n1:0.290043,(Pvulgaris_Phvul.L001687:0.366022,(Mtruncatula_Medtr7g085970:0.609112,(Ljaponicus_Lj0g3v0148449:0.478658,Ljaponicus_Lj1g3v3975490:0.687779)n5:0.0764198)n4:0.20686)n3:0.130381)n0;

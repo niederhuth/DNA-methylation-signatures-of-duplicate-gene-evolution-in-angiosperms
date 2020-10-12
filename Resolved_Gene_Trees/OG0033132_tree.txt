@@ -1,0 +1,1 @@
+(Cpapaya_evm.TU.contig_33209.1:0.526884,(Mtruncatula_Medtr2g043010:0.828231,(Aipaensis_araip.K30076.gnm1.ann1.Araip.50YEL:0.227502,Aipaensis_araip.K30076.gnm1.ann1.Araip.TGY5S:1.00264)n2:0.21073)n1:0.526884)n0;

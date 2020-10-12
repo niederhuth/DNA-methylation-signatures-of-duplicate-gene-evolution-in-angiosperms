@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00041.57:0.552711,(Aipaensis_araip.K30076.gnm1.ann1.Araip.ZJN98:0.285064,(Nnucifera_XP_010241948.1:0.0961908,Nnucifera_XP_010241950.2:0.130483)n2:0.295931)n1:0.552711)n0;

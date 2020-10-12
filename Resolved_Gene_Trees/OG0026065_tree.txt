@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00073.9:0.314797,(Ptrichocarpa_Potri.009G145500:0.211036,(Graimondii_Gorai.002G249000:1.08381,(Alyrata_AL4G33610:0.200655,(Boleracea_Bo17451s010:0.316675,Boleracea_Bo4g175880:0.382447)n4:0.0424941)n3:0.122303)n2:0.134593)n1:0.314797)n0;

@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr2G11000_001:0.457178,(Roccidentalis_maker-Ro04-snap-gene-8.120:0.453963,(Ljaponicus_Lj5g3v2241410:0.096926,Ljaponicus_Lj5g3v2241420:0.115366)n2:0.710581)n1:0.457178)n0;

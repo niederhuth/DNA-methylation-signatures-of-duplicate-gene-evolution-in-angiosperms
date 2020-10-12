@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_05.1354:0.38359,((Vcorymbosum_maker-VaccDscaff20-augustus-gene-27.32:0.321396,((Vvinifera_VIT_209s0096g01000:0.0132491,Vvinifera_VIT_203s0017g00760:0.0513019)n4:0.838341,Vvinifera_VIT_218s0001g06620:0.777023)n3:0.0863359)n2:0.105366,Mguttatus_Migut.M00179:0.964037)n1:0.0560392)n0;

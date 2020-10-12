@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_10909:0.487743,((Bdistachyon_Bradi2g58710:0.453526,(Bdistachyon_Bradi2g58730:0.302402,Bdistachyon_Bradi4g22650:0.435775)n3:0.171764)n2:0.239821,(Bdistachyon_Bradi4g42011:0.469844,(Bdistachyon_Bradi4g42000:0.319521,Bdistachyon_Bradi4g42040:0.438983)n5:0.0524328)n4:0.396446)n1:0.487743)n0;

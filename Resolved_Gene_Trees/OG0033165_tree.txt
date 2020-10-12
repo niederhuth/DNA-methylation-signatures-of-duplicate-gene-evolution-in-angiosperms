@@ -1,0 +1,1 @@
+(Aipaensis_araip.K30076.gnm1.ann1.Araip.51AQW:0.476319,(Fxananassa_snap_masked-Fvb7-1-processed-gene-153.22:0.0725765,(Fxananassa_snap_masked-Fvb3-4-processed-gene-209.21:0.130241,Fxananassa_augustus_masked-Fvb1-2-processed-gene-117.5:0.254331)n2:0.323995)n1:0.476319)n0;

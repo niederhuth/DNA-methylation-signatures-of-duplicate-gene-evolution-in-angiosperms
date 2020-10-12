@@ -1,0 +1,1 @@
+(Cmelo_MELO3C031180.2:0.357552,(((Mdomestica_MD13G1198700:0.00764375,Pxbretschneideri_LOC103935860:0.00208425)n3:0.302763,(Fxananassa_maker-Fvb4-3-augustus-gene-312.31:0.009788,(Fxananassa_maker-Fvb4-1-augustus-gene-8.27:0.0125714,Fxananassa_maker-Fvb4-2-augustus-gene-250.27:0.0327596)n5:0.110396)n4:0.0122662)n2:0.174662,Fvesca_FvH4_4g01040:0.003394)n1:0.357552)n0;

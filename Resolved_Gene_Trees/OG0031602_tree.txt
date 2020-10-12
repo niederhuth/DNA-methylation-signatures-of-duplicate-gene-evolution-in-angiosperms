@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_28043:1.01563e-06,(Othomaeum_Oropetium_20150105_28340:0.123096,(Othomaeum_Oropetium_20150105_22380:0,(Othomaeum_Oropetium_20150105_19134:0.39211,Othomaeum_Oropetium_20150105_28352:0.425389)n3:0.0750337)n2:0.0104606)n1:1.01563e-06)n0;

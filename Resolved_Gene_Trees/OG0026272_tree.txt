@@ -1,0 +1,1 @@
+((Aofficinalis_evm.TU.AsparagusV1_04.2906:0.00355312,(Aofficinalis_evm.TU.AsparagusV1_08.3092:0.019402,Aofficinalis_evm.TU.AsparagusV1_06.1190:0.004717)n2:0.00706637)n1:0.183577,(Cviolacea_Clevi.0011s0450:0.828096,(Pvulgaris_Phvul.008G142700:0.72973,Ljaponicus_Lj3g3v3107620:0.676227)n4:0.162442)n3:0.183577)n0;

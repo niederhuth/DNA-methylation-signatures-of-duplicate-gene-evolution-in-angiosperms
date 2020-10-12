@@ -1,0 +1,1 @@
+((Macuminata_GSMUA_Achr1G03940_001:0.37592,Spolyrhiza_Spipo11G0026800:0.130855)n1:0.028131,(Brapa_Brara.G01541:0.216261,Vcorymbosum_maker-VaccDscaff1144-snap-gene-0.5:0.153815)n2:0.028131)n0;

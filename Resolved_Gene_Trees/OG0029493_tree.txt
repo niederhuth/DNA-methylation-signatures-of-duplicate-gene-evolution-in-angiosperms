@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00045.256:0.0586413,(Macuminata_GSMUA_Achr8G33720_001:0.330774,(Paxillaris_Peaxi162Scf03024g00008:0.490226,(Othomaeum_Oropetium_20150105_14191:0.63398,Boleracea_Bo8g082770:0.193627)n3:0.186996)n2:0.0185908)n1:0.0586413)n0;

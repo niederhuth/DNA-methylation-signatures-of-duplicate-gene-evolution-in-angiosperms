@@ -1,0 +1,1 @@
+(Clanatus_Cla97C02G034310:0.410794,((Rchinensis_RcHm_v2.0_Chr5g0009621:0.473687,Rchinensis_RcHm_v2.0_Chr5g0009561:0.0658725)n2:0.220276,Fxananassa_snap_masked-Fvb5-3-processed-gene-138.31:0.0868487)n1:0.410794)n0;

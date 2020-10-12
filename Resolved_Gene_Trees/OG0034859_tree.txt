@@ -1,0 +1,1 @@
+(Eguineensis_p5.00_sc00126_p0055:0.465828,((Rchinensis_RcHm_v2.0_Chr7g0216841:0.0628765,Rchinensis_RcHm_v2.0_Chr5g0078711:0.305887)n2:0.556364,Slycopersicum_Solyc12g019630.1:0.703671)n1:0.465828)n0;

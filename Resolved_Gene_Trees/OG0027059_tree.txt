@@ -1,0 +1,1 @@
+((Othomaeum_Oropetium_20150105_25313:0.776709,Mguttatus_Migut.H00815:0.861489)n1:0.0976502,(Eguineensis_p5.00_sc00247_p0005:0.207123,(Vcorymbosum_maker-VaccDscaff24-snap-gene-41.49:0.218164,(Rchinensis_RcHm_v2.0_Chr6g0280791:0.222006,Rchinensis_RcHm_v2.0_Chr4g0413661:0.339394)n4:0.268694)n3:0.112082)n2:0.0976502)n0;

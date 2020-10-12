@@ -1,0 +1,1 @@
+(Nnucifera_XP_010242588.1:0.120823,((Gmax_Glyma.02G151002:0.424455,Vcorymbosum_maker-VaccDscaff11-augustus-gene-383.33:0.200198)n2:0.0421267,Egrandis_Eucgr.B01223:0.418164)n1:0.120823)n0;

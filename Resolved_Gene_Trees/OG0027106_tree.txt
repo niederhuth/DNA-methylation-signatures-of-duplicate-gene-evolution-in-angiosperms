@@ -1,0 +1,1 @@
+(Ptrichocarpa_Potri.013G121350:0.281211,(Ljaponicus_Lj3g3v2887200:0.559764,((Fvesca_FvH4_4g01440:0.208152,Fvesca_FvH4_4g01510:0.35615)n3:0.0395723,(Fxananassa_maker-Fvb4-3-snap-gene-311.44:0.577212,Fxananassa_snap_masked-Fvb4-3-processed-gene-311.14:2.12872e-06)n4:2.12872e-06)n2:0.124064)n1:0.0347076)n0;

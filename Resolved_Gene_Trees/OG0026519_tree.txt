@@ -1,0 +1,1 @@
+((Smelongena_SMEL_000g000860.1:0.501712,Roccidentalis_maker-Ro04-snap-gene-304.114:0.306926)n1:0.230282,((Sitalica_Seita.J006000:1.30877e-06,(Bdistachyon_Bradi1g47519:0.041954,Sviridis_Sevir.1G145641:1.30877e-06)n4:0.002388)n3:0.002388,Pvirgatum_Pavir.J039336:1.30877e-06)n2:0.230282)n0;

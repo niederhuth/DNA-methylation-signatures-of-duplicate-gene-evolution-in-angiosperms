@@ -1,0 +1,1 @@
+((Gmax_Glyma.15G219050:2.02098e-06,Gsoja_GlysoPI483463.15G189400:0.0297152)n1:0.820338,(Aipaensis_araip.K30076.gnm1.ann1.Araip.AAE0C:0.199331,Aipaensis_araip.K30076.gnm1.ann1.Araip.X62SY:0.154069)n2:0.820338)n0;

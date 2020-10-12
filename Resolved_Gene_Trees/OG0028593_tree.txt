@@ -1,0 +1,1 @@
+(Acoerulea_Aqcoe6G270400:0.224769,(Mguttatus_Migut.L00371:0.41881,((Brapa_Brara.F00063:0.0598228,Brapa_Brara.E01467:0.0302612)n3:0.204086,Vcorymbosum_maker-VaccDscaff33-augustus-gene-222.20:0.254292)n2:0.0483796)n1:0.224769)n0;

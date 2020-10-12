@@ -1,0 +1,1 @@
+((Cpapaya_evm.TU.contig_45133:0.0463384,(Macuminata_GSMUA_Achr5G07880_001:0.0689828,Macuminata_GSMUA_AchrUn_randomG14110_001:0.190634)n2:0.126525)n1:0.0207929,(Clanatus_Cla97C07G135640:0.197518,(Aofficinalis_evm.TU.AsparagusV1_06.1558:0.191044,Aofficinalis_evm.TU.AsparagusV1_05.2097:0.264869)n4:0.379989)n3:0.0207929)n0;

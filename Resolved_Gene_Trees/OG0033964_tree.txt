@@ -1,0 +1,1 @@
+(Vcorymbosum_maker-VaccDscaff7-augustus-gene-178.15:0.661605,(Rchinensis_RcHm_v2.0_Chr5g0010411:0.416148,(Boleracea_Bo5g057400:0.620498,Boleracea_Bo20999s010:0.250648)n2:0.426864)n1:0.661605)n0;

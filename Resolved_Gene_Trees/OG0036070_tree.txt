@@ -1,0 +1,1 @@
+(Sitalica_Seita.2G287200:0.275128,(Vcorymbosum_maker-VaccDscaff43-snap-gene-203.28:0.234599,(Ljaponicus_Lj4g3v1188700:5e-07,Ljaponicus_Lj0g3v0061709:5e-07)n2:0.204857)n1:0.275128)n0;

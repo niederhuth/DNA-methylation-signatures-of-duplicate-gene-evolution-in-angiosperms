@@ -1,0 +1,1 @@
+(Osativa_ChrSy.fgenesh.gene.45:0.183534,(Osativa_LOC_Os09g02510:0.704384,(Osativa_LOC_Os04g32780:0.924951,Osativa_LOC_Os04g10300:1.09098)n2:0.0259415)n1:0.183534)n0;

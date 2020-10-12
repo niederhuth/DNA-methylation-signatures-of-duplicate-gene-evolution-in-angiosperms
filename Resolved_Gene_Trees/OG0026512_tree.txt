@@ -1,0 +1,1 @@
+((Pvirgatum_Pavir.9NG032700:0.519915,Bdistachyon_Bradi1g15215:0.261342)n1:0.17324,((Graimondii_Gorai.008G061300:0.273731,Graimondii_Gorai.003G053700:0.275401)n3:0.0767614,(Graimondii_Gorai.003G053600:1.00503,Graimondii_Gorai.001G156500:3.06096e-06)n4:0.30625)n2:0.17324)n0;

@@ -1,0 +1,1 @@
+(Pvirgatum_Pavir.4NG132909:0.329605,(((Gsoja_GlysoPI483463.14G091900:2.43369e-06,Gmax_Glyma.14G101300:0.25218)n3:0.283678,Ljaponicus_Lj5g3v0510730:0.173976)n2:0.337693,((Fxananassa_maker-Fvb2-3-snap-gene-22.56:0.127086,Fxananassa_maker-Fvb2-3-augustus-gene-22.49:0.00764281)n5:0.0437506,Fxananassa_maker-Fvb2-4-snap-gene-265.134:0.41135)n4:0.188603)n1:0.329605)n0;

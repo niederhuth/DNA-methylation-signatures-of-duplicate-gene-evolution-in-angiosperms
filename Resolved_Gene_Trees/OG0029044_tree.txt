@@ -1,0 +1,1 @@
+(Sbicolor_Sobic.001G268850:0.240443,(Egrandis_Eucgr.G01583:0.281466,(Mtruncatula_Medtr3g013720:0.407185,(Aipaensis_araip.K30076.gnm1.ann1.Araip.N5EFP:0.73632,Rchinensis_RcHm_v2.0_Chr7g0188881:0.212398)n3:0.0924258)n2:0.0825724)n1:0.240443)n0;

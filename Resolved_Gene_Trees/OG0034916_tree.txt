@@ -1,0 +1,1 @@
+(Macuminata_GSMUA_Achr8G10990_001:0.133761,((Paxillaris_Peaxi162Scf00304g01114:0.197941,Rchinensis_RcHm_v2.0_Chr1g0373801:0.314327)n2:0.0154925,Esalsugineum_Thhalv10029279m.g:0.66199)n1:0.133761)n0;

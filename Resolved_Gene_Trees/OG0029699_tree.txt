@@ -1,0 +1,1 @@
+(Eguineensis_p5.00_sc00008_p0005:0.415231,((Boleracea_Bo4g086600:0.040478,Boleracea_Bo06739s010:0.10473)n2:0.640588,(Ljaponicus_Lj2g3v2002230:0,Ljaponicus_Lj4g3v1273900:0)n3:0.623023)n1:0.415231)n0;

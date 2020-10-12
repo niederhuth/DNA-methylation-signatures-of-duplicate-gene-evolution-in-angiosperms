@@ -1,0 +1,1 @@
+(Aofficinalis_evm.TU.AsparagusV1_06.375:0.110817,((Slycopersicum_Solyc12g009245.1:0.157011,Bvulgaris_gene_BVRB_6g145880:0.434467)n2:0.124067,(Tcacao_Thecc1EG033513:0.3388,Tcacao_Thecc1EG036386:0.825733)n3:0.0917481)n1:0.131969)n0;

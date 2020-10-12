@@ -1,0 +1,1 @@
+(Othomaeum_Oropetium_20150105_06824:0.438873,((Sviridis_Sevir.2G412800:0.0427838,Sitalica_Seita.2G400900:0.19964)n2:0.638815,Pvirgatum_Pavir.2KG562266:0.727945)n1:0.438873)n0;

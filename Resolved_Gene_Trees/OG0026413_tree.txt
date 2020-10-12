@@ -1,0 +1,1 @@
+(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00186.22:0.714469,((Sviridis_Sevir.9G205400:0,Sitalica_Seita.9G206900:0)n2:0.090639,(Phallii_Pahal.9G206600:0.108894,(Pvirgatum_Pavir.9KG149200:0.10309,Pvirgatum_Pavir.9NG148165:0.123484)n4:0.0694408)n3:0.0916272)n1:0.714469)n0;

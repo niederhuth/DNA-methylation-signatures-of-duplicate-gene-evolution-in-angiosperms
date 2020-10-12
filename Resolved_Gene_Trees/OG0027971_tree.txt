@@ -1,0 +1,1 @@
+(Roccidentalis_maker-Ro06-snap-gene-415.66:0.39841,(((Othomaeum_Oropetium_20150105_28022:0.406552,Othomaeum_Oropetium_20150105_26825:0.144987)n3:0.182995,(Othomaeum_Oropetium_20150105_28160:0.371255,Othomaeum_Oropetium_20150105_25551:0.0588748)n4:0.168672)n2:0.242372,Othomaeum_Oropetium_20150105_27339:0.221137)n1:0.39841)n0;
