@@ -1,1 +1,0 @@
-(Vvinifera_VIT_205s0094g00230:0.338092,((Ppersica_Prupe.1G204400:0.61848,(Fxananassa_snap_masked-Fvb4-1-processed-gene-83.17:0.288425,Fxananassa_snap_masked-Fvb4-1-processed-gene-83.19:0.518525)n3:0.0576139)n2:0.0854474,Fvesca_FvH4_4g10590:0.35995)n1:0.338092)n0;

@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_19144:0.445687,(Smelongena_SMEL_010g343080.1:0.394915,(Slycopersicum_Solyc08g007890.3:2.3262e-06,Slycopersicum_Solyc06g064895.1:0.527072)n2:0.534523)n1:0.445687)n0;

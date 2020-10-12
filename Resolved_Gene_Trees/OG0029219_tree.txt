@@ -1,1 +1,0 @@
-(Alyrata_AL3G33560:0.60055,(Fxananassa_snap_masked-Fvb3-4-processed-gene-70.13:0.0435577,(Fxananassa_snap_masked-Fvb3-3-processed-gene-224.19:0.627955,(Fxananassa_maker-Fvb3-2-snap-gene-242.26:3.0675e-06,Fxananassa_snap_masked-Fvb3-4-processed-gene-70.12:0.537438)n3:0.300858)n2:0.456101)n1:0.60055)n0;

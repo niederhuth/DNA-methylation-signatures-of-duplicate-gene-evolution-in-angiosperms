@@ -1,1 +1,0 @@
-((Aipaensis_araip.K30076.gnm1.ann1.Araip.8Z22U:0.149027,Aipaensis_araip.K30076.gnm1.ann1.Araip.P423S:0.371381)n1:0.234778,((Ljaponicus_Lj3g3v0323570:5e-07,Ljaponicus_Lj3g3v0335680:5e-07)n3:0.471722,Gmax_Glyma.07G007102:0.398463)n2:0.234778)n0;

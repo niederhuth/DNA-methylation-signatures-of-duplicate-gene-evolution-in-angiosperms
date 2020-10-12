@@ -1,1 +1,0 @@
-((Gmax_Glyma.01G016200:0.640508,Fxananassa_maker-Fvb5-3-snap-gene-143.28:0.928127)n1:0.135547,(Phallii_Pahal.1G356500:0.533525,(Pvirgatum_Pavir.1KG460830:0.140254,(Sitalica_Seita.1G281000:0.483963,(Sviridis_Sevir.1G286600:3.73457e-06,Sitalica_Seita.1G281100:0.324684)n5:0.258275)n4:0.0286972)n3:0.176698)n2:0.168776)n0;

@@ -1,1 +1,0 @@
-(Spolyrhiza_Spipo18G0036500:0.368173,(Cpapaya_evm.TU.supercontig_18.37:0.92752,(Mdomestica_MD11G1314800:0.365036,Mdomestica_MD01G1012700:0.0843149)n2:0.00936833)n1:0.222524)n0;

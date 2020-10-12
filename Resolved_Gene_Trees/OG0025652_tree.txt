@@ -1,1 +1,0 @@
-(Acoerulea_Aqcoe4G268300:0.267927,((Aipaensis_araip.K30076.gnm1.ann1.Araip.W4ZBQ:0.919202,Ljaponicus_Lj3g3v2887100:2.86182e-06)n2:0.184604,(Roccidentalis_maker-Ro03-snap-gene-66.68:0.0256761,(Roccidentalis_maker-Ro03-snap-gene-244.49:0.162259,Roccidentalis_maker-Ro03-snap-gene-299.89:0.770679)n4:0.0521889)n3:0.309555)n1:0.267927)n0;

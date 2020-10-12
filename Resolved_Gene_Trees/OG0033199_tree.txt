@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_08.3394:0.286789,((Aipaensis_araip.K30076.gnm1.ann1.Araip.A16RM:0.531883,Boleracea_Bo4g170820:0.238638)n2:0.080247,Fxananassa_maker-Fvb6-4-snap-gene-76.47:0.194589)n1:0.286789)n0;

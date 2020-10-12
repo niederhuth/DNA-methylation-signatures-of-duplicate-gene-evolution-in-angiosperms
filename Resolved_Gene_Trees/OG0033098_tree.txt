@@ -1,1 +1,0 @@
-(Aipaensis_araip.K30076.gnm1.ann1.Araip.94TJZ:0.282122,(Slycopersicum_Solyc02g021475.1:0.585746,(Bvulgaris_gene_BVRB_6g143600:0.620771,Bvulgaris_gene_BVRB_4g095200:1.84198e-06)n2:0.161826)n1:0.282122)n0;

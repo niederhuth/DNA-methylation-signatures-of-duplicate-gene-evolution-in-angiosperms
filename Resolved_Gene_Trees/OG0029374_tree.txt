@@ -1,1 +1,0 @@
-(((Gsoja_GlysoPI483463.18G046200:0,Gmax_Glyma.18G050500:0)n2:0.136043,Eguineensis_p5.00_sc00066_p0012:0.586972)n1:0.051776,(Paxillaris_Peaxi162Scf00211g00314:0.717102,Aofficinalis_evm.TU.AsparagusV1_06.476:0.531998)n3:0.051776)n0;

@@ -1,1 +1,0 @@
-(Vvinifera_VIT_202s0012g02920:0.224789,(Rchinensis_RcHm_v2.0_Chr1g0314851:1.21027,(Rchinensis_RcHm_v2.0_Chr2g0152681:0.544934,Rchinensis_RcHm_v2.0_Chr1g0336421:2.59506e-06)n2:0.42188)n1:0.224789)n0;

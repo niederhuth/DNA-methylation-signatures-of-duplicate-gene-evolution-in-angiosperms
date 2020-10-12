@@ -1,1 +1,0 @@
-((Ljaponicus_Lj6g3v0657700:0.452266,(Aofficinalis_evm.TU.AsparagusV1_05.2143:0.162977,Phallii_Pahal.4G224100:0.258641)n2:0.0702097)n1:0.068627,(Cpapaya_evm.TU.supercontig_12.82:0.215294,Macuminata_GSMUA_Achr11G10000_001:0.33106)n3:0.068627)n0;

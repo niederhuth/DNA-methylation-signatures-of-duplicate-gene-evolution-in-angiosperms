@@ -1,1 +1,0 @@
-((Rchinensis_RcHm_v2.0_Chr4g0417881:0.392863,Fvesca_FvH4_4g14330:0.224758)n1:0.256043,(Aipaensis_araip.K30076.gnm1.ann1.Araip.U93DL:0.555233,Aipaensis_araip.K30076.gnm1.ann1.Araip.PS98H:0.287276)n2:0.256043)n0;

@@ -1,1 +1,0 @@
-((Ljaponicus_Lj5g3v1670370:0.538573,Rchinensis_RcHm_v2.0_Chr4g0433261:0.50907)n1:0.103874,(Macuminata_GSMUA_AchrUn_randomG26260_001:0.0509032,Macuminata_GSMUA_Achr7G14580_001:0.0589078)n2:0.103874)n0;

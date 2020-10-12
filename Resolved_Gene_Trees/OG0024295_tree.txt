@@ -1,1 +1,0 @@
-((Fxananassa_maker-Fvb3-1-snap-gene-262.20:0.509062,Boleracea_Bo7g067410:0.406052)n1:0.0727716,(Boleracea_Bo2g124370:0.164887,((Rchinensis_RcHm_v2.0_Chr5g0017871:0.226067,Fxananassa_augustus_masked-Fvb3-2-processed-gene-57.17:0.519083)n4:0.216901,(Ppersica_Prupe.4G098200:0.21721,Ppersica_Prupe.4G097300:3.33867e-06)n5:0.533777)n3:0.560521)n2:0.0727716)n0;

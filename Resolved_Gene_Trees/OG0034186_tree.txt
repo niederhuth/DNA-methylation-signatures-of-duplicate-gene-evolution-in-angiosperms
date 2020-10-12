@@ -1,1 +1,0 @@
-(Tcacao_Thecc1EG004699:0.392206,(Bvulgaris_gene_BVRB_8g183270:0.62105,(Bvulgaris_gene_BVRB_8g183260:0.320368,Bvulgaris_gene_BVRB_8g183280:0.569613)n2:0.0892503)n1:0.392206)n0;

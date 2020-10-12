@@ -1,1 +1,0 @@
-(Roccidentalis_maker-Ro06-snap-gene-122.32:0.593937,(Slycopersicum_Solyc11g018570.1:0.31479,(Paxillaris_Peaxi162Scf00560g00741:0.437292,Nattenuata_NIATv7_g06186:0.318461)n2:0.107726)n1:0.593937)n0;

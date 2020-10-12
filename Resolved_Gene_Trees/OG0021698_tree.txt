@@ -1,1 +1,0 @@
-(Acoerulea_Aqcoe0009s0027:0,(Acoerulea_Aqcoe4G308300:0,(Acoerulea_Aqcoe0086s0005:0,(Acoerulea_Aqcoe4G308100:0.00770987,(((Acoerulea_Aqcoe0014s0010:0.293697,Acoerulea_Aqcoe4G308500:0.0103894)n6:0.344499,Acoerulea_Aqcoe4G232500:0.861781)n5:0.295441,Acoerulea_Aqcoe4G256200:0.00599038)n4:0.00850463)n3:0.00133312)n2:0)n1:0)n0;

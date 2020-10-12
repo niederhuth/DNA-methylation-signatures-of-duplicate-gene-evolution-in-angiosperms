@@ -1,1 +1,0 @@
-(Sbicolor_Sobic.004G175900:0.187169,(((Othomaeum_Oropetium_20150105_28239:0,Othomaeum_Oropetium_20150105_17414:0)n3:0.265043,Othomaeum_Oropetium_20150105_21902:0.071204)n2:0.116128,Othomaeum_Oropetium_20150105_11469:0.234013)n1:0.187169)n0;

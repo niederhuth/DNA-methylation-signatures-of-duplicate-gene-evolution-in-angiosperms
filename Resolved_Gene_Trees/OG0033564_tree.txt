@@ -1,1 +1,0 @@
-((Aofficinalis_evm.TU.AsparagusV1_03.1654:0.511754,Aofficinalis_evm.TU.AsparagusV1_01.1918:0.0467082)n1:0.170064,(Cpapaya_evm.TU.supercontig_1108.2:0.143435,Nattenuata_NIATv7_g39032:0.135185)n2:0.170064)n0;

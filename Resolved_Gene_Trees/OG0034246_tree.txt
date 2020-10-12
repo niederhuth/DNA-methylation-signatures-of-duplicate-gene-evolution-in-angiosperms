@@ -1,1 +1,0 @@
-((Bvulgaris_gene_BVRB_1g015690:0.948225,Mguttatus_Migut.M00137:0.26352)n1:0.0882688,(Pvirgatum_Pavir.1NG170176:0.500619,Sbicolor_Sobic.008G061900:0.475421)n2:0.0882688)n0;

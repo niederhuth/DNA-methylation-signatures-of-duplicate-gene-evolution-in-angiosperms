@@ -1,1 +1,0 @@
-(Rchinensis_RcHm_v2.0_Chr4g0385671:0.319741,(Tcacao_Thecc1EG043653:0.643293,(Graimondii_Gorai.009G305000:0.377623,Graimondii_Gorai.009G305200:0.14072)n2:0.440447)n1:0.319741)n0;

@@ -1,1 +1,0 @@
-(Ljaponicus_Lj0g3v0085649:0.472483,(Egrandis_Eucgr.K01788:0.457031,((Egrandis_Eucgr.K01741:0.0479844,(Egrandis_Eucgr.K01787:0.0948175,Egrandis_Eucgr.K01992:0.179002)n4:0.110059)n3:0.235351,Egrandis_Eucgr.K02004:0.0443003)n2:0.479404)n1:0.472483)n0;

@@ -1,1 +1,0 @@
-(Bdistachyon_Bradi3g34003:0.210226,(Nattenuata_NIATv7_g22814:0.699696,((Cpapaya_evm.TU.supercontig_4128.1:0.164773,Vcorymbosum_maker-VaccDscaff22-snap-gene-64.67:0.508867)n3:0.107521,Roccidentalis_maker-Ro07-snap-gene-96.42:0.772708)n2:0.161252)n1:0.210226)n0;

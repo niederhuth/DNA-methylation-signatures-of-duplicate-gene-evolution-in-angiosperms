@@ -1,1 +1,0 @@
-(Spolyrhiza_Spipo2G0022900:0.487329,((Vcorymbosum_maker-VaccDscaff13-snap-gene-202.35:0.00128575,Vcorymbosum_maker-VaccDscaff30-snap-gene-194.18:0.0132383)n2:0.811914,Aipaensis_araip.K30076.gnm1.ann1.Araip.B0N75:0.425354)n1:0.487329)n0;

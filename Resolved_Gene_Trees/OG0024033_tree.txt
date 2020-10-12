@@ -1,1 +1,0 @@
-((Pvirgatum_Pavir.4NG239811:1.14985,((Aofficinalis_evm.TU.AsparagusV1_03.2526:0.260441,Aofficinalis_evm.TU.AsparagusV1_01.2467:0.134594)n3:0.159812,Aofficinalis_evm.TU.AsparagusV1_01.2464:0.424385)n2:0.70992)n1:0.0201195,(Mdomestica_MD03G1281800:0.608492,(Gmax_Glyma.03G211067:0.14242,Gsoja_GlysoPI483463.03G171400:0.0529508)n5:0.33041)n4:0.0201195)n0;

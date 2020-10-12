@@ -1,1 +1,0 @@
-(Osativa_LOC_Os11g32540:0.207369,((Sviridis_Sevir.8G132800:0,Sitalica_Seita.8G125800:0)n2:0.583684,Othomaeum_Oropetium_20150105_21453:0.838143)n1:0.207369)n0;

@@ -1,1 +1,0 @@
-(Zmays_Zm00001d011009:0.362693,(Aofficinalis_evm.TU.AsparagusV1_08.3010:0.63512,(Aofficinalis_evm.TU.AsparagusV1_03.722:0.364894,Aofficinalis_evm.TU.AsparagusV1_08.3034:0.254937)n2:0.0920848)n1:0.362693)n0;

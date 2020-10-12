@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00060.171:0.41323,(Osativa_LOC_Os11g02510:0.876939,(Ljaponicus_Lj5g3v2100780:0.400988,(Stuberosum_PGSC0003DMG400009064:0.512194,(Acoerulea_Aqcoe3G263600:0.411025,Roccidentalis_maker-Ro05-snap-gene-191.56:0.445568)n4:0.0906696)n3:0.114068)n2:0.203379)n1:0.41323)n0;

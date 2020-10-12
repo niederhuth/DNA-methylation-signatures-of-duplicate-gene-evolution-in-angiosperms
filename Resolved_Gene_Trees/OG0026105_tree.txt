@@ -1,1 +1,0 @@
-((Fxananassa_augustus_masked-Fvb2-3-processed-gene-116.5:0.270211,Sviridis_Sevir.2G147232:0.314507)n1:0.0569214,(Macuminata_GSMUA_Achr10G02940_001:0.547419,(Rchinensis_RcHm_v2.0_Chr6g0312361:0.250116,(Alyrata_AL6G12900:0.42571,Alyrata_AL1G37840:2.26435e-06)n4:0.186315)n3:0.189695)n2:0.0569214)n0;

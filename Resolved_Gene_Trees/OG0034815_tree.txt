@@ -1,1 +1,0 @@
-(Ppersica_Prupe.2G191000:0.193198,(Egrandis_Eucgr.H02201:0.145937,(Egrandis_Eucgr.H03488:0.002011,Egrandis_Eucgr.H01039:0.016114)n2:0.205455)n1:0.193198)n0;

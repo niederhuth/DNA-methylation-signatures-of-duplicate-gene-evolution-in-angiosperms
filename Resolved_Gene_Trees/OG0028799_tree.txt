@@ -1,1 +1,0 @@
-((Pvirgatum_Pavir.6KG400566:0.0664725,Sitalica_Seita.6G239000:0.191629)n1:0.138133,(Ljaponicus_Lj2g3v1695200:0.266242,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.265QA:0.252712,Cannuum_CA12g01470:0.292008)n3:0.0693494)n2:0.138133)n0;

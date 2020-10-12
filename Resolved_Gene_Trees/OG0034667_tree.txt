@@ -1,1 +1,0 @@
-(Zmays_Zm00001d015556:0.0886845,((Egrandis_Eucgr.I02521:0.603937,Cpapaya_evm.TU.supercontig_20.59:0.203835)n2:0.461227,Ptrichocarpa_Potri.018G118500:0.487237)n1:0.0886845)n0;

@@ -1,1 +1,0 @@
-((Sitalica_Seita.7G001700:0.508866,Zjujuba_LOC107416027:0.782582)n1:0.0384299,(Aipaensis_araip.K30076.gnm1.ann1.Araip.SL7FD:0.653699,(Aofficinalis_evm.TU.AsparagusV1_01.2501:0.690554,(Gsoja_GlysoPI483463.17G142900:0,Gmax_Glyma.17G156752:0)n4:0.67844)n3:0.189997)n2:0.0384299)n0;

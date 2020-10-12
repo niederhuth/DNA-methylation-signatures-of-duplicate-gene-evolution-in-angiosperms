@@ -1,1 +1,0 @@
-((Sitalica_Seita.9G056200:0,Sviridis_Sevir.9G055666:0)n1:0.305901,(Sbicolor_Sobic.001G057500:0.262579,Zmays_Zm00001d034435:0.145644)n2:0.305901)n0;

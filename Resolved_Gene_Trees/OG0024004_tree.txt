@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_08.105:0.340071,(Mtruncatula_Medtr0991s0010:0.430269,(Graimondii_Gorai.001G233100:0.0674456,(Graimondii_Gorai.006G069000:0.0163223,((Graimondii_Gorai.012G100200:0.213631,Graimondii_Gorai.013G103200:0.0337309)n5:0.0825011,Graimondii_Gorai.006G040800:0.0135444)n4:0.0428197)n3:0.230903)n2:0.139122)n1:0.340071)n0;

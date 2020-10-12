@@ -1,1 +1,0 @@
-(Zmays_Zm00001d008527:0.350451,((((Smelongena_SMEL_003g196720.1:0.139674,Nattenuata_NIATv7_g21309:0.477794)n4:0.166553,Vcorymbosum_maker-VaccDscaff306-augustus-gene-0.33:0.351711)n3:0.188905,Cpapaya_evm.TU.supercontig_155.18:0.489391)n2:0.164609,Paxillaris_Peaxi162Scf00038g02640:0.951034)n1:0.350451)n0;

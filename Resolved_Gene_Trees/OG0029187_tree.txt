@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00012.47:0.29048,(Smelongena_SMEL_009g329150.1:0.75972,(Bdistachyon_Bradi2g41280:0.983864,(Vvinifera_VIT_203s0091g00060:0.31689,Alyrata_AL1G50000:0.707667)n3:0.0639725)n2:0.0584643)n1:0.29048)n0;

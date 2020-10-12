@@ -1,1 +1,0 @@
-(Bvulgaris_gene_BVRB_4g092330:0.339416,((Fvesca_FvH4_7g22660:0.647205,((Rchinensis_RcHm_v2.0_Chr1g0352191:0.284268,Rchinensis_RcHm_v2.0_Chr3g0482571:0.3618)n4:0.17513,(Rchinensis_RcHm_v2.0_Chr7g0190931:0.562085,Rchinensis_RcHm_v2.0_Chr1g0368221:0.0613112)n5:0.00613112)n3:0.000681235)n2:0.00748294,Fxananassa_snap_masked-Fvb3-3-processed-gene-262.23:0.440676)n1:0.285693)n0;

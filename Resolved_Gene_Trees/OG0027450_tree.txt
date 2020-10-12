@@ -1,1 +1,0 @@
-(Smelongena_SMEL_001g136130.1:0.458897,(Mdomestica_MD09G1291900:0.407394,((Fxananassa_maker-Fvb3-2-augustus-gene-189.27:0.22106,Fxananassa_maker-Fvb4-4-augustus-gene-109.29:0.0299574)n3:0.0805918,(Fxananassa_maker-Fvb2-3-snap-gene-182.49:0.295557,Fxananassa_maker-Fvb4-4-snap-gene-184.2:0.232454)n4:0.0593546)n2:0.211359)n1:0.458897)n0;

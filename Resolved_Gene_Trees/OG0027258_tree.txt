@@ -1,1 +1,0 @@
-(Mdomestica_MD06G1171100:0.603849,(((Fvesca_FvH4_3g37110:0.200446,Fxananassa_maker-Fvb3-4-snap-gene-57.56:0.211089)n3:0.436412,(Rchinensis_RcHm_v2.0_Chr5g0066651:0.132522,Rchinensis_RcHm_v2.0_Chr5g0066621:0.317692)n4:0.181717)n2:0.223271,Roccidentalis_maker-Ro06-snap-gene-220.94:2.68869e-06)n1:0.603849)n0;

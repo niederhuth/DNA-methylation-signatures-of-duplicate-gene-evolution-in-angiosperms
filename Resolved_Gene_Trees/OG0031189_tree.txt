@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_12850:0.49244,(Vcorymbosum_maker-VaccDscaff11-augustus-gene-288.25:0.408842,(Mdomestica_MD01G1113100:0.0212787,(Mdomestica_MD15G1304200:0.0772395,Mdomestica_MD05G1077100:0.0754515)n3:0.0294263)n2:0.452889)n1:0.49244)n0;

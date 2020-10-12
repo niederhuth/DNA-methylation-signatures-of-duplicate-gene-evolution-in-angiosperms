@@ -1,1 +1,0 @@
-((Roccidentalis_maker-Ro07-exonerate_est2genome-gene-348.3:0.564856,(Fxananassa_maker-Fvb7-3-augustus-gene-74.59:0.450851,Fxananassa_maker-Fvb7-1-augustus-gene-249.53:0.177607)n2:0.514946)n1:0.159404,(Ppersica_Prupe.2G232900:0.227393,Mdomestica_MD01G1126000:0.306685)n3:0.159404)n0;

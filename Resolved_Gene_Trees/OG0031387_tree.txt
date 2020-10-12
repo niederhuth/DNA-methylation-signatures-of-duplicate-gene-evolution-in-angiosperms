@@ -1,1 +1,0 @@
-(Spolyrhiza_Spipo0G0161600:0.478674,(Mtruncatula_Medtr0681s0010:1.212,(Slycopersicum_Solyc00g031050.1:1.36062,(Pxbretschneideri_LOC103942908:1.18921,Pxbretschneideri_LOC103942651:1.25097)n3:0.336738)n2:0.361949)n1:0.478674)n0;

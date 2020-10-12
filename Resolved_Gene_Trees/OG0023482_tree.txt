@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold01279.1:0.155091,(((Cannuum_CA07g10460:0.241638,Acoerulea_Aqcoe1G356300:0.39932)n3:0.0919612,Aipaensis_araip.K30076.gnm1.ann1.Araip.49ZB8:0.751326)n2:0.354722,((Paxillaris_Peaxi162Scf01364g00011:0.624827,Mtruncatula_Medtr7g107500:0.20223)n5:0.113742,Slycopersicum_Solyc01g067880.2:0.352617)n4:0.096957)n1:0.155091)n0;

@@ -1,1 +1,0 @@
-(Rchinensis_RcHm_v2.0_Chr7g0215451:0.575592,(Egrandis_Eucgr.F03715:0.391449,(Egrandis_Eucgr.F03716:0.201317,(Egrandis_Eucgr.F03713:0.237238,Egrandis_Eucgr.F03717:0.220842)n3:0.119877)n2:0.0855092)n1:0.575592)n0;

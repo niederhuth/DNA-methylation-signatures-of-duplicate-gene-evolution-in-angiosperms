@@ -1,1 +1,0 @@
-(Zmays_Zm00001d036211:0.120277,((Esalsugineum_Thhalv10017715m.g:7.60956e-07,Esalsugineum_Thhalv10029182m.g:0.024134)n2:0.300004,Slycopersicum_Solyc06g005110.3:0.197277)n1:0.120277)n0;

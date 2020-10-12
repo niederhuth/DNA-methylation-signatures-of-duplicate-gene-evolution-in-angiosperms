@@ -1,1 +1,0 @@
-(Ljaponicus_Lj3g3v0461560:0.594596,(Rchinensis_RcHm_v2.0_Chr7g0232491:1.38675e-06,(Rchinensis_RcHm_v2.0_Chr7g0227841:0.00682225,Rchinensis_RcHm_v2.0_Chr4g0406771:0.11424)n2:0.0802743)n1:0.594596)n0;

@@ -1,1 +1,0 @@
-((Macuminata_GSMUA_Achr5G29360_001:0.824132,((Rchinensis_RcHm_v2.0_Chr2g0134111:0.0102579,Rchinensis_RcHm_v2.0_Chr7g0215551:0.0182571)n3:0.388238,Rchinensis_RcHm_v2.0_Chr1g0349501:0.627163)n2:0.0696847)n1:0.147383,(Aofficinalis_evm.TU.AsparagusV1_02.481:0.0615189,Aofficinalis_evm.TU.AsparagusV1_07.2496:0.0630471)n4:0.392653)n0;

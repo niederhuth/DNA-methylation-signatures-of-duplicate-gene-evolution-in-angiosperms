@@ -1,1 +1,0 @@
-(((Slycopersicum_Solyc02g062975.1:0.8637,Slycopersicum_Solyc02g062980.2:0.194738)n2:0.491064,(Cannuum_CA00g94100:0.189477,Paxillaris_Peaxi162Scf01218g10012:0.386813)n3:0.138003)n1:0.183222,((Fxananassa_maker-Fvb1-2-snap-gene-90.65:0.299197,Fxananassa_augustus_masked-Fvb1-3-processed-gene-79.10:0.0786282)n5:0.148424,Fxananassa_maker-Fvb1-1-snap-gene-206.50:0.316425)n4:0.183222)n0;

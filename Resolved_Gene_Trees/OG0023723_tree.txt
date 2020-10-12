@@ -1,1 +1,0 @@
-(Stuberosum_PGSC0003DMG400045068:0.305495,(Aipaensis_araip.K30076.gnm1.ann1.Araip.38QRL:0.115361,(Fxananassa_maker-Fvb4-3-snap-gene-297.38:0.839338,((Ljaponicus_Lj1g3v4564800:0,Ljaponicus_Lj1g3v3704720:0)n4:0.0234317,(Ljaponicus_Lj1g3v3704800:0,Ljaponicus_Lj1g3v4564880:0)n5:0.215746)n3:0.096658)n2:0.230656)n1:0.305495)n0;

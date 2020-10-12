@@ -1,1 +1,0 @@
-(Roccidentalis_maker-Ro01-exonerate_est2genome-gene-286.3:0.0973355,(Roccidentalis_maker-Ro04-exonerate_protein2genome-gene-126.37:0.847659,(Roccidentalis_maker-Ro01-exonerate_est2genome-gene-200.0:0.0900395,Roccidentalis_maker-Ro01-exonerate_est2genome-gene-287.0:0.0566965)n2:0.503156)n1:0.0973355)n0;

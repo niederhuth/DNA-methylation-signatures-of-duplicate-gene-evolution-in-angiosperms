@@ -1,1 +1,0 @@
-(Cviolacea_Clevi.0024s0114:0.338014,((Esalsugineum_Thhalv10015817m.g:0.0559388,Esalsugineum_Thhalv10015299m.g:0.307026)n2:0.407876,(Crubella_Carub.0008s1061:0.559455,(Athaliana_AT5G50115:0.614048,(Athaliana_AT5G50510:5e-07,Athaliana_AT5G50620:5e-07)n5:0.573278)n4:0.150509)n3:0.0799788)n1:0.338014)n0;

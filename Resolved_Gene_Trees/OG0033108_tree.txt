@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00005.37:0.154286,((Aipaensis_araip.K30076.gnm1.ann1.Araip.3LB5A:0.3992,Aipaensis_araip.K30076.gnm1.ann1.Araip.U7RIW:0.007498)n2:0.530038,Slycopersicum_Solyc05g015043.1:0.355176)n1:0.154286)n0;

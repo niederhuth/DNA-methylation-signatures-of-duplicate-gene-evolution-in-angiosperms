@@ -1,1 +1,0 @@
-(Mtruncatula_Medtr0219s0130:0.41202,(Eguineensis_p5.00_sc16587_p0001:0.188395,(Eguineensis_p5.00_sc00576_p0001:0.917343,Eguineensis_p5.00_sc00202_p0016:2.29433e-06)n2:0.378411)n1:0.41202)n0;

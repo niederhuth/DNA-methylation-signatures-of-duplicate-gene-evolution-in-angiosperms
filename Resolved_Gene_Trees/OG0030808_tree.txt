@@ -1,1 +1,0 @@
-((Mesculenta_Manes.11G014532:0.647441,Slycopersicum_Solyc12g049530.2:0.781462)n1:0.091086,(Nattenuata_NIATv7_g00382:0.767087,(Fxananassa_maker-Fvb1-3-augustus-gene-51.50:0.156546,Fxananassa_maker-Fvb1-1-snap-gene-233.73:0.268642)n3:0.163226)n2:0.091086)n0;

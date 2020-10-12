@@ -1,1 +1,0 @@
-(Cpapaya_evm.TU.supercontig_3364.1:0.177982,((Mguttatus_Migut.H00379:0.249956,Stuberosum_PGSC0003DMG400026677:0.350856)n2:0.134249,Nattenuata_NIATv7_g60107:0.244545)n1:0.177982)n0;

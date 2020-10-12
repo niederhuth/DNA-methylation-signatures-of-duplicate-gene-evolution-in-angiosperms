@@ -1,1 +1,0 @@
-((Vvinifera_VIT_213s0074g00260:0.384941,Aipaensis_araip.K30076.gnm1.ann1.Araip.T7F9A:0.887672)n1:0.0646163,(Vcorymbosum_maker-VaccDscaff20-augustus-gene-355.29:0.537432,Vcorymbosum_maker-VaccDscaff11-snap-gene-6.29:1.88675e-06)n2:0.0646163)n0;

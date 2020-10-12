@@ -1,1 +1,0 @@
-(((Eguineensis_p5.00_sc00054_p0033:0.057789,Eguineensis_p5.00_sc00054_p0034:0.355817)n2:0.259125,Vcorymbosum_maker-VaccDscaff38-augustus-gene-250.30:0.047515)n1:0.00629233,(Crubella_Carub.0003s1300:0.221997,(Slycopersicum_Solyc08g068440.3:0.129569,Zmays_Zm00001d025577:0.326281)n4:0.117833)n3:0.00629233)n0;

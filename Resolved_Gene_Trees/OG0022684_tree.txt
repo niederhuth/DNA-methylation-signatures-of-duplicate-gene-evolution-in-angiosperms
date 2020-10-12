@@ -1,1 +1,0 @@
-(Paxillaris_Peaxi162Scf00501g00326:0.597308,((((Sviridis_Sevir.1G050200:0,Sitalica_Seita.1G051000:0)n4:0.20823,Phallii_Pahal.1G071600:0.250469)n3:0.263746,(Pvirgatum_Pavir.1KG101500:3.77067e-06,Pvirgatum_Pavir.1NG088000:0.435553)n5:0.349756)n2:0.493899,(Eguineensis_p5.00_sc21346_p0001:0.3259,Eguineensis_p5.00_sc00789_p0001:3.77067e-06)n6:0.267151)n1:0.597308)n0;

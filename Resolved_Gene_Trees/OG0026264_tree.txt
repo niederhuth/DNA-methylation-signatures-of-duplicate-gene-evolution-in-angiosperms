@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_05.2033:0.378206,((Ljaponicus_Lj3g3v0323470:0,Ljaponicus_Lj0g3v0096899:0)n2:0.49883,(Tcacao_Thecc1EG035394:0.529721,(Fvesca_FvH4_2g37860:0.129198,Fxananassa_maker-Fvb2-4-augustus-gene-255.52:0.47348)n4:0.556265)n3:0.0842085)n1:0.378206)n0;

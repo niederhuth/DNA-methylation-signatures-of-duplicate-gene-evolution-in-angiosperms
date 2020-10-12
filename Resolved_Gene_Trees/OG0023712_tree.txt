@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00001.299:0.118965,((Ptrichocarpa_Potri.005G248000:0.649662,Cmelo_MELO3C030285.2:0.314717)n2:0.0339298,((Brapa_Brara.D02322:0.164058,Brapa_Brara.E00716:0.0718631)n4:0.101322,(Egrandis_Eucgr.K03001:0.33989,Aipaensis_araip.K30076.gnm1.ann1.Araip.9YT86:0.139735)n5:0.087608)n3:0.267923)n1:0.118965)n0;

@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00103.25:0.190378,(Rchinensis_RcHm_v2.0_Chr3g0455071:0.457006,((Ljaponicus_Lj3g3v2662060:3.53822e-06,Ljaponicus_Lj0g3v0342769:0.81963)n3:0.539697,(Pvulgaris_Phvul.011G143000:0.771854,Pvulgaris_Phvul.006G156300:0.149324)n4:0.121272)n2:0.396697)n1:0.190378)n0;

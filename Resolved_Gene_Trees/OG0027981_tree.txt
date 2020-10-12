@@ -1,1 +1,0 @@
-((Othomaeum_Oropetium_20150105_12755:0.792686,Othomaeum_Oropetium_20150105_18854:1.80635e-06)n1:0.153864,((Roccidentalis_maker-Ro03-snap-gene-74.60:0.226602,Stuberosum_PGSC0003DMG400020355:0.149334)n3:0.100231,(Vcorymbosum_maker-VaccDscaff17-augustus-gene-54.39:0.247235,Vcorymbosum_maker-VaccDscaff17-augustus-gene-54.36:0.170067)n4:0.0188963)n2:0.0182029)n0;

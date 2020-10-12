@@ -1,1 +1,0 @@
-((Zmays_Zm00001d046962:0.091496,(Boleracea_Bo5g030270:0.350649,Boleracea_Bo20171s010:0.0762993)n2:0.0084777)n1:0.0233602,(Aofficinalis_evm.TU.AsparagusV1_10.569:0.340719,Macuminata_GSMUA_AchrUn_randomG27000_001:0.27598)n3:0.149205)n0;

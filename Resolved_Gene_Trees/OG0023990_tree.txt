@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00012.231:0.276523,((((Rchinensis_RcHm_v2.0_Chr2g0152701:0.177181,Rchinensis_RcHm_v2.0_Chr2g0126491:0.201234)n4:0.341629,Rchinensis_RcHm_v2.0_Chr3g0495421:0.595037)n3:0.255884,(Mtruncatula_Medtr8g022470:0.79478,Aofficinalis_evm.TU.AsparagusV1_05.2262:0.203202)n5:0.0789353)n2:0.0549627,Vvinifera_VIT_217s0000g04700:0.364074)n1:0.276523)n0;

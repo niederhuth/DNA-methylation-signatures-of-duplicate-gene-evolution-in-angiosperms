@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_02.1317:0.334495,(Nattenuata_NIATv7_g59087:0.0440222,(Nattenuata_NIATv7_g42601:0.0181923,Nattenuata_NIATv7_g57884:0.0145977)n2:0.0114143)n1:0.334495)n0;

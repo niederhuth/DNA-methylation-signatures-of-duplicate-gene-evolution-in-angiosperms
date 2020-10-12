@@ -1,1 +1,0 @@
-(Vcorymbosum_maker-VaccDscaff24-snap-gene-337.21:0.292828,(Egrandis_Eucgr.G00239:0.205618,(Egrandis_Eucgr.G00241:0.174534,Egrandis_Eucgr.G00240:0.137471)n2:0.312897)n1:0.292828)n0;

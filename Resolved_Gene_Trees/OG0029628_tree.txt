@@ -1,1 +1,0 @@
-(Slycopersicum_Solyc04g081660.2:0.50376,(Brapa_Brara.F03323:0.240983,(Boleracea_Bo4g188370:0.467431,(Boleracea_Bo4g120320:0.46275,Boleracea_Bo2g100500:2.19867e-06)n3:0.226626)n2:0.0251807)n1:0.344825)n0;

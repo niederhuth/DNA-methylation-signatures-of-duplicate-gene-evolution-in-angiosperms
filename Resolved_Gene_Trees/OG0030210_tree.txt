@@ -1,1 +1,0 @@
-(Smelongena_SMEL_001g125270.1:0.194201,(Cviolacea_Clevi.0012s0333:0.222723,((Fxananassa_maker-Fvb6-1-snap-gene-340.58:0.0774967,Fxananassa_snap_masked-Fvb6-2-processed-gene-254.18:0.168312)n3:0.0907338,Vvinifera_VIT_214s0030g01560:0.25099)n2:0.025912)n1:0.194201)n0;

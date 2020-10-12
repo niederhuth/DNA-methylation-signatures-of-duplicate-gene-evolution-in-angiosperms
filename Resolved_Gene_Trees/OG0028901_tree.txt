@@ -1,1 +1,0 @@
-((Zmays_Zm00001d002050:0.473589,Osativa_LOC_Os10g19342:0.761727)n1:0.0901884,(Aipaensis_araip.K30076.gnm1.ann1.Araip.58W7K:0.216208,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.TJU8V:0.878363,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.H4NQN:0.264273)n3:0.0293637)n2:0.249705)n0;

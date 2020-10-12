@@ -1,1 +1,0 @@
-(Zjujuba_LOC107432326:0.626908,((Ptrichocarpa_Potri.T172015:0.347087,Ptrichocarpa_Potri.016G048000:0.147131)n2:0.55914,Mesculenta_Manes.09G033400:0.910973)n1:0.626908)n0;

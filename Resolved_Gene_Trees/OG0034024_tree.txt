@@ -1,1 +1,0 @@
-(Mtruncatula_Medtr2g058890:0.503882,(Cviolacea_Clevi.0081s0041:0.37108,(Boleracea_Bo1g070820:0.156841,Boleracea_Bo6g095150:0.0809938)n2:0.564956)n1:0.503882)n0;

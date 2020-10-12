@@ -1,1 +1,0 @@
-(Fxananassa_maker-Fvb1-4-snap-gene-27.91:0.379149,(Bdistachyon_Bradi5g18070:0.234355,(Osativa_LOC_Os04g47110:0.317473,((Sviridis_Sevir.7G207601:0.188057,Sitalica_Seita.7G195500:0.178875)n4:0.310305,Phallii_Pahal.7G250000:0.489257)n3:0.364916)n2:0.0953104)n1:0.379149)n0;

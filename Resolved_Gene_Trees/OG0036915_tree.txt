@@ -1,1 +1,0 @@
-(Ptrichocarpa_Potri.018G020100:0.845039,((Othomaeum_Oropetium_20150105_10581:0.0452975,Othomaeum_Oropetium_20150105_28242:0.203349)n2:0.404255,Othomaeum_Oropetium_20150105_25998:0.0723073)n1:0.845039)n0;

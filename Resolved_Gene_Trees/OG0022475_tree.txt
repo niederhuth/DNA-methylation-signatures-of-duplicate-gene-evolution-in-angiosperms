@@ -1,1 +1,0 @@
-(Zmays_Zm00001d003758:0.221657,(Vcorymbosum_maker-VaccDscaff13-augustus-gene-15.39:0.222974,((Fxananassa_snap_masked-Fvb2-2-processed-gene-180.11:0.356197,Fvesca_FvH4_4g22580:0.176551)n3:0.477254,(Cannuum_CA01g05040:0.0249692,(Cannuum_CA12g16870:0.0853611,(Cannuum_CA10g06590:0.129138,Cannuum_CA10g08340:0.301571)n6:0.0256244)n5:0.247362)n4:0.337962)n2:0.18755)n1:0.221657)n0;

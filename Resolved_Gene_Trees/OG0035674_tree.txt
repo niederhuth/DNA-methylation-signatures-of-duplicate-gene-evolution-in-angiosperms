@@ -1,1 +1,0 @@
-((Fxananassa_maker-Fvb1-3-snap-gene-147.38:0.660996,Roccidentalis_snap_masked-Ro07-processed-gene-99.5:0.351042)n1:0.0755698,(Gsoja_GlysoPI483463.18G083100:0,Gmax_Glyma.18G097900:0)n2:0.0755698)n0;

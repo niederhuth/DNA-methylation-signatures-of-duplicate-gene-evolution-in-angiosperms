@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_05452:0.300457,((Gsoja_GlysoPI483463.09G221800:0,Gmax_Glyma.09G271400:0)n2:0.465458,Aipaensis_araip.K30076.gnm1.ann1.Araip.89SBE:0.484345)n1:0.300457)n0;

@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00049.190:0.253105,(Macuminata_GSMUA_Achr9G09750_001:0.806695,((Sitalica_Seita.5G038500:0.69436,Boleracea_Bo17498s010:0.212073)n3:0.311475,(Mtruncatula_Medtr4g131290:0.60495,Acoerulea_Aqcoe0499s0001:0.225069)n4:0.0158805)n2:0.195716)n1:0.253105)n0;

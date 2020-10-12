@@ -1,1 +1,0 @@
-((Pvirgatum_Pavir.8NG185112:0.546742,(Phallii_Pahal.8G117900:0.0417159,(Phallii_Pahal.8G120200:0.0301069,(Phallii_Pahal.8G118000:0,Phallii_Pahal.8G117800:0)n4:0.0332391)n3:0.0169431)n2:0.12103)n1:0.222562,(Sviridis_Sevir.8G136500:0,(Sitalica_Seita.8G141200:0.0473448,Sitalica_Seita.8G129400:0)n6:0)n5:0.0570742)n0;

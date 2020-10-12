@@ -1,1 +1,0 @@
-(((Pvirgatum_Pavir.9NG073001:0.197274,Sitalica_Seita.9G058100:0.226127)n2:0.465171,((Bdistachyon_Bradi1g54598:0.971336,Bdistachyon_Bradi2g22108:1.01996)n4:0.172244,Bdistachyon_Bradi2g05450:0.811901)n3:0.586265)n1:0.118292,(Sitalica_Seita.3G222100:0.450471,(Bdistachyon_Bradi1g75384:0.240752,Bdistachyon_Bradi1g75382:0.124615)n6:0.215384)n5:0.118292)n0;

@@ -1,1 +1,0 @@
-(Vcorymbosum_maker-VaccDscaff18-augustus-gene-206.19:0.534784,((Fxananassa_maker-Fvb2-3-snap-gene-9.70:0.773472,Mtruncatula_Medtr6g012535:1.14326)n2:0.17191,Rchinensis_RcHm_v2.0_Chr5g0077811:3.01042e-06)n1:0.534784)n0;

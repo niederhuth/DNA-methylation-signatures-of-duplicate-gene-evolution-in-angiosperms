@@ -1,1 +1,0 @@
-(Athaliana_AT2G05350:0.556361,((Esalsugineum_Thhalv10026819m.g:0.0415426,Esalsugineum_Thhalv10026788m.g:0.170688)n2:0.225633,Esalsugineum_Thhalv10027330m.g:0.103928)n1:0.556361)n0;

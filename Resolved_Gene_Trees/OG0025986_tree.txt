@@ -1,1 +1,0 @@
-((Vcorymbosum_maker-VaccDscaff17-augustus-gene-77.33:0.0127239,Vcorymbosum_maker-VaccDscaff45-snap-gene-47.54:0.194283)n1:0.204272,(Aipaensis_araip.K30076.gnm1.ann1.Araip.24WUF:0.560466,(Fvesca_FvH4_5g08010:0.221877,(Fxananassa_maker-Fvb5-4-augustus-gene-41.44:0.0163723,Fxananassa_maker-Fvb5-2-augustus-gene-44.52:0.140099)n4:0.0155666)n3:0.0211732)n2:0.204272)n0;

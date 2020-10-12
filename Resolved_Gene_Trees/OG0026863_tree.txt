@@ -1,1 +1,0 @@
-((Tcacao_Thecc1EG011894:0.343079,Cclementina_Ciclev10033287m.g:0.522237)n1:0.271677,(((Vcorymbosum_maker-VaccDscaff28-augustus-gene-239.28:0,Vcorymbosum_maker-VaccDscaff19-augustus-gene-116.35:0)n4:0,Vcorymbosum_maker-VaccDscaff48-augustus-gene-0.24:0)n3:0.020257,Vcorymbosum_maker-VaccDscaff20-augustus-gene-115.25:0.013682)n2:0.271677)n0;

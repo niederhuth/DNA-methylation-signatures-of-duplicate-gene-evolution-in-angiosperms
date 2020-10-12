@@ -1,1 +1,0 @@
-(Mdomestica_MD14G1034700:0.411791,(Eguineensis_p5.00_sc00001_p0641:0.430214,(Sviridis_Sevir.5G249301:0.687329,(Aofficinalis_evm.TU.AsparagusV1_03.885:0.436661,Aofficinalis_evm.TU.AsparagusV1_04.1303:0.455787)n3:0.133792)n2:0.0596484)n1:0.411791)n0;

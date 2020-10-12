@@ -1,1 +1,0 @@
-(Cpapaya_evm.TU.supercontig_413.2:0.406959,(Cviolacea_Clevi.0027s0332:0.641187,((Crubella_Carub.0004s2197:0.235681,(Alyrata_AL4G37410:0.108006,Athaliana_AT2G39851:0.189092)n4:0.0280684)n3:0.0349299,(Esalsugineum_Thhalv10029353m.g:0.122215,Esalsugineum_Thhalv10017439m.g:0.185821)n5:0.215378)n2:0.473708)n1:0.406959)n0;

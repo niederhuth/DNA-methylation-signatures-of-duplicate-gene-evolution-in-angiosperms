@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_12121:0.324792,(Alyrata_AL8G28690:0.447067,(Paxillaris_Peaxi162Scf00135g00111:0.624454,Slycopersicum_Solyc01g007265.1:0.41504)n2:0.0522953)n1:0.324792)n0;

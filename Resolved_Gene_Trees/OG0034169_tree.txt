@@ -1,1 +1,0 @@
-(Brapa_Brara.C01604:0.172635,((Ljaponicus_Lj1g3v1785420:0.0359587,Ljaponicus_Lj0g3v0324379:0.329229)n2:0.173646,Rchinensis_RcHm_v2.0_Chr3g0456081:0.356966)n1:0.172635)n0;

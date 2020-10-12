@@ -1,1 +1,0 @@
-(Cclementina_Ciclev10026931m.g:0.808702,((((Egrandis_Eucgr.F01101:0.703122,Egrandis_Eucgr.F01115:0.155872)n4:0.0533666,Egrandis_Eucgr.L01150:0.0263599)n3:0.126851,Egrandis_Eucgr.F01111:4.39066e-06)n2:0.22242,((Egrandis_Eucgr.F01108:0.501971,Egrandis_Eucgr.L01149:0.436127)n6:0.0682641,Egrandis_Eucgr.F01106:0.405654)n5:0.122786)n1:0.808702)n0;

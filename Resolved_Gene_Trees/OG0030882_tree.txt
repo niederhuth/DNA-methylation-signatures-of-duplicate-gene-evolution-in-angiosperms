@@ -1,1 +1,0 @@
-(((Gsoja_GlysoPI483463.03G091500:0,Gmax_Glyma.03G121400:0)n2:0.82652,Osativa_LOC_Os05g04710:1.07022)n1:0.0873061,(Fxananassa_snap_masked-Fvb7-3-processed-gene-41.21:0.53612,Spolyrhiza_Spipo4G0066100:0.849718)n3:0.0873061)n0;

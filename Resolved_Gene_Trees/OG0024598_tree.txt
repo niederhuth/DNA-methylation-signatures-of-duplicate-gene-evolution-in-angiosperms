@@ -1,1 +1,0 @@
-(Nattenuata_NIATv7_g41753:0.50206,((((Egrandis_Eucgr.C00411:0.568005,(Egrandis_Eucgr.D02418:0.462808,Egrandis_Eucgr.D02405:0.467548)n5:0.115679)n4:0.160658,Egrandis_Eucgr.D02409:0.328086)n3:0.174273,Egrandis_Eucgr.L03184:0.963154)n2:0.155976,Egrandis_Eucgr.D02402:4.39753e-06)n1:0.50206)n0;

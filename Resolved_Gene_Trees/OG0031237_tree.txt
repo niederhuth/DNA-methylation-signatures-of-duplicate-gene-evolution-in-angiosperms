@@ -1,1 +1,0 @@
-(((Vcorymbosum_maker-VaccDscaff31-snap-gene-315.45:0.142246,Vcorymbosum_maker-VaccDscaff18-augustus-gene-34.40:0.361592)n2:0.0738222,Vcorymbosum_maker-VaccDscaff16-augustus-gene-363.31:0.447865)n1:0.222471,(Mdomestica_MD10G1020800:0.965594,Rchinensis_RcHm_v2.0_Chr2g0111901:0.298732)n3:0.222471)n0;

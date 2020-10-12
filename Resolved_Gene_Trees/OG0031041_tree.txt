@@ -1,1 +1,0 @@
-(Osativa_LOC_Os07g33915:0.13844,(Roccidentalis_maker-Ro04-exonerate_est2genome-gene-259.6:0.116767,(Vcorymbosum_maker-VaccDscaff26-snap-gene-76.23:0.0982566,(Graimondii_Gorai.004G139900:0.00523263,Graimondii_Gorai.002G167800:0.00956284)n3:0.00106254)n2:0.0157544)n1:0.13844)n0;

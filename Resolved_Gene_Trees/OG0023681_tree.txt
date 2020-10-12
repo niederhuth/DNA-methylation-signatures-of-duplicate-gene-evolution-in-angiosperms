@@ -1,1 +1,0 @@
-((Aipaensis_araip.K30076.gnm1.ann1.Araip.L9K0H:0,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.P06YH:0)n1:0.119547,(Mtruncatula_Medtr8g009720:0.349772,((Gsoja_GlysoPI483463.03G076200:0.0631621,Gmax_Glyma.03G100500:0.11761)n4:0.110691,(Gsoja_GlysoPI483463.07G106100:0,Gmax_Glyma.07G122400:0)n5:0.0555262)n3:0.161658)n2:0.119547)n0;

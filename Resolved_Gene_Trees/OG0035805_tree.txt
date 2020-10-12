@@ -1,1 +1,0 @@
-(Gmax_Glyma.12G154900:0.205381,(Mesculenta_Manes.S095401:0.15009,(Mesculenta_Manes.S044667:1.33998e-06,Mesculenta_Manes.S093401:0.432472)n2:0.44562)n1:0.205381)n0;

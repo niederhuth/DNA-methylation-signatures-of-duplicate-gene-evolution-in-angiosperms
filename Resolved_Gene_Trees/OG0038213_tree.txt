@@ -1,1 +1,0 @@
-(Vcorymbosum_maker-VaccDscaff14-snap-gene-55.23:0.110447,((Vcorymbosum_maker-VaccDscaff32-augustus-gene-208.25:0.164428,Vcorymbosum_maker-VaccDscaff30-snap-gene-216.35:0.503087)n2:1.1264,Vcorymbosum_maker-VaccDscaff2-snap-gene-10.38:0.153212)n1:0.110447)n0;

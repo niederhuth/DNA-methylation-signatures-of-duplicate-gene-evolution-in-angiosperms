@@ -1,1 +1,0 @@
-(Cpapaya_evm.TU.supercontig_233.20:0.526058,(Cviolacea_Clevi.0005s0077:0.896426,((Alyrata_AL6G52690:0.0659553,Athaliana_AT4G00760:0.175541)n3:0.144757,Crubella_Carub.0006s3644:0.354722)n2:0.713783)n1:0.526058)n0;

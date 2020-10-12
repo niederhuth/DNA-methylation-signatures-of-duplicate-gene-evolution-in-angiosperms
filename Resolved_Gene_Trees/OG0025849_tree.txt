@@ -1,1 +1,0 @@
-(Mtruncatula_Medtr8g058310:0.542518,((Aduranensis_aradu.V14167.gnm1.ann1.Aradu.DRQ25:0.166463,(Aipaensis_araip.K30076.gnm1.ann1.Araip.9WJ7K:0.331498,Aipaensis_araip.K30076.gnm1.ann1.Araip.24VS3:0.0794339)n3:0.00882599)n2:0.037226,(Aipaensis_araip.K30076.gnm1.ann1.Araip.PG4ID:0.186721,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.4DT8P:0.283551)n4:0.0315057)n1:0.542518)n0;

@@ -1,1 +1,0 @@
-((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00152.31:0.968507,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00034.42:0.24726,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00053.94:0.352808)n2:0.0433463)n1:0.513513,(Gmax_Glyma.10G010250:0.0151145,Gsoja_GlysoPI483463.10G009500:0.0091875)n3:0.513513)n0;

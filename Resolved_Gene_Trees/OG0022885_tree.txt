@@ -1,1 +1,0 @@
-((Nattenuata_NIATv7_g33659:0.0546993,Nattenuata_NIATv7_g42120:0.301967)n1:0.219325,(((Ljaponicus_Lj1g3v3641800:0.091052,(Ljaponicus_Lj1g3v3641870:0,Ljaponicus_Lj5g3v0642830:0)n5:0.456178)n4:0.138983,Mtruncatula_Medtr6g039950:0.367227)n3:0.0921808,(Fxananassa_augustus_masked-Fvb6-4-processed-gene-5.7:0.474302,Mdomestica_MD09G1033500:0.473347)n6:0.128099)n2:0.219325)n0;

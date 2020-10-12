@@ -1,1 +1,0 @@
-((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00001.344:0.448727,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00001.349:0.21588)n1:0.207822,(Macuminata_GSMUA_Achr3G29010_001:0.860073,((Egrandis_Eucgr.C02083:0.650298,Egrandis_Eucgr.J02546:0.701886)n4:0.199747,Ljaponicus_Lj4g3v2629930:0.801612)n3:0.0454113)n2:0.207822)n0;

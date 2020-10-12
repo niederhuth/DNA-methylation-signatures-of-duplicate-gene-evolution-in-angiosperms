@@ -1,1 +1,0 @@
-(Acoerulea_Aqcoe3G256500:0.0997289,((Ljaponicus_Lj0g3v0246639:0.158093,Ljaponicus_Lj2g3v1835050:0.0427715)n2:0.618578,(Aipaensis_araip.K30076.gnm1.ann1.Araip.GDV4U:0.816218,Rchinensis_RcHm_v2.0_Chr7g0235671:1.91363e-06)n3:0.10652)n1:0.0997289)n0;

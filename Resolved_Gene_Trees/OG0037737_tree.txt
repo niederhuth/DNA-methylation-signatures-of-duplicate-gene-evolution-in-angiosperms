@@ -1,1 +1,0 @@
-(Roccidentalis_maker-Ro02-snap-gene-133.97:0.0859749,(Roccidentalis_snap_masked-Ro02-processed-gene-134.15:0.0585492,(Roccidentalis_maker-Ro02-snap-gene-94.94:1.15579,Roccidentalis_maker-Ro06-exonerate_est2genome-gene-211.6:0.406209)n2:0.434693)n1:0.0859749)n0;

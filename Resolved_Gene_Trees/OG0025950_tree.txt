@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_07.2827:0.366939,(Aipaensis_araip.K30076.gnm1.ann1.Araip.B3EM1:0.825154,(Vcorymbosum_maker-VaccDscaff27-augustus-gene-340.26:0.662312,(Mtruncatula_Medtr6g014355:0.74713,(Mtruncatula_Medtr5g017720:0.961673,Mtruncatula_Medtr8g447350:0.73448)n4:0.073448)n3:0.00816089)n2:0.0996832)n1:0.366939)n0;

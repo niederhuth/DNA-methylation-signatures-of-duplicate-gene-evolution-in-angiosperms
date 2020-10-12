@@ -1,1 +1,0 @@
-((Mguttatus_Migut.O00822:0.0936362,Vcorymbosum_maker-VaccDscaff21-snap-gene-194.24:0.0648938)n1:0.105025,(Fxananassa_maker-Fvb3-3-augustus-gene-169.28:0.0692054,(Mdomestica_MD02G1234000:0.187032,Mdomestica_MD02G1235300:7.03603e-07)n3:0.0842271)n2:0.105025)n0;

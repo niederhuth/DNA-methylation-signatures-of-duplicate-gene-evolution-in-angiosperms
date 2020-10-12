@@ -1,1 +1,0 @@
-(Zmays_Zm00001d048742:0.414992,(Mdomestica_MD05G1339700:0.521691,(Fvesca_FvH4_4g11980:0.425749,(Fxananassa_snap_masked-Fvb4-3-processed-gene-64.29:0.731437,(Fxananassa_maker-Fvb4-3-snap-gene-72.53:0.461234,(Fxananassa_maker-Fvb4-4-augustus-gene-157.47:0.236034,Fxananassa_maker-Fvb4-1-snap-gene-87.46:0.372167)n5:0.321841)n4:0.174381)n3:0.0193757)n2:0.0703329)n1:0.414992)n0;

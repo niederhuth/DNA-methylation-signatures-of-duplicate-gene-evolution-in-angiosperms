@@ -1,1 +1,0 @@
-((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00155.22:0.139177,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00243.2:0.260131)n1:0.0894486,((Macuminata_GSMUA_Achr9G10100_001:0.184755,Eguineensis_p5.00_sc00208_p0019:0.156444)n3:0.170381,Spolyrhiza_Spipo8G0024100:0.545506)n2:0.0894486)n0;

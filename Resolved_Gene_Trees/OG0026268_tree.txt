@@ -1,1 +1,0 @@
-(((Zjujuba_LOC107406677:0.390187,(Vcorymbosum_maker-VaccDscaff540-augustus-gene-0.19:0.457372,Slycopersicum_Solyc02g071190.3:0.574573)n3:0.00677675)n2:0.144451,Fxananassa_augustus_masked-Fvb3-3-processed-gene-18.4:0.618297)n1:0.43943,(Aofficinalis_evm.TU.AsparagusV1_05.797:0.0453638,Aofficinalis_evm.TU.AsparagusV1_07.2681:0.0751702)n4:0.43943)n0;

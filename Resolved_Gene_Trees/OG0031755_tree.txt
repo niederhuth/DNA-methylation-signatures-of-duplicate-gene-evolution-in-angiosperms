@@ -1,1 +1,0 @@
-(Phallii_Pahal.8G065100:0.15214,((Pvirgatum_Pavir.8KG114400:0,Pvirgatum_Pavir.8KG114201:0)n2:0.442412,(Pvirgatum_Pavir.8KG114202:0,Pvirgatum_Pavir.8KG114300:0)n3:0.27994)n1:0.15214)n0;

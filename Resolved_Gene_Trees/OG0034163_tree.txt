@@ -1,1 +1,0 @@
-((Crubella_Carub.0005s0186:0.710744,(Slycopersicum_Solyc10g084553.1:0.881409,Slycopersicum_Solyc07g062825.1:0.65158)n2:0.0723977)n1:0.0413991,Brapa_Brara.B02132:0.743163)n0;

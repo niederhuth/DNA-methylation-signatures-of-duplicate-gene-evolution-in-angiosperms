@@ -1,1 +1,0 @@
-(Tcacao_Thecc1EG030860:0.614448,(Ljaponicus_Lj6g3v0927710:1.04955,(((Mtruncatula_Medtr2g034620:0.204256,(Mtruncatula_Medtr2g020150:0.509924,(Mtruncatula_Medtr2g020070:0.357754,Mtruncatula_Medtr2g034630:0.627494)n6:0.20171)n5:0.218218)n4:0.0844369,Mtruncatula_Medtr2g020100:0.489353)n3:0.239247,Mtruncatula_Medtr3g055670:0.786874)n2:0.276202)n1:0.614448)n0;

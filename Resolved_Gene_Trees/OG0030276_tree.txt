@@ -1,1 +1,0 @@
-(Egrandis_Eucgr.F02110:0.154812,(Fvesca_FvH4_7g29750:0.0202272,((Fxananassa_augustus_masked-Fvb7-3-processed-gene-31.4:0.0414555,Fxananassa_augustus_masked-Fvb7-3-processed-gene-3.2:0.00923953)n3:0.0441998,Fxananassa_augustus_masked-Fvb7-2-processed-gene-312.16:0.00517845)n2:0.000575383)n1:0.272354)n0;

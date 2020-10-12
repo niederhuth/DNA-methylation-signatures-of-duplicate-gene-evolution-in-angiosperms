@@ -1,1 +1,0 @@
-(Fxananassa_snap_masked-Fvb2-3-processed-gene-38.37:0.268325,(Esalsugineum_Thhalv10015022m.g:1.04572,(Graimondii_Gorai.001G244400:0.668476,Cclementina_Ciclev10029622m.g:0.440964)n2:0.146939)n1:0.268325)n0;

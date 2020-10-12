@@ -1,1 +1,0 @@
-(Tcacao_Thecc1EG037342:0.383535,(Roccidentalis_maker-Ro01-snap-gene-253.10:0.532923,((Roccidentalis_snap_masked-Ro03-processed-gene-238.13:0.352027,(Roccidentalis_snap_masked-Ro03-processed-gene-16.27:0.339881,Roccidentalis_maker-Ro02-snap-gene-82.89:0.519842)n4:0.131936)n3:0.121442,Roccidentalis_maker-Ro01-exonerate_protein2genome-gene-27.55:0.31747)n2:0.125191)n1:0.383535)n0;

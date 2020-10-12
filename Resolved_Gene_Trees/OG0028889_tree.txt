@@ -1,1 +1,0 @@
-(Mguttatus_Migut.H02553:0.195833,(Gmax_Glyma.14G109600:0.164157,(Mdomestica_MD00G1133000:0.375679,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.FHN59:0.418341,Aipaensis_araip.K30076.gnm1.ann1.Araip.0K4YX:1.01271)n3:0.18981)n2:0.0820394)n1:0.195833)n0;

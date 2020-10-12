@@ -1,1 +1,0 @@
-(Athaliana_AT3G28290:0,((Athaliana_AT3G28310:1.15176,Athaliana_AT3G28320:0.751408)n2:0.278261,Athaliana_AT3G28300:0)n1:0)n0;

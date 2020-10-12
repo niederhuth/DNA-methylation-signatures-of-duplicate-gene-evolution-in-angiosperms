@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00018.42:1.93488e-06,(Graimondii_Gorai.007G327900:0.77292,(Rchinensis_RcHm_v2.0_Chr2g0156401:0.600759,Ptrichocarpa_Potri.011G021500:0.769881)n2:0.0473198)n1:1.93488e-06)n0;

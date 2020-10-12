@@ -1,1 +1,0 @@
-(Roccidentalis_maker-Ro06-exonerate_protein2genome-gene-209.78:0.481818,((Rchinensis_RcHm_v2.0_Chr2g0157641:0.342912,Rchinensis_RcHm_v2.0_Chr2g0157651:0.267981)n2:0.261748,(Fvesca_FvH4_6g41840:0,(Fxananassa_augustus_masked-Fvb6-4-processed-gene-305.10:0.0703437,Fxananassa_augustus_masked-Fvb6-1-processed-gene-69.2:0)n4:0)n3:0.0289602)n1:0.481818)n0;

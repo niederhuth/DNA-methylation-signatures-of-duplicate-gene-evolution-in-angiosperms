@@ -1,1 +1,0 @@
-(Paxillaris_Peaxi162Scf00124g00162:0.50755,(Rchinensis_RcHm_v2.0_Chr4g0418871:0.400096,(Rchinensis_RcHm_v2.0_Chr4g0418891:2.2571e-06,Rchinensis_RcHm_v2.0_Chr4g0418771:0.44166)n2:0.483144)n1:0.50755)n0;

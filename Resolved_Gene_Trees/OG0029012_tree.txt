@@ -1,1 +1,0 @@
-(Mdomestica_MD07G1039100:0.219227,((Aipaensis_araip.K30076.gnm1.ann1.Araip.GR17T:0.761238,Aipaensis_araip.K30076.gnm1.ann1.Araip.07TFP:0.228535)n2:0.16575,(Aipaensis_araip.K30076.gnm1.ann1.Araip.5IH6N:0.454139,Aipaensis_araip.K30076.gnm1.ann1.Araip.668KB:0.108546)n3:0.281542)n1:0.219227)n0;

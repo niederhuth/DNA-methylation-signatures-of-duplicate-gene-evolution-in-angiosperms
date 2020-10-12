@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_24513:0.244532,(Mtruncatula_Medtr8g076795:0.720991,(Mdomestica_MD10G1235900:0.398947,Aipaensis_araip.K30076.gnm1.ann1.Araip.ZES1T:0.515577)n2:0.255944)n1:0.244532)n0;

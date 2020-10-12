@@ -1,1 +1,0 @@
-(Ptrichocarpa_Potri.015G044401:0.412828,(Aipaensis_araip.K30076.gnm1.ann1.Araip.KEQ5N:0.304754,(Aipaensis_araip.K30076.gnm1.ann1.Araip.PC9SS:2.24282e-06,Aipaensis_araip.K30076.gnm1.ann1.Araip.45GAR:0.885981)n2:0.372439)n1:0.412828)n0;

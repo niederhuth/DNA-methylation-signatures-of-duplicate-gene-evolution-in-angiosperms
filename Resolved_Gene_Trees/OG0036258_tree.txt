@@ -1,1 +1,0 @@
-(Mdomestica_MD09G1133000:2.5e-07,(Mdomestica_MD02G1106400:5e-07,(Mdomestica_MD11G1148600:0.707275,Mdomestica_MD11G1245800:5e-07)n2:0)n1:2.5e-07)n0;

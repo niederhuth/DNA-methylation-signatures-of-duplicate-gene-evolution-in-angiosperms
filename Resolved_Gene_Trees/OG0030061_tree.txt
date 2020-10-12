@@ -1,1 +1,0 @@
-(Mtruncatula_Medtr1g078370:0.342622,(Fxananassa_snap_masked-Fvb4-3-processed-gene-0.8:0.321193,(Cmelo_MELO3C026565.2:0.0848618,(Cmelo_MELO3C027650.2:1.82708e-06,Cmelo_MELO3C027509.2:0.0176304)n3:0.0871287)n2:0.632416)n1:0.342622)n0;

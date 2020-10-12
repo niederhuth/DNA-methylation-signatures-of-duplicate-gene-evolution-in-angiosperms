@@ -1,1 +1,0 @@
-(((Bvulgaris_gene_BVRB_7g165800:0.0828885,Bvulgaris_gene_BVRB_2g040360:0.0886665)n2:0.358953,(Bvulgaris_gene_BVRB_006960:3.28992e-06,Bvulgaris_gene_BVRB_9g208330:0.320577)n3:0.446689)n1:0.414986,(Mtruncatula_Medtr4g017485:0.547512,(Mtruncatula_Medtr4g128540:0.0664695,Mtruncatula_Medtr7g105890:0.0415095)n5:0.566778)n4:0.414986)n0;

@@ -1,1 +1,0 @@
-((Aofficinalis_evm.TU.AsparagusV1_Unassigned.736:1.15649,Eguineensis_p5.00_sc00193_p0018:0.904974)n1:0.19222,(Stuberosum_PGSC0003DMG402000051:0.473086,Nattenuata_NIATv7_g55298:0.483235)n2:0.19222)n0;

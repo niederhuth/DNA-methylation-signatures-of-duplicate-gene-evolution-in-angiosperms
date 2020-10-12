@@ -1,1 +1,0 @@
-((Cannuum_CA02g08070:0.229923,Cannuum_CA00g89950:0.277295)n1:0.0477663,(Rchinensis_RcHm_v2.0_Chr1g0375171:0.666679,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.4VY5D:0.604943,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.IJ8FU:0.181108,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.7M1DI:0.178371)n4:0.500127)n3:0.277601)n2:0.0477663)n0;

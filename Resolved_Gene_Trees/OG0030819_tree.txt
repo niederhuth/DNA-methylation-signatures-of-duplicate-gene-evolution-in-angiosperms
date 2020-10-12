@@ -1,1 +1,0 @@
-(((Ppersica_Prupe.4G225200:0.0554566,Ppersica_Prupe.I003400:1.32241e-06)n2:0.491109,Mdomestica_MD06G1163500:0.0786899)n1:0.188273,(Fxananassa_maker-Fvb6-3-snap-gene-133.46:0.239116,Roccidentalis_maker-Ro05-snap-gene-53.69:0.119878)n3:0.188273)n0;

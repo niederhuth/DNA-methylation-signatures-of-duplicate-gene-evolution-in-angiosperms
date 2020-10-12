@@ -1,1 +1,0 @@
-(Eguineensis_p5.00_sc00101_p0010:0.115657,(Ljaponicus_Lj0g3v0243599:0.0777642,(Egrandis_Eucgr.G01457:0.112269,(Gmax_Glyma.07G211500:0.235696,Vcorymbosum_maker-VaccDscaff3-snap-gene-10.26:0.213177)n3:0.0325835)n2:0.188243)n1:0.115657)n0;

@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_24395:0.289628,(Alyrata_AL1G38190:0.238205,(Fxananassa_snap_masked-Fvb7-1-processed-gene-251.14:0.42013,Boleracea_Bo4g026070:0.749396)n2:0.35837)n1:0.289628)n0;

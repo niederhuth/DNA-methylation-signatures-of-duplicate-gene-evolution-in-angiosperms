@@ -1,1 +1,0 @@
-(Ljaponicus_Lj3g3v2921090:1.37314e-06,((Ljaponicus_Lj3g3v2908670:0,Ljaponicus_Lj3g3v2907330:0)n2:0.402691,(Ljaponicus_Lj5g3v2029630:0.267815,Ljaponicus_Lj5g3v1953040:0.353065)n3:0.432889)n1:1.37314e-06)n0;

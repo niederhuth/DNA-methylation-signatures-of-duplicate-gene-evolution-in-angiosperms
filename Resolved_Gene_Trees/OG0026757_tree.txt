@@ -1,1 +1,0 @@
-((Vcorymbosum_maker-VaccDscaff17-augustus-gene-370.27:0.267981,((Graimondii_Gorai.007G070900:0.129008,Graimondii_Gorai.005G001200:0.211384)n3:0.0234871,Graimondii_Gorai.007G258300:0.124805)n2:0.0138672)n1:0.0497711,(Cannuum_CA03g35370:0.149613,Csativus_CsaV3_3G030880:0.417732)n4:0.0525911)n0;

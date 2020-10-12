@@ -1,1 +1,0 @@
-(Cclementina_Ciclev10023554m.g:0.353446,(Roccidentalis_maker-Ro01-exonerate_protein2genome-gene-231.38:0.221024,(Roccidentalis_maker-Ro04-exonerate_protein2genome-gene-331.42:0.215021,(Roccidentalis_maker-Ro02-snap-gene-113.110:0.114656,Roccidentalis_maker-Ro02-snap-gene-316.56:0.167508)n3:0.334697)n2:0.296917)n1:0.353446)n0;

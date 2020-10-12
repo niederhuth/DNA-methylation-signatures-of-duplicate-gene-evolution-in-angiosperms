@@ -1,1 +1,0 @@
-((Vvinifera_VIT_207s0141g00720:0.0982472,Gmax_Glyma.18G152200:0.124106)n1:0.0865531,(Vcorymbosum_snap_masked-VaccDscaff5-processed-gene-417.11:0.572149,Stuberosum_PGSC0003DMG400031339:0.0525487)n2:0.0865531)n0;

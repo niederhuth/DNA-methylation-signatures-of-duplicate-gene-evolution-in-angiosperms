@@ -1,1 +1,0 @@
-((Mesculenta_Manes.10G107540:0.19202,Mesculenta_Manes.07G030401:0.630043)n1:0.140544,(Eguineensis_p5.00_sc12408_p0001:0.665143,Othomaeum_Oropetium_20150105_12964:0.622099)n2:0.140544)n0;

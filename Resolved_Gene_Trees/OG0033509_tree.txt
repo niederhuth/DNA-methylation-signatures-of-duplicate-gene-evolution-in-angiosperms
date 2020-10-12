@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_07.3869:0.35322,(Zjujuba_LOC107407693:0.529246,(Slycopersicum_Solyc08g042120.1:0.466064,Cannuum_CA00g45210:0.268723)n2:0.45044)n1:0.35322)n0;

@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00184.18:0.17768,(Clanatus_Cla97C07G133600:1.06361,((Aofficinalis_evm.TU.AsparagusV1_01.1844:3.19298e-06,(Aofficinalis_evm.TU.AsparagusV1_03.1187:0.272864,Aofficinalis_evm.TU.AsparagusV1_07.1544:3.19298e-06)n4:0.628294)n3:0.378456,(Gsoja_GlysoPI483463.14G073700:0.008742,Gmax_Glyma.14G082350:0.012921)n5:0.487969)n2:0.0634923)n1:0.17768)n0;

@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_Achr9G19750_001:0.395041,((Fxananassa_snap_masked-Fvb7-3-processed-gene-108.34:0.768771,Fxananassa_maker-Fvb7-3-augustus-gene-74.61:0.440032)n2:0.374259,(Fxananassa_maker-Fvb7-2-augustus-gene-294.44:2.73221e-06,Fxananassa_snap_masked-Fvb7-4-processed-gene-59.36:0.057601)n3:0.303943)n1:0.395041)n0;

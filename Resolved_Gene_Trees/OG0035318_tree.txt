@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_Achr5G25580_001:0.423762,(Fvesca_FvH4_5g08820:0.127215,(Fxananassa_snap_masked-Fvb5-4-processed-gene-44.31:0.80424,Fxananassa_augustus_masked-Fvb5-2-processed-gene-48.6:0.24518)n2:0.0272423)n1:0.183464)n0;

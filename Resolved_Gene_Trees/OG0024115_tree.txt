@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold04339.1:0.149321,(Eguineensis_p5.00_sc39834_p0001:0.499478,(Ptrichocarpa_Potri.T016000:0.376128,(((Boleracea_Bo6g081060:0.819428,Pvulgaris_Phvul.011G108301:0.188571)n5:0.554086,Mdomestica_MD00G1186000:0.428663)n4:0.224158,Rchinensis_RcHm_v2.0_Chr5g0012291:0.723824)n3:0.145846)n2:0.172697)n1:0.149321)n0;

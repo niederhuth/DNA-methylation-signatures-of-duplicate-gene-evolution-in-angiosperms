@@ -1,1 +1,0 @@
-(Paxillaris_Peaxi162Scf00003g03413:0.284703,(((Ppersica_Prupe.1G235900:0.41864,Csativus_CsaV3_1G009370:0.565269)n3:0.112653,Mtruncatula_Medtr5g084920:0.62413)n2:0.0694352,(Ptrichocarpa_Potri.017G010000:0.231829,Ptrichocarpa_Potri.T160501:0.389484)n4:0.352863)n1:0.284703)n0;

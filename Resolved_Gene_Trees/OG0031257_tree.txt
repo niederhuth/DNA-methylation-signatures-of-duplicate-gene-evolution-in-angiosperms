@@ -1,1 +1,0 @@
-((Mdomestica_MD15G1401000:1.05527,Ppersica_Prupe.5G008800:0.274709)n1:0.772401,(Vcorymbosum_maker-VaccDscaff1733-snap-gene-0.5:0.139611,(Vcorymbosum_maker-VaccDscaff985-augustus-gene-0.6:0,Vcorymbosum_maker-VaccDscaff1028-augustus-gene-0.5:0)n3:0.114458)n2:0.772401)n0;

@@ -1,1 +1,0 @@
-((Sitalica_Seita.7G156500:0.824335,Fxananassa_snap_masked-Fvb1-2-processed-gene-48.29:0.992777)n1:0.0720217,(Vvinifera_VIT_210s0003g05750:0.424851,((Osativa_LOC_Os02g12240:0.0270617,Osativa_LOC_Os08g16800:3.9455e-06)n4:0.679452,Osativa_LOC_Os02g19980:0.721938)n3:0.134709)n2:0.0720217)n0;

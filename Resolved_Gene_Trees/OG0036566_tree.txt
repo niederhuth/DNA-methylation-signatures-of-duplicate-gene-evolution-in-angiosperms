@@ -1,1 +1,0 @@
-((Mtruncatula_Medtr1g047570:0.786551,Slycopersicum_Solyc03g119675.1:0.577278)n1:0.0129461,(Sbicolor_Sobic.003G288500:0.686629,Phallii_Pahal.1G048700:0.5837)n2:0.0129461)n0;

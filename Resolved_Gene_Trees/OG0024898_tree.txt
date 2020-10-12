@@ -1,1 +1,0 @@
-((Fxananassa_maker-Fvb5-2-augustus-gene-158.28:0.283858,Roccidentalis_snap_masked-Ro05-processed-gene-154.20:0.31091)n1:0.369968,(Pxbretschneideri_LOC103944452:0.243642,((Mdomestica_MD12G1005700:0.266173,Mdomestica_MD12G1006000:0.0815291)n4:0.115376,(Mdomestica_MD12G1005200:0.227227,Mdomestica_MD14G1003700:0.0741863)n5:0.00741863)n3:0.000824292)n2:0.0571531)n0;

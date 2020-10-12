@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00106.42:0.336443,(Nattenuata_NIATv7_g16712:0.399914,(Vcorymbosum_maker-VaccDscaff146-augustus-gene-2.54:0.432111,(Aofficinalis_evm.TU.AsparagusV1_08.2452:0.0338693,(Aofficinalis_evm.TU.AsparagusV1_06.1747:0.203935,Aofficinalis_evm.TU.AsparagusV1_04.3061:0.25289)n4:0.0604532)n3:0.24678)n2:0.176529)n1:0.336443)n0;

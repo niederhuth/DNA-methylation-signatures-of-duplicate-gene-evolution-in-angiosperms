@@ -1,1 +1,0 @@
-(Phallii_Pahal.7G331100:0.502044,((Esalsugineum_Thhalv10009072m.g:0.930395,((Fxananassa_snap_masked-Fvb3-1-processed-gene-167.10:3.3836e-06,Fxananassa_snap_masked-Fvb3-2-processed-gene-148.10:0.0503816)n4:0.00559795,Fxananassa_maker-Fvb2-3-snap-gene-188.21:0.906692)n3:0.100744)n2:0.192763,Fvesca_FvH4_3g23430:0.196224)n1:0.502044)n0;

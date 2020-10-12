@@ -1,1 +1,0 @@
-(((Pvirgatum_Pavir.7KG104854:0.00130453,Pvirgatum_Pavir.7NG110446:0.0121735)n2:0.159544,Phallii_Pahal.7G012600:0.085932)n1:0.249933,(Bdistachyon_Bradi3g05200:0.308754,(Bdistachyon_Bradi3g01000:0.1705,(Bdistachyon_Bradi3g01020:0.321813,Bdistachyon_Bradi3g01010:0.3042)n5:0.233088)n4:0.0843657)n3:0.249933)n0;

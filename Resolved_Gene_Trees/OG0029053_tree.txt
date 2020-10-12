@@ -1,1 +1,0 @@
-((Othomaeum_Oropetium_20150105_15612:0.0867638,Pvirgatum_Pavir.4KG377703:0.53148)n1:0.266625,(Slycopersicum_Solyc08g061510.2:0.595944,(Aipaensis_araip.K30076.gnm1.ann1.Araip.AX9DM:0.415728,Aipaensis_araip.K30076.gnm1.ann1.Araip.73KBB:0.789234)n3:0.0876926)n2:0.166315)n0;

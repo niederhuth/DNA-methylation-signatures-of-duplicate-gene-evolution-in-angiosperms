@@ -1,1 +1,0 @@
-(Slycopersicum_Solyc10g031565.1:0.41952,(Paxillaris_Peaxi162Scf00910g00222:1.20601,(Paxillaris_Peaxi162Scf00109g00107:0.10841,Paxillaris_Peaxi162Scf00109g00093:0.0945268)n2:0.735723)n1:0.41952)n0;

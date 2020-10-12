@@ -1,1 +1,0 @@
-(Nnucifera_XP_010269010.1:0.210833,(Cclementina_Ciclev10002054m.g:0.198438,(Cpapaya_evm.TU.supercontig_36.1:0.179842,((Mesculenta_Manes.S083366:0.0141295,Mesculenta_Manes.18G073581:1.46919e-06)n4:0.359298,(Tcacao_Thecc1EG035024:0.0882225,Graimondii_Gorai.010G047500:0.151479)n5:0.0319613)n3:0.00947874)n2:0.0157424)n1:0.210833)n0;

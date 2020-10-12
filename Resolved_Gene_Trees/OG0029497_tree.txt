@@ -1,1 +1,0 @@
-((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold01168.1:0.203987,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00038.46:0.157308)n1:0.274364,(Nattenuata_NIATv7_g06029:0.583437,(Rchinensis_RcHm_v2.0_Chr3g0485581:0.134941,Rchinensis_RcHm_v2.0_Chr2g0110771:0.124216)n3:0.0925417)n2:0.274364)n0;

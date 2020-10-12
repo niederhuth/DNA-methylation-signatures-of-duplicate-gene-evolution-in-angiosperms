@@ -1,1 +1,0 @@
-((Sitalica_Seita.J002500:0.582171,Bdistachyon_Bradi1g59501:0.415457)n1:0.023268,(Sbicolor_Sobic.002G003900:0.285767,Osativa_LOC_Os07g01470:0.49438)n2:0.023268)n0;

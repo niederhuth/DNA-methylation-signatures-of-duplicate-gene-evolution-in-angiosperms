@@ -1,1 +1,0 @@
-((Osativa_LOC_Os06g03080:0.109661,Osativa_LOC_Os06g03120:0.0234485)n1:0.188683,(Bdistachyon_Bradi1g49410:0.229225,Bdistachyon_Bradi1g49380:0.140247)n2:0.188683)n0;

@@ -1,1 +1,0 @@
-((Spolyrhiza_Spipo0G0123400:0.172375,Aofficinalis_evm.TU.AsparagusV1_03.838:0.905041)n1:0.244033,(Vvinifera_VIT_212s0034g00180:0.169477,Vvinifera_VIT_212s0034g00190:0.256404)n2:0.244033)n0;

@@ -1,1 +1,0 @@
-(Ljaponicus_Lj2g3v0189310:0.0232827,(Vcorymbosum_maker-VaccDscaff19-augustus-gene-8.35:0.772202,(Vcorymbosum_maker-VaccDscaff29-augustus-gene-36.30:0.885845,((Vcorymbosum_maker-VaccDscaff134-snap-gene-1.27:2.79734e-06,Vcorymbosum_maker-VaccDscaff29-snap-gene-36.38:0.031626)n4:0.325985,Vcorymbosum_maker-VaccDscaff21-snap-gene-35.28:0.379914)n3:0.181412)n2:0.17485)n1:0.0232827)n0;

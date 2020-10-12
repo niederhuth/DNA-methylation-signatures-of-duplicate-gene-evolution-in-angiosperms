@@ -1,1 +1,0 @@
-(Zmays_Zm00001d011991:0.670272,((Fvesca_FvH4_6g53270:0.165918,Fxananassa_maker-Fvb6-1-snap-gene-13.79:0.129147)n2:0.252332,(Rchinensis_RcHm_v2.0_Chr2g0175121:0.129946,Rchinensis_RcHm_v2.0_Chr2g0175041:1.66667e-06)n3:1.66667e-06)n1:0.361565)n0;

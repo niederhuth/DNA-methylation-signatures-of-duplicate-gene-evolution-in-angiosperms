@@ -1,1 +1,0 @@
-((Mdomestica_MD10G1082500:0.171576,Mdomestica_MD05G1072100:0.0939067)n1:0.140358,(Roccidentalis_maker-Ro02-exonerate_est2genome-gene-346.4:0.111229,(Fxananassa_maker-Fvb2-2-augustus-gene-173.20:0.280055,Rchinensis_RcHm_v2.0_Chr6g0262431:0.07111)n3:0.00721358)n2:0.140358)n0;

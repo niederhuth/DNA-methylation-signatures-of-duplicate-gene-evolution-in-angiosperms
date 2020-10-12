@@ -1,1 +1,0 @@
-((Cmelo_MELO3C033874.2:0.911866,(Roccidentalis_maker-Ro07-snap-gene-136.40:0.414804,Roccidentalis_maker-Ro05-snap-gene-286.32:0.510059)n2:0.313149)n1:0.0908826,(Esalsugineum_Thhalv10012058m.g:0.657624,(((Boleracea_Bo00452s100:0.0708106,Boleracea_Bo5g091810:0.220414)n6:0.176947,Boleracea_Bo2g116260:0.168226)n5:0.263996,Boleracea_Bo9g148100:0.307435)n4:0.0341594)n3:0.110509)n0;

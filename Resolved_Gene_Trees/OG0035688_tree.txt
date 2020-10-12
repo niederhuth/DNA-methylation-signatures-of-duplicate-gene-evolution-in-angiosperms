@@ -1,1 +1,0 @@
-(Fxananassa_snap_masked-Fvb2-3-processed-gene-184.23:0.220442,((Roccidentalis_maker-Ro05-exonerate_protein2genome-gene-380.29:0.144933,Roccidentalis_maker-Ro05-exonerate_protein2genome-gene-370.34:0.167322)n2:0.0805817,Roccidentalis_maker-Ro01-exonerate_protein2genome-gene-239.64:0.355816)n1:0.220442)n0;

@@ -1,1 +1,0 @@
-(Phallii_Pahal.8G034200:0.377185,(Sitalica_Seita.8G040300:0.115451,(Sviridis_Sevir.8G039200:1.5766,Sviridis_Sevir.8G038800:0.0637052)n2:0.00707835)n1:0.040922)n0;

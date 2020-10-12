@@ -1,1 +1,0 @@
-(Pvulgaris_Phvul.010G113332:0.468567,((Rchinensis_RcHm_v2.0_Chr4g0431511:0.0117655,Rchinensis_RcHm_v2.0_Chr4g0431571:0.708468)n2:0.397224,Roccidentalis_maker-Ro04-snap-gene-131.62:0.658547)n1:0.468567)n0;

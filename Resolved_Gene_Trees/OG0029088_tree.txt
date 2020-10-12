@@ -1,1 +1,0 @@
-((Mguttatus_Migut.F01462:0.448782,Vcorymbosum_maker-VaccDscaff41-snap-gene-100.41:0.529526)n1:0.0709421,(Aipaensis_araip.K30076.gnm1.ann1.Araip.TY03Y:0.477254,(Alyrata_AL4G11590:0.016368,Alyrata_AL1G44650:0.029025)n3:0.349942)n2:0.0709421)n0;

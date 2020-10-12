@@ -1,1 +1,0 @@
-(Nattenuata_NIATv7_g25043:0.417406,((Mguttatus_Migut.A01056:0.612437,Mguttatus_Migut.D02126:0.469906)n2:0.131987,Mguttatus_Migut.D02120:0.630106)n1:0.417406)n0;

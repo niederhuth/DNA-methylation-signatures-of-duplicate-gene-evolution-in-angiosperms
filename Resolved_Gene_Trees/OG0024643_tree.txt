@@ -1,1 +1,0 @@
-((Mtruncatula_Medtr8g090200:0.860723,(((Fvesca_FvH4_1g20830:3.84088e-06,(Fxananassa_maker-Fvb1-3-snap-gene-130.39:0.316746,Fxananassa_maker-Fvb1-4-snap-gene-117.56:0.00272396)n5:0.000302662)n4:0.302476,Rchinensis_RcHm_v2.0_Chr2g0113251:0.279308)n3:0.119218,Rchinensis_RcHm_v2.0_Chr2g0113341:0.803315)n2:0.0892572)n1:0.0245945,Gmax_Glyma.18G138551:1.0433)n0;

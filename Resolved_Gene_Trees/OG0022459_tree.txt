@@ -1,1 +1,0 @@
-(Bvulgaris_gene_BVRB_4g095980:0.371381,((Mguttatus_Migut.D00326:0.32356,(Mguttatus_Migut.D00324:0.0657055,Mguttatus_Migut.D00325:0.11705)n3:0.362312)n2:0.174746,((Smelongena_SMEL_007g288400.1:0.18322,(Slycopersicum_Solyc07g052260.3:0.314363,Slycopersicum_Solyc07g052255.1:0.282953)n6:0.0314392)n5:0.13287,Paxillaris_Peaxi162Scf00007g00625:0.390887)n4:0.13861)n1:0.371381)n0;

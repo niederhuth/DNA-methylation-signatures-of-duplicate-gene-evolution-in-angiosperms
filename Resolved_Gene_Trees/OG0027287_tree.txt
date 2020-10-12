@@ -1,1 +1,0 @@
-(Sviridis_Sevir.8G106101:0.302373,((Gmax_Glyma.11G171003:0.00959088,Gsoja_GlysoPI483463.11G178200:1.5746e-06)n2:0.241556,(Fvesca_FvH4_7g30040:0.138563,(Fxananassa_snap_masked-Fvb7-2-processed-gene-277.34:0.43676,Fxananassa_maker-Fvb7-2-snap-gene-314.50:0.0653876)n4:0.00726529)n3:0.0744825)n1:0.302373)n0;

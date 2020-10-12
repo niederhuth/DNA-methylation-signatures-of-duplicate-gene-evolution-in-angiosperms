@@ -1,1 +1,0 @@
-(Graimondii_Gorai.007G236600:0.776065,((Othomaeum_Oropetium_20150105_23536:0.069667,Othomaeum_Oropetium_20150105_25900:0.176747)n2:0.267819,Osativa_LOC_Os03g37080:1.41787)n1:0.776065)n0;

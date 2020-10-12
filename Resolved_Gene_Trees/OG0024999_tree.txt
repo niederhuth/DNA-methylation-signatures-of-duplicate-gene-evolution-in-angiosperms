@@ -1,1 +1,0 @@
-((Vcorymbosum_maker-VaccDscaff16-snap-gene-33.39:0.460749,Vcorymbosum_maker-VaccDscaff7-snap-gene-391.34:0.184145)n1:0.16647,(Mdomestica_MD15G1097100:0.305651,(Ljaponicus_Lj3g3v2246970:0.0628024,(Ljaponicus_Lj0g3v0316349:0.428866,(Ljaponicus_Lj0g3v0266749:0,Ljaponicus_Lj0g3v0266759:0)n5:0.0923058)n4:0.108957)n3:0.232081)n2:0.16647)n0;

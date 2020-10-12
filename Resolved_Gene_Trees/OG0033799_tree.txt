@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00016.357:0.096718,(Csativus_CsaV3_6G032500:0.165086,(Cpapaya_evm.TU.supercontig_14.161:0.0802241,Cannuum_CA00g98080:0.199442)n2:0.081314)n1:0.096718)n0;

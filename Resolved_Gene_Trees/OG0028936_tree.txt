@@ -1,1 +1,0 @@
-(Ptrichocarpa_Potri.014G110700:0.661161,((Aduranensis_aradu.V14167.gnm1.ann1.Aradu.DCK7W:0.122136,Aipaensis_araip.K30076.gnm1.ann1.Araip.SNT4K:0.247288)n2:0.247248,(Gsoja_GlysoPI483463.03G185400:0.0623213,Gmax_Glyma.03G225602:0.0254377)n3:0.806963)n1:0.661161)n0;

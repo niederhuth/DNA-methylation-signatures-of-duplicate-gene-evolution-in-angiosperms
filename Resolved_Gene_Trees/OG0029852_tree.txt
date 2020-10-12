@@ -1,1 +1,0 @@
-(Spolyrhiza_Spipo3G0037300:0.264174,(Nnucifera_XP_010263420.1:0.20297,(Bvulgaris_gene_BVRB_4g075760:0.377817,(Cpapaya_evm.TU.supercontig_48.89:0.259374,Vvinifera_VIT_214s0060g02100:0.325768)n3:0.0336705)n2:0.046937)n1:0.264174)n0;

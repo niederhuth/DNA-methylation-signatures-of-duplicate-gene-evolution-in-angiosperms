@@ -1,1 +1,0 @@
-(Bdistachyon_Bradi2g01409:0.810725,((((Phallii_Pahal.5G453800:0,Phallii_Pahal.5G453500:0)n4:0,Phallii_Pahal.5G454200:0)n3:0.111242,(Pvirgatum_Pavir.5KG124900:0.149362,Pvirgatum_Pavir.5NG132200:0.0833304)n5:0.0495437)n2:0.109521,(Sitalica_Seita.5G082000:0.0256648,(Sviridis_Sevir.5G081100:0.864124,Sviridis_Sevir.5G080900:0.029063)n7:0.00322922)n6:0.12587)n1:0.810725)n0;

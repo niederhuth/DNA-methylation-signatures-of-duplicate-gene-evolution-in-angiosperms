@@ -1,1 +1,0 @@
-(Vcorymbosum_maker-VaccDscaff37-snap-gene-231.40:0.247266,((Mdomestica_MD01G1034100:0.386456,Vvinifera_VIT_200s0625g00040:0.374259)n2:0.109001,(Rchinensis_RcHm_v2.0_Chr2g0112681:0.352444,(Fxananassa_maker-Fvb1-3-snap-gene-128.55:0.111053,Fxananassa_snap_masked-Fvb1-1-processed-gene-153.27:0.0712681)n4:0.120801)n3:0.430933)n1:0.247266)n0;

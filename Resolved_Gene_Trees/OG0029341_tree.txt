@@ -1,1 +1,0 @@
-((Vcorymbosum_maker-VaccDscaff20-snap-gene-363.33:0.00749163,Vcorymbosum_maker-VaccDscaff45-snap-gene-144.26:0.00511237)n1:0.399311,(Aofficinalis_evm.TU.AsparagusV1_02.961:0.488947,(Othomaeum_Oropetium_20150105_21065:0.477837,Zmays_Zm00001d023601:0.482335)n3:0.294211)n2:0.399311)n0;

@@ -1,1 +1,0 @@
-(Nnucifera_XP_019051511.1:0.439728,(Egrandis_Eucgr.L02270:0.757843,((Rchinensis_RcHm_v2.0_Chr6g0245801:0.127475,Rchinensis_RcHm_v2.0_Chr5g0052031:0.154999)n3:0.246227,Rchinensis_RcHm_v2.0_Chr7g0237271:0.103036)n2:0.0114484)n1:0.369351)n0;

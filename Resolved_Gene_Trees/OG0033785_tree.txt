@@ -1,1 +1,0 @@
-((Vvinifera_VIT_213s0047g01040:1.02424,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00077.106:0.969128,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00061.158:0.712545)n2:0.0791717)n1:0.013208,Vcorymbosum_snap_masked-VaccDscaff7-processed-gene-110.13:0.999945)n0;

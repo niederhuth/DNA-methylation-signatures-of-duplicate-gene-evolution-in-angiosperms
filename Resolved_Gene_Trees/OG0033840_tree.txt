@@ -1,1 +1,0 @@
-(Bdistachyon_Bradi2g36316:0.206358,(Paxillaris_Peaxi162Scf00036g02121:0.202016,(Fxananassa_augustus_masked-Fvb1-1-processed-gene-128.8:0.12978,Mdomestica_MD13G1258100:0.237232)n2:0.0246572)n1:0.206358)n0;

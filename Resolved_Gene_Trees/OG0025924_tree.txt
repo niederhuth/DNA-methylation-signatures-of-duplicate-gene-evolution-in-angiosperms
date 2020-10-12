@@ -1,1 +1,0 @@
-((Aduranensis_aradu.V14167.gnm1.ann1.Aradu.KD1XS:0.00838662,Aipaensis_araip.K30076.gnm1.ann1.Araip.A8D0C:0.00664438)n1:0.143575,(Mtruncatula_Medtr6g074880:0.113672,(Mtruncatula_Medtr4g054260:0.37737,(Mtruncatula_Medtr4g054630:0.027057,Mtruncatula_Medtr4g054415:0.011805)n4:0.0379414)n3:0.0239605)n2:0.143575)n0;

@@ -1,1 +1,0 @@
-((Slycopersicum_Solyc12g009425.1:0.639402,Graimondii_Gorai.010G230000:0.752001)n1:0.128583,((Aofficinalis_evm.TU.AsparagusV1_07.1446:0.0307685,Aofficinalis_evm.TU.AsparagusV1_05.1285:0.0592085)n3:0.745244,Othomaeum_Oropetium_20150105_14263:0.455214)n2:0.128583)n0;

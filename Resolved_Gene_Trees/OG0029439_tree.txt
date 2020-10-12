@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00012.78:0.178752,(((Boleracea_Bo9g084500:0.447949,Boleracea_Bo4g076790:0.385357)n3:0.314427,Mtruncatula_Medtr4g122240:0.800491)n2:0.077444,Ljaponicus_Lj4g3v2436020:0.626876)n1:0.178752)n0;

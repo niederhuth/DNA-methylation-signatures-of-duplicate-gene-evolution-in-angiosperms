@@ -1,1 +1,0 @@
-(((Pvulgaris_Phvul.009G120900:0.974143,(Gmax_Glyma.14G165400:0.669007,Ljaponicus_Lj0g3v0145609:0.735083)n3:0.155217)n2:0.149076,Mtruncatula_Medtr3g073230:0.727467)n1:0.36291,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.2T7XU:0.112822,Aipaensis_araip.K30076.gnm1.ann1.Araip.79E54:0.0618587)n4:0.36291)n0;

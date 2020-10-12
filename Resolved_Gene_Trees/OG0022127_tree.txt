@@ -1,1 +1,0 @@
-(Alyrata_AL2G24230:0.266796,(Boleracea_Bo4g136340:0.950511,((((Esalsugineum_Thhalv10028264m.g:0.0594751,Esalsugineum_Thhalv10028163m.g:0.0117579)n5:0.124556,Esalsugineum_Thhalv10028251m.g:0.250581)n4:0.218321,Esalsugineum_Thhalv10028244m.g:0.266042)n3:0.158575,(Esalsugineum_Thhalv10023922m.g:0.660811,Esalsugineum_Thhalv10015525m.g:0.901324)n6:0.0620424)n2:0.109636)n1:0.266796)n0;

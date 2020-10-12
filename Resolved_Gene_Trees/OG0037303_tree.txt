@@ -1,1 +1,0 @@
-(Rchinensis_RcHm_v2.0_Chr1g0354251:0.302806,(Ptrichocarpa_Potri.011G055701:0.33133,(Ptrichocarpa_Potri.007G001600:1.19801,Ptrichocarpa_Potri.011G052000:0.0222257)n2:0.289085)n1:0.302806)n0;

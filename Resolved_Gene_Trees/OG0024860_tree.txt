@@ -1,1 +1,0 @@
-(((Graimondii_Gorai.001G192700:0.139319,Graimondii_Gorai.004G035300:0.148846)n2:0.147787,(Ppersica_Prupe.2G070300:0.171657,(Fxananassa_augustus_masked-Fvb7-2-processed-gene-45.15:0.0184214,Fxananassa_augustus_masked-Fvb7-4-processed-gene-183.3:0.00325562)n4:0.381641)n3:0.140662)n1:0.440792,(Stuberosum_PGSC0003DMG400005913:0,Stuberosum_PGSC0003DMG400018067:0)n5:0.440792)n0;

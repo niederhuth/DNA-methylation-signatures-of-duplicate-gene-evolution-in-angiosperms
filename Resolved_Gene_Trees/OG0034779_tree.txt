@@ -1,1 +1,0 @@
-((Cviolacea_Clevi.0063s0025:2.29818e-06,Cviolacea_Clevi.0063s0023:0.095909)n1:0.186276,(Gmax_Glyma.04G141100:1.08222,Mtruncatula_Medtr7g045185:0.82048)n2:0.186276)n0;

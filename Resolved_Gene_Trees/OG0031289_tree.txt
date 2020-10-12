@@ -1,1 +1,0 @@
-(Pvirgatum_Pavir.5NG111500:0.0396085,((Mguttatus_Migut.O00494:0.193569,Roccidentalis_maker-Ro06-snap-gene-393.96:0.389804)n2:0.0313046,(Nattenuata_NIATv7_g34326:0.044121,Nattenuata_NIATv7_g56414:0.156369)n3:0.0479152)n1:0.0396085)n0;

@@ -1,1 +1,0 @@
-(Vcorymbosum_augustus_masked-VaccDscaff11-processed-gene-287.3:0.500241,((Graimondii_Gorai.009G087800:0.0174382,Tcacao_Thecc1EG041495:0.825024)n2:0.200485,Ptrichocarpa_Potri.004G187300:1.06803)n1:0.500241)n0;

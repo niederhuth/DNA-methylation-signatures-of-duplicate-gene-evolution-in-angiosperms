@@ -1,1 +1,0 @@
-(Boleracea_Bo8g025720:3.14718e-06,((Boleracea_Bo4g151750:1.10225,Boleracea_Bo2g056230:1.1642)n2:0.0745907,Boleracea_Bo6g079900:0.857554)n1:3.14718e-06)n0;

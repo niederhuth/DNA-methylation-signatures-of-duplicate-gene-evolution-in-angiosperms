@@ -1,1 +1,0 @@
-((Mesculenta_Manes.18G139250:0.116886,Ptrichocarpa_Potri.019G128650:0.094918)n1:0.0467179,(Cviolacea_Clevi.0027s0040:0.283734,(Crubella_Carub.0005s1799:0.242192,Brapa_Brara.I03495:0.230418)n3:0.0755539)n2:0.0467179)n0;

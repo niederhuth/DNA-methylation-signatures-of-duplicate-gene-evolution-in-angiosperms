@@ -1,1 +1,0 @@
-(((Roccidentalis_maker-Ro04-snap-gene-238.41:0.151798,Roccidentalis_maker-Ro04-snap-gene-238.39:0.130166)n2:0.231677,Roccidentalis_maker-Ro04-snap-gene-238.40:0.348894)n1:0.045481,((Rchinensis_RcHm_v2.0_Chr4g0400271:0.458549,Rchinensis_RcHm_v2.0_Chr4g0400571:0.305421)n4:0.105684,Rchinensis_RcHm_v2.0_Chr4g0389961:0.371736)n3:0.045481)n0;

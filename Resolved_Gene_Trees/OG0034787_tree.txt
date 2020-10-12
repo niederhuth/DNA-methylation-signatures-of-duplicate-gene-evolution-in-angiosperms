@@ -1,1 +1,0 @@
-(Slycopersicum_Solyc02g069420.3:0.147862,((Egrandis_Eucgr.E02021:0.0671735,Egrandis_Eucgr.E04358:0.111657)n2:0.171624,Ptrichocarpa_Potri.003G149200:0.650653)n1:0.147862)n0;

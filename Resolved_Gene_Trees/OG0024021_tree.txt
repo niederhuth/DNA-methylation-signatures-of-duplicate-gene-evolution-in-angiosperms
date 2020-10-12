@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00028.30:0.443666,((Sviridis_Sevir.7G173100:0.661557,(Aofficinalis_evm.TU.AsparagusV1_04.128:0.44774,Aofficinalis_evm.TU.AsparagusV1_10.418:0.431368)n3:0.0748937)n2:0.247144,(Mdomestica_MD11G1240600:0.663298,(Gmax_Glyma.13G278650:0.0354469,Gsoja_GlysoPI483463.13G232600:3.88818e-06)n5:0.331143)n4:0.111175)n1:0.443666)n0;

@@ -1,1 +1,0 @@
-((Alyrata_AL5G12990:0.497632,Bdistachyon_Bradi3g10777:0.564013)n1:0.0556242,(Cpapaya_evm.TU.contig_48111:0.38168,(((Ljaponicus_Lj0g3v0305549:0.180797,Ljaponicus_Lj0g3v0305559:0.293905)n5:0.209376,Aofficinalis_evm.TU.AsparagusV1_07.2998:0.257878)n4:0.304503,Esalsugineum_Thhalv10009179m.g:0.268816)n3:0.0790327)n2:0.0556242)n0;

@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00055.15:0.03111,((Zmays_Zm00001d034938:0.201373,Cannuum_CA11g19310:0.494447)n2:0.0156465,Cpapaya_evm.TU.supercontig_25.190:0.633095)n1:0.03111)n0;

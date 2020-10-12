@@ -1,1 +1,0 @@
-(Tcacao_Thecc1EG007340:0.362879,(Roccidentalis_maker-Ro04-exonerate_protein2genome-gene-284.46:0.224199,(Gmax_Glyma.02G043001:0.304601,(Mdomestica_MD03G1234200:0.403988,(Rchinensis_RcHm_v2.0_Chr6g0257841:0.196905,Mdomestica_MD08G1053600:0.554302)n4:0.279371)n3:0.0310413)n2:0.262316)n1:0.301834)n0;

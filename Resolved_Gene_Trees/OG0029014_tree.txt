@@ -1,1 +1,0 @@
-(Csativus_CsaV3_1G033030:0.344413,(Aipaensis_araip.K30076.gnm1.ann1.Araip.DWF6Z:0.537165,(Ljaponicus_Lj0g3v0303989:1.81944e-06,(Ljaponicus_Lj1g3v4420020:0,Ljaponicus_Lj1g3v0270540:0)n3:0.00974589)n2:0.593454)n1:0.344413)n0;

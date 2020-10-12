@@ -1,1 +1,0 @@
-((Sbicolor_Sobic.008G016850:0.170338,Sbicolor_Sobic.001G129150:0.066553)n1:0.178628,(Mesculenta_Manes.13G112433:0.704394,(Fxananassa_snap_masked-Fvb1-4-processed-gene-224.11:1.90638e-06,Fvesca_FvH4_1g28170:0.596431)n3:0.219106)n2:0.178628)n0;

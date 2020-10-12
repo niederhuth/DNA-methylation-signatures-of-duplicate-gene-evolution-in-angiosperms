@@ -1,1 +1,0 @@
-(Sviridis_Sevir.5G302601:0.0204708,(((Rchinensis_RcHm_v2.0_Chr2g0140621:0.16816,Fxananassa_snap_masked-Fvb6-4-processed-gene-244.15:0.243227)n3:0.0726125,Paxillaris_Peaxi162Scf23835g00001:9.36424e-07)n2:0.278056,(Gsoja_GlysoPI483463.16G129900:0.002336,Brapa_Brara.E00980:0.112256)n4:0.035484)n1:0.0204708)n0;

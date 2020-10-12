@@ -1,1 +1,0 @@
-(Ptrichocarpa_Potri.018G052600:0.349908,(Rchinensis_RcHm_v2.0_Chr7g0191181:0.314248,(Fxananassa_snap_masked-Fvb4-2-processed-gene-51.45:0.124344,Mdomestica_MD13G1038400:0.155863)n2:0.375358)n1:0.349908)n0;

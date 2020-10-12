@@ -1,1 +1,0 @@
-((Cannuum_CA04g12150:0.877453,(Ljaponicus_Lj0g3v0084499:0.079626,Vcorymbosum_maker-VaccDscaff126-snap-gene-3.73:0.360509)n2:0.0268141)n1:0.0561938,(Sitalica_Seita.5G000300:0.221319,Zmays_Zm00001d030663:0.275364)n3:0.0561938)n0;

@@ -1,1 +1,0 @@
-(Bdistachyon_Bradi3g47942:0.219517,(Nattenuata_NIATv7_g53547:0.518662,(((Stuberosum_PGSC0003DMG400031362:0.347442,Cannuum_CA01g32640:0.161215)n4:0.387445,Mdomestica_MD15G1402600:0.229367)n3:0.17646,(Fxananassa_maker-Fvb5-3-snap-gene-47.20:0.549667,Fxananassa_maker-Fvb5-3-snap-gene-62.60:0.285491)n5:0.0317212)n2:0.0738267)n1:0.219517)n0;

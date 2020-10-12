@@ -1,1 +1,0 @@
-(Mdomestica_MD07G1033500:0.53829,((Fxananassa_maker-Fvb7-2-snap-gene-268.68:0.760697,(Roccidentalis_maker-Ro07-snap-gene-315.59:0.152435,Roccidentalis_maker-Ro07-snap-gene-315.63:0.249882)n3:0.50027)n2:0.187054,Fvesca_FvH4_7g26980:0.309163)n1:0.53829)n0;

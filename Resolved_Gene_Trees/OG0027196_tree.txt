@@ -1,1 +1,0 @@
-(Ppersica_Prupe.8G048400:0.541545,((Rchinensis_RcHm_v2.0_Chr6g0251661:0.112214,(Fvesca_FvH4_2g01090:0.0070405,(Fxananassa_augustus_masked-Fvb2-3-processed-gene-231.13:0.020433,Fxananassa_augustus_masked-Fvb2-2-processed-gene-226.9:0.00096165)n4:0.00010685)n3:0.0104005)n2:0.117281,Roccidentalis_maker-Ro02-exonerate_est2genome-gene-403.1:0.0373111)n1:0.541545)n0;

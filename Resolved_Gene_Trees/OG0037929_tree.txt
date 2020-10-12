@@ -1,1 +1,0 @@
-(Slycopersicum_Solyc10g054460.1:0.0430836,(Slycopersicum_Solyc10g054510.1:0.372131,(Slycopersicum_Solyc10g054480.2:0.400221,Slycopersicum_Solyc10g054530.1:0.197618)n2:0.100943)n1:0.0430836)n0;

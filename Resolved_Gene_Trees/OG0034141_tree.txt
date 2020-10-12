@@ -1,1 +1,0 @@
-(Boleracea_Bo01074s070:0.21482,(Fxananassa_maker-Fvb1-4-augustus-gene-146.27:0.151115,(Gmax_Glyma.06G154300:8.40649e-07,Gsoja_GlysoPI483463.06G141300:0.00556029)n2:0.255618)n1:0.21482)n0;

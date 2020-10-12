@@ -1,1 +1,0 @@
-((Bvulgaris_gene_BVRB_016200:0.525374,Bvulgaris_gene_BVRB_5g126850:0.435372)n1:0.0670531,(Aipaensis_araip.K30076.gnm1.ann1.Araip.43NEI:0.703261,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.W5QSD:0.716044,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.DV0WA:0.521203,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.TL8ZR:0.479723)n4:0.165025)n3:0.0183361)n2:0.162929)n0;

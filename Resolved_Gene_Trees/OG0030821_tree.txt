@@ -1,1 +1,0 @@
-(Ppersica_Prupe.6G336000:0.0949157,(Fxananassa_maker-Fvb6-2-augustus-gene-245.63:0.0383915,(Fxananassa_augustus_masked-Fvb6-3-processed-gene-411.6:0.157599,(Fxananassa_maker-Fvb6-2-augustus-gene-252.75:4.48516e-07,Fxananassa_maker-Fvb6-4-augustus-gene-40.51:0.0257737)n3:0.017584)n2:0.0206392)n1:0.0949157)n0;

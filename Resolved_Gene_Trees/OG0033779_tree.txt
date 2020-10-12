@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00021.57:0.442695,(Cannuum_CA02g14280:0.744833,(Mtruncatula_Medtr4g071430:0.781194,Mtruncatula_Medtr4g071455:0.600559)n2:0.166597)n1:0.442695)n0;

@@ -1,1 +1,0 @@
-(Zmays_Zm00001d009919:0.220578,(((Ljaponicus_Lj1g3v4419940:1.73008e-06,Ljaponicus_Lj0g3v0303939:0.0615424)n3:0.00691936,Ljaponicus_Lj1g3v0270460:0)n2:0.654799,Roccidentalis_maker-Ro05-snap-gene-92.67:0.572582)n1:0.220578)n0;

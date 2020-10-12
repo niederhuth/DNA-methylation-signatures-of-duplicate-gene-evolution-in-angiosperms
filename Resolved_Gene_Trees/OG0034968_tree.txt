@@ -1,1 +1,0 @@
-(Zmays_Zm00001d006136:0.33414,(Ljaponicus_Lj0g3v0274279:0.180175,(Fvesca_FvH4_1g25200:0.0187122,Fxananassa_augustus_masked-Fvb1-4-processed-gene-154.5:0.000199811)n2:0.492943)n1:0.33414)n0;

@@ -1,1 +1,0 @@
-(Cpapaya_evm.TU.supercontig_123.18:0.0999914,((Othomaeum_Oropetium_20150105_25160:0.316877,Othomaeum_Oropetium_20150105_28162:0.508233)n2:0.207871,Macuminata_GSMUA_Achr4G14200_001:0.389396)n1:0.0999914)n0;

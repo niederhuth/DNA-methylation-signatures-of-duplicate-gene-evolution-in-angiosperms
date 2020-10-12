@@ -1,1 +1,0 @@
-(Vvinifera_VIT_200s1326g00010:0.39334,(Roccidentalis_maker-Ro04-snap-gene-149.59:0.397319,(Roccidentalis_maker-Ro03-snap-gene-89.47:0.113595,(Roccidentalis_maker-Ro02-snap-gene-299.15:0.0202872,Roccidentalis_maker-Ro01-snap-gene-111.70:0.0676738)n3:0.199436)n2:0.430532)n1:0.39334)n0;

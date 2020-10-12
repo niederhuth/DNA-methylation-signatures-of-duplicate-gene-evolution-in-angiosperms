@@ -1,1 +1,0 @@
-((((Pvirgatum_Pavir.5NG316842:0.0125938,Pvirgatum_Pavir.5NG316200:2.61333e-06)n3:0.0453913,(Pvirgatum_Pavir.5KG384207:0,Pvirgatum_Pavir.5KG393142:0)n4:0.0494875)n2:0.0541714,Phallii_Pahal.5G257200:0.0268954)n1:0.343633,((Crubella_Carub.0001s3645:0.332953,Cpapaya_evm.TU.supercontig_116.78:0.932176)n6:0.0473151,Athaliana_AT1G47695:0.425883)n5:0.343633)n0;

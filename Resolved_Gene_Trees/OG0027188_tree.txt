@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_Achr8G28140_001:0.318447,(Ljaponicus_Lj2g3v1241110:0.54962,(Fvesca_FvH4_6g46520:0.0211263,(Fxananassa_snap_masked-Fvb5-4-processed-gene-43.34:0.501754,(Fxananassa_snap_masked-Fvb6-4-processed-gene-330.35:0.122151,Fxananassa_snap_masked-Fvb6-1-processed-gene-45.25:0.103828)n4:0.0103828)n3:0.00115365)n2:0.143184)n1:0.180657)n0;

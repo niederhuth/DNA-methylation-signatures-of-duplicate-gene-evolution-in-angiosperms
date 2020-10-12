@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_10.1069:0.0690973,(Zjujuba_LOC107421991:0.0671775,(Mdomestica_MD10G1176700:0.509117,Roccidentalis_maker-Ro05-snap-gene-357.57:0.794749)n2:0.577248)n1:0.0690973)n0;

@@ -1,1 +1,0 @@
-((Aofficinalis_evm.TU.AsparagusV1_Unassigned.1180:0.444179,Aofficinalis_evm.TU.AsparagusV1_02.510:0.717083)n1:0.360399,(Phallii_Pahal.5G169200:0.522564,Othomaeum_Oropetium_20150105_18138:0.764826)n2:0.360399)n0;

@@ -1,1 +1,0 @@
-(((Aofficinalis_evm.TU.AsparagusV1_07.1226:0,Aofficinalis_evm.TU.AsparagusV1_05.3375:0)n2:0.309117,Aofficinalis_evm.TU.AsparagusV1_05.200:0.348042)n1:0.0911172,(Ljaponicus_Lj1g3v4835150:0.746368,Cpapaya_evm.TU.supercontig_49.107:0.563789)n3:0.0911172)n0;

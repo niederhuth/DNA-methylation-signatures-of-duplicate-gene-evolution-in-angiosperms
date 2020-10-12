@@ -1,1 +1,0 @@
-((Fxananassa_maker-Fvb4-3-snap-gene-180.47:0.305057,Graimondii_Gorai.001G182600:0.659206)n1:0.0479269,(Eguineensis_p5.00_sc00040_p0055:0.673033,(Aofficinalis_evm.TU.AsparagusV1_07.916:0.388344,Aofficinalis_evm.TU.AsparagusV1_07.913:0.0945191)n3:0.481931)n2:0.0479269)n0;

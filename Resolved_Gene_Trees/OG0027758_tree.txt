@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_00555:0.415866,((Mtruncatula_Medtr3g076810:0.374653,Mtruncatula_Medtr6g069590:0.612747)n2:0.331978,((Mtruncatula_Medtr3g467040:0.677868,Mtruncatula_Medtr3g467030:3.28536e-06)n4:0.176289,Mtruncatula_Medtr3g078210:0.231021)n3:0.0779038)n1:0.415866)n0;

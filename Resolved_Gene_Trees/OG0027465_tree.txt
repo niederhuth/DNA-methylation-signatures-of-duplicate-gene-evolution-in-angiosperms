@@ -1,1 +1,0 @@
-(Fxananassa_augustus_masked-Fvb5-2-processed-gene-76.2:0.309407,((Rchinensis_RcHm_v2.0_Chr7g0230921:0.677922,(Rchinensis_RcHm_v2.0_Chr2g0139641:0.153285,(Rchinensis_RcHm_v2.0_Chr3g0480551:0.41301,Rchinensis_RcHm_v2.0_Chr4g0427821:0.0142211)n4:0.290568)n3:0.123621)n2:0.230057,Rchinensis_RcHm_v2.0_Chr1g0321011:0.591091)n1:0.309407)n0;

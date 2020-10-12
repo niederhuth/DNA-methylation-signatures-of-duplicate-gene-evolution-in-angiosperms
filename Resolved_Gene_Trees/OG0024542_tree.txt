@@ -1,1 +1,0 @@
-(Smelongena_SMEL_010g342560.1:0.31454,(Cpapaya_evm.TU.supercontig_176.27:0.841488,(Cpapaya_evm.TU.supercontig_144.21:0.25997,((Cpapaya_evm.TU.contig_40739.2:0,Cpapaya_evm.TU.contig_38650:0)n4:0.449227,(Cpapaya_evm.TU.supercontig_56.38:0.119969,Cpapaya_evm.TU.supercontig_37.124:0.0918071)n5:0.192919)n3:0.318074)n2:0.0683169)n1:0.31454)n0;

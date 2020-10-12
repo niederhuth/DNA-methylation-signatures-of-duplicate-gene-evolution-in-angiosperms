@@ -1,1 +1,0 @@
-(Roccidentalis_maker-Ro05-exonerate_est2genome-gene-175.0:0.131323,(Rchinensis_RcHm_v2.0_Chr7g0217291:0.286247,(Fvesca_FvH4_5g26420:0,(Fxananassa_maker-Fvb5-1-snap-gene-183.43:0.0884845,Fxananassa_augustus_masked-Fvb5-2-processed-gene-170.3:0)n3:0)n2:0.0044705)n1:0.131323)n0;

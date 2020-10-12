@@ -1,1 +1,0 @@
-((Othomaeum_Oropetium_20150105_26035:0.269596,(Sitalica_Seita.3G407600:0.0212224,Sviridis_Sevir.3G425600:0.0430356)n2:0.324217)n1:0.251438,(Bdistachyon_Bradi4g00420:0.844912,(Bdistachyon_Bradi4g03961:0.228714,Bdistachyon_Bradi4g03950:0.271122)n4:0.266089)n3:0.251438)n0;

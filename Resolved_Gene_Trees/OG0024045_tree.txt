@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00043.76:0.375003,(Aofficinalis_evm.TU.AsparagusV1_01.1293:0.703185,((((Pxbretschneideri_LOC103960567:0.466606,Pxbretschneideri_LOC103934252:0.677549)n5:0.297507,Mdomestica_MD17G1092300:0.306824)n4:0.224444,Csativus_CsaV3_3G043220:0.91694)n3:0.0507973,Osativa_LOC_Os01g08880:1.01148)n2:0.0911135)n1:0.375003)n0;

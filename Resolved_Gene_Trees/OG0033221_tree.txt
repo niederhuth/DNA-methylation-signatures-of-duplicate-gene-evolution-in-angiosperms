@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_Achr8G19140_001:0.216784,((Roccidentalis_snap_masked-Ro03-processed-gene-52.30:0.758782,Alyrata_AL5G10660:0.247029)n2:0.43514,Fxananassa_snap_masked-Fvb2-4-processed-gene-136.22:0.386833)n1:0.216784)n0;

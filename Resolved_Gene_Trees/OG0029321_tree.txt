@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_04.1489:0.414961,(Mtruncatula_Medtr1034s0010:0.529679,(Fvesca_FvH4_5g21950:0.0135559,(Fxananassa_maker-Fvb5-3-augustus-gene-148.8:0.236329,Fxananassa_maker-Fvb5-1-augustus-gene-140.25:0.0173143)n3:0.00192381)n2:0.0569087)n1:0.414961)n0;

@@ -1,1 +1,0 @@
-(Pxbretschneideri_LOC103938443:0.303594,((Rchinensis_RcHm_v2.0_Chr5g0034941:0.0441317,Rchinensis_RcHm_v2.0_Chr5g0019031:0.0263952)n2:0.239211,((Rchinensis_RcHm_v2.0_Chr3g0465811:0.315456,Rchinensis_RcHm_v2.0_Chr7g0195931:0.780888)n4:0.0489765,Rchinensis_RcHm_v2.0_Chr3g0465191:0.416525)n3:0.193851)n1:0.303594)n0;

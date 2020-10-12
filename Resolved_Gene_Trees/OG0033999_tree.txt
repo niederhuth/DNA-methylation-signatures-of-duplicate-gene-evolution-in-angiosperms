@@ -1,1 +1,0 @@
-(Spolyrhiza_Spipo28G0005400:0.278905,(Rchinensis_RcHm_v2.0_Chr6g0285111:0.604004,(Boleracea_Bo8g089860:0.660698,Boleracea_Bo30844s010:0.349382)n2:0.214908)n1:0.278905)n0;

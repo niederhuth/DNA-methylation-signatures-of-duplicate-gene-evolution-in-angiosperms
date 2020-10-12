@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_12718:0.170906,(Gsoja_GlysoPI483463.07G157600:0.237665,(((Rchinensis_RcHm_v2.0_Chr5g0007161:0.267499,Aipaensis_araip.K30076.gnm1.ann1.Araip.SRC0D:0.429668)n4:0.0908993,Vcorymbosum_maker-VaccDscaff3-augustus-gene-399.30:0.323806)n3:0.0310038,Ljaponicus_Lj3g3v0235200:0.182818)n2:0.200642)n1:0.170906)n0;

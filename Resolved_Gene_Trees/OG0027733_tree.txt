@@ -1,1 +1,0 @@
-(Roccidentalis_snap_masked-Ro03-processed-gene-10.21:0.84302,(((Mesculenta_Manes.01G006600:0.113551,(Mesculenta_Manes.01G006800:0.255437,Mesculenta_Manes.01G006900:0.0177532)n4:0.165896)n3:0.0750878,Mesculenta_Manes.01G006500:0.181704)n2:0.780909,Ptrichocarpa_Potri.011G168900:1.0277)n1:0.84302)n0;

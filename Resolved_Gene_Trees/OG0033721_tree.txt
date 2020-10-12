@@ -1,1 +1,0 @@
-((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00142.15:0.686105,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00059.203:0.829206)n1:0.0697637,(Fvesca_FvH4_7g25020:0.62514,Othomaeum_Oropetium_20150105_12988:0.447404)n2:0.0697637)n0;

@@ -1,1 +1,0 @@
-(Bdistachyon_Bradi5g23640:0.69137,(((Mtruncatula_Medtr7g039430:0.0151356,Mtruncatula_Medtr5g040190:0.0293924)n3:0.055331,(Mtruncatula_Medtr7g039440:0.148163,Mtruncatula_Medtr5g040180:2.26721e-06)n4:0.156061)n2:0.0984703,(Mtruncatula_Medtr5g040230:0.210878,Mtruncatula_Medtr7g039380:2.26721e-06)n5:0.190268)n1:0.69137)n0;

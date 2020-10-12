@@ -1,1 +1,0 @@
-((Vcorymbosum_snap_masked-VaccDscaff24-processed-gene-361.17:0.232226,Vcorymbosum_maker-VaccDscaff11-augustus-gene-87.39:1.56028e-06)n1:0.492763,(Paxillaris_Peaxi162Scf00029g02525:0.258825,Smelongena_SMEL_012g391350.1:0.113255)n2:0.492763)n0;

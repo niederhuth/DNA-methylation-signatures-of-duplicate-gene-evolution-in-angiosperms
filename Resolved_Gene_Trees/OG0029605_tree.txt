@@ -1,1 +1,0 @@
-(Bdistachyon_Bradi3g18130:0.205511,(Sbicolor_Sobic.008G022300:0.255279,(Pvirgatum_Pavir.3NG118800:0.325006,(Sviridis_Sevir.3G268600:0.660731,Sitalica_Seita.3G262100:2.08399e-06)n3:0.452785)n2:0.107462)n1:0.205511)n0;

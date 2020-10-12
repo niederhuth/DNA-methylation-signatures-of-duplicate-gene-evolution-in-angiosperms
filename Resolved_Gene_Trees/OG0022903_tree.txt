@@ -1,1 +1,0 @@
-(Gmax_Glyma.12G221900:0.235503,(Ljaponicus_Lj3g3v0663840:0.541033,(((Mtruncatula_Medtr6g466340:0.21454,Mtruncatula_Medtr6g464960:0.11254)n4:0.476476,Mtruncatula_Medtr6g009120:0.0367905)n3:0.28481,(Mtruncatula_Medtr1g105085:3.59061e-06,(Mtruncatula_Medtr8g107170:0.375295,Mtruncatula_Medtr7g105760:0.179285)n6:0.408993)n5:0.0755658)n2:0.503829)n1:0.235503)n0;

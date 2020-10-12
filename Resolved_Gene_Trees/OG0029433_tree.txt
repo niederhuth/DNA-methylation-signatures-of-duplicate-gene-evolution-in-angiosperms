@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00022.212:0.277539,(Paxillaris_Peaxi162Scf46427g00001:0.137113,(Fxananassa_snap_masked-Fvb7-3-processed-gene-247.14:0.1003,(Fxananassa_augustus_masked-Fvb7-4-processed-gene-234.4:0.00708188,Fxananassa_augustus_masked-Fvb7-4-processed-gene-227.3:0.000397123)n3:0.0511544)n2:0.302913)n1:0.277539)n0;

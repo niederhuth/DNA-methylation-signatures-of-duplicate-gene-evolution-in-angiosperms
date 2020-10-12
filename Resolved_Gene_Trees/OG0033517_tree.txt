@@ -1,1 +1,0 @@
-(Cannuum_CA10g00780:0.0564011,((Eguineensis_p5.00_sc00070_p0126:0.328838,Eguineensis_p5.00_sc00070_p0127:0.216795)n2:0.868732,Aofficinalis_evm.TU.AsparagusV1_07.931:0.720265)n1:0.0564011)n0;

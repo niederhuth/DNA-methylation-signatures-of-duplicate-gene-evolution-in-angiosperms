@@ -1,1 +1,0 @@
-(Pvirgatum_Pavir.6KG380212:0.315785,(Tcacao_Thecc1EG041258:0.668113,((Cpapaya_evm.TU.supercontig_206.7:0.119687,(Cpapaya_evm.TU.supercontig_69.21:0.619274,Cpapaya_evm.TU.supercontig_0.32:0.260676)n4:0.0507775)n3:0.0589278,Cpapaya_evm.TU.supercontig_0.59:0.338852)n2:0.130967)n1:0.315785)n0;

@@ -1,1 +1,0 @@
-((Rchinensis_RcHm_v2.0_Chr3g0447701:0.314324,(Rchinensis_RcHm_v2.0_Chr2g0087421:0.414415,(Rchinensis_RcHm_v2.0_Chr5g0062051:0.258002,Rchinensis_RcHm_v2.0_Chr2g0087311:0.239011)n3:0.359618)n2:0.0982874)n1:0.226644,(Acoerulea_Aqcoe6G240000:2.52653e-06,Acoerulea_Aqcoe4G170200:0.448747)n4:0.226644)n0;

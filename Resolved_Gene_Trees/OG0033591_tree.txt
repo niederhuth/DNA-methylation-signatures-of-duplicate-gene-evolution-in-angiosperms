@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_01.2303:0.129604,((Boleracea_Bo7g108090:0.151382,Boleracea_Bo7g108120:0.146624)n2:0.820981,Paxillaris_Peaxi162Scf00171g00346:0.896158)n1:0.129604)n0;

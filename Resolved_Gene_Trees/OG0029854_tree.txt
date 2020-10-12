@@ -1,1 +1,0 @@
-((Nattenuata_NIATv7_g23565:0.340452,(Rchinensis_RcHm_v2.0_Chr7g0200611:0.0909111,Rchinensis_RcHm_v2.0_Chr3g0493181:0.0916053)n2:0.0101784)n1:0.171842,(Bvulgaris_gene_BVRB_9g213470:0.899412,Cpapaya_evm.TU.supercontig_906.2:0.276032)n3:0.626426)n0;

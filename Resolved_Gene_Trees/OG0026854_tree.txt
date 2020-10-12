@@ -1,1 +1,0 @@
-(Ppersica_Prupe.4G137200:0.36727,((((Ptrichocarpa_Potri.007G068000:0.133981,Ptrichocarpa_Potri.005G096000:0.157992)n4:0.257414,Cclementina_Ciclev10006338m.g:0.458999)n3:0.0640915,Mesculenta_Manes.14G011400:0.664955)n2:0.0572829,Graimondii_Gorai.013G141100:0.741247)n1:0.36727)n0;

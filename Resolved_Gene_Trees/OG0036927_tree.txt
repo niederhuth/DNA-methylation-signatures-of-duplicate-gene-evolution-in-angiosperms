@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_22255:0.339796,(Slycopersicum_Solyc12g099020.2:0.723519,(Rchinensis_RcHm_v2.0_Chr6g0275911:0.262472,Rchinensis_RcHm_v2.0_Chr4g0426861:0.055433)n2:0.226705)n1:0.339796)n0;

@@ -1,1 +1,0 @@
-(Vvinifera_VIT_209s0002g05330:0.23751,((((Fxananassa_maker-Fvb7-2-snap-gene-124.51:0,Fxananassa_maker-Fvb7-2-snap-gene-189.52:0)n4:0.0642566,Fvesca_FvH4_7g15790:3.52827e-06)n3:0.498011,Zjujuba_LOC107417444:0.625611)n2:0.18328,(Ljaponicus_Lj0g3v0226289:0.22453,(Mdomestica_MD16G1268000:0.644327,Mdomestica_MD15G1295900:0.743502)n6:0.0826113)n5:0.0830996)n1:0.205788)n0;

@@ -1,1 +1,0 @@
-(Cannuum_CA03g29560:0.357091,((Spolyrhiza_Spipo2G0090200:0.494067,Spolyrhiza_Spipo2G0090000:0.767115)n2:0.0504436,((Aofficinalis_evm.TU.AsparagusV1_01.32:0.132246,Aofficinalis_evm.TU.AsparagusV1_02.2077:0.237414)n4:0.314185,Aofficinalis_evm.TU.AsparagusV1_02.1409:0.317767)n3:0.388984)n1:0.357091)n0;

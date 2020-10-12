@@ -1,1 +1,0 @@
-((Mguttatus_Migut.D01392:0.268255,Pvulgaris_Phvul.007G021550:0.0979442)n1:0.0412467,(Ptrichocarpa_Potri.011G074000:0.282071,(Bvulgaris_gene_BVRB_025220:0.0449954,(Aipaensis_araip.K30076.gnm1.ann1.Araip.0H89L:0.376234,Mtruncatula_Medtr1g078350:0.486662)n4:0.5126)n3:0.0468873)n2:0.0412467)n0;

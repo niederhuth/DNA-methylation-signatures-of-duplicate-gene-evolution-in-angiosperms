@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00079.9:0.19853,((Nattenuata_NIATv7_g43562:0.220122,Cannuum_CA11g15240:0.149263)n2:0.0492803,(Rchinensis_RcHm_v2.0_Chr4g0435321:0.443949,(Slycopersicum_Solyc04g007150.3:0.157233,Ljaponicus_Lj0g3v0131439:0.177677)n4:0.165768)n3:0.119937)n1:0.19853)n0;

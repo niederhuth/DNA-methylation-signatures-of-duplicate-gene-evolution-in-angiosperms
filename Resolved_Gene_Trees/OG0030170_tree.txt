@@ -1,1 +1,0 @@
-(Cpapaya_evm.TU.supercontig_46.173:0.39782,((Ptrichocarpa_Potri.006G182400:0.166129,Ptrichocarpa_Potri.018G104400:0.46238)n2:0.361122,(Mesculenta_Manes.06G033400:0.373807,Mesculenta_Manes.14G145500:0.477495)n3:0.200398)n1:0.39782)n0;

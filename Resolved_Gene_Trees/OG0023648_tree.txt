@@ -1,1 +1,0 @@
-((Aofficinalis_evm.TU.AsparagusV1_06.1002:0.690761,(Egrandis_Eucgr.G00785:0.15454,Egrandis_Eucgr.G00720:0.142171)n2:0.0157968)n1:0.101334,((Aduranensis_aradu.V14167.gnm1.ann1.Aradu.N0A9V:0.0953264,(Smelongena_SMEL_000g026900.1:0.0371843,Pvirgatum_Pavir.1NG119500:0.0537577)n5:0.0730987)n4:0.10498,Slycopersicum_Solyc01g111760.3:0.161783)n3:0.174175)n0;

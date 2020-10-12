@@ -1,1 +1,0 @@
-(Ppersica_Prupe.1G119900:0.33709,((Ppersica_Prupe.1G120300:0.321545,Ppersica_Prupe.1G120400:0.210828)n2:0.674368,(Ppersica_Prupe.1G187300:0.442947,Ppersica_Prupe.1G182900:0.926977)n3:0.431157)n1:0.33709)n0;

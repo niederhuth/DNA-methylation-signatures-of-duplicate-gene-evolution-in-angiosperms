@@ -1,1 +1,0 @@
-(Ptrichocarpa_Potri.018G039400:0.492916,((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00071.116:0.135314,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00071.117:0.283651)n2:0.208929,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00071.110:0.13408)n1:0.492916)n0;

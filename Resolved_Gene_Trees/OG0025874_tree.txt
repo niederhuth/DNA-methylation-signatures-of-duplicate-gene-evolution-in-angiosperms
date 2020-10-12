@@ -1,1 +1,0 @@
-(Paxillaris_Peaxi162Scf00668g00448:0.510962,((Aduranensis_aradu.V14167.gnm1.ann1.Aradu.6V18I:0.128993,(Aipaensis_araip.K30076.gnm1.ann1.Araip.U1K2F:0.245798,Aipaensis_araip.K30076.gnm1.ann1.Araip.HHC55:0.0736924)n3:0.00818804)n2:0.0519372,(Aipaensis_araip.K30076.gnm1.ann1.Araip.ALQ7T:0.0884711,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.746QP:0.545546)n4:0.0606163)n1:0.510962)n0;

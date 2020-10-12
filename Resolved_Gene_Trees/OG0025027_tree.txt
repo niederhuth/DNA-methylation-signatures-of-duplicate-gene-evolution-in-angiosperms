@@ -1,1 +1,0 @@
-(Mtruncatula_Medtr4g115860:0.41738,((Roccidentalis_maker-Ro07-snap-gene-349.36:0.52424,(Rchinensis_RcHm_v2.0_Chr1g0360551:0.271628,Mdomestica_MD01G1128800:0.294818)n3:0.11582)n2:0.169705,((Rchinensis_RcHm_v2.0_Chr7g0242841:0.419891,Rchinensis_RcHm_v2.0_Chr1g0366721:0.785692)n5:0.193258,Roccidentalis_maker-Ro02-snap-gene-400.85:0.398799)n4:0.044311)n1:0.41738)n0;

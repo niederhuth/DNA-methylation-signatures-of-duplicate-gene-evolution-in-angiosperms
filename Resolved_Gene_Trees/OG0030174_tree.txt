@@ -1,1 +1,0 @@
-(Egrandis_Eucgr.E00385:0.685011,(Zjujuba_LOC107404096:1.50164,(Cpapaya_evm.TU.supercontig_623.1:0.551381,(Cpapaya_evm.TU.supercontig_89.34:0.935697,Cpapaya_evm.TU.supercontig_623.3:5.0912e-06)n3:0.355755)n2:0.512094)n1:0.685011)n0;

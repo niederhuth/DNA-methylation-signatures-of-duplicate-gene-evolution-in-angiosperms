@@ -1,1 +1,0 @@
-(Slycopersicum_Solyc02g071645.1:0.405706,(Tcacao_Thecc1EG039303:0.683113,(Ptrichocarpa_Potri.011G076000:0.621898,Ptrichocarpa_Potri.011G076300:0.136651)n2:0.316205)n1:0.405706)n0;

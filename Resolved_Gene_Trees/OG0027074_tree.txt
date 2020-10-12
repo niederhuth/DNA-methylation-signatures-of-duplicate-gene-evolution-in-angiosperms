@@ -1,1 +1,0 @@
-(Zmays_Zm00001d020897:0.455368,((Vcorymbosum_maker-VaccDscaff29-augustus-gene-276.35:0.328463,Zjujuba_LOC107412350:0.436155)n2:0.113317,(Fvesca_FvH4_1g09350:2.38725e-06,(Fxananassa_augustus_masked-Fvb1-3-processed-gene-51.17:0.407795,Fxananassa_augustus_masked-Fvb1-4-processed-gene-41.16:0.0454175)n4:0.00504639)n3:0.181617)n1:0.455368)n0;

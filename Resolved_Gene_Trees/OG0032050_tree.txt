@@ -1,1 +1,0 @@
-(Sbicolor_Sobic.004G146100:0.635779,(Rchinensis_RcHm_v2.0_Chr1g0333951:0.88413,(Rchinensis_RcHm_v2.0_Chr1g0333081:0.530403,(Rchinensis_RcHm_v2.0_Chr1g0334021:0.175045,Rchinensis_RcHm_v2.0_Chr1g0335171:0.100107)n3:0.0167931)n2:0.0502135)n1:0.635779)n0;

@@ -1,1 +1,0 @@
-(Cpapaya_evm.TU.supercontig_11.25:0.460665,((Mesculenta_Manes.09G118201:0.113909,(Mesculenta_Manes.04G110484:0.462467,Mesculenta_Manes.08G125550:0.360776)n3:0.612515)n2:0.184038,(Mesculenta_Manes.13G053150:3.57422e-06,(Mesculenta_Manes.08G090775:0.451472,Mesculenta_Manes.02G055050:3.57422e-06)n5:0.364946)n4:0.381645)n1:0.460665)n0;

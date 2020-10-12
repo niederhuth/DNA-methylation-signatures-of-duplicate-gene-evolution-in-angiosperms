@@ -1,1 +1,0 @@
-((Roccidentalis_snap_masked-Ro04-processed-gene-37.32:0.0807315,Paxillaris_Peaxi162Scf00597g00018:1.13063)n1:0.0497249,(Vcorymbosum_snap_masked-VaccDscaff1-processed-gene-452.13:0.614814,(Mdomestica_MD00G1065200:0.471925,(Fxananassa_maker-Fvb4-3-augustus-gene-257.17:0.109797,Fvesca_FvH4_4g08190:0.131896)n4:0.221447)n3:0.207826)n2:0.0497249)n0;

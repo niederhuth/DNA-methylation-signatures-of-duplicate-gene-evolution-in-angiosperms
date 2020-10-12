@@ -1,1 +1,0 @@
-((Fvesca_FvH4_c1g00330:1.75201e-06,Roccidentalis_maker-Ro04-snap-gene-304.111:0.811962)n1:0.228099,((Smelongena_SMEL_000g001960.1:0,Smelongena_SMEL_003g187410.1:0)n3:0.16504,Smelongena_SMEL_004g207830.1:0.319367)n2:0.228099)n0;

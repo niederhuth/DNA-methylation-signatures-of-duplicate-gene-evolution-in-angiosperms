@@ -1,1 +1,0 @@
-((Nattenuata_NIATv7_g59454:0,Nattenuata_NIATv7_g39285:0)n1:0.427886,(Smelongena_SMEL_000g042170.1:0,Smelongena_SMEL_000g042160.1:0)n2:0.427886)n0;

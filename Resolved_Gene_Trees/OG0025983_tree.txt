@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_Achr2G14090_001:0.31586,(((Slycopersicum_Solyc07g052855.1:0.8816,Slycopersicum_Solyc07g052815.1:1.03847)n3:0.317415,Nnucifera_XP_019052007.1:0.869568)n2:0.0498196,(Aipaensis_araip.K30076.gnm1.ann1.Araip.PT7IJ:0.451816,Aipaensis_araip.K30076.gnm1.ann1.Araip.55MN4:0.0172823)n4:0.00192026)n1:0.230683)n0;

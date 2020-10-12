@@ -1,1 +1,0 @@
-(Bdistachyon_Bradi2g26460:0.25318,((Vvinifera_VIT_219s0014g00050:0.269467,((Ljaponicus_Lj3g3v2515390:0,Ljaponicus_Lj4g3v1388560:0)n4:0.214454,Gmax_Glyma.08G043450:0.174036)n3:0.107843)n2:0.139133,(Fxananassa_augustus_masked-Fvb5-3-processed-gene-237.9:0.242345,Fvesca_FvH4_5g06970:0.349464)n5:0.138881)n1:0.25318)n0;

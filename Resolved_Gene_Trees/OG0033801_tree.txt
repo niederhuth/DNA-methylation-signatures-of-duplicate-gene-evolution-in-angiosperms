@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00149.19:0.43232,(Mdomestica_MD11G1015500:0.140206,(Sviridis_Sevir.7G023000:0.0560761,Sitalica_Seita.7G036000:0.0445339)n2:1.02465)n1:0.43232)n0;

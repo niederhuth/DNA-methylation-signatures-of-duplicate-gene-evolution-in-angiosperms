@@ -1,1 +1,0 @@
-(Ptrichocarpa_Potri.011G166600:0.426328,((Vcorymbosum_maker-VaccDscaff26-snap-gene-247.24:0.439169,Vcorymbosum_maker-VaccDscaff33-augustus-gene-51.24:2.39549e-06)n2:0.609593,Vcorymbosum_maker-VaccDscaff29-augustus-gene-241.15:0.509787)n1:0.426328)n0;

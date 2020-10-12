@@ -1,1 +1,0 @@
-(Fxananassa_maker-Fvb3-3-augustus-gene-19.42:0.191838,((Vcorymbosum_maker-VaccDscaff28-snap-gene-145.19:0.00478833,Vcorymbosum_maker-VaccDscaff20-snap-gene-203.33:0.000655667)n2:0.358698,(Paxillaris_Peaxi162Scf00022g00113:0.373144,Paxillaris_Peaxi162Scf00899g00411:0.762016)n3:0.166153)n1:0.191838)n0;

@@ -1,1 +1,0 @@
-(Sbicolor_Sobic.003G191350:0.4703,(Pvirgatum_Pavir.2NG029412:0.647677,(Sviridis_Sevir.5G221756:1.76959e-06,(Sitalica_Seita.8G241300:0.0079395,(Sitalica_Seita.6G102700:0.064142,((Sitalica_Seita.4G073200:0,(Sitalica_Seita.8G010300:0,Sitalica_Seita.6G037800:0)n7:0)n6:0,Sitalica_Seita.7G070600:0)n5:0.060864)n4:0.0181024)n3:0.00201138)n2:0.038268)n1:0.4703)n0;

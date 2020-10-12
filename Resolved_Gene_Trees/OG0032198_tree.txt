@@ -1,1 +1,0 @@
-((Sviridis_Sevir.6G139200:5e-07,(Sitalica_Seita.6G128000:5e-07,Sitalica_Seita.9G319900:5e-07)n2:0)n1:0,(Sviridis_Sevir.5G045801:0.462572,Sitalica_Seita.6G111200:5e-07)n3:0)n0;

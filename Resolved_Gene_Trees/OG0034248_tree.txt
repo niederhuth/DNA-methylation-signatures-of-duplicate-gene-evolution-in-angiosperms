@@ -1,1 +1,0 @@
-(Bvulgaris_gene_BVRB_013040:0.986101,(Ljaponicus_Lj1g3v3076160:0.475222,(Ljaponicus_Lj0g3v0206819:0,Ljaponicus_Lj0g3v0020859:0)n2:0.763641)n1:0.986101)n0;

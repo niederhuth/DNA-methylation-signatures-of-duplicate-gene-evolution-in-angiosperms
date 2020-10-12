@@ -1,1 +1,0 @@
-(Cclementina_Ciclev10032594m.g:0.428803,((Rchinensis_RcHm_v2.0_Chr1g0320611:1.23816,Rchinensis_RcHm_v2.0_Chr1g0319771:2.36591e-06)n2:0.144375,Rchinensis_RcHm_v2.0_Chr1g0320921:0.147506)n1:0.428803)n0;

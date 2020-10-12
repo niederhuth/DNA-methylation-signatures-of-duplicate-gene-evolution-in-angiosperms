@@ -1,1 +1,0 @@
-(Spolyrhiza_Spipo9G0035700:0.434315,(Roccidentalis_maker-Ro07-exonerate_est2genome-gene-34.11:0.643036,(Roccidentalis_maker-Ro07-snap-gene-357.38:0.324417,((Roccidentalis_maker-Ro04-snap-gene-56.91:1.03436,Roccidentalis_maker-Ro02-exonerate_est2genome-gene-354.6:0.841669)n4:0.140965,Roccidentalis_maker-Ro03-snap-gene-36.68:0.928328)n3:0.0953124)n2:0.13309)n1:0.434315)n0;

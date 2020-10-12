@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_02.1666:0.625717,(Cannuum_CA03g11250:0.680108,(Ljaponicus_Lj1g3v4144850:0.116532,Ljaponicus_Lj0g3v0263919:0.261441)n2:0.029049)n1:0.129386)n0;

@@ -1,1 +1,0 @@
-(Egrandis_Eucgr.E01366:0.677805,(Sbicolor_Sobic.K044408:0.24303,(Sviridis_Sevir.9G560700:0.126388,Sitalica_Seita.9G556600:0.0737779)n2:0.800477)n1:0.677805)n0;

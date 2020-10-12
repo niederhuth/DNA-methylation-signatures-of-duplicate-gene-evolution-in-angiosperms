@@ -1,1 +1,0 @@
-(((Egrandis_Eucgr.J01828:0.872205,Acoerulea_Aqcoe5G345100:0.271293)n2:0.256262,(Vcorymbosum_maker-VaccDscaff12-snap-gene-94.36:0.370046,Vcorymbosum_augustus_masked-VaccDscaff23-processed-gene-317.4:0.510001)n3:0.248728)n1:0.18203,(Zmays_Zm00001d042356:0.0861501,Zmays_Zm00001d043021:0.462161)n4:0.18203)n0;

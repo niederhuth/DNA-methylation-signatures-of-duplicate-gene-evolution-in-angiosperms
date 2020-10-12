@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00074.101:0.517612,((Ppersica_Prupe.4G165100:0.000677,Ppersica_Prupe.4G165000:0.000677)n2:0.768864,Mdomestica_MD11G1263400:0.314299)n1:0.517612)n0;

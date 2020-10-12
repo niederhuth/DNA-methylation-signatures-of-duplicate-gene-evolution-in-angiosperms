@@ -1,1 +1,0 @@
-(Slycopersicum_Solyc04g080925.1:0.262996,(Ljaponicus_Lj0g3v0248969:0.488123,(Ptrichocarpa_Potri.006G089100:0.574298,(Ptrichocarpa_Potri.008G002000:0.108331,Ptrichocarpa_Potri.012G000300:0.0316958)n3:0.153759)n2:0.48284)n1:0.262996)n0;

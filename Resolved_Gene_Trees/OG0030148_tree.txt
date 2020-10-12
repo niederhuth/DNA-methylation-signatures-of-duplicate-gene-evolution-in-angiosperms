@@ -1,1 +1,0 @@
-(Zmays_Zm00001d012048:0.571054,(Ptrichocarpa_Potri.T090166:0.619336,(Cpapaya_evm.TU.supercontig_1999.2:0.255907,(Paxillaris_Peaxi162Scf00610g00314:0.199078,Paxillaris_Peaxi162Scf00610g00312:0.564971)n3:0.698506)n2:0.104242)n1:0.571054)n0;

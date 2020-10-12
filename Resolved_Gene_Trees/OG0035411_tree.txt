@@ -1,1 +1,0 @@
-(Nattenuata_NIATv7_g38161:0.436741,(Fxananassa_maker-Fvb4-1-snap-gene-5.35:0.674145,(Fxananassa_snap_masked-Fvb2-2-processed-gene-49.29:0.171195,Fxananassa_maker-Fvb2-1-snap-gene-163.68:0.253577)n2:0.384513)n1:0.436741)n0;

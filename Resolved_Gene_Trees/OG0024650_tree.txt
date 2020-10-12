@@ -1,1 +1,0 @@
-((Gmax_Glyma.01G194000:0.539269,((Tcacao_Thecc1EG026474:0.334655,Tcacao_Thecc1EG026483:0.0306799)n3:0.0568341,Tcacao_Thecc1EG008874:0.705147)n2:0.0783497)n1:0.0401624,((Fxananassa_maker-Fvb1-1-augustus-gene-17.19:0.00808738,Fxananassa_maker-Fvb1-2-snap-gene-281.26:0.00503663)n5:0.0684665,Fvesca_FvH4_1g28150:0.598924)n4:0.101887)n0;

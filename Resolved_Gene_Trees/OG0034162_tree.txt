@@ -1,1 +1,0 @@
-(Spolyrhiza_Spipo0G0166700:0.14049,((Ljaponicus_Lj2g3v1415280:0.195214,Mguttatus_Migut.F01632:0.335321)n2:0.016245,Brapa_Brara.K01416:0.256612)n1:0.14049)n0;

@@ -1,1 +1,0 @@
-((Eguineensis_p5.00_sc00170_p0046:0.198158,Eguineensis_p5.00_sc00170_p0045:0.08912)n1:0.197173,((Vcorymbosum_maker-VaccDscaff33-augustus-gene-81.32:0.0707129,Vcorymbosum_maker-VaccDscaff26-augustus-gene-278.14:0.109727)n3:0.0479563,(Rchinensis_RcHm_v2.0_Chr3g0477371:0.120416,Mdomestica_MD12G1045800:0.560625)n4:0.386244)n2:0.197173)n0;

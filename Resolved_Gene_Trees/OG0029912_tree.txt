@@ -1,1 +1,0 @@
-(Mdomestica_MD08G1213400:0.239653,(Cannuum_CA04g08250:0.585437,(Slycopersicum_Solyc05g032740.1:0.29784,(Slycopersicum_Solyc03g071490.1:0.048312,Slycopersicum_Solyc09g037170.2:0.953677)n3:0.247238)n2:0.101333)n1:0.239653)n0;

@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_04.955:0.118045,((Fxananassa_snap_masked-Fvb6-3-processed-gene-211.28:0.541588,(Boleracea_Bo4g158720:0.813238,Mdomestica_MD14G1102700:0.494192)n3:0.0727806)n2:0.115184,Cannuum_CA02g16350:0.577158)n1:0.118045)n0;

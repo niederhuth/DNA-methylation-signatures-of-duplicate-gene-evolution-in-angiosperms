@@ -1,1 +1,0 @@
-(Sviridis_Sevir.3G371901:0.130775,(Mtruncatula_Medtr4g112440:0.399587,(Esalsugineum_Thhalv10029433m.g:0.0172192,Esalsugineum_Thhalv10027391m.g:0.0255498)n2:0.424878)n1:0.130775)n0;

@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_04.2783:0.172019,(((Ljaponicus_Lj0g3v0275179:0.238665,Vcorymbosum_maker-VaccDscaff43-augustus-gene-127.40:0.246666)n3:0.0527336,(Brapa_Brara.I02719:0.274342,Brapa_Brara.H00714:0.122049)n4:0.203639)n2:0.0704859,Cpapaya_evm.TU.supercontig_24.79:0.725567)n1:0.172019)n0;

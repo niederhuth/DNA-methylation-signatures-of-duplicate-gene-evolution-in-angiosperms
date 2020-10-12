@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_Achr5G11310_001:0.336703,(Roccidentalis_maker-Ro07-snap-gene-9.88:0.405008,(Boleracea_Bo3g001060:0.712131,(Fvesca_FvH4_7g17460:2.46789e-06,Fxananassa_snap_masked-Fvb7-2-processed-gene-135.21:0.0338268)n3:0.576996)n2:0.10035)n1:0.336703)n0;

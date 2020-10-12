@@ -1,1 +1,0 @@
-((Eguineensis_p5.00_sc00064_p0043:0.239237,Macuminata_GSMUA_Achr5G22070_001:0.468791)n1:0.227327,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00095.17:0.202934,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00276.2:0.584945)n2:0.227327)n0;

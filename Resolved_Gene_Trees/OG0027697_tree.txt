@@ -1,1 +1,0 @@
-(Rchinensis_RcHm_v2.0_Chr3g0484061:0.384367,(Mdomestica_MD05G1167900:0.082961,(((Pxbretschneideri_LOC103957972:5e-07,Pxbretschneideri_LOC103943711:5e-07)n4:0,Pxbretschneideri_LOC103957975:5e-07)n3:0.791073,Pxbretschneideri_LOC103962133:0.312795)n2:0.034755)n1:0.382219)n0;

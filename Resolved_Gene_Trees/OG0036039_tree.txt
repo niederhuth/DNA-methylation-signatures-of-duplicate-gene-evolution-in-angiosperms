@@ -1,1 +1,0 @@
-(Gsoja_GlysoPI483463.01G051800:0.352342,(Vcorymbosum_maker-VaccDscaff41-augustus-gene-92.19:0.00440175,(Vcorymbosum_maker-VaccDscaff12-augustus-gene-197.22:0.000192677,Vcorymbosum_maker-VaccDscaff23-augustus-gene-224.26:0.0645993)n2:0.0427143)n1:0.352342)n0;

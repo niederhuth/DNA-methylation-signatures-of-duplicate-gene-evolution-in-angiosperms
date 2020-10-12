@@ -1,1 +1,0 @@
-((Roccidentalis_maker-Ro02-snap-gene-164.30:0.471587,(Graimondii_Gorai.007G271500:0.472898,Graimondii_Gorai.011G013900:0.604745)n2:0.0671939)n1:0.0534805,Gmax_Glyma.19G036500:0.376794)n0;

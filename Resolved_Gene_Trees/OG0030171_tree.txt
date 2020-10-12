@@ -1,1 +1,0 @@
-(Eguineensis_p5.00_sc00068_p0070:0.561933,(Cpapaya_evm.TU.supercontig_55.68:0.61569,(Nattenuata_NIATv7_g30298:0.652003,(Smelongena_SMEL_000g055950.1:0.249244,Smelongena_SMEL_011g379220.1:0.577361)n3:0.0641512)n2:0.154542)n1:0.561933)n0;

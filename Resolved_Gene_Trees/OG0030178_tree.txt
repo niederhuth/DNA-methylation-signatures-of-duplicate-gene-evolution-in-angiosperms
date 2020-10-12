@@ -1,1 +1,0 @@
-(Cpapaya_evm.TU.supercontig_99.65:0.0916156,((Ljaponicus_Lj1g3v1525990:0.311758,Ljaponicus_Lj2g3v3188500:0.00443025)n2:0.19096,(Csativus_CsaV3_UNG010110:0,Csativus_CsaV3_4G018780:0)n3:0.526645)n1:0.0916156)n0;

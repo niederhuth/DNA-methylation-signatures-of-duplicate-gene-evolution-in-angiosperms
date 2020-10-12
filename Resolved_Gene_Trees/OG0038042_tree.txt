@@ -1,1 +1,0 @@
-(Spolyrhiza_Spipo2G0103100:0.246612,(Vcorymbosum_snap_masked-VaccDscaff41-processed-gene-231.20:0.674531,(Vcorymbosum_maker-VaccDscaff40-augustus-gene-248.28:0.663526,Vcorymbosum_maker-VaccDscaff38-augustus-gene-275.34:0.70148)n2:0.138912)n1:0.246612)n0;

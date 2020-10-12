@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00022.17:0.15004,(Rchinensis_RcHm_v2.0_Chr5g0016781:0.469893,((Sviridis_Sevir.1G137850:0.691549,(Ljaponicus_Lj0g3v0171399:0.299366,Ljaponicus_Lj0g3v0094019:0.0964871)n4:0.404684)n3:0.166247,Paxillaris_Peaxi162Scf00643g00429:0.9279)n2:0.209047)n1:0.15004)n0;

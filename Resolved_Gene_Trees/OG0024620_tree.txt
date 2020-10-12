@@ -1,1 +1,0 @@
-((Slycopersicum_Solyc11g017240.2:0.269622,Eguineensis_p5.00_sc00363_p0002:0.531346)n1:0.0628005,(Zmays_Zm00001d035769:0.651029,(Mtruncatula_Medtr1g013940:0,(Mtruncatula_Medtr1g013900:0,(Mtruncatula_Medtr1g013980:0,Mtruncatula_Medtr1g013860:0)n5:0)n4:0)n3:0.651907)n2:0.0628005)n0;

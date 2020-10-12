@@ -1,1 +1,0 @@
-((Roccidentalis_maker-Ro06-snap-gene-75.39:0.573089,((Graimondii_Gorai.010G148500:0.744144,(Zmays_Zm00001d032878:3.87868e-06,Aofficinalis_evm.TU.AsparagusV1_03.675:0.865613)n4:0.14398)n3:0.150884,(Aofficinalis_evm.TU.AsparagusV1_08.2739:0.541413,Pvirgatum_Pavir.4NG271200:0.178466)n5:0.0881438)n2:0.00979376)n1:0.0718404,Brapa_Brara.G03614:0.638042)n0;

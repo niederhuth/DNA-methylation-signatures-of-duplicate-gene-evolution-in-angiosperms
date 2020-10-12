@@ -1,1 +1,0 @@
-(((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00110.26:0.0515905,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold01475.2:0.0858305)n2:0.103197,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold05186.1:0.00177941)n1:0.32371,(Cannuum_CA04g10790:0.123781,Nattenuata_NIATv7_g27732:0.198694)n3:0.32371)n0;

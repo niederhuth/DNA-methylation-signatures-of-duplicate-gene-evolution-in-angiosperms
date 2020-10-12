@@ -1,1 +1,0 @@
-((Gmax_Glyma.04G079100:0.136513,Pvulgaris_Phvul.009G104850:0.236173)n1:0.117879,((Ljaponicus_Lj1g3v2035220:0,Ljaponicus_Lj1g3v2035210:0)n3:0.452865,Mtruncatula_Medtr3g109410:0.407697)n2:0.117879)n0;

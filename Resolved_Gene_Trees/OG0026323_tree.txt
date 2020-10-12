@@ -1,1 +1,0 @@
-((Rchinensis_RcHm_v2.0_Chr4g0417581:0.591273,Aofficinalis_evm.TU.AsparagusV1_09.1551:0.529295)n1:0.0131346,(((Smelongena_SMEL_005g232080.1:0,Smelongena_SMEL_005g232070.1:0)n4:0.260911,Ptrichocarpa_Potri.008G143900:0.88839)n3:0.0595883,Eguineensis_p5.00_sc00012_p0053:0.486302)n2:0.0131346)n0;

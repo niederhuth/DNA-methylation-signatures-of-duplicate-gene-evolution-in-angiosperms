@@ -1,1 +1,0 @@
-((Graimondii_Gorai.001G163500:0.552694,(Fxananassa_snap_masked-Fvb6-1-processed-gene-121.18:0,Fvesca_FvH4_6g34440:0)n2:0.177141)n1:0.103241,(Slycopersicum_Solyc10g062030.1:0.739217,Smelongena_SMEL_001g137370.1:0.0367447)n3:0.103241)n0;

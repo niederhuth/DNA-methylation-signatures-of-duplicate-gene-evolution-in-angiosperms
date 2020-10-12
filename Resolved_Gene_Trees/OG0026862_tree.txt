@@ -1,1 +1,0 @@
-(Cclementina_Ciclev10033537m.g:0.00886748,((Cclementina_Ciclev10033701m.g:0.0251148,Cclementina_Ciclev10033857m.g:0.00190215)n2:0.0729859,((Cclementina_Ciclev10033773m.g:0.635022,Cclementina_Ciclev10033842m.g:0.153027)n4:0.133049,Cclementina_Ciclev10033369m.g:0.211943)n3:1.0262)n1:0.00886748)n0;

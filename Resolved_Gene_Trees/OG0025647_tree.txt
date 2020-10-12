@@ -1,1 +1,0 @@
-((Fxananassa_maker-Fvb3-3-augustus-gene-51.33:0.431221,Rchinensis_RcHm_v2.0_Chr5g0033481:0.308586)n1:0.557343,(Acoerulea_Aqcoe1G339900:1.8699e-06,((Acoerulea_Aqcoe1G266200:0,Acoerulea_Aqcoe4G267200:0)n4:0.0014945,Acoerulea_Aqcoe5G282700:0.0032825)n3:0.0229607)n2:0.557343)n0;

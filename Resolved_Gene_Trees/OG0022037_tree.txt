@@ -1,1 +1,0 @@
-((Athaliana_AT3G25080:0.293915,(((Esalsugineum_Thhalv10005451m.g:1.19553,Esalsugineum_Thhalv10004573m.g:0.15144)n4:0.180312,Boleracea_Bo1g145090:0.433324)n3:0.0772581,Esalsugineum_Thhalv10003412m.g:0.633089)n2:0.0703432)n1:0.05942,(Alyrata_AL6G32810:0.27451,(Crubella_Carub.0006s1922:0.21906,Crubella_Carub.0006s1923:0.164967)n6:0.117844)n5:0.199011)n0;

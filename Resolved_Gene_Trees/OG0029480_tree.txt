@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00006.194:0.412535,(Mdomestica_MD09G1078400:0.133727,(Fxananassa_maker-Fvb6-1-snap-gene-48.65:0.176749,(Egrandis_Eucgr.K00350:0.634288,Egrandis_Eucgr.K00340:2.54179e-06)n3:0.673796)n2:0.179352)n1:0.412535)n0;

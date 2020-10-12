@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_16336:0.395084,(Rchinensis_RcHm_v2.0_Chr1g0370191:0.0533384,((Fxananassa_maker-Fvb7-4-augustus-gene-47.45:0.276971,Fxananassa_maker-Fvb7-1-augustus-gene-259.45:0.0953592)n3:0.0637709,Mdomestica_MD01G1054700:0.683774)n2:0.0466726)n1:0.395084)n0;

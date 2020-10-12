@@ -1,1 +1,0 @@
-((Aduranensis_aradu.V14167.gnm1.ann1.Aradu.Y4NNN:0.22325,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.I908N:0.249256)n1:0.0503419,(Aipaensis_araip.K30076.gnm1.ann1.Araip.DI0VR:0.149951,(Aipaensis_araip.K30076.gnm1.ann1.Araip.3XS24:0.192037,Aipaensis_araip.K30076.gnm1.ann1.Araip.1FL9M:0.489755)n3:0.100753)n2:0.0503419)n0;

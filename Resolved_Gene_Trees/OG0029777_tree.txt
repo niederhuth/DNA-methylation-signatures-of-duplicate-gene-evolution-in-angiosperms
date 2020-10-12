@@ -1,1 +1,0 @@
-(Boleracea_Bo9g081810:0.514154,((Rchinensis_RcHm_v2.0_Chr4g0390731:0.201737,Rchinensis_RcHm_v2.0_Chr5g0024111:0.0619469)n2:0.0353251,(Rchinensis_RcHm_v2.0_Chr1g0320191:0.0610867,Rchinensis_RcHm_v2.0_Chr2g0094871:0.0753243)n3:0.514591)n1:0.514154)n0;

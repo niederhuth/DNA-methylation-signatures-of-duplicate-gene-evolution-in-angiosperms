@@ -1,1 +1,0 @@
-((Graimondii_Gorai.001G201000:0.716186,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00024.185:0.427927,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00022.101:0.485132)n2:0.0539036)n1:0.12343,(Aofficinalis_evm.TU.AsparagusV1_Unassigned.655:0.785024,Cmelo_MELO3C000736.2:0.186693)n3:0.0515624)n0;

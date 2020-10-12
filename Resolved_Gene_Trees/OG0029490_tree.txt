@@ -1,1 +1,0 @@
-((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00357.1:0.0221476,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00224.1:0.117335)n1:0.443886,(Tcacao_Thecc1EG033543:0.667735,(Cpapaya_evm.TU.contig_37284:0.495165,Cpapaya_evm.TU.supercontig_26.32:0.279339)n3:0.0310376)n2:0.34124)n0;

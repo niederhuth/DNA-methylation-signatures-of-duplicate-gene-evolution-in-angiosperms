@@ -1,1 +1,0 @@
-((Nnucifera_YP_009093943.1:5.98178e-07,(Bdistachyon_Bradi2g25073:0.245761,((Gmax_Glyma.09G171300:0.152976,Spolyrhiza_Spipo0G0140500:5.98178e-07)n4:0.0001915,(Athaliana_ATCG00210:5e-07,(Bdistachyon_Bradi2g46432:5e-07,Bdistachyon_Bradi1g39192:4.5e-07)n6:5e-08)n5:-0)n3:0)n2:0)n1:0.0113731,(Acoerulea_Aqcoe7G229800:0.0909669,Sbicolor_Sobic.003G171900:0.0763131)n7:0.0211796)n0;

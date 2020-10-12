@@ -1,1 +1,0 @@
-(Egrandis_Eucgr.H03619:0.15935,(((Mdomestica_MD12G1098300:1.03307,Mdomestica_MD12G1098100:0.126365)n3:0.404492,Cpapaya_evm.TU.supercontig_16.48:0.219879)n2:0.0244003,(Aipaensis_araip.K30076.gnm1.ann1.Araip.42LGY:0.734895,Mtruncatula_Medtr4g117520:0.170603)n4:0.195462)n1:0.15935)n0;

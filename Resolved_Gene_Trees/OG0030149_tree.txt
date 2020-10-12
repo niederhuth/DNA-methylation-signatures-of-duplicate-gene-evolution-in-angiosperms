@@ -1,1 +1,0 @@
-(Smelongena_SMEL_002g157680.1:0.0983672,(((Graimondii_Gorai.011G113600:0.344008,Graimondii_Gorai.010G022100:0.128671)n3:0.44796,Cpapaya_evm.TU.supercontig_2.218:0.100158)n2:0.041535,Ljaponicus_Lj0g3v0139599:0.207357)n1:0.0983672)n0;

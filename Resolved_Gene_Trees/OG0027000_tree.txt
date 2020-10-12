@@ -1,1 +1,0 @@
-(Eguineensis_p5.00_sc00361_p0001:0.329744,((Csativus_CsaV3_UNG164240:0,Csativus_CsaV3_5G014050:0)n2:0.387523,((Vcorymbosum_maker-VaccDscaff33-augustus-gene-260.31:0.071202,Vcorymbosum_maker-VaccDscaff21-snap-gene-77.31:0.487954)n4:0.245349,Mdomestica_MD03G1133200:1.01774)n3:0.114856)n1:0.329744)n0;

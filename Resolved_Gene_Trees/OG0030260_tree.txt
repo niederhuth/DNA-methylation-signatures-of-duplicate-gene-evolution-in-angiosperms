@@ -1,1 +1,0 @@
-(Fxananassa_maker-Fvb7-3-augustus-gene-197.31:0.233529,((Egrandis_Eucgr.A00697:2.27022e-06,Egrandis_Eucgr.A00699:0.729708)n2:0.330828,(Egrandis_Eucgr.L01257:0.512151,Egrandis_Eucgr.A00705:0.0892059)n3:0.217258)n1:0.233529)n0;

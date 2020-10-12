@@ -1,1 +1,0 @@
-(Phallii_Pahal.1G386100:0.174812,(Pvirgatum_Pavir.1KG033935:9.43929e-07,(Pvirgatum_Pavir.1KG033820:5e-07,((Pvirgatum_Pavir.1KG033970:0,Pvirgatum_Pavir.1KG033900:0)n4:0.0447062,(Pvirgatum_Pavir.1NG417257:0.268662,((Pvirgatum_Pavir.1KG033800:0,Pvirgatum_Pavir.1KG033905:0)n7:0,Pvirgatum_Pavir.1KG033920:0)n6:0.221509)n5:0.0550153)n3:0.00441092)n2:0.00398807)n1:0.174812)n0;

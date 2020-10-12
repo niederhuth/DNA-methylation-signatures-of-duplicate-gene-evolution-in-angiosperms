@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00095.45:0.38582,(Mdomestica_MD03G1213700:0.205497,(Pxbretschneideri_LOC103938194:0.146581,Pxbretschneideri_LOC103948744:0.0951405)n2:0.110398)n1:0.38582)n0;

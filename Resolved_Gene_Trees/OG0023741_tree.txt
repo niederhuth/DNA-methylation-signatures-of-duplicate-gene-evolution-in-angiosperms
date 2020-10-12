@@ -1,1 +1,0 @@
-((((Aipaensis_araip.K30076.gnm1.ann1.Araip.Z0LXS:0.232492,Ljaponicus_Lj3g3v1602730:0.270392)n3:0.0788685,Brapa_Brara.G01621:0.465436)n2:0.357973,Rchinensis_RcHm_v2.0_Chr2g0147221:0.627511)n1:0.0326165,((Aofficinalis_evm.TU.AsparagusV1_08.2489:0.311206,Aofficinalis_evm.TU.AsparagusV1_04.1614:0.143527)n5:0.226769,Aofficinalis_evm.TU.AsparagusV1_05.2545:0.438257)n4:0.0326165)n0;

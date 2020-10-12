@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_27804:0.386222,(((Ljaponicus_Lj0g3v0085549:0.162313,Gmax_Glyma.18G222851:0.883047)n3:0.216928,Graimondii_Gorai.012G016000:0.609928)n2:0.0133945,(Aipaensis_araip.K30076.gnm1.ann1.Araip.HLH18:0.406266,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.N2A15:0.171306,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.K470Q:0.650355)n5:0.0722616)n4:0.240223)n1:0.386222)n0;

@@ -1,1 +1,0 @@
-(((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00073.22:0.797042,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00002.287:0.166711)n2:0.227271,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold03368.1:0.933867)n1:0.231,(Mdomestica_MD04G1072600:0.236533,Rchinensis_RcHm_v2.0_Chr0c20g0500211:0.473878)n3:0.231)n0;

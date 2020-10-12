@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00009.263:0.370036,(Bvulgaris_gene_BVRB_5g113320:0.476392,(((Vvinifera_VIT_206s0004g05800:0.240707,Ljaponicus_Lj0g3v0209219:0.201776)n4:0.128615,Smelongena_SMEL_000g114290.1:0.244966)n3:0.163284,Aofficinalis_evm.TU.AsparagusV1_02.64:0.249872)n2:0.119044)n1:0.370036)n0;

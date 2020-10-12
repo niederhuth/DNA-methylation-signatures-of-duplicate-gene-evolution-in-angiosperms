@@ -1,1 +1,0 @@
-((((Boleracea_Bo6g078010:0.214619,Boleracea_Bo7g005110:0.323086)n3:0.332755,Ljaponicus_Lj0g3v0117359:0.201832)n2:0.167821,(Eguineensis_p5.00_sc01243_p0001:0.0899101,Eguineensis_p5.00_sc00062_p0001:0.116542)n4:0.0129491)n1:0.0247604,Vcorymbosum_maker-VaccDscaff328-snap-gene-0.35:0.182831)n0;

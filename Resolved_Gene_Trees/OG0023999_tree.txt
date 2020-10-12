@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00012.30:0.197839,(((Zmays_Zm00001d030676:0.134744,(Phallii_Pahal.3G465000:0.264016,Sviridis_Sevir.3G345240:0.270068)n4:0.0350434)n3:0.354139,(Aofficinalis_evm.TU.AsparagusV1_Unassigned.551:0,Aofficinalis_evm.TU.AsparagusV1_08.1941:0)n5:0.440249)n2:0.132632,Pvirgatum_Pavir.3KG490802:0.291453)n1:0.197839)n0;

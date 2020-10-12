@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_Achr9G07210_001:0.70915,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00072.46:0.309612,((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00072.44:0.0444385,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00072.45:0.136527)n3:0.116636,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00010.182:0.229159)n2:0.0909472)n1:0.70915)n0;

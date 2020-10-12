@@ -1,1 +1,0 @@
-(((Aofficinalis_evm.TU.AsparagusV1_04.2541:0.507562,Aofficinalis_evm.TU.AsparagusV1_03.2384:2.23123e-06)n2:0.621018,Aofficinalis_evm.TU.AsparagusV1_04.2540:2.23123e-06)n1:0.407693,(Gmax_Glyma.13G362550:0.184536,Vcorymbosum_maker-VaccDscaff28-snap-gene-95.19:0.222098)n3:0.407693)n0;

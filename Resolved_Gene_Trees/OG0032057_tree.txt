@@ -1,1 +1,0 @@
-(Rchinensis_RcHm_v2.0_Chr1g0375581:0.328244,(Slycopersicum_Solyc10g019130.2:0.491574,((Slycopersicum_Solyc10g019140.1:0.375428,Slycopersicum_Solyc11g050710.2:2.1509e-06)n3:0.333178,Slycopersicum_Solyc10g019110.2:0.172239)n2:0.242493)n1:0.328244)n0;

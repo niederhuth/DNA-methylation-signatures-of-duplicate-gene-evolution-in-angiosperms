@@ -1,1 +1,0 @@
-(Tcacao_Thecc1EG011071:0.42101,((Vcorymbosum_maker-VaccDscaff13-augustus-gene-193.37:0.933859,Vcorymbosum_maker-VaccDscaff4-augustus-gene-336.22:2.68633e-06)n2:0.234248,(Vcorymbosum_maker-VaccDscaff36-augustus-gene-104.24:0.279069,Vcorymbosum_maker-VaccDscaff4-augustus-gene-338.23:0.306296)n3:0.361159)n1:0.42101)n0;

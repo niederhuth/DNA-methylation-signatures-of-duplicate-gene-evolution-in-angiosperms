@@ -1,1 +1,0 @@
-(Phallii_Pahal.2G126600:0.0666315,(Gmax_Glyma.17G124500:0.604784,(Roccidentalis_snap_masked-Ro05-processed-gene-195.11:0.0587768,(Roccidentalis_maker-Ro01-snap-gene-162.43:0.19863,Roccidentalis_maker-Ro04-snap-gene-249.64:0.281712)n3:0.0854873)n2:0.922016)n1:0.0666315)n0;

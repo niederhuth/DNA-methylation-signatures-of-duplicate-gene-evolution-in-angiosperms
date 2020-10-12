@@ -1,1 +1,0 @@
-(Vvinifera_VIT_213s0047g00050:0.375017,(Ptrichocarpa_Potri.010G248401:0.947063,((Roccidentalis_maker-Ro07-snap-gene-245.34:0.664682,Roccidentalis_maker-Ro07-exonerate_protein2genome-gene-244.10:0.547118)n3:0.180472,Roccidentalis_maker-Ro07-snap-gene-265.18:0.125724)n2:0.0139693)n1:0.0272045)n0;

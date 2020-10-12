@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_AchrUn_randomG14360_001:2.12065e-06,((Vcorymbosum_snap_masked-VaccDscaff21-processed-gene-340.19:0.383729,Vcorymbosum_maker-VaccDscaff1274-snap-gene-0.6:2.12065e-06)n2:0.775673,(Cpapaya_evm.TU.supercontig_224.6:0.276863,Mdomestica_MD14G1075700:0.362094)n3:0.38828)n1:2.12065e-06)n0;

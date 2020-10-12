@@ -1,1 +1,0 @@
-(Roccidentalis_maker-Ro02-snap-gene-366.100:0.352594,(Spolyrhiza_Spipo15G0022800:0.755318,(Zmays_Zm00001d028255:0.825578,Zmays_Zm00001d040387:1.03061)n2:0.0809535)n1:0.352594)n0;

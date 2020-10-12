@@ -1,1 +1,0 @@
-((Vcorymbosum_maker-VaccDscaff22-snap-gene-336.31:0.399526,(Vcorymbosum_maker-VaccDscaff24-snap-gene-34.45:0.0125611,Vcorymbosum_maker-VaccDscaff11-snap-gene-369.47:0.00678294)n2:0.470423)n1:0.107352,(Fvesca_FvH4_2g21790:0.00287569,(Fxananassa_maker-Fvb2-3-augustus-gene-106.44:0.157061,Fxananassa_maker-Fvb2-2-augustus-gene-68.61:0.0104412)n4:0.00116013)n3:0.124461)n0;

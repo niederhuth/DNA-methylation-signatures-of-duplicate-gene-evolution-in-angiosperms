@@ -1,1 +1,0 @@
-((Eguineensis_p5.00_sc00227_p0019:0.272298,Aofficinalis_evm.TU.AsparagusV1_03.2093:0.525083)n1:0.223746,(Vcorymbosum_maker-VaccDscaff9-snap-gene-298.26:1.92693e-06,Vcorymbosum_maker-VaccDscaff36-snap-gene-121.27:0.694745)n2:0.223746)n0;

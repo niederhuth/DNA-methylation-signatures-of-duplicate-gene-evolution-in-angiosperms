@@ -1,1 +1,0 @@
-(Cpapaya_evm.TU.supercontig_130.36:0.155174,(Gmax_Glyma.10G142400:0.556311,(((Ljaponicus_Lj5g3v2241030:0,Ljaponicus_Lj4g3v0341020:0)n4:0.264585,Ljaponicus_Lj1g3v3090490:0.288622)n3:0.154109,(Ljaponicus_Lj5g3v0769480:0.461373,Ljaponicus_Lj0g3v0358079:0.303852)n5:0.0303852)n2:0.00337614)n1:0.0170056)n0;

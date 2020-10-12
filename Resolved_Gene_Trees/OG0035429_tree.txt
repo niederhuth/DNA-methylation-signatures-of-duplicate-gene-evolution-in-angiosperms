@@ -1,1 +1,0 @@
-(Roccidentalis_maker-Ro03-snap-gene-91.69:0.0538877,((Fxananassa_maker-Fvb3-1-augustus-gene-88.16:1.00449e-06,Fxananassa_maker-Fvb3-2-augustus-gene-222.27:0.370598)n2:0.0502175,Fxananassa_maker-Fvb3-3-augustus-gene-202.36:0.51012)n1:0.0538877)n0;

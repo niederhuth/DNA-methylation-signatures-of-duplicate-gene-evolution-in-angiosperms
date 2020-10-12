@@ -1,1 +1,0 @@
-(Vcorymbosum_snap_masked-VaccDscaff46-processed-gene-23.13:0.216939,((Gmax_Glyma.12G177950:0.513639,Cmelo_MELO3C005580.2:0.418856)n2:0.143388,(Egrandis_Eucgr.C03232:0.33746,Egrandis_Eucgr.A00410:0.513604)n3:0.282511)n1:0.216939)n0;

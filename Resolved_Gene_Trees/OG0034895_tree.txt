@@ -1,1 +1,0 @@
-(Rchinensis_RcHm_v2.0_Chr7g0216371:0.282499,((Eguineensis_p5.00_sc01876_p0001:0.125593,Eguineensis_p5.00_sc00361_p0004:0.0813195)n2:0.17151,Eguineensis_p5.00_sc00361_p0003:0.211507)n1:0.282499)n0;

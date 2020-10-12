@@ -1,1 +1,0 @@
-(((Slycopersicum_Solyc04g081670.3:0.490685,Smelongena_SMEL_005g238800.1:0.339511)n2:0.126136,Ljaponicus_Lj1g3v3740430:0.328302)n1:0.0242148,((Fxananassa_maker-Fvb7-3-augustus-gene-107.37:0.335822,Gmax_Glyma.18G169700:0.810628)n4:0.123024,Paxillaris_Peaxi162Scf00436g00035:0.359062)n3:0.0242148)n0;

@@ -1,1 +1,0 @@
-((Othomaeum_Oropetium_20150105_22388:0.613186,Smelongena_SMEL_007g277010.1:0.613599)n1:0.0617047,((Fxananassa_maker-Fvb5-3-augustus-gene-234.45:0.493102,Slycopersicum_Solyc04g024643.1:0.632136)n3:0.0789423,Zmays_Zm00001d030767:1.05171)n2:0.0617047)n0;

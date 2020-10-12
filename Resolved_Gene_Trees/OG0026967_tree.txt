@@ -1,1 +1,0 @@
-(Smelongena_SMEL_010g342570.1:0.242755,(Cpapaya_evm.TU.supercontig_32.40:0.748223,(Rchinensis_RcHm_v2.0_Chr5g0060561:0.346085,(Mdomestica_MD10G1209500:0.378499,(Mdomestica_MD10G1209600:0.319605,Roccidentalis_maker-Ro06-snap-gene-408.46:0.301034)n4:0.125291)n3:0.0139213)n2:0.167581)n1:0.316979)n0;

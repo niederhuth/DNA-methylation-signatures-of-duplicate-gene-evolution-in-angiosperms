@@ -1,1 +1,0 @@
-(Mdomestica_MD06G1016000:0.290748,(Aofficinalis_evm.TU.AsparagusV1_07.2973:0.330802,(Sitalica_Seita.5G167000:0.148736,Sviridis_Sevir.5G167200:0.160089)n2:0.291994)n1:0.290748)n0;

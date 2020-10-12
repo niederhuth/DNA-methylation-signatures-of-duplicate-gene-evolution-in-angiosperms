@@ -1,1 +1,0 @@
-(Ptrichocarpa_Potri.004G212400:0.163253,(Slycopersicum_Solyc06g010190.2:0.842405,(Vcorymbosum_maker-VaccDscaff43-snap-gene-127.52:0.0489043,(Vcorymbosum_maker-VaccDscaff47-snap-gene-74.42:2.16315e-06,(Vcorymbosum_maker-VaccDscaff46-snap-gene-92.44:2.16315e-06,Vcorymbosum_maker-VaccDscaff22-snap-gene-259.46:0.0718333)n4:0.00172625)n3:0.0262187)n2:0.849003)n1:0.163253)n0;

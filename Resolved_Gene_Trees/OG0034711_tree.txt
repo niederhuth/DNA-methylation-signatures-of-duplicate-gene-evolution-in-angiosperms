@@ -1,1 +1,0 @@
-(Cpapaya_evm.TU.contig_43518:0.550175,((Vcorymbosum_maker-VaccDscaff43-snap-gene-33.39:0.0122688,Vcorymbosum_maker-VaccDscaff46-augustus-gene-174.44:0.135793)n2:0.113722,Vcorymbosum_maker-VaccDscaff47-snap-gene-166.46:0.235647)n1:0.550175)n0;

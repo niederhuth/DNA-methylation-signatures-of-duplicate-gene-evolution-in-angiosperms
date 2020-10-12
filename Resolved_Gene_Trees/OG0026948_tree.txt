@@ -1,1 +1,0 @@
-(Mtruncatula_Medtr7g062030:0.303864,(Cpapaya_evm.TU.contig_32944.1:0.353216,((Cpapaya_evm.TU.contig_32944.2:0.141505,Cpapaya_evm.TU.supercontig_1251.1:0.32876)n3:0.0816895,(Cpapaya_evm.TU.supercontig_64.33:0.882106,Cpapaya_evm.TU.supercontig_4186.1:0.00359009)n4:0.143293)n2:0.504061)n1:0.303864)n0;

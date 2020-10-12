@@ -1,1 +1,0 @@
-(Vcorymbosum_snap_masked-VaccDscaff24-processed-gene-70.23:0.137697,(Vvinifera_VIT_206s0004g06555:0.310719,((Gmax_Glyma.02G226366:0.757404,Gsoja_GlysoPI483463.11G180900:0.5082)n3:0.140125,(Boleracea_Bo8g096200:0.0619464,Boleracea_Bo2g101910:0.162785)n4:0.325151)n2:0.105411)n1:0.137697)n0;

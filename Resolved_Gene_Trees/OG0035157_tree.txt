@@ -1,1 +1,0 @@
-(Rchinensis_RcHm_v2.0_Chr6g0279771:0.270324,(Fvesca_FvH4_2g16100:0.0580077,(Fxananassa_maker-Fvb2-3-augustus-gene-115.54:0.0391278,Fxananassa_maker-Fvb2-2-augustus-gene-104.47:0.011072)n2:0.00123023)n1:0.0108992)n0;

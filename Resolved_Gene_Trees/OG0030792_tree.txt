@@ -1,1 +1,0 @@
-(Sviridis_Sevir.5G141832:0.385352,((Fxananassa_maker-Fvb3-3-snap-gene-21.57:0.0237422,Fxananassa_maker-Fvb6-3-augustus-gene-371.59:0.463644)n2:0.168283,(Fxananassa_snap_masked-Fvb3-2-processed-gene-38.40:0.0601288,Fxananassa_snap_masked-Fvb3-2-processed-gene-37.52:0.0269512)n3:0.329116)n1:0.385352)n0;

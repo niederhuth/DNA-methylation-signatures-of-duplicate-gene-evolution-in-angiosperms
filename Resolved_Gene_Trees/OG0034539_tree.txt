@@ -1,1 +1,0 @@
-(Eguineensis_p5.00_sc00192_p0020:0.218001,(Cmelo_MELO3C027349.2:0.510645,(Ljaponicus_Lj0g3v0050209:0,Ljaponicus_Lj4g3v2846290:0)n2:0.315066)n1:0.218001)n0;

@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_04033:0.130976,(Pxbretschneideri_LOC103964193:0.0904433,(Mdomestica_MD07G1062600:0.325161,(Rchinensis_RcHm_v2.0_Chr5g0080201:0,Rchinensis_RcHm_v2.0_Chr1g0323731:0)n3:0.371684)n2:0.0664477)n1:0.130976)n0;

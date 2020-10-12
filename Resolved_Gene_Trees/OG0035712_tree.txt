@@ -1,1 +1,0 @@
-(Slycopersicum_Solyc05g013310.1:0.0204489,((Rchinensis_RcHm_v2.0_Chr2g0106761:0.0165712,Rchinensis_RcHm_v2.0_Chr2g0106781:0.00476575)n2:1.30203,Fxananassa_augustus_masked-Fvb7-1-processed-gene-246.6:0.703734)n1:0.0204489)n0;

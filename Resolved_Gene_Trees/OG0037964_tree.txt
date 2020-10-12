@@ -1,1 +1,0 @@
-(Slycopersicum_Solyc06g036467.1:0.380675,(Spolyrhiza_Spipo19G0004200:0.264612,(Spolyrhiza_Spipo0G0100400:0.91655,Spolyrhiza_Spipo19G0003800:0.40383)n2:0.0987782)n1:0.380675)n0;

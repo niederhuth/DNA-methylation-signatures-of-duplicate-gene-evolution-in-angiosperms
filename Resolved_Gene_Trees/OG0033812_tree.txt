@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00010.41:0.139333,(Spolyrhiza_Spipo2G0073800:0.359518,(Mtruncatula_Medtr2g061670:1.15308,Zmays_Zm00001d004871:0.167118)n2:0.0234785)n1:0.139333)n0;

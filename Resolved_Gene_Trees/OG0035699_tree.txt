@@ -1,1 +1,0 @@
-(Fxananassa_snap_masked-Fvb1-2-processed-gene-199.25:0.596009,(Osativa_LOC_Os02g20150:0.936085,(Othomaeum_Oropetium_20150105_27463:0.439548,Sbicolor_Sobic.001G107001:0.482223)n2:0.207582)n1:0.596009)n0;

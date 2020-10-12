@@ -1,1 +1,0 @@
-(Athaliana_AT1G55546:0.458983,(Fxananassa_maker-Fvb2-3-augustus-gene-16.42:0.126709,(Fxananassa_maker-Fvb6-4-snap-gene-81.55:1.07257e-06,Fxananassa_maker-Fvb4-2-snap-gene-81.69:0.0140018)n2:0.0143938)n1:0.458983)n0;

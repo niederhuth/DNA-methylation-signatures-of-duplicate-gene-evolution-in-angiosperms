@@ -1,1 +1,0 @@
-(((Gmax_Glyma.01G071000:0,Gsoja_GlysoPI483463.01G058800:0)n2:0.414701,(Paxillaris_Peaxi162Scf00037g00813:0.588865,Mdomestica_MD17G1063400:0.585627)n3:0.108421)n1:0.0372248,(Aofficinalis_evm.TU.AsparagusV1_05.1032:0.0912504,Aofficinalis_evm.TU.AsparagusV1_08.2911:0.114295)n4:0.0372248)n0;

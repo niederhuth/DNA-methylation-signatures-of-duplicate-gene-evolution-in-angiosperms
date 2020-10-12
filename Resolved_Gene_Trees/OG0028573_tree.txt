@@ -1,1 +1,0 @@
-((Acoerulea_Aqcoe7G229200:0.163594,Acoerulea_Aqcoe2G210400:0.10068)n1:0.20958,((Ptrichocarpa_Potri.005G154800:0,Ptrichocarpa_Potri.013G137800:0)n3:0.214465,Ptrichocarpa_Potri.013G142900:0.03875)n2:0.20958)n0;

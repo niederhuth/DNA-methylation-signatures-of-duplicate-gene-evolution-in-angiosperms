@@ -1,1 +1,0 @@
-(Zmays_Zm00001d032474:0.547316,((((Mesculenta_Manes.18G032732:0,Mesculenta_Manes.03G089503:0)n4:0,Mesculenta_Manes.13G093250:0)n3:0.412813,Ljaponicus_Lj0g3v0190969:0.184725)n2:0.049076,Cpapaya_evm.TU.supercontig_130.43:0.236121)n1:0.547316)n0;

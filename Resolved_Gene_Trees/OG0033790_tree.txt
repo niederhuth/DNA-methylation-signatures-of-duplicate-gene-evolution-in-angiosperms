@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00003.18:0.2315,((Cpapaya_evm.TU.contig_31165:0.527199,Slycopersicum_Solyc02g050180.3:0.284995)n2:0.0306767,Mguttatus_Migut.L00591:0.261739)n1:0.2315)n0;

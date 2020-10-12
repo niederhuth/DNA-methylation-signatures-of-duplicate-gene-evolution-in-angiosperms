@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_Achr9G04960_001:0.504444,((Vcorymbosum_maker-VaccDscaff24-snap-gene-324.28:2.16861e-06,(Vcorymbosum_maker-VaccDscaff11-snap-gene-48.29:0.0525556,Vcorymbosum_maker-VaccDscaff19-augustus-gene-150.22:0.321979)n3:0.0906505)n2:0.268149,Vcorymbosum_snap_masked-VaccDscaff19-processed-gene-150.12:0.448367)n1:0.504444)n0;

@@ -1,1 +1,0 @@
-((Aofficinalis_evm.TU.AsparagusV1_10.846:0.848405,Osativa_LOC_Os05g34910:1.01274)n1:0.389607,(Mguttatus_Migut.G01223:2.7984e-06,Mguttatus_Migut.I00420:0.173483)n2:0.389607)n0;

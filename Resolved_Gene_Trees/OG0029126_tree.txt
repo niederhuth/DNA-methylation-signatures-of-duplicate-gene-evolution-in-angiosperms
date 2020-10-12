@@ -1,1 +1,0 @@
-((Alyrata_AL8G23530:0.312524,Alyrata_AL4G21220:1.49518e-06)n1:0.253079,((Aofficinalis_evm.TU.AsparagusV1_02.776:0.284178,Aofficinalis_evm.TU.AsparagusV1_03.1962:0.131827)n3:0.0911101,Aofficinalis_evm.TU.AsparagusV1_03.921:0.170726)n2:0.253079)n0;

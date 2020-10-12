@@ -1,1 +1,0 @@
-((Gsoja_GlysoPI483463.15G147200:0.039912,Gmax_Glyma.15G162900:0.075525)n1:0.211155,(Ppersica_Prupe.5G213200:0.962749,Fxananassa_maker-Fvb2-4-augustus-gene-239.58:0.846849)n2:0.211155)n0;

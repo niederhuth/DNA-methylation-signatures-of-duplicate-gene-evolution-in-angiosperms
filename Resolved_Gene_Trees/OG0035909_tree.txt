@@ -1,1 +1,0 @@
-((Gmax_Glyma.05G051200:0.498628,Ptrichocarpa_Potri.001G112932:0.287078)n1:0.185534,(Slycopersicum_Solyc08g007770.3:0.634934,Slycopersicum_Solyc08g007780.3:1.742e-06)n2:0.185534)n0;

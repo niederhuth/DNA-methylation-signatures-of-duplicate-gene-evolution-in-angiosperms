@@ -1,1 +1,0 @@
-(((Fxananassa_maker-Fvb2-1-snap-gene-77.49:0.261564,Fxananassa_snap_masked-Fvb2-4-processed-gene-96.30:0.100347)n2:0.517725,(Vvinifera_VIT_218s0001g08440:0.637113,(Vvinifera_VIT_207s0005g05340:0.614841,Vvinifera_VIT_204s0023g02300:0.223838)n4:0.224621)n3:0.0249579)n1:0.128677,Rchinensis_RcHm_v2.0_Chr6g0275121:0.336407)n0;

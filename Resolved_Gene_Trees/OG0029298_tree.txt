@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_07.1473:0.25254,(Egrandis_Eucgr.H03759:0.318762,(Fxananassa_maker-Fvb4-1-snap-gene-127.36:0.407243,(Rchinensis_RcHm_v2.0_Chr4g0421891:0.563038,Cannuum_CA07g12750:0.698069)n3:0.122953)n2:0.127844)n1:0.25254)n0;

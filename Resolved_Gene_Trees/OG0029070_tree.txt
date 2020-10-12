@@ -1,1 +1,0 @@
-(((Alyrata_AL4G23000:0,Alyrata_AL5G27950:0)n2:0.0198907,Alyrata_AL4G12750:1.76004e-06)n1:0.232912,(Aipaensis_araip.K30076.gnm1.ann1.Araip.31LDH:0.780159,Ljaponicus_Lj5g3v1353020:0.497617)n3:0.232912)n0;

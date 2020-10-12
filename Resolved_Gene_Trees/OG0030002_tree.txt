@@ -1,1 +1,0 @@
-(Cclementina_Ciclev10033667m.g:0.294699,((Mesculenta_Manes.10G045700:0.500424,Mesculenta_Manes.07G100524:0.254032)n2:0.0693464,(Ptrichocarpa_Potri.010G222100:0.437447,Ptrichocarpa_Potri.008G040100:0.386847)n3:0.042983)n1:0.0132314)n0;

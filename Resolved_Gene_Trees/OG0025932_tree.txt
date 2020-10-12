@@ -1,1 +1,0 @@
-(((Tcacao_Thecc1EG025082:0.662795,Vcorymbosum_maker-VaccDscaff45-snap-gene-175.21:0.325949)n2:0.140946,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.JP0K2:0.554001,Aipaensis_araip.K30076.gnm1.ann1.Araip.N63KR:3.41517e-06)n3:0.541693)n1:0.186624,(Osativa_LOC_Os08g44670:0.799329,Zmays_Zm00001d010718:0.0414302)n4:0.186624)n0;

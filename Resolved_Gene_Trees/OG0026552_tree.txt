@@ -1,1 +1,0 @@
-(Nattenuata_NIATv7_g54755:0.0967498,((((Mtruncatula_Medtr4g071220:0.474872,Mtruncatula_Medtr4g102110:0.771936)n4:0.215349,Boleracea_Bo3g003760:0.969725)n3:0.210179,Mdomestica_MD12G1059700:0.300671)n2:0.101015,Fxananassa_snap_masked-Fvb7-4-processed-gene-79.23:0.643422)n1:0.0967498)n0;

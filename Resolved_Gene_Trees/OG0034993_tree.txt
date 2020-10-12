@@ -1,1 +1,0 @@
-(Roccidentalis_maker-Ro07-snap-gene-11.96:0.321683,(Fvesca_FvH4_4g01190:0,(Fxananassa_snap_masked-Fvb4-1-processed-gene-9.18:0.056434,Fxananassa_augustus_masked-Fvb4-3-processed-gene-311.4:0)n2:0)n1:0.141849)n0;

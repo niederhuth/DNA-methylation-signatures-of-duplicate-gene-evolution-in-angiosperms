@@ -1,1 +1,0 @@
-((Mdomestica_MD02G1017500:0.0297495,Ppersica_Prupe.1G212300:0.753217)n1:0.142674,(Fxananassa_snap_masked-Fvb1-2-processed-gene-44.43:0.0134712,Fxananassa_snap_masked-Fvb1-3-processed-gene-10.43:0.00303784)n2:0.142674)n0;

@@ -1,1 +1,0 @@
-((Vcorymbosum_maker-VaccDscaff5-snap-gene-197.48:0.637566,Vcorymbosum_maker-VaccDscaff14-snap-gene-337.38:0.459879)n1:0.176274,(Cpapaya_evm.TU.contig_40190:0.731593,Rchinensis_RcHm_v2.0_Chr5g0019481:0.572126)n2:0.176274)n0;

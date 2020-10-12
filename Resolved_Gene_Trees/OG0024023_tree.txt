@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_04.2260:0.453637,((Cpapaya_evm.TU.contig_31034:0.101022,Cpapaya_evm.TU.contig_25033:0.0094941)n2:0.14363,(Cpapaya_evm.TU.supercontig_2693.1:0.103241,((Cpapaya_evm.TU.contig_31115:0.165195,Cpapaya_evm.TU.supercontig_597.1:0.211335)n5:0.0205491,Cpapaya_evm.TU.contig_29663:0.286024)n4:0.0847715)n3:0.142649)n1:0.453637)n0;

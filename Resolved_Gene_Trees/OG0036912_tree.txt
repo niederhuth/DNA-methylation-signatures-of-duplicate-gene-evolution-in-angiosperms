@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_13670:0.5694,((Pvirgatum_Pavir.6NG000400:0.311754,Pvirgatum_Pavir.6NG008000:0.115039)n2:0.156189,Pvirgatum_Pavir.6KG009300:0.476495)n1:0.5694)n0;

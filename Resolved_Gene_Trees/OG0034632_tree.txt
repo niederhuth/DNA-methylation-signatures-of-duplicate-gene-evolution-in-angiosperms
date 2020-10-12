@@ -1,1 +1,0 @@
-((Esalsugineum_Thhalv10009041m.g:0.0021135,Esalsugineum_Thhalv10015711m.g:0.0120765)n1:0.44534,(Cpapaya_evm.TU.supercontig_0.21:0.59424,Cpapaya_evm.TU.supercontig_735.1:0.207514)n2:0.44534)n0;

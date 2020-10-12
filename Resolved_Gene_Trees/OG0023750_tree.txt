@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_AchrUn_randomG20070_001:0.325598,(((Mesculenta_Manes.S022666:0.145162,(Mesculenta_Manes.S022312:0.328695,(Mesculenta_Manes.S022674:0.107879,Mesculenta_Manes.S022607:0.0916528)n5:0.157517)n4:0.0623898)n3:0.789995,Cmelo_MELO3C024099.2:0.606206)n2:0.174967,Aipaensis_araip.K30076.gnm1.ann1.Araip.M9ARN:0.667208)n1:0.325598)n0;

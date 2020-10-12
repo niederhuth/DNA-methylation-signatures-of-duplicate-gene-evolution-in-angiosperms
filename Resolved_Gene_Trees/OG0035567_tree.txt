@@ -1,1 +1,0 @@
-(Tcacao_Thecc1EG033667:0.489339,(Fxananassa_snap_masked-Fvb3-4-processed-gene-225.39:1.01126e-06,(Fxananassa_snap_masked-Fvb3-2-processed-gene-75.18:0.0084395,Fxananassa_snap_masked-Fvb3-3-processed-gene-63.22:1.01126e-06)n2:0.0327425)n1:0.489339)n0;

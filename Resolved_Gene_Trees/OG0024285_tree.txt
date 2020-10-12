@@ -1,1 +1,0 @@
-(((Rchinensis_RcHm_v2.0_Chr4g0439281:0.156982,Fxananassa_maker-Fvb4-1-snap-gene-171.73:0.453429)n2:0.19737,Clanatus_Cla97C05G106060:0.91088)n1:0.176509,(Cpapaya_evm.TU.contig_28082.4:0.449635,(Brapa_Brara.F03383:0.157076,(Boleracea_Bo5g018090:0.802344,Boleracea_Bo7g081040:0.137886)n5:0.0153207)n4:0.338556)n3:0.176509)n0;

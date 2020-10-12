@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_22235:0.775579,(Sviridis_Sevir.2G398900:0.536899,(Phallii_Pahal.2G446000:0.2657,(Pvirgatum_Pavir.2KG554330:0.524915,Pvirgatum_Pavir.2NG586840:0.18898)n3:0.0209977)n2:0.24027)n1:0.192979)n0;

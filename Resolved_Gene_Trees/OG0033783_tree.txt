@@ -1,1 +1,0 @@
-(Zmays_Zm00001d025871:0.474103,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00155.39:0.340386,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00155.42:1.47842,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00017.97:3.35366e-06)n2:0.819597)n1:0.474103)n0;

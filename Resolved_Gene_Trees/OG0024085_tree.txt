@@ -1,1 +1,0 @@
-(((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00112.7:0.361726,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00025.51:0.300985)n2:0.155067,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00095.30:0.0735709)n1:0.200492,((Ljaponicus_Lj4g3v2692460:0,(Ljaponicus_Lj0g3v0088639:0,Ljaponicus_Lj6g3v2274670:0)n5:0)n4:0.909442,Macuminata_GSMUA_Achr10G16030_001:0.896061)n3:0.200492)n0;

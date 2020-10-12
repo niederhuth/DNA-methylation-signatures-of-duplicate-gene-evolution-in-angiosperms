@@ -1,1 +1,0 @@
-(((Aipaensis_araip.K30076.gnm1.ann1.Araip.1CK8X:0.318037,Aipaensis_araip.K30076.gnm1.ann1.Araip.XMU7U:0.300385)n2:0.314068,(Gmax_Glyma.08G034867:0,Gsoja_GlysoPI483463.08G032300:0)n3:0.57603)n1:0.232944,(Cpapaya_evm.TU.contig_46714:0.0925532,Cpapaya_evm.TU.supercontig_3513.1:0.0600568)n4:0.232944)n0;

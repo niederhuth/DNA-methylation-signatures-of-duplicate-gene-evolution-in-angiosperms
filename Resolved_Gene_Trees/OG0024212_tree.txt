@@ -1,1 +1,0 @@
-(Mguttatus_Migut.C00390:0.561702,((Sitalica_Seita.6G054700:0.392492,Sviridis_Sevir.6G051400:6.84459e-06)n2:0.878378,((Sbicolor_Sobic.002G289000:0.83285,Bdistachyon_Bradi3g60968:0.613994)n4:0.151838,(Sbicolor_Sobic.001G186600:0.828026,Bdistachyon_Bradi3g08382:1.30795)n5:0.145328)n3:0.631722)n1:0.561702)n0;

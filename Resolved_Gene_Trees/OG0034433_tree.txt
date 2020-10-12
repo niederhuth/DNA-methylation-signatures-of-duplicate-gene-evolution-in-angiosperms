@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_15508:0.495678,(Cclementina_Ciclev10007216m.g:1.10212,(Rchinensis_RcHm_v2.0_Chr4g0417081:0.159632,Rchinensis_RcHm_v2.0_Chr4g0417031:0.168758)n2:0.440257)n1:0.495678)n0;

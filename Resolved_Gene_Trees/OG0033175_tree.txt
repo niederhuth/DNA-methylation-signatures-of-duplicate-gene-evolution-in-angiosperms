@@ -1,1 +1,0 @@
-((Crubella_Carub.0002s1370:0.550258,Aipaensis_araip.K30076.gnm1.ann1.Araip.P0JZP:0.801718)n1:0.0430349,(Alyrata_AL8G20640:0.888391,Mdomestica_MD07G1271500:0.482062)n2:0.0430349)n0;

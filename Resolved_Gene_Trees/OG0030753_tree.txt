@@ -1,1 +1,0 @@
-(Mdomestica_MD08G1185800:0.212221,(Roccidentalis_snap_masked-Ro05-processed-gene-390.21:0.714596,((Fxananassa_maker-Fvb5-3-snap-gene-28.103:0.264539,Fxananassa_maker-Fvb5-1-snap-gene-279.33:0.342448)n3:0.357056,Fxananassa_maker-Fvb5-3-snap-gene-28.102:0.603473)n2:0.151431)n1:0.212221)n0;

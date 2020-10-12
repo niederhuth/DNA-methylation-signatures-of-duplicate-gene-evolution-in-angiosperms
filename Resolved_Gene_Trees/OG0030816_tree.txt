@@ -1,1 +1,0 @@
-(Mdomestica_MD13G1058200:0.213738,(Rchinensis_RcHm_v2.0_Chr4g0437541:1.31608e-06,((Fxananassa_augustus_masked-Fvb4-4-processed-gene-40.13:0.0880395,Fxananassa_snap_masked-Fvb4-3-processed-gene-41.29:0.265905)n3:0.0163152,Fxananassa_maker-Fvb4-1-snap-gene-61.18:0.458064)n2:0.050896)n1:0.239553)n0;

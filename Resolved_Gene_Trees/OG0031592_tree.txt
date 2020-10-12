@@ -1,1 +1,0 @@
-(Osativa_LOC_Os05g32240:0.395853,((Pvirgatum_Pavir.3NG112501:0.281715,Pvirgatum_Pavir.3KG264857:0.274195)n2:0.257275,(Sitalica_Seita.3G257900:0,Sviridis_Sevir.3G264500:0)n3:0.583997)n1:0.395853)n0;

@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_08.1523:0.575408,(Ppersica_Prupe.1G179300:0.759939,(Gmax_Glyma.01G093650:0,Gsoja_GlysoPI483463.01G073900:0)n2:1.06588)n1:0.575408)n0;

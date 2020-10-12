@@ -1,1 +1,0 @@
-(Vcorymbosum_maker-VaccDscaff16-snap-gene-374.46:0.174427,(Zjujuba_LOC107420487:0.127573,(Ljaponicus_Lj0g3v0057819:0.276893,Ptrichocarpa_Potri.005G231800:0.436247)n2:0.104268)n1:0.174427)n0;

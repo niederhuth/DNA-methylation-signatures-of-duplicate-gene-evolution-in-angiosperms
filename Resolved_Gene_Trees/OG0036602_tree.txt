@@ -1,1 +1,0 @@
-(Nattenuata_NIATv7_g61549:0.155385,(Spolyrhiza_Spipo3G0069400:0.965896,(Sviridis_Sevir.7G223100:1.79244e-06,Sitalica_Seita.7G211300:0.0170553)n2:0.506846)n1:0.155385)n0;

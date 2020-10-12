@@ -1,1 +1,0 @@
-((Rchinensis_RcHm_v2.0_Chr5g0018131:0.731554,(Roccidentalis_maker-Ro03-snap-gene-44.48:1.01511,Roccidentalis_maker-Ro03-exonerate_protein2genome-gene-376.45:0.465726)n2:0.0517474)n1:0.0206544,(Fvesca_FvH4_5g24710:0.858407,(Fvesca_FvH4_5g24580:0.0986034,Fvesca_FvH4_5g24700:0.264399)n4:0.324468)n3:0.38816)n0;

@@ -1,1 +1,0 @@
-(((Gsoja_GlysoPI483463.16G094600:0.342674,Ptrichocarpa_Potri.001G108000:0.680002)n2:0.157657,Fxananassa_maker-Fvb1-1-snap-gene-94.46:0.729373)n1:0.0535667,(Pvirgatum_Pavir.8NG124405:0.283762,Pvirgatum_Pavir.2KG441148:0.0694864)n3:0.0535667)n0;

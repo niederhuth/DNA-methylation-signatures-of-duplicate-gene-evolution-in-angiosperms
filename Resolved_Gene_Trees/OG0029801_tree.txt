@@ -1,1 +1,0 @@
-((Othomaeum_Oropetium_20150105_21698:0.794145,Pvirgatum_Pavir.7KG274710:1.15366)n1:0.214998,((Brapa_Brara.K00534:0.540326,Crubella_Carub.0002s1324:0.168613)n3:0.650513,Fxananassa_augustus_masked-Fvb6-2-processed-gene-211.10:0.673556)n2:0.214998)n0;

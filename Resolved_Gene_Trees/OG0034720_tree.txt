@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_Achr1G11870_001:0.251502,(Crubella_Carub.0005s1243:0.510891,(Zjujuba_LOC107406291:0.608729,Vcorymbosum_maker-VaccDscaff439-snap-gene-0.10:0.409579)n2:0.0529765)n1:0.251502)n0;

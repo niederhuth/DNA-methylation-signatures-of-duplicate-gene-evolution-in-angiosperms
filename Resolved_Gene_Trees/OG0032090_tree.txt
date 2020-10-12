@@ -1,1 +1,0 @@
-(Smelongena_SMEL_012g394500.1:0.358275,(Rchinensis_RcHm_v2.0_Chr7g0178291:0.633201,(Roccidentalis_maker-Ro07-exonerate_protein2genome-gene-112.44:0.192369,(Roccidentalis_maker-Ro05-exonerate_protein2genome-gene-301.32:0.0258474,Roccidentalis_maker-Ro02-snap-gene-337.53:0.0874086)n3:0.135728)n2:0.365731)n1:0.358275)n0;

@@ -1,1 +1,0 @@
-(Esalsugineum_Thhalv10024052m.g:0.298509,((Esalsugineum_Thhalv10028308m.g:0.559192,Esalsugineum_Thhalv10024048m.g:0.327994)n2:0.147468,(Esalsugineum_Thhalv10023918m.g:0.355898,Esalsugineum_Thhalv10023907m.g:0.153598)n3:0.167491)n1:0.298509)n0;

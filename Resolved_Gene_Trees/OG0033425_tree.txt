@@ -1,1 +1,0 @@
-(Alyrata_AL8G16710:0.385943,(Gmax_Glyma.10G176766:0.37345,(Fxananassa_maker-Fvb2-3-snap-gene-239.69:0.00030575,Fxananassa_maker-Fvb2-3-augustus-gene-239.55:0.00061125)n2:0.596458)n1:0.385943)n0;

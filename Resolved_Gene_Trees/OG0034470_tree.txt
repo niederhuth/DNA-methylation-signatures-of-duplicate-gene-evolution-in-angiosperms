@@ -1,1 +1,0 @@
-(Clanatus_Cla97C01G019130:0.513831,((Rchinensis_RcHm_v2.0_Chr7g0193871:0.514004,Fxananassa_augustus_masked-Fvb3-2-processed-gene-20.1:0.506045)n2:0.220994,Fvesca_FvH4_1g12840:0.224795)n1:0.513831)n0;

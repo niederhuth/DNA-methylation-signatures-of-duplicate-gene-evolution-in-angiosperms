@@ -1,1 +1,0 @@
-(Rchinensis_RcHm_v2.0_Chr3g0470721:0.170417,(Vcorymbosum_maker-VaccDscaff44-augustus-gene-69.24:0.531938,(Vcorymbosum_maker-VaccDscaff20-augustus-gene-297.22:0.209505,Vcorymbosum_maker-VaccDscaff44-snap-gene-69.32:0.440234)n2:0.0821765)n1:0.170417)n0;

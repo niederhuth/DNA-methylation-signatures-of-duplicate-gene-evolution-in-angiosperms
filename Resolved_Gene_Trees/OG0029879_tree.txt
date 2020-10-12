@@ -1,1 +1,0 @@
-(((Vcorymbosum_maker-VaccDscaff17-snap-gene-234.27:0.126491,Vcorymbosum_maker-VaccDscaff374-augustus-gene-0.23:0.0166579)n2:0.48054,Cannuum_CA02g01850:0.0549859)n1:0.0268746,(Egrandis_Eucgr.H01700:0.662525,Ljaponicus_Lj0g3v0239459:0.496391)n3:0.0268746)n0;

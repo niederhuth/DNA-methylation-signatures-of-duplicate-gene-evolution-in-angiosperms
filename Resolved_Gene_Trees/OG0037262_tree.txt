@@ -1,1 +1,0 @@
-(Ppersica_Prupe.1G565400:0.461474,((Vcorymbosum_maker-VaccDscaff41-augustus-gene-92.18:1.15859e-06,Vcorymbosum_maker-VaccDscaff23-augustus-gene-224.27:0.233206)n2:0.0153443,Vcorymbosum_maker-VaccDscaff12-augustus-gene-197.23:1.15859e-06)n1:0.461474)n0;

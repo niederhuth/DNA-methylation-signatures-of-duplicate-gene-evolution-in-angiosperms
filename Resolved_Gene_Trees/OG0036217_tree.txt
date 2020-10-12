@@ -1,1 +1,0 @@
-(Ptrichocarpa_Potri.008G065466:0.150893,(Macuminata_GSMUA_Achr2G16050_001:0.307814,(Othomaeum_Oropetium_20150105_27141:7.51911e-07,Othomaeum_Oropetium_20150105_15302:0.0142606)n2:0.130637)n1:0.150893)n0;

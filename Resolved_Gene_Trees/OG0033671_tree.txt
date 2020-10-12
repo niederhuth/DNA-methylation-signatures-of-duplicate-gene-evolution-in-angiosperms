@@ -1,1 +1,0 @@
-((Sviridis_Sevir.8G075966:0.95432,Stuberosum_PGSC0003DMG402000586:0.660224)n1:0.151231,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00122.11:0.859572,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00089.27:0.0268923)n2:0.151231)n0;

@@ -1,1 +1,0 @@
-(Ljaponicus_Lj2g3v2948510:0.372797,((Fxananassa_maker-Fvb3-3-snap-gene-153.21:0.329021,Fxananassa_maker-Fvb3-3-snap-gene-153.22:0.483785)n2:0.143032,(Fxananassa_maker-Fvb4-3-augustus-gene-223.34:0.194743,Fxananassa_maker-Fvb6-2-augustus-gene-106.26:0.0190424)n3:0.189061)n1:0.372797)n0;

@@ -1,1 +1,0 @@
-(Zmays_Zm00001d009369:0.550754,(Mtruncatula_Medtr3g093160:1.12081,(Mtruncatula_Medtr5g032360:0.678091,Mtruncatula_Medtr5g032340:0.54079)n2:0.378202)n1:0.550754)n0;

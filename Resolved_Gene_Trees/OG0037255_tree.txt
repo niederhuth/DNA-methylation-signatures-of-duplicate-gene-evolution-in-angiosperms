@@ -1,1 +1,0 @@
-((Vcorymbosum_maker-VaccDscaff16-augustus-gene-364.37:0.691518,Stuberosum_PGSC0003DMG402014139:0.563686)n1:0.25544,(Ppersica_Prupe.4G061200:0.218141,Ppersica_Prupe.1G546700:0.215759)n2:0.25544)n0;

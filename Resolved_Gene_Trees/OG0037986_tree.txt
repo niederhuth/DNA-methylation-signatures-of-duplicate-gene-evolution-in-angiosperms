@@ -1,1 +1,0 @@
-((Vcorymbosum_augustus_masked-VaccDscaff40-processed-gene-87.0:0.814397,Vcorymbosum_maker-VaccDscaff21-snap-gene-79.36:0.791843)n1:0.57366,(Slycopersicum_Solyc08g062900.2:0.375607,Slycopersicum_Solyc01g014820.2:0.250975)n2:0.57366)n0;

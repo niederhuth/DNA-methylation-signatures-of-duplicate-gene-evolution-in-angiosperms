@@ -1,1 +1,0 @@
-(Egrandis_Eucgr.D02192:0.341547,(Aofficinalis_evm.TU.AsparagusV1_10.1643:1.08672,((Osativa_LOC_Os07g24050:0.595505,(Bdistachyon_Bradi5g10940:0.313162,Bdistachyon_Bradi1g75320:0.256435)n4:0.0284927)n3:0.113472,(Phallii_Pahal.2G299900:0.0418368,Pvirgatum_Pavir.2KG399100:0.112387)n5:0.182852)n2:0.17654)n1:0.341547)n0;

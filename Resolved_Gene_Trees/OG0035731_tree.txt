@@ -1,1 +1,0 @@
-((Fxananassa_snap_masked-Fvb4-4-processed-gene-8.32:0.782346,(Vcorymbosum_maker-VaccDscaff28-augustus-gene-152.22:0.505848,Vcorymbosum_maker-VaccDscaff28-snap-gene-152.25:1.55219)n2:0.172466)n1:0.126977,Rchinensis_RcHm_v2.0_Chr4g0445931:0.206903)n0;

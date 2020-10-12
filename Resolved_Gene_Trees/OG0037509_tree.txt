@@ -1,1 +1,0 @@
-(Pvirgatum_Pavir.9KG467662:0.039106,((Sitalica_Seita.5G216300:1.96711e-07,Sitalica_Seita.9G566800:0.00563225)n2:0.113046,Sitalica_Seita.6G102100:0.000447)n1:0.039106)n0;

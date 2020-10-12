@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_Achr5G02200_001:0.583344,((Vcorymbosum_maker-VaccDscaff19-snap-gene-288.32:0,Vcorymbosum_maker-VaccDscaff15-snap-gene-242.32:0)n2:0.22432,(Vvinifera_VIT_210s0003g05610:0.431835,Stuberosum_PGSC0003DMG400021217:0.697209)n3:0.099647)n1:0.583344)n0;

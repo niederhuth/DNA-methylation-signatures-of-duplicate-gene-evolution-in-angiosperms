@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00058.28:0.192816,(Zjujuba_LOC107424549:0.488676,(Mtruncatula_Medtr3g024250:0.391673,((Fxananassa_augustus_masked-Fvb3-4-processed-gene-116.5:0.0808576,Fvesca_FvH4_3g28900:0.344382)n4:0.332671,(Mdomestica_MD17G1016500:0.0766708,Mdomestica_MD16G1165500:0.280362)n5:0.236229)n3:0.234965)n2:0.0843934)n1:0.192816)n0;

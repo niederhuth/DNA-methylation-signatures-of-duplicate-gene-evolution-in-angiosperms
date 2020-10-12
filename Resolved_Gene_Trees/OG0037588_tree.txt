@@ -1,1 +1,0 @@
-(Pvulgaris_Phvul.008G147113:0,((Pvulgaris_Phvul.008G221100:0.056846,Pvulgaris_Phvul.L001847:0.03466)n2:0.128,Pvulgaris_Phvul.011G068600:0)n1:0)n0;

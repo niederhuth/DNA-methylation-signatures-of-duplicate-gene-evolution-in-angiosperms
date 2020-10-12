@@ -1,1 +1,0 @@
-((Fxananassa_snap_masked-Fvb2-1-processed-gene-144.37:0.0770088,Fxananassa_maker-Fvb2-3-augustus-gene-104.36:0.445657)n1:0.448162,(Cannuum_CA06g27830:0.0796942,Nattenuata_NIATv7_g18363:0.147578)n2:0.448162)n0;

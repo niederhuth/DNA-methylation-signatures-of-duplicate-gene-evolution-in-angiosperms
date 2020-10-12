@@ -1,1 +1,0 @@
-(Rchinensis_RcHm_v2.0_Chr2g0097541:0.339365,((Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00064.107:0.211996,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00166.8:0.385195)n2:0.142762,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00032.273:0.246179)n1:0.339365)n0;

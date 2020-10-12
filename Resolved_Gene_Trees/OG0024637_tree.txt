@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_21780:0.316351,(Mtruncatula_Medtr2g020270:0.439469,(((Fxananassa_maker-Fvb1-1-snap-gene-200.52:0.163704,Fxananassa_maker-Fvb1-2-snap-gene-96.45:0.151324)n4:0.191191,Fxananassa_maker-Fvb1-2-snap-gene-96.36:0.255388)n3:0.214279,(Fvesca_FvH4_1g15420:0.565819,Fvesca_FvH4_1g15340:0.204377)n5:0.0227085)n2:0.100301)n1:0.316351)n0;

@@ -1,1 +1,0 @@
-((Vcorymbosum_snap_masked-VaccDscaff40-processed-gene-213.15:0.403386,((((Ljaponicus_Lj1g3v0129310:0,Ljaponicus_Lj1g3v3716660:0)n5:0,Ljaponicus_Lj2g3v2125230:0)n4:0.0865438,Ljaponicus_Lj3g3v0681370:0.0767802)n3:0.419841,Ljaponicus_Lj3g3v0681360:0.204901)n2:0.0227668)n1:0.0827831,Cannuum_CA05g17030:0.0403107)n0;

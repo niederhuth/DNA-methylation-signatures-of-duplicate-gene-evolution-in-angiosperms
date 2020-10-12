@@ -1,1 +1,0 @@
-(Cannuum_CA00g97880:0.232932,(Cpapaya_evm.TU.supercontig_18.184:0.514924,(Rchinensis_RcHm_v2.0_Chr2g0098881:0.332445,(Fvesca_FvH4_1g11330:0.211761,((Fxananassa_maker-Fvb1-2-augustus-gene-75.62:0.470847,Fxananassa_maker-Fvb1-1-snap-gene-235.60:0.0949376)n5:0.246165,Fxananassa_maker-Fvb1-4-snap-gene-53.80:0.314858)n4:0.0349842)n3:0.116825)n2:0.114199)n1:0.232932)n0;

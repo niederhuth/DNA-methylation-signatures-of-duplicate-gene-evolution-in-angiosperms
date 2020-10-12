@@ -1,1 +1,0 @@
-(((Mesculenta_Manes.S022427:0,(Mesculenta_Manes.S023006:0,(Mesculenta_Manes.S022436:0,Mesculenta_Manes.S022377:0)n4:0)n3:0)n2:0,Mesculenta_Manes.S022568:0)n1:0.391333,(Gsoja_GlysoPI483463.13G010500:0.00380967,(Gmax_Glyma.19G072600:0.011955,Gmax_Glyma.13G029100:0.0017832)n6:0.000198133)n5:0.101861)n0;

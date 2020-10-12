@@ -1,1 +1,0 @@
-(Cannuum_CA11g10810:0.286016,(Egrandis_Eucgr.H04597:0.353314,(Aipaensis_araip.K30076.gnm1.ann1.Araip.UX8V6:0.492955,Gmax_Glyma.19G123700:0.360225)n2:0.0554497)n1:0.286016)n0;

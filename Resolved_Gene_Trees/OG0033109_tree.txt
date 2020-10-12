@@ -1,1 +1,0 @@
-(Aofficinalis_evm.TU.AsparagusV1_04.2032:0.294132,(Rchinensis_RcHm_v2.0_Chr5g0037501:0.350488,(Aipaensis_araip.K30076.gnm1.ann1.Araip.VWN4D:0.172713,Aipaensis_araip.K30076.gnm1.ann1.Araip.VQ034:0.839564)n2:0.0932848)n1:0.329533)n0;

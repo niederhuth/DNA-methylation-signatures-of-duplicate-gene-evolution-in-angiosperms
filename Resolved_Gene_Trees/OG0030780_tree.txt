@@ -1,1 +1,0 @@
-(Vvinifera_VIT_217s0000g09180:0.39336,(Fxananassa_snap_masked-Fvb5-4-processed-gene-237.22:0.257674,((Fxananassa_snap_masked-Fvb7-2-processed-gene-220.32:0.00644033,Fxananassa_snap_masked-Fvb7-2-processed-gene-300.21:0.0326637)n3:0.504029,Fxananassa_snap_masked-Fvb4-3-processed-gene-120.21:0.442679)n2:0.376522)n1:0.39336)n0;

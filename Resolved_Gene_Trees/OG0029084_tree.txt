@@ -1,1 +1,0 @@
-((Aofficinalis_evm.TU.AsparagusV1_01.2837:0.791659,Aipaensis_araip.K30076.gnm1.ann1.Araip.PPN99:0.366409)n1:0.041824,((Osativa_LOC_Os01g49030:0.723502,Spolyrhiza_Spipo18G0029100:0.187828)n3:0.120618,Nattenuata_NIATv7_g43776:0.562831)n2:0.041824)n0;

@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_Achr11G22090_001:0.25893,(Cpapaya_evm.TU.supercontig_27.72:0.358842,(Mtruncatula_Medtr4g089000:0.933211,Nnucifera_XP_019052564.1:0.416953)n2:0.093989)n1:0.25893)n0;

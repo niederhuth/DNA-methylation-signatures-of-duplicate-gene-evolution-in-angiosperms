@@ -1,1 +1,0 @@
-(Pvirgatum_Pavir.6NG110009:0.425453,((Vcorymbosum_maker-VaccDscaff16-augustus-gene-270.36:0.00525325,Vcorymbosum_augustus_masked-VaccDscaff41-processed-gene-221.1:0.10471)n2:0.726606,(Mdomestica_MD01G1057200:0.413529,Fxananassa_maker-Fvb7-1-snap-gene-172.37:0.768956)n3:0.199641)n1:0.425453)n0;

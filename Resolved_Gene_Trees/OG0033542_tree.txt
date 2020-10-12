@@ -1,1 +1,0 @@
-(Ptrichocarpa_Potri.003G177500:0.240226,(Aofficinalis_evm.TU.AsparagusV1_04.2822:0.412164,(Sviridis_Sevir.8G026807:0.933409,Macuminata_GSMUA_Achr1G05910_001:0.103467)n2:0.470602)n1:0.240226)n0;

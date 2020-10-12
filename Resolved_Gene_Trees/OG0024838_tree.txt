@@ -1,1 +1,0 @@
-((Fxananassa_maker-Fvb7-3-snap-gene-73.66:1.03504,(Mdomestica_MD03G1067700:0.566682,(Ppersica_Prupe.3G089100:0.193272,Ppersica_Prupe.3G086800:0.472572)n3:0.543061)n2:0.0232785)n1:0.194014,(Mdomestica_MD15G1054600:0.35297,(Mdomestica_MD08G1045800:0.450624,Fxananassa_maker-Fvb3-1-augustus-gene-308.59:0.928658)n5:0.153459)n4:0.0170511)n0;

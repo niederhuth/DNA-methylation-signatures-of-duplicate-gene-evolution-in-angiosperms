@@ -1,1 +1,0 @@
-(Brapa_Brara.B00989:0.221407,(Ljaponicus_Lj0g3v0330639:0.573979,((Fxananassa_snap_masked-Fvb6-3-processed-gene-9.38:0.148025,Fxananassa_snap_masked-Fvb6-2-processed-gene-279.30:0.169539)n3:0.133633,Fxananassa_snap_masked-Fvb6-1-processed-gene-10.40:0.28955)n2:0.382738)n1:0.221407)n0;

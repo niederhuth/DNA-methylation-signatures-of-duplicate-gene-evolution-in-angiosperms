@@ -1,1 +1,0 @@
-(Mguttatus_Migut.E00871:0.464972,(Mdomestica_MD06G1076000:0.130052,(Fvesca_FvH4_5g15970:0.781406,Fxananassa_maker-Fvb5-3-snap-gene-271.54:0.477487)n2:0.183163)n1:0.464972)n0;

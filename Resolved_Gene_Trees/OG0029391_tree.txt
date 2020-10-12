@@ -1,1 +1,0 @@
-(Vcorymbosum_maker-VaccDscaff23-augustus-gene-342.22:0.146533,(Cpapaya_evm.TU.supercontig_31.71:0.373519,((Ljaponicus_Lj5g3v0106040:0.115665,Gmax_Glyma.11G233651:0.380149)n3:0.0875685,Athaliana_AT2G25500:0.357913)n2:0.036226)n1:0.146533)n0;

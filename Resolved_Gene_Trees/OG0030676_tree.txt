@@ -1,1 +1,0 @@
-((Ppersica_Prupe.1G094000:0.149576,Ppersica_Prupe.1G094100:0.168299)n1:0.397754,(Roccidentalis_maker-Ro04-snap-gene-325.39:0.508339,(Fxananassa_augustus_masked-Fvb4-2-processed-gene-182.2:0.225366,Fxananassa_snap_masked-Fvb4-2-processed-gene-182.14:0.323014)n3:0.0358905)n2:0.456123)n0;

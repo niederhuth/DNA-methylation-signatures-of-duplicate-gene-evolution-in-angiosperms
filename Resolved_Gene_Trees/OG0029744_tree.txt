@@ -1,1 +1,0 @@
-(Rchinensis_RcHm_v2.0_Chr3g0497281:0.29811,(Boleracea_Bo7g041020:0.845527,((Cpapaya_evm.TU.supercontig_11.109:0.368429,Cpapaya_evm.TU.supercontig_28.67:0.45573)n3:0.188048,Cpapaya_evm.TU.supercontig_4.189:0.344083)n2:0.103396)n1:0.29811)n0;

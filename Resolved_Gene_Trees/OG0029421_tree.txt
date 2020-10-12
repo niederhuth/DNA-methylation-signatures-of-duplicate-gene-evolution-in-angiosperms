@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00106.89:0.525207,((Rchinensis_RcHm_v2.0_Chr1g0374941:0.607882,(Fxananassa_maker-Fvb7-4-augustus-gene-32.45:0.378796,Fxananassa_maker-Fvb2-1-augustus-gene-61.33:0.269737)n3:0.0921944)n2:0.368646,Fvesca_FvH4_7g27990:0.355407)n1:0.525207)n0;

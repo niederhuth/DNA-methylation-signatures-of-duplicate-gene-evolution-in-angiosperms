@@ -1,1 +1,0 @@
-(((Boleracea_Bo3g036110:0.488549,Boleracea_Bo2g087720:0.706693)n2:0.105495,Vvinifera_VIT_217s0053g00030:0.670588)n1:0.160105,(Aofficinalis_evm.TU.AsparagusV1_05.589:0.670377,Aofficinalis_evm.TU.AsparagusV1_04.891:0.76049)n3:0.160105)n0;

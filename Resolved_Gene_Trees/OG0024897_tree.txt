@@ -1,1 +1,0 @@
-((Mdomestica_MD17G1259600:0.178728,Fxananassa_maker-Fvb7-3-snap-gene-204.30:0.696988)n1:0.192219,((Graimondii_Gorai.008G153100:0.139331,Graimondii_Gorai.006G274700:0.716545)n3:0.316259,(Graimondii_Gorai.008G298700:0.105549,(Graimondii_Gorai.002G172800:0.310747,Graimondii_Gorai.N015700:0.249668)n5:0.179801)n4:0.24792)n2:0.192219)n0;

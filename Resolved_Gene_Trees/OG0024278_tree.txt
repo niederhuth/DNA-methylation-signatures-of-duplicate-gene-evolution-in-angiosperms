@@ -1,1 +1,0 @@
-(Slycopersicum_Solyc12g040310.1:0.375839,(Boleracea_Bo7g093050:0.786397,(Ljaponicus_Lj0g3v0200199:0.248415,(Tcacao_Thecc1EG001446:0.353079,((Rchinensis_RcHm_v2.0_Chr5g0006181:0.251822,Fxananassa_snap_masked-Fvb3-2-processed-gene-15.23:0.362182)n5:0.104617,Mtruncatula_Medtr2g031710:0.429562)n4:0.0881457)n3:0.0589579)n2:0.143624)n1:0.375839)n0;

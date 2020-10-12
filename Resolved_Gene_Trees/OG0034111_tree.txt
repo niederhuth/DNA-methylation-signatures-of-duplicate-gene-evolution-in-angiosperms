@@ -1,1 +1,0 @@
-(Boleracea_Bo05708s010:0.139487,((Ljaponicus_Lj1g3v2896250:0.224401,Ljaponicus_Lj0g3v0302699:0.178025)n2:0.260063,Fxananassa_augustus_masked-Fvb2-1-processed-gene-12.4:0.311556)n1:0.139487)n0;

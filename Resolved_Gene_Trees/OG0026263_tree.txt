@@ -1,1 +1,0 @@
-(((Aofficinalis_evm.TU.AsparagusV1_06.1991:1.35007,Aofficinalis_evm.TU.AsparagusV1_05.1727:2.98732e-06)n2:0.193098,(Mguttatus_Migut.H01977:0.305445,Ptrichocarpa_Potri.017G152100:0.13764)n3:0.191154)n1:0.0952497,(Spolyrhiza_Spipo26G0020000:0.367472,Boleracea_Bo6g029380:0.266874)n4:0.0952497)n0;

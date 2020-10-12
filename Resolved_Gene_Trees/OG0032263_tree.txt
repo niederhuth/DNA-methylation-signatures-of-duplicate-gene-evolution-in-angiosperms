@@ -1,1 +1,0 @@
-(Smelongena_SMEL_000g110030.1:0.231029,(Vcorymbosum_maker-VaccDscaff38-snap-gene-287.32:1.55445,((Vcorymbosum_maker-VaccDscaff45-snap-gene-61.30:0.0988351,Vcorymbosum_maker-VaccDscaff17-snap-gene-7.32:2.5416e-06)n3:0.021549,Vcorymbosum_maker-VaccDscaff34-snap-gene-286.38:0.00701211)n2:0.408279)n1:0.231029)n0;

@@ -1,1 +1,0 @@
-(Cclementina_Ciclev10013507m.g:0.411504,(Cviolacea_Clevi.0027s0179:0.421375,((Esalsugineum_Thhalv10011058m.g:0.231701,(Athaliana_AT3G53790:0.108903,Crubella_Carub.0005s2037:0.138691)n4:0.124997)n3:0.0514881,Boleracea_Bo4g120560:0.396441)n2:0.100345)n1:0.411504)n0;

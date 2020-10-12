@@ -1,1 +1,0 @@
-(Cpapaya_evm.TU.contig_35158:0.500416,(Vcorymbosum_maker-VaccDscaff6-snap-gene-16.27:0.105543,(Vcorymbosum_maker-VaccDscaff6-augustus-gene-24.27:0.256411,Vcorymbosum_maker-VaccDscaff962-snap-gene-0.11:0.243744)n2:0.0310852)n1:0.500416)n0;

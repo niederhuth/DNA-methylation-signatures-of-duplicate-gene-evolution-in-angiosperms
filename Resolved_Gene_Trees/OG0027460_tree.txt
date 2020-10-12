@@ -1,1 +1,0 @@
-(Vcorymbosum_maker-VaccDscaff747-augustus-gene-0.9:0.286122,(((Fxananassa_maker-Fvb2-2-snap-gene-55.57:0.739383,Vvinifera_VIT_207s0005g02880:0.15247)n3:0.21487,(Mguttatus_Migut.C00217:0.357434,Vvinifera_VIT_205s0049g01990:0.192353)n4:0.0222662)n2:0.0926329,Vvinifera_VIT_214s0128g00060:0.245654)n1:0.0272949)n0;

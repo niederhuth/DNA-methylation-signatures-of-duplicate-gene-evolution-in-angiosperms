@@ -1,1 +1,0 @@
-(Aipaensis_araip.K30076.gnm1.ann1.Araip.ZR1EV:0.583462,(Vcorymbosum_maker-VaccDscaff5-augustus-gene-344.39:0.263634,(Vcorymbosum_maker-VaccDscaff8-augustus-gene-90.20:0.0592805,Vcorymbosum_maker-VaccDscaff5-snap-gene-349.41:0.184816)n2:0.287411)n1:0.583462)n0;

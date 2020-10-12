@@ -1,1 +1,0 @@
-(Smelongena_SMEL_004g211960.1:0.0244195,((Mdomestica_MD01G1213700:0.246585,(Roccidentalis_maker-Ro06-snap-gene-351.65:0.769463,Roccidentalis_maker-Ro06-snap-gene-449.51:0.900958)n3:0.207842)n2:0.807931,(Boleracea_Bo19283s010:0.0589831,Brapa_Brara.D02543:0.0133379)n4:0.0615721)n1:0.0244195)n0;

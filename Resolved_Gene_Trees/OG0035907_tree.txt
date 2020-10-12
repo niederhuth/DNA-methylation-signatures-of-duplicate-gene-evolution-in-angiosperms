@@ -1,1 +1,0 @@
-((Mtruncatula_Medtr8g088440:0.781809,Mtruncatula_Medtr2g034125:0.494311)n1:0.252833,(Gsoja_GlysoPI483463.05G140100:0,Gmax_Glyma.05G167000:0)n2:0.252833)n0;

@@ -1,1 +1,0 @@
-(Pvirgatum_Pavir.5NG386681:0.574218,(Sviridis_Sevir.9G573500:1.27581,(Sviridis_Sevir.2G095280:0.705766,Sviridis_Sevir.4G244801:0.412771)n2:0.238936)n1:0.574218)n0;

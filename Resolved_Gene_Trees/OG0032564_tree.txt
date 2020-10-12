@@ -1,1 +1,0 @@
-(Macuminata_GSMUA_AchrUn_randomG21770_001:0.135441,((Acoerulea_Aqcoe2G210200:0.0672268,Acoerulea_Aqcoe2G193100:0.259897)n2:0.538828,Mguttatus_Migut.M00268:0.504344)n1:0.135441)n0;

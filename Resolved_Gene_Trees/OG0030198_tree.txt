@@ -1,1 +1,0 @@
-(Spolyrhiza_Spipo0G0123900:0.168069,(Csativus_CsaV3_3G005930:0.355833,(Rchinensis_RcHm_v2.0_Chr5g0036081:0.0436605,(Fxananassa_maker-Fvb3-2-snap-gene-125.32:0.00229975,Fxananassa_maker-Fvb3-3-snap-gene-109.52:0.0999523)n3:0.022937)n2:0.199209)n1:0.168069)n0;

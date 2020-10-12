@@ -1,1 +1,0 @@
-(((Smelongena_SMEL_000g064700.1:0.532226,Vcorymbosum_snap_masked-VaccDscaff33-processed-gene-86.15:0.710772)n2:0.0823543,Mtruncatula_Medtr8g059110:0.526272)n1:0.0394683,(Slycopersicum_Solyc07g054110.2:0.895293,Tcacao_Thecc1EG029885:0.774023)n3:0.0394683)n0;

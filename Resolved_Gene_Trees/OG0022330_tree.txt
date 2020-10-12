@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_08589:0.321439,(Osativa_LOC_Os08g13040:0.605021,(Bdistachyon_Bradi1g00630:1.00789,(Bdistachyon_Bradi1g56627:0.820672,((Bdistachyon_Bradi1g77485:0.514441,(Bdistachyon_Bradi1g77495:0.44079,Bdistachyon_Bradi1g77500:0.486396)n6:0.0457534)n5:0.316299,Bdistachyon_Bradi1g56626:1.03733)n4:0.273854)n3:0.0391063)n2:0.0739144)n1:0.321439)n0;

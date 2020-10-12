@@ -1,1 +1,0 @@
-(Boleracea_Bo1g056550:0.251897,((Bdistachyon_Bradi2g08400:0.297859,Osativa_LOC_Os01g13950:0.0559885)n2:0.147659,Eguineensis_p5.00_sc00001_p0525:0.30265)n1:0.251897)n0;

@@ -1,1 +1,0 @@
-(Othomaeum_Oropetium_20150105_02674:0.378552,(Sitalica_Seita.1G221700:0.905336,(Pvirgatum_Pavir.1NG333300:0.21659,Phallii_Pahal.1G294900:0.361129)n2:0.635279)n1:0.378552)n0;

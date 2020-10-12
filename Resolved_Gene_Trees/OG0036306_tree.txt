@@ -1,1 +1,0 @@
-(Sviridis_Sevir.6G033242:0.187901,(Roccidentalis_maker-Ro07-exonerate_protein2genome-gene-160.14:0.697378,(Mdomestica_MD07G1218100:0.120678,Mdomestica_MD07G1217900:0.123754)n2:0.895374)n1:0.187901)n0;

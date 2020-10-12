@@ -1,1 +1,0 @@
-(Slycopersicum_Solyc05g010700.1:0.466046,((Fxananassa_snap_masked-Fvb4-2-processed-gene-39.33:0.0388558,Fxananassa_snap_masked-Fvb4-3-processed-gene-42.42:1.29603e-06)n2:0.0996647,Fxananassa_snap_masked-Fvb4-2-processed-gene-39.35:0.240348)n1:0.466046)n0;

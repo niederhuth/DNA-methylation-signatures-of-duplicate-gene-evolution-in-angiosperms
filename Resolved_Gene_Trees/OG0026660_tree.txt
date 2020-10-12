@@ -1,1 +1,0 @@
-(Brapa_Brara.C03248:0.396727,(Vcorymbosum_maker-VaccDscaff3-snap-gene-225.37:0.655043,(Vcorymbosum_maker-VaccDscaff266-augustus-gene-0.59:0.536286,(Vcorymbosum_maker-VaccDscaff24-snap-gene-262.31:0.0899612,(Vcorymbosum_maker-VaccDscaff1-augustus-gene-234.22:0.116586,Vcorymbosum_maker-VaccDscaff22-augustus-gene-141.30:0.268039)n4:0.156033)n3:0.389227)n2:0.129668)n1:0.396727)n0;

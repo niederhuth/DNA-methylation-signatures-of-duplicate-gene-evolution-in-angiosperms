@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00010.3:0.12416,(Bvulgaris_gene_BVRB_034800:0.713414,(Acoerulea_Aqcoe2G181400:0.148384,(Alyrata_AL5G29270:0.287004,Rchinensis_RcHm_v2.0_Chr1g0314091:0.344483)n3:0.0483942)n2:0.339319)n1:0.12416)n0;

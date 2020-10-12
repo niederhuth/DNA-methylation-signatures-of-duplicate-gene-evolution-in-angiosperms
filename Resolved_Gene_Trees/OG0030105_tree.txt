@@ -1,1 +1,0 @@
-(Cmelo_MELO3C032001.2:0.765047,(Slycopersicum_Solyc03g044663.1:0.33363,(Slycopersicum_Solyc05g050015.1:0.917851,(Slycopersicum_Solyc01g056883.1:0.272883,Slycopersicum_Solyc01g011335.1:0.587191)n3:0.113029)n2:0.160784)n1:0.765047)n0;

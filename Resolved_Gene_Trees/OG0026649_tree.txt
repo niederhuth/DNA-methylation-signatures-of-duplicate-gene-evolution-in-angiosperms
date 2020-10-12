@@ -1,1 +1,0 @@
-(Eguineensis_p5.00_sc00539_p0002:0.0510487,(Boleracea_Bo06826s010:0.256474,(Ljaponicus_Lj0g3v0175629:0.305382,((Fvesca_FvH4_6g54370:0.246042,Fxananassa_augustus_masked-Fvb6-1-processed-gene-6.11:0.0324291)n4:0.0466277,Rchinensis_RcHm_v2.0_Chr2g0176591:0.0443532)n3:0.136261)n2:0.137324)n1:0.0510487)n0;

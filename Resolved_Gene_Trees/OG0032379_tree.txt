@@ -1,1 +1,0 @@
-(Vvinifera_VIT_203s0063g00860:0.25177,(Vcorymbosum_maker-VaccDscaff3-augustus-gene-7.31:0.0956405,(Vcorymbosum_maker-VaccDscaff17-augustus-gene-381.29:0.25841,(Vcorymbosum_maker-VaccDscaff14-snap-gene-362.30:0.144337,Vcorymbosum_maker-VaccDscaff2-snap-gene-415.53:0.0091645)n3:0.188648)n2:0.0627179)n1:0.25177)n0;

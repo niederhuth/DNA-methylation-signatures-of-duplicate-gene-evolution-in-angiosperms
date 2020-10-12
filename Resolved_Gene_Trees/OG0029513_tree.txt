@@ -1,1 +1,0 @@
-(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00052.11:0.450927,(Boleracea_Bo3g165560:0.4087,((Ljaponicus_Lj1g3v0118820:5e-07,Ljaponicus_Lj1g3v4467940:5e-07)n3:0.847027,Bvulgaris_gene_BVRB_021340:1.00036)n2:0.0448827)n1:0.450927)n0;

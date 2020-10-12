@@ -1,1 +1,0 @@
-(Egrandis_Eucgr.F00363:0.370516,(Sviridis_Sevir.4G089900:0.803093,(Phallii_Pahal.4G338000:1.49037,Sitalica_Seita.6G188900:0.67799)n2:0.174878)n1:0.370516)n0;

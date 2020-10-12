@@ -1,1 +1,0 @@
-(((Csativus_CsaV3_1G027790:0.874352,Pvulgaris_Phvul.008G087400:0.608929)n2:0.179677,(Vcorymbosum_maker-VaccDscaff18-snap-gene-280.19:0.731752,Vcorymbosum_augustus_masked-VaccDscaff13-processed-gene-110.7:0.641859)n3:0.0713177)n1:0.0448956,Cpapaya_evm.TU.contig_38250:0.0478081)n0;

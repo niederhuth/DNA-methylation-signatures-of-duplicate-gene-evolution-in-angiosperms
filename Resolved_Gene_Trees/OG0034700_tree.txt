@@ -1,1 +1,0 @@
-(Cpapaya_evm.TU.supercontig_92.22:0.432111,((Mtruncatula_Medtr6g024410:0.061686,Mtruncatula_Medtr5g025700:0.181214)n2:0.818841,Ljaponicus_Lj0g3v0239129:1.65091e-06)n1:0.432111)n0;

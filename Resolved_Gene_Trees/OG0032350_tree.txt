@@ -1,1 +1,0 @@
-(Vvinifera_VIT_207s0104g01820:0.343777,((Vcorymbosum_augustus_masked-VaccDscaff15-processed-gene-378.0:0,Vcorymbosum_augustus_masked-VaccDscaff51-processed-gene-13.17:0)n2:0.026304,(Vcorymbosum_augustus_masked-VaccDscaff24-processed-gene-12.9:0.005557,Vcorymbosum_augustus_masked-VaccDscaff11-processed-gene-386.2:0.007744)n3:0.007592)n1:0.343777)n0;

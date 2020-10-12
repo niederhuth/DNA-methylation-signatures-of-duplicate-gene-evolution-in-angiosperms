@@ -1,1 +1,0 @@
-((Othomaeum_Oropetium_20150105_26261:0.463058,Cmelo_MELO3C027854.2:0.882394)n1:0.266841,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00131.62:0.310318,(Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00131.64:0.300918,Atrichopoda_evm_27.TU.AmTr_v1.0_scaffold00131.66:0.060296)n3:0.0347944)n2:0.266841)n0;

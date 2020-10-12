@@ -1,1 +1,0 @@
-(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.QKV65:0.0458761,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.EK7NB:0.403034,(Aduranensis_aradu.V14167.gnm1.ann1.Aradu.4UX7L:0.237525,Aduranensis_aradu.V14167.gnm1.ann1.Aradu.TNM6D:0.646641)n2:0.219256)n1:0.0458761)n0;

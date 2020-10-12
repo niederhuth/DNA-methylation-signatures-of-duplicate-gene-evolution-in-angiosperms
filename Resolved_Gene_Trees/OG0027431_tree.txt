@@ -1,1 +1,0 @@
-(Ljaponicus_Lj0g3v0268629:0.403922,(Rchinensis_RcHm_v2.0_Chr2g0086621:0.566984,(Fxananassa_maker-Fvb1-4-snap-gene-21.67:0.202838,(Fxananassa_maker-Fvb1-2-augustus-gene-45.59:0.145943,(Fxananassa_maker-Fvb1-4-snap-gene-21.65:0.317092,Fxananassa_maker-Fvb1-2-snap-gene-45.77:0.18517)n4:0.257888)n3:0.28393)n2:0.142704)n1:0.403922)n0;

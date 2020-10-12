@@ -1,1 +1,0 @@
-(((Mtruncatula_Medtr5g097670:0.330993,Cclementina_Ciclev10013647m.g:0.187311)n2:0.232585,(Aipaensis_araip.K30076.gnm1.ann1.Araip.03QEB:0.460613,Cpapaya_evm.TU.supercontig_99.44:0.172878)n3:0.149461)n1:0.0433203,((Rchinensis_RcHm_v2.0_Chr6g0267371:0.0124422,Rchinensis_RcHm_v2.0_Chr2g0166791:0.288257)n5:0.210692,Rchinensis_RcHm_v2.0_Chr2g0127701:0.298237)n4:0.0433203)n0;

@@ -1,1 +1,0 @@
-(Acoerulea_Aqcoe2G394600:0.285836,((Mguttatus_Migut.N00333:0.259061,Stuberosum_PGSC0003DMG400029639:0.151314)n2:0.184206,Vcorymbosum_maker-VaccDscaff3-augustus-gene-330.25:0.519817)n1:0.285836)n0;

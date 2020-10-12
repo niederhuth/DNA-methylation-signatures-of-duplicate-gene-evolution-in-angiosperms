@@ -1,1 +1,0 @@
-(Rchinensis_RcHm_v2.0_Chr6g0276611:0.0090215,(Rchinensis_RcHm_v2.0_Chr4g0402781:0.620543,(Rchinensis_RcHm_v2.0_Chr3g0490881:0.42432,Rchinensis_RcHm_v2.0_Chr7g0214371:0.490088)n2:0.0985915)n1:0.0090215)n0;

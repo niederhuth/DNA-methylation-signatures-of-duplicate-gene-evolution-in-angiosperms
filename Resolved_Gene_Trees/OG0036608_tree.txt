@@ -1,1 +1,0 @@
-((Ptrichocarpa_Potri.005G233101:0.296795,Rchinensis_RcHm_v2.0_Chr7g0217061:0.512068)n1:0.0967313,(Nattenuata_NIATv7_g64308:0.168863,Nattenuata_NIATv7_g16949:0.25655)n2:0.0967313)n0;
