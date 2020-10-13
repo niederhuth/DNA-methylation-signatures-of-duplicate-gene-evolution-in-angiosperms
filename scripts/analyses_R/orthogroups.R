@@ -174,6 +174,7 @@ for(a in species$Species){
 }
 
 #Top orthogroups
+top <- merge(top,ogCat,by="Orthogroup")
 write.csv(top,"top_orthogroups.csv",quote=FALSE,row.names=FALSE)
 
 #Plot

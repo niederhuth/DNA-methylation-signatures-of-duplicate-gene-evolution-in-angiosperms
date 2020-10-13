@@ -13,7 +13,7 @@ FE <- data.frame()
 #Zmays
 df1 <- read.table("Zmays/methylpy/results/Zmays_classified_genes.tsv",
 	header=TRUE,sep="\t")[,c(1,23)]
-df2 <- read.csv("../../data/PAV.csv",header=TRUE)
+df2 <- read.csv("../misc/Zmays_PAV.csv",header=TRUE)
 df3 <- melt(df2)
 colnames(df3) <- c("Feature","Variety","PAV")
 df4 <- merge(df3,df1,by="Feature")
