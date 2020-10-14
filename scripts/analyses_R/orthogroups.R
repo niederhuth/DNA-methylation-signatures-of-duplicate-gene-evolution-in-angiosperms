@@ -196,3 +196,8 @@ for(a in c("Species/Lineage Specific","Family Specific","Cross-Family","Core: Ot
 		sep=""),p,width=10,height=4)
 }
 
+#Stuff
+tmp <- data.frame(table(as.vector(pOG[pOG$ogCat=="Core: Single Copy" & 
+	pOG$variable=="Unmethylated" & pOG$value > 0,]$Orthogroup)))
+
+
