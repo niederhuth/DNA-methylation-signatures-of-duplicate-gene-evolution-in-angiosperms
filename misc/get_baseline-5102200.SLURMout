@@ -7,6 +7,6 @@
 /mnt/home/niederhu/miniconda3/envs/gene-duplication/lib/python3.7/site-packages/scipy/stats/_distn_infrastructure.py:3182: RuntimeWarning: invalid value encountered in less
   cond2 = (k < _a) & cond0
 Calculating the baseline
-CG baseline value is: 0.2845352087715852
-CHG baseline value is: 0.05647269779098112
-CHH baseline value is: 0.011549774968000909
+CG baseline value is: 0.2829252470136191
+CHG baseline value is: 0.05297463403323828
+CHH baseline value is: 0.010693274279710605
