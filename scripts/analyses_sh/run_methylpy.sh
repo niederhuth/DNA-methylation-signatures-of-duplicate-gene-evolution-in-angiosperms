@@ -20,12 +20,14 @@ read_single="fastq/*fastq.gz"
 read1="fastq/*_1.fastq.gz"
 read2="fastq/*_2.fastq.gz"
 unmethylated_control=$(awk -v FS="," -v a="$sample" '$1 == a' ../../misc/genomes.csv | cut -d ',' -f 4)
-adaptor_single="AGATCGGAAGAGCACACGTCTG"
-adaptor1="AGATCGGAAGAGCACACGTCTGAAC"
-adaptor2="AGATCGGAAGAGCGTCGTGTAGGGA"
 aligner="bowtie2"
 aligner_options="--very-sensitive -X 1000"
 picard="$HOME/miniconda3/envs/gene-duplication/share/picard-2.21.2-0"
+#Adaptor sequences, these are default for methylpy, you may want to change if necessary
+adaptor_single="AGATCGGAAGAGCACACGTCTG"
+adaptor1="AGATCGGAAGAGCACACGTCTGAAC"
+adaptor2="AGATCGGAAGAGCGTCGTGTAGGGA"
+
 
 #Run Methylpy
 echo "Unmethylated Control is $unmethylated_control"
