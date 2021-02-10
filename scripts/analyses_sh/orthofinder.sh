@@ -1,9 +1,9 @@
 #!/bin/bash --login
-#SBATCH --time=96:00:00
+#SBATCH --time=168:00:00
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
-#SBATCH --cpus-per-task=128
-#SBATCH --mem=128GB
+#SBATCH --cpus-per-task=100
+#SBATCH --mem=300GB
 #SBATCH --job-name orthofinder
 #SBATCH --output=%x-%j.SLURMout
 
@@ -13,7 +13,7 @@ export LD_LIBRARY_PATH="$HOME/miniconda3/envs/orthofinder/lib:$LD_LIBRARY_PATH"
 
 #Set Variables
 species=$(cut -d ',' -f1 ../../misc/genomes.csv | sed '1d' | tr '\n' ' ')
-threads=128
+threads=100
 threads2=4
 
 #Run OrthoFinder
@@ -29,7 +29,9 @@ orthofinder \
 	-t $threads \
 	-a $threads2 \
 	-M dendroblast \
-	-S diamond \
+	-S diamond_ultra_sens \
+	-I 1.3 \
+	-y \
 	-o orthofinder \
 	-f seqs/
 
