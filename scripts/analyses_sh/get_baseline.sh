@@ -4,8 +4,8 @@
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=1
 #SBATCH --mem=10GB
-#SBATCH --job-name ../misc/get_baseline
-#SBATCH --output=%x-%j.SLURMout
+#SBATCH --job-name get_baseline
+#SBATCH --output=../misc/%x-%j.SLURMout
 
 cd $PBS_O_WORKDIR
 

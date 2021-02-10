@@ -1,11 +1,11 @@
 #!/bin/bash --login
-#SBATCH --time=1:00:00
+#SBATCH --time=3:59:00
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=1
-#SBATCH --mem=1GB
-#SBATCH --job-name job_reports/TE_gene_distribution
-#SBATCH --output=%x-%j.SLURMout
+#SBATCH --mem=20GB
+#SBATCH --job-name TE_gene_distribution
+#SBATCH --output=job_reports/%x-%j.SLURMout
 
 cd $PBS_O_WORKDIR
 export PATH="$HOME/miniconda3/envs/gene-duplication/bin:$PATH"
