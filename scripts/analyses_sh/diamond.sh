@@ -22,19 +22,19 @@ species=$(cut -d ',' -f1 ../../misc/genomes.csv | sed '1d' | tr '\n' ' ')
 mkdir diamond
 cd diamond
 
-for i in $species
+for i in ${species}
 do
 
-	echo "$x $i blastp"
+	echo "${x} ${i} blastp"
 	diamond blastp \
-		--threads $threads \
-		--db ../../$i/ref/mcscanx/"$i".dmnd \
-		--query ../ref/mcscanx/"$x"-protein.fa \
-		--out "$x"-"$i".m8 \
-		--un "$x"-"$i"-un.fa \
+		--threads ${threads} \
+		--db ../../${i}/ref/mcscanx/${i}.dmnd \
+		--query ../ref/mcscanx/${x}-protein.fa \
+		--out ${x}-${i}.m8 \
+		--un ${x}-${i}-un.fa \
  		--more-sensitive \
-		--evalue $evalue \
-		--max-target-seqs $max_target_seqs \
+		--evalue ${evalue} \
+		--max-target-seqs ${max_target_seqs} \
 		--unal 0
 
 done

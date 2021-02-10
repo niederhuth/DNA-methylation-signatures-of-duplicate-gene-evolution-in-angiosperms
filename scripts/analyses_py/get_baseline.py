@@ -8,7 +8,7 @@ sys.path.append(os.path.dirname(os.path.expanduser(functionsfile)))
 import functions
 
 #define variables
-mc_type=['CG','CHG','CHH']
+mc_type=['CG','CHG','CHH','CH']
 baseline={}
 calc_baseline='True'
 min_sites=0

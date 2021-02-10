@@ -7,9 +7,9 @@
 #SBATCH --job-name orthofinder
 #SBATCH --output=%x-%j.SLURMout
 
-cd $PBS_O_WORKDIR
-export PATH="$HOME/miniconda3/envs/orthofinder/bin:$PATH"
-export LD_LIBRARY_PATH="$HOME/miniconda3/envs/orthofinder/lib:$LD_LIBRARY_PATH"
+cd ${PBS_O_WORKDIR}
+export PATH="${HOME}/miniconda3/envs/orthofinder/bin:${PATH}"
+export LD_LIBRARY_PATH="${HOME}/miniconda3/envs/orthofinder/lib:${LD_LIBRARY_PATH}"
 
 #Set Variables
 species=$(cut -d ',' -f1 ../../misc/genomes.csv | sed '1d' | tr '\n' ' ')
@@ -19,15 +19,15 @@ threads2=4
 #Run OrthoFinder
 echo "Copying sequence files"
 mkdir seqs
-for i in $species
+for i in ${species}
 do
-	cp ../"$i"/ref/mcscanx/"$i"-protein.fa  seqs/"$i".fa
+	cp ../${i}/ref/mcscanx/${i}-protein.fa  seqs/${i}.fa
 done
 
 echo "Running OrthoFinder"
 orthofinder \
-	-t $threads \
-	-a $threads2 \
+	-t ${threads} \
+	-a ${threads2} \
 	-M dendroblast \
 	-S diamond_ultra_sens \
 	-I 1.3 \
@@ -36,20 +36,27 @@ orthofinder \
 	-f seqs/
 
 echo "Create orthogroup list"
-while read line
+sed '1d' orthofinder/*/Phylogenetic_Hierarchical_Orthogroups/N0.tsv | while read line
 do
-	og=$(echo $line | cut -d ' ' -f1 | sed s/\\:$//)
-	echo $line | tr ' ' '\n' | sed '1d' | awk -v OFS='\t' -v a=$og '{print $0,a}' >> orthogroup_list.tsv
-done < orthofinder/*/Orthogroups/Orthogroups.txt
+	og=$(echo ${line} | cut -d ' ' -f1 | sed s/\\:$//) 
+	echo ${line} | cut -d ' ' -f4- | tr ' ' '\n' | sed s/,$// | awk -v OFS='\t' -v a=${og} '{print $0,a}' >> orthogroup_list.tsv 
+done
 
 echo "Get orthogroups for each species & gene"
 for i in $species
 do
-	echo $i
-	cut -f2 ../"$i"/ref/mcscanx/"$i".gff > tmp
-	fgrep -f tmp orthogroup_list.tsv > ../"$i"/ref/mcscanx/"$i"_orthogroups.tsv
+	echo ${i}
+	cut -f2 ../${i}/ref/mcscanx/${i}.gff > tmp
+	fgrep -f tmp orthogroup_list.tsv > ../${i}/ref/mcscanx/${i}_orthogroups.tsv
+	cut -f1 ../${i}/ref/mcscanx/${i}_orthogroups.tsv > tmp2
+	a=1
+	fgrep -f tmp2 tmp | while read line
+	do
+		echo $line ${i}_${a} | tr ' ' '\t' >> ../${i}/ref/mcscanx/${i}_orthogroups.tsv
+		a=$(expr ${a} + 1)
+	done
 done
-rm tmp
+rm tmp tmp2
 
 echo "Done"
 
