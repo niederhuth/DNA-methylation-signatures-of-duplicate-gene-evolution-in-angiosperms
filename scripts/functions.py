@@ -531,17 +531,22 @@ def gene_binom_test(df,output=(),mc_type=['CG','CHG','CHH'],baseline={},min_site
 #setting works by calculating the total weighted methylation for all contexts (CG + CHG + CHH) and then
 #classifying any gene with a total weighted methylation below this cutoff as unmethylated. So if the cutoff
 #is set at 0.01, that means any gene with a weighted methylation above 0.01 (1%) will not be considered 
-#unmethylated.
-def classify(row,min_sites=20,qvalue=0.05,uM_cutoff=0,uM_weighted_mC_cutoff=False):
+#unmethylated. The 'use_CH' argument determine whether or not to use CH in classifying genes, rather than
+#CHG & CHH separately.
+def classify(row,min_sites=20,qvalue=0.05,uM_cutoff=0,uM_weighted_mC_cutoff=False,use_CH=False):
 	mC_sites=(row['CG_Methylated_C']+row['CHG_Methylated_C']+row['CHH_Methylated_C'])
 	total_sites=(row['CG_Total_C']+row['CHG_Total_C']+row['CHH_Total_C'])
 	mC_reads=(row['CG_Methylated_Reads']+row['CHG_Methylated_Reads']+row['CHH_Methylated_Reads'])
 	total_reads=(row['CG_Total_Reads']+row['CHG_Total_Reads']+row['CHH_Total_Reads'])
 	#Classify genes based on qvalue
-	if row['CHH_qvalue'] <= qvalue and row['CHH_Total_C'] >= min_sites:
-		return 'TE-like'
-	elif row['CHG_qvalue'] <= qvalue and row['CHG_Total_C'] >= min_sites:
-		return 'TE-like'
+	if use_CH:
+		if row['CH_qvalue'] <= qvalue and row['CH_Total_C'] >= min_sites:
+			return 'TE-like'
+	elif not use_CH:
+		if row['CHH_qvalue'] <= qvalue and row['CHH_Total_C'] >= min_sites:
+			return 'TE-like'
+		elif row['CHG_qvalue'] <= qvalue and row['CHG_Total_C'] >= min_sites:
+			return 'TE-like'
 	elif row['CG_qvalue'] <= qvalue and row['CG_Total_C'] >= min_sites:
 		return 'gbM'
 	#Check if number of methylated sites is at or below the cutoff to call unmethylated genes
@@ -557,10 +562,10 @@ def classify(row,min_sites=20,qvalue=0.05,uM_cutoff=0,uM_weighted_mC_cutoff=Fals
 
 #Script for calling "classify" function and applying to table
 #See "classify" function for details of arguments
-def classify_genes(df,output=(),min_sites=20,qvalue=0.05,uM_cutoff=0,uM_weighted_mC_cutoff=False):
+def classify_genes(df,output=(),min_sites=20,qvalue=0.05,uM_cutoff=0,uM_weighted_mC_cutoff=False,use_CH=False):
 	a = pd.read_table(df,sep="\t")
 	a['Classification'] = a.apply(classify,axis=1,min_sites=min_sites,qvalue=qvalue,
-				uM_cutoff=uM_cutoff,uM_weighted_mC_cutoff=uM_weighted_mC_cutoff)
+				uM_cutoff=uM_cutoff,uM_weighted_mC_cutoff=uM_weighted_mC_cutoff,use_CH=use_CH)
 	if output:
 		a.to_csv(output, sep='\t', index=False)
 	else:
