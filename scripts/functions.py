@@ -647,7 +647,18 @@ def motif2bed(motif,fasta,reverse_strand=True,output=()):
 	else:
 		return(motif_bed)
 
-
+#Function for adding columns with combined CHG & CHH methylation data
+def add_CH(df,output)
+	a = pd.read_csv(df,sep='\t')
+	a['CH_Total_C'] = a['CHG_Total_C'] + a['CHH_Total_C']
+	a['CH_Methylated_C'] = a['CHG_Methylated_C'] + a['CHH_Methylated_C']
+	a['CH_Total_Reads'] = a['CHG_Total_Reads'] + a['CHH_Total_Reads']
+	a['CH_Methylated_Reads'] = a['CHG_Methylated_Reads'] + a['CHH_Methylated_Reads']
+	a['CH_Weighted_mC'] = a['CHG_Methylated_Reads']/a['CHH_Total_Reads']
+	if output
+		a.to_csv(output, sep='\t', index=False)
+	else
+		return a
 
 
 

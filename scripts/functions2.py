@@ -558,7 +558,7 @@ def classify(row,min_sites=20,qvalue=0.05,uM_cutoff=0,uM_weighted_mC_cutoff=Fals
 #Script for calling "classify" function and applying to table
 #See "classify" function for details of arguments
 def classify_genes(df,output=(),min_sites=20,qvalue=0.05,uM_cutoff=0,uM_weighted_mC_cutoff=False):
-	a = pd.read_table(df,sep="\t")
+	a = pd.read_csv(df,sep="\t")
 	a['Classification'] = a.apply(classify,axis=1,min_sites=min_sites,qvalue=qvalue,
 				uM_cutoff=uM_cutoff,uM_weighted_mC_cutoff=uM_weighted_mC_cutoff)
 	if output:
