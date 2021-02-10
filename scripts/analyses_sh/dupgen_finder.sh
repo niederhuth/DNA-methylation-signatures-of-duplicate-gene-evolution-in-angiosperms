@@ -80,7 +80,7 @@ awk -v OFS="\t" '{ print $1,"unclassified" }' tmp2 >> classified_genes.tsv
 rm tmp tmp2
 
 #gene orientation
-awk -v OFS="\t"  '{if ($3=="gene") print $9,$7}' ../../ref/annotations/"$sample".gff | \ 
+awk -v OFS="\t"  '{if ($3=="gene") print $9,$7}' ../../ref/annotations/"$sample".gff | \
 sed s/^.*\=// > orientation.tsv
 
 echo "Done"
