@@ -14,7 +14,7 @@ export LD_LIBRARY_PATH="${HOME}/miniconda3/envs/orthofinder/lib:${LD_LIBRARY_PAT
 #Set Variables
 species=$(cut -d ',' -f1 ../../misc/genomes.csv | sed '1d' | tr '\n' ' ')
 threads=100
-threads2=4
+threads2=6
 
 #Run OrthoFinder
 echo "Copying sequence files"
@@ -32,14 +32,19 @@ orthofinder \
 	-S diamond_ultra_sens \
 	-I 1.3 \
 	-y \
+	-s ../../misc/SpeciesTree_rooted.txt \
 	-o orthofinder \
 	-f seqs/
 
 echo "Create orthogroup list"
+if [ -f orthogroup_list.tsv ]
+then
+	rm orthogroup_list.tsv
+fi
 sed '1d' orthofinder/*/Phylogenetic_Hierarchical_Orthogroups/N0.tsv | while read line
 do
 	og=$(echo ${line} | cut -d ' ' -f1 | sed s/\\:$//) 
-	echo ${line} | cut -d ' ' -f4- | tr ' ' '\n' | sed s/,$// | awk -v OFS='\t' -v a=${og} '{print $0,a}' >> orthogroup_list.tsv 
+	echo ${line} | cut -d ' ' -f4- | tr -d $'\r' | sed s/,//g | tr ' ' ',' | sed s/,$// | tr ',' '\n' | awk -v OFS='\t' -v a=${og} '{print $0,a}' >> orthogroup_list.tsv 
 done
 
 echo "Get orthogroups for each species & gene"
@@ -50,7 +55,7 @@ do
 	fgrep -f tmp orthogroup_list.tsv > ../${i}/ref/mcscanx/${i}_orthogroups.tsv
 	cut -f1 ../${i}/ref/mcscanx/${i}_orthogroups.tsv > tmp2
 	a=1
-	fgrep -f tmp2 tmp | while read line
+	fgrep -v -f tmp2 tmp | while read line
 	do
 		echo $line ${i}_${a} | tr ' ' '\t' >> ../${i}/ref/mcscanx/${i}_orthogroups.tsv
 		a=$(expr ${a} + 1)

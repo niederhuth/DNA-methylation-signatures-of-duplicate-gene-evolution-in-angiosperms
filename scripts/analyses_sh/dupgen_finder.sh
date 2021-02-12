@@ -1,5 +1,5 @@
 #!/bin/bash --login
-#SBATCH --time=24:00:00
+#SBATCH --time=1:00:00
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=1
@@ -18,8 +18,8 @@ export LD_LIBRARY_PATH="$HOME/miniconda3/envs/gene-duplication/lib:$LD_LIBRARY_P
 #Set Variables
 sample=$(pwd | sed s/^.*\\///)
 outgroup=$(awk -v FS="," -v a="$sample" '$1 == a' ../../misc/genomes.csv | cut -d ',' -f 8)
-collinear_genes=4
-proximal_distance=10
+collinear_genes=3
+proximal_distance=20
 
 #Copy over data
 mkdir dupgen
@@ -79,9 +79,7 @@ fgrep -v -f tmp "$sample".gff.sorted > tmp2
 awk -v OFS="\t" '{ print $1,"unclassified" }' tmp2 >> classified_genes.tsv
 rm tmp tmp2
 
-#gene orientation
-awk -v OFS="\t"  '{if ($3=="gene") print $9,$7}' ../../ref/annotations/"$sample".gff | \
-sed s/^.*\=// > orientation.tsv
+cut -f2 classified_genes.tsv | sort | uniq -c
 
 echo "Done"
 

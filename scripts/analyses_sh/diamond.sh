@@ -3,7 +3,7 @@
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=50
-#SBATCH --mem=60GB
+#SBATCH --mem=100GB
 #SBATCH --job-name diamond
 #SBATCH --output=job_reports/%x-%j.SLURMout
 
@@ -14,7 +14,7 @@ export LD_LIBRARY_PATH="$HOME/miniconda3/envs/gene-duplication/lib:$LD_LIBRARY_P
 #Set Variables
 threads=50
 evalue=0.00001
-max_target_seqs=20
+max_target_seqs=0
 
 #Run diamond
 x=$(pwd | sed s/^.*\\///)
