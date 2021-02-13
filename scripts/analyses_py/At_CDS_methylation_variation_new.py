@@ -2,7 +2,7 @@ import os
 import sys
 import pandas as pd
 
-functionsfile = '../../../scripts/new_functions.py'
+functionsfile = '../../../../scripts/new_functions.py'
 sys.path.append(os.path.dirname(os.path.expanduser(functionsfile)))
 
 import new_functions as functions
@@ -19,7 +19,7 @@ site_cutoff_only=True
 primary_feature='gene'
 secondary_feature='CDS'
 bedfile="allc.bed"
-output='results/CDS_methylation.tsv'
+output='CDS_methylation.tsv'
 
 #get chromosome list
 chrs = list(pd.read_csv(genome_file,header=None,usecols=[0],dtype='str',sep="\t")[0])

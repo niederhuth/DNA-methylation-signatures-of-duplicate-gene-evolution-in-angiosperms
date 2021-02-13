@@ -34,7 +34,7 @@ fi
 echo "Get gene CDS methylation data"
 python ../../../../scripts/analyses_py/At_CDS_methylation_variation_new.py
 
-#rm tmp.gz
+rm tmp.gz allc.bed
 
 echo $done 
 
