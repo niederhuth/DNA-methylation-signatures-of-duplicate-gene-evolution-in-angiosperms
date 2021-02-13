@@ -18,6 +18,7 @@ wget ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE43nnn/GSE43857/suppl/GSE43857_RAW.
 #Untar data
 echo "Unpack tar files"
 tar -xvf GSE43857_RAW.tar
+touch *
 
 #make sample directories
 echo "Creating sample directories"
@@ -28,8 +29,8 @@ do
 	mv $i $name
 done
 
-#Remove tar files
-#rm GSE43857_RAW.tar
+#Remove tar file
+rm GSE43857_RAW.tar
 
 echo "Done"
 
