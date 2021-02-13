@@ -1,9 +1,9 @@
 #!/bin/bash --login
-#SBATCH --time=12:00:00
+#SBATCH --time=24:00:00
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=1
-#SBATCH --mem=40GB
+#SBATCH --mem=20GB
 #SBATCH --job-name At_CDS_methylation
 #SBATCH --output=%x-%j.SLURMout
 
@@ -32,9 +32,9 @@ fi
 	
 #get total weighted mC
 echo "Get gene CDS methylation data"
-python ../../../../scripts/analyses_py/At_CDS_methylation_variation.py
+python ../../../../scripts/analyses_py/At_CDS_methylation_variation_new.py
 
-#rm tmp.gz CDS_filtered_allc.tmp
+#rm tmp.gz
 
 echo $done 
 

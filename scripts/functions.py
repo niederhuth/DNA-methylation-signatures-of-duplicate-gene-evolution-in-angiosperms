@@ -66,7 +66,18 @@ def chr_filter(x,chr):
 
 #interpret sequence context, taken from methylpy utilities
 def expand_nucleotide_code(mc_type=['C']):
-	iub_dict = {'N':['A','C','G','T','N'],'H':['A','C','T','H'],'D':['A','G','T','D'],'B':['C','G','T','B'],'A':['A','C','G','A'],'R':['A','G','R'],'Y':['C','T','Y'],'K':['G','T','K'],'M':['A','C','M'],'S':['G','C','S'],'W':['A','T','W'],'C':['C'],'G':['G'],'T':['T'],'A':['A']}
+	iub_dict = {'N':['A','C','G','T','N'],
+				'H':['A','C','T','H'],
+				'D':['A','G','T','D'],
+				'B':['C','G','T','B'],
+				'A':['A','C','G','A'],
+				'R':['A','G','R'],
+				'Y':['C','T','Y'],
+				'K':['G','T','K'],
+				'M':['A','C','M'],
+				'S':['G','C','S'],
+				'W':['A','T','W'],
+				'C':['C'],'G':['G'],'T':['T'],'A':['A']}
 	mc_class = list(mc_type) # copy
 	if 'C' in mc_type:
 		mc_class.extend(['CGN', 'CHG', 'CHH','CNN'])
@@ -87,10 +98,14 @@ def allc2bed(allc,return_bed=True):
 	#check if first line contains header
 	if header == 'chr\tpos\tstrand\tmc_class\tmc_count\ttotal\tmethylated':
 		#read in allc file to pandas dataframe
-		a = pd.read_csv(allc,dtype={'chr':str,'pos':int,'strand':str,'mc_class':str,'mc_count':int,'total':int,'methylated':int},sep="\t")
+		a = pd.read_csv(allc,
+			dtype={'chr':str,'pos':int,'strand':str,'mc_class':str,'mc_count':int,'total':int,'methylated':int},
+			sep="\t")
 	else:
 		#read in allc file to pandas dataframe, add header if does not have one
-		a = pd.read_csv(allc,names=['chr','pos','strand','mc_class','mc_count','total','methylated'],dtype={'chr':str,'pos':int,'strand':str,'mc_class':str,'mc_count':int,'total':int,'methylated':int},sep="\t")
+		a = pd.read_csv(allc,names=['chr','pos','strand','mc_class','mc_count','total','methylated'],
+			dtype={'chr':str,'pos':int,'strand':str,'mc_class':str,'mc_count':int,'total':int,'methylated':int},
+			sep="\t")
 	#if return_bed = True, convert to bedfile
 	if return_bed is True:
 		#add new columns
@@ -105,7 +120,8 @@ def allc2bed(allc,return_bed=True):
 	return a
 
 #Collect mC data for a context
-#If site_cutoff_only is set to "True", then the cutoff will only apply to tallying number of sites & methylated reads called by methylpy
+#If site_cutoff_only is set to "True", then the cutoff will only apply to tallying number of 
+#sites & methylated reads called by methylpy
 def get_mC_data(a,mc_type='C',cutoff=0,site_cutoff_only=False):
 	#expand nucleotide list for a given context
 	b = expand_nucleotide_code(mc_type=[mc_type])
@@ -165,7 +181,8 @@ def total_weighted_mC(allc,output=(),mc_type=['CG','CHG','CHH'],cutoff=0,chrs=[]
 		return b
 
 #for calculating methylation levels in windows across the genome
-def genome_window_methylation(allc,genome_file,output=(),mc_type=['CG','CHG','CHH'],window_size=100000,stepsize=50000,cutoff=0,chrs=[],site_cutoff_only=False):
+def genome_window_methylation(allc,genome_file,output=(),mc_type=['CG','CHG','CHH'],
+		window_size=100000,stepsize=50000,cutoff=0,chrs=[],site_cutoff_only=False):
 	#read in allc file
 	print("Reading allc file")
 	a = allc2bed(allc)
@@ -179,7 +196,8 @@ def genome_window_methylation(allc,genome_file,output=(),mc_type=['CG','CHG','CH
 	b = pd.DataFrame(columns=c)
 	#make windows
 	print("Making genome windows")
-	w_bed = pbt.bedtool.BedTool.window_maker(pbt.BedTool(genome_file),g=genome_file,w=window_size,s=stepsize,i='srcwinnum').filter(chr_filter,chrs)
+	w_bed = pbt.bedtool.BedTool.window_maker(pbt.BedTool(genome_file),g=genome_file,
+		w=window_size,s=stepsize,i='srcwinnum').filter(chr_filter,chrs)
 	#intersect bedfiles with pybedtools
 	print("Mapping DNA methylation data to windows")
 	mapping = pbt.bedtool.BedTool.intersect(a,w_bed,wa=True,wb=True)
@@ -225,21 +243,25 @@ def genome_window_methylation(allc,genome_file,output=(),mc_type=['CG','CHG','CH
 		return b
 
 #create filtered allc of sites mapping to annotations
-def allc_annotation_filter(allc,annotations,genome_file,output=(),updown_stream=2000,first_feature=(),second_feature=(),chrs=[]):
+def allc_annotation_filter(allc,annotations,genome_file,output=(),updown_stream=2000,
+		first_feature=(),second_feature=(),chrs=[]):
 	#read in annotations and filter by first feature, typically a something like 'gene'
 	#this is used solely to accurately create flanking regions
 	print("Reading annotations")
 	bed = pbt.BedTool(annotations).filter(feature_filter,first_feature).filter(chr_filter,chrs)
 	#create bedfile of flanking regions (if specified)
 	print("Getting flanking regions")
-	flank_bed = pbt.bedtool.BedTool.flank(bed,g=genome_file,l=updown_stream,r=updown_stream,s=True).saveas('f_bed.tmp')
+	flank_bed = pbt.bedtool.BedTool.flank(bed,g=genome_file,l=updown_stream,
+		r=updown_stream,s=True).saveas('f_bed.tmp')
 	#correct sites where the start is greater than the end
-	command="awk -v FS='\t' -v OFS='\t' '{$5=($4>$5&&$4==1?$4:$5)}; {$4=($4>$5&&$4!=1?$5:$4)} 1' f_bed.tmp > tmp; mv tmp f_bed.tmp"
+	command="awk -v FS='\t' -v OFS='\t' '{$5=($4>$5&&$4==1?$4:$5)}; \
+			{$4=($4>$5&&$4!=1?$5:$4)} 1' f_bed.tmp > tmp; mv tmp f_bed.tmp"
 	call(command, shell=True)
 	#read in annotations and filter by second annotation, typically a something like coding sequences 'CDS'
 	#this is the annotation used to first filter the data
 	print("Filtering second feature annotations")
-	cds_bed = pbt.BedTool(annotations).filter(feature_filter,second_feature).filter(chr_filter,chrs).saveas('c_bed.tmp')
+	cds_bed = pbt.BedTool(annotations).filter(feature_filter,second_feature).filter(chr_filter,
+		chrs).saveas('c_bed.tmp')
 	#combine flanking regions with second feature
 	print("Combining second feature and flanking region bed files")
 	combined_bed = cds_bed.cat(flank_bed, postmerge=False)
@@ -266,8 +288,10 @@ def allc_annotation_filter(allc,annotations,genome_file,output=(),updown_stream=
 	for b in tmp:
 		remove(b)
 
-#output methylation data for making metaplots of features (e.g. genes, CDS, transposons), will not filter out data from introns, etc...use gene_metaplot for that
-def metaplot(allc,annotations,genome_file,output=(),mc_type=['CG','CHG','CHH'],window_number=60,updown_stream=2000,feature=(),cutoff=0,chrs=[],site_cutoff_only=False):
+#output methylation data for making metaplots of features (e.g. genes, CDS, transposons), 
+#will not filter out data from introns, etc...use gene_metaplot for that
+def metaplot(allc,annotations,genome_file,output=(),mc_type=['CG','CHG','CHH'],
+		window_number=60,updown_stream=2000,feature=(),cutoff=0,chrs=[],site_cutoff_only=False):
 	#read in allc file
 	print("Reading allc file")
 	a = allc2bed(allc)
@@ -292,12 +316,14 @@ def metaplot(allc,annotations,genome_file,output=(),mc_type=['CG','CHG','CHH'],w
 		#upstream regions
 		u_bed = pbt.bedtool.BedTool.flank(f_bed,g=genome_file,l=updown_stream,r=0,s=True).saveas('u_bed.tmp')
 		#correct sites where the start is greater than the end
-		command="awk -v FS='\t' -v OFS='\t' '{$5=($4>$5&&$4==1?$4:$5)}; {$4=($4>$5&&$4!=1?$5:$4)} 1' u_bed.tmp > tmp; mv tmp u_bed.tmp"
+		command="awk -v FS='\t' -v OFS='\t' '{$5=($4>$5&&$4==1?$4:$5)}; \
+				{$4=($4>$5&&$4!=1?$5:$4)} 1' u_bed.tmp > tmp; mv tmp u_bed.tmp"
 		call(command, shell=True)
 		#downstream regions
 		d_bed = pbt.bedtool.BedTool.flank(f_bed,g=genome_file,l=0,r=updown_stream,s=True).saveas('d_bed.tmp')
 		#correct sites where the start is greater than the end
-		command="awk -v FS='\t' -v OFS='\t' '{$5=($4>$5&&$4==1?$4:$5)}; {$4=($4>$5&&$4!=1?$5:$4)} 1' d_bed.tmp > tmp; mv tmp d_bed.tmp"
+		command="awk -v FS='\t' -v OFS='\t' '{$5=($4>$5&&$4==1?$4:$5)}; {$4=($4>$5&&$4!=1?$5:$4)} 1' \
+				d_bed.tmp > tmp; mv tmp d_bed.tmp"
 		call(command, shell=True)
 		regions=[u_bed,f_bed,d_bed]
 	#set window number to 1
@@ -310,7 +336,8 @@ def metaplot(allc,annotations,genome_file,output=(),mc_type=['CG','CHG','CHH'],w
 		n_bed = f.filter(strand_filter,strand='-').saveas('n_bed.tmp')
 		#make windows
 		pw_bed = pbt.bedtool.BedTool.window_maker(p_bed,b=p_bed,n=int(window_number/3),i='srcwinnum')
-		nw_bed = pbt.bedtool.BedTool.window_maker(n_bed,b=n_bed,n=int(window_number/3),i='srcwinnum',reverse=True)
+		nw_bed = pbt.bedtool.BedTool.window_maker(n_bed,b=n_bed,n=int(window_number/3),i='srcwinnum',
+			reverse=True)
 		#combine windows
 		w_bed = pw_bed.cat(nw_bed, postmerge=False)
 		#intersect bedfiles with pybedtools
@@ -354,20 +381,26 @@ def metaplot(allc,annotations,genome_file,output=(),mc_type=['CG','CHG','CHH'],w
 	for n in tmp:
 		remove(n)
 
-#output methylation data for making metaplots of features (e.g. genes, CDS, transposons), for use when need to first filter data from another feature, such as intron sequences
-def gene_metaplot(allc,annotations,genome_file,output=(),mc_type=['CG','CHG','CHH'],window_number=60,updown_stream=2000,cutoff=0,first_feature=(),second_feature=(),chrs=[],filtered_data_output='annotation_filtered_allc.tmp',remove_tmp=True):
+#output methylation data for making metaplots of features (e.g. genes, CDS, transposons), 
+#for use when need to first filter data from another feature, such as intron sequences
+def gene_metaplot(allc,annotations,genome_file,output=(),mc_type=['CG','CHG','CHH'],
+		window_number=60,updown_stream=2000,cutoff=0,first_feature=(),second_feature=(),
+		chrs=[],filtered_data_output='annotation_filtered_allc.tmp',remove_tmp=True):
 	#prefilter allc file based on annotations
 	print("Filtering data for sites in annotations")
-	allc_annotation_filter(allc,annotations,genome_file,output=filtered_data_output,updown_stream=updown_stream,first_feature=first_feature,second_feature=second_feature,chrs=chrs)
+	allc_annotation_filter(allc,annotations,genome_file,output=filtered_data_output,
+		updown_stream=updown_stream,first_feature=first_feature,second_feature=second_feature,chrs=chrs)
 	#collect methylation data
 	print("Collecting metaplot data")
-	metaplot(filtered_data_output,annotations,genome_file,output=output,mc_type=mc_type,window_number=window_number,updown_stream=updown_stream,feature=first_feature,cutoff=0,chrs=chrs)
+	metaplot(filtered_data_output,annotations,genome_file,output=output,mc_type=mc_type,
+		window_number=window_number,updown_stream=updown_stream,feature=first_feature,cutoff=0,chrs=chrs)
 	#remove annotation filtered allc file, if set to false, this will be kept
 	if remove_tmp:
 		remove(filtered_data_output)
 
 #Calculate methylation levels for features
-def feature_methylation(allc,annotations,genome_file,output=(),mc_type=['CG','CHG','CHH'],updown_stream=0,feature=(),cutoff=0,chrs=[],site_cutoff_only=False):
+def feature_methylation(allc,annotations,genome_file,output=(),mc_type=['CG','CHG','CHH'],
+		updown_stream=0,feature=(),cutoff=0,chrs=[],site_cutoff_only=False):
 	#read in allc file
 	a = allc2bed(allc)
 	#create output data frame
@@ -387,12 +420,14 @@ def feature_methylation(allc,annotations,genome_file,output=(),mc_type=['CG','CH
 		#upstream regions
 		u_bed = pbt.bedtool.BedTool.flank(f_bed,g=genome_file,l=updown_stream,r=0,s=True).saveas('u_bed.tmp')
 		#correct sites where the start is greater than the end
-		command="awk -v FS='\t' -v OFS='\t' '{$5=($4>$5&&$4==1?$4:$5)}; {$4=($4>$5&&$4!=1?$5:$4)} 1' u_bed.tmp > tmp; mv tmp u_bed.tmp"
+		command="awk -v FS='\t' -v OFS='\t' '{$5=($4>$5&&$4==1?$4:$5)}; \
+				{$4=($4>$5&&$4!=1?$5:$4)} 1' u_bed.tmp > tmp; mv tmp u_bed.tmp"
 		call(command, shell=True)
 		#downstream regions
 		d_bed = pbt.bedtool.BedTool.flank(f_bed,g=genome_file,l=0,r=updown_stream,s=True).saveas('d_bed.tmp')
 		#correct sites where the start is greater than the end
-		command="awk -v FS='\t' -v OFS='\t' '{$5=($4>$5&&$4==1?$4:$5)}; {$4=($4>$5&&$4!=1?$5:$4)} 1' d_bed.tmp > tmp; mv tmp d_bed.tmp"
+		command="awk -v FS='\t' -v OFS='\t' '{$5=($4>$5&&$4==1?$4:$5)}; \
+				{$4=($4>$5&&$4!=1?$5:$4)} 1' d_bed.tmp > tmp; mv tmp d_bed.tmp"
 		call(command, shell=True)
 		regions=['u_bed.tmp','d_bed.tmp']
 	#iterate over each region and collect methylation data
@@ -518,8 +553,8 @@ def gene_binom_test(df,output=(),mc_type=['CG','CHG','CHH'],baseline={},min_site
 		return a
 
 #Subscript for classifying genes based on binomial test results
-#min_sites is minimum number of sites with read coverage that are needed to consider a gene for classification
-#qvalue is the adjusted p-value used as a cutoff for gene classificaiton
+#min_sites is minimum number of sites with read coverage that are needed to consider a gene for 
+#classification. qvalue is the adjusted p-value used as a cutoff for gene classificaiton
 #For unmethylated genes, you can simply set a cutoff "uM_cutoff" on number of methylated reads permitted to 
 #call a gene as unmethylated. The default value is 0, but this may be too harsh. However, if this value is
 #set too high, then you run the risk of forcing many methylated genes as unmethylated. I recommend setting 
@@ -531,9 +566,9 @@ def gene_binom_test(df,output=(),mc_type=['CG','CHG','CHH'],baseline={},min_site
 #setting works by calculating the total weighted methylation for all contexts (CG + CHG + CHH) and then
 #classifying any gene with a total weighted methylation below this cutoff as unmethylated. So if the cutoff
 #is set at 0.01, that means any gene with a weighted methylation above 0.01 (1%) will not be considered 
-#unmethylated. The 'use_CH' argument determine whether or not to use CH in classifying genes, while, 'use_subCH'
-#determines whether to use CHG & CHH separately for classification. Both options can be set to True at the 
-#same time.
+#unmethylated. The 'use_CH' argument determine whether or not to use CH in classifying genes, while, 
+#'use_subCH' determines whether to use CHG & CHH separately for classification. Both options can be set 
+#to True at the same time.
 def classify(row,min_sites=20,qvalue=0.05,uM_cutoff=0,uM_weighted_mC_cutoff=False,use_subCH=True,use_CH=False):
 	mC_sites=(row['CG_Methylated_C']+row['CHG_Methylated_C']+row['CHH_Methylated_C'])
 	total_sites=(row['CG_Total_C']+row['CHG_Total_C']+row['CHH_Total_C'])
@@ -561,7 +596,8 @@ def classify(row,min_sites=20,qvalue=0.05,uM_cutoff=0,uM_weighted_mC_cutoff=Fals
 
 #Script for calling "classify" function and applying to table
 #See "classify" function for details of arguments
-def classify_genes(df,output=(),min_sites=20,qvalue=0.05,uM_cutoff=0,uM_weighted_mC_cutoff=False,use_subCH=True,use_CH=False):
+def classify_genes(df,output=(),min_sites=20,qvalue=0.05,uM_cutoff=0,uM_weighted_mC_cutoff=False,
+		use_subCH=True,use_CH=False):
 	a = pd.read_table(df,sep="\t")
 	a['Classification'] = a.apply(classify,axis=1,min_sites=min_sites,qvalue=qvalue,uM_cutoff=uM_cutoff,
 					uM_weighted_mC_cutoff=uM_weighted_mC_cutoff,use_subCH=use_subCH,use_CH=use_CH)
