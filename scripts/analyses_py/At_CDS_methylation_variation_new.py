@@ -8,8 +8,8 @@ sys.path.append(os.path.dirname(os.path.expanduser(functionsfile)))
 import new_functions as functions
 
 #define variables
-allc='allc_'+sys.argv[1]+'.tsv.gz'
-annotations='../../ref/annotations/Athaliana.gff'
+allc='tmp.gz'
+gff='../../ref/annotations/Athaliana.gff'
 genome_file='../../ref/Athaliana.fa.fai'
 filter_chr=['ChrL','ChrC','ChrM']
 mc_type=['CG','CHG','CHH','CH']
