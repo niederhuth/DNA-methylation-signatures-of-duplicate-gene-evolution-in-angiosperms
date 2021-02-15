@@ -1,5 +1,5 @@
 #!/bin/bash --login
-#SBATCH --time=100:00:00
+#SBATCH --time=48:00:00
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=1
@@ -22,5 +22,5 @@ sample=$(pwd | sed s/.*data\\/// | sed s/\\/.*//)
 #get total weighted mC
 echo "Get gene CDS methylation data for $sample"
 cd methylpy
-python ../../../scripts/analyses_py/CDS_methylation_new.py $sample
+python ../../../scripts/analyses_py/CDS_methylation.py $sample
 
