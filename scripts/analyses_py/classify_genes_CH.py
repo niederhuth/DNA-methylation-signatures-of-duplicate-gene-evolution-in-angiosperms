@@ -9,15 +9,15 @@ import functions
 
 #define variables
 mc_type=['CG','CHG','CHH','CH']
-baseline={'CG':0.2829252470136191,'CHG':0.05297463403323828,'CHH':0.010693274279710605,'CH':0.020270110077589717}
+baseline={'CG':0.29599914992309934,'CHG':0.046904099965876946,'CHH':0.010190688580620957,'CH':0.01839807637644858}
 calc_baseline=False
 use_subCH=True
 use_CH=True
-min_sites=15
+min_sites=20
 qvalue=0.05
 uM_cutoff=1
 uM_weighted_mC_cutoff=0.02
-df='results/CDS_methylation_CH.tsv'
+df='results/CDS_methylation.tsv'
 output='results/binomial_test_CH.tsv'
 output2='results/'+sys.argv[1]+'_classified_genes_CH.tsv'
 

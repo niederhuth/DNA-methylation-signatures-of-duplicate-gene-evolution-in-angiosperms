@@ -19,5 +19,5 @@ sample=$(pwd | sed s/^.*\\///)
 cd methylpy
 python ../../../scripts/analyses_py/classify_genes.py "$sample"
 
-cut -f23 results/"$sample"_classified_genes.tsv | sort | uniq -c 
+cut -f30 results/"$sample"_classified_genes.tsv | sort | uniq -c 
 

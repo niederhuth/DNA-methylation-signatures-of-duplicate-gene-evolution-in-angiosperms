@@ -44,7 +44,7 @@ fi
 sed '1d' orthofinder/*/Phylogenetic_Hierarchical_Orthogroups/N0.tsv | while read line
 do
 	og=$(echo ${line} | cut -d ' ' -f1 | sed s/\\:$//) 
-	echo ${line} | cut -d ' ' -f4- | tr -d $'\r' | sed s/,//g | tr ' ' ',' | sed s/,$// | tr ',' '\n' | awk -v OFS='\t' -v a=${og} '{print $0,a}' >> orthogroup_list.tsv 
+	echo ${line} | cut -d ' ' -f4- | tr -d $'\r' | sed s/,//g | tr ' ' ',' | sed s/,$// | tr ',' '\n' | awk -v OFS='\t' -v a=${og} '{print $0,a}' | sed s/gene_BVRB/gene:BVRB/ >> orthogroup_list.tsv 
 done
 
 echo "Get orthogroups for each species & gene"
