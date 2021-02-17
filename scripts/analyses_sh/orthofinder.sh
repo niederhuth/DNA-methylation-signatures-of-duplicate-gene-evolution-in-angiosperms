@@ -55,7 +55,7 @@ do
 	fgrep -f tmp orthogroup_list.tsv > ../${i}/ref/mcscanx/${i}_orthogroups.tsv
 	cut -f1 ../${i}/ref/mcscanx/${i}_orthogroups.tsv > tmp2
 	a=1
-	fgrep -v -f tmp2 tmp | while read line
+	fgrep -w -v -f tmp2 tmp | while read line
 	do
 		echo $line ${i}_${a} | tr ' ' '\t' >> ../${i}/ref/mcscanx/${i}_orthogroups.tsv
 		a=$(expr ${a} + 1)

@@ -3,7 +3,7 @@
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=1
-#SBATCH --mem=30GB
+#SBATCH --mem=80GB
 #SBATCH --job-name calculate_KaKs
 #SBATCH --output=job_reports/%x-%j.SLURMout
 
