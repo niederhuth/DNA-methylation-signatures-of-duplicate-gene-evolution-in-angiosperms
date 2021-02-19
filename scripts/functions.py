@@ -362,9 +362,20 @@ def metaplot(allc,annotations,genome_file,output=(),mc_type=['CG','CHG','CHH'],
 			j = [window]
 			#iterate over each mC type and run get_mC_data
 			for k in mc_type:
-				l = get_mC_data(i,mc_type=k,cutoff=cutoff,site_cutoff_only=site_cutoff_only)
-				#Calculate weighted methylation and add this to list of data for other mc_types
-				j += [(float64(l[4])/float64(l[3]))]
+				#check if i is empty
+				if i.empty:
+					#if empty, add 0 column
+					j += ['NA','NA','NA','NA','NA']
+				#else if not empty
+				else:
+					l = get_mC_data(i,mc_type=k,cutoff=cutoff,site_cutoff_only=site_cutoff_only)
+					#Check if there are any sites
+					if l[1] == 'NA':
+						#If no sites, output 'NA'
+						j += ['NA','NA','NA','NA','NA']
+					else:
+						#Calculate weighted methylation and add this to list of data for other mc_types
+						j += [l[1],l[2],l[3],l[4],(float64(l[4])/float64(l[3]))]
 			#append the results for that window to the dataframe
 			b = b.append(pd.DataFrame([j],columns=c),ignore_index=True)
 			#count windows
