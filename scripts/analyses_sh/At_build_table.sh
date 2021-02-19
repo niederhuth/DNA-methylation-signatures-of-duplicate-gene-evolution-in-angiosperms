@@ -19,7 +19,7 @@ cut -f1,23 ../methylpy/results/Athaliana_classified_genes.tsv | sed s/Classifica
 
 for i in GSM*
 do
-	cut -f23 "$i"/"$i"_classified_genes.tsv | sed s/Classification/"$i"/ > tmp
+	cut -f30 "$i"/"$i"_classified_genes.tsv | sed s/Classification/"$i"/ > tmp
 	paste -d ',' At_variation.tsv tmp > tmp2
 	mv tmp2 At_variation.tsv
 	rm tmp

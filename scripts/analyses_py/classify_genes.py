@@ -9,11 +9,11 @@ import functions
 
 #define variables
 mc_type=['CG','CHG','CHH','CH']
-baseline={'CG':0.29599914992309934,'CHG':0.046904099965876946,'CHH':0.010190688580620957,'CH':0.01839807637644858}
+baseline={'CG':0.2889305311613252,'CHG':0.05207688671614105,'CHH':0.011027553846255091,'CH':0.020258657524437968}
 calc_baseline=False
 use_subCH=True
-use_CH=False
-min_sites=20
+use_CH=True
+min_sites=10
 qvalue=0.05
 uM_cutoff=1
 uM_weighted_mC_cutoff=0.02
