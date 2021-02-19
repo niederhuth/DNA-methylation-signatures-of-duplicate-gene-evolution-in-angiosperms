@@ -481,7 +481,7 @@ def feature_methylation(allc,annotations,genome_file,output=(),mc_type=['CG','CH
 						j += ['NA','NA','NA','NA','NA']
 					else:
 						#Calculate weighted methylation and add this to list of data for other mc_types
-						j += [l[1],l[2],l[3],l[4],(float64(l[4])/float64(l[3]))]
+						j += [(float64(l[4])/float64(l[3]))]
 			#append the results for that window to the dataframe
 			b = b.append(pd.DataFrame([j],columns=c),ignore_index=True)
 	#output results
