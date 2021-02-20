@@ -80,9 +80,11 @@ def expand_nucleotide_code(mc_type=['C']):
 				'C':['C'],'G':['G'],'T':['T'],'A':['A']}
 	mc_class = list(mc_type) # copy
 	if 'C' in mc_type:
-		mc_class.extend(['CGN', 'CHG', 'CHH','CNN'])
+		mc_class.extend(['CNN'])
 	elif 'CG' in mc_type:
 		mc_class.extend(['CGN'])
+	elif 'CH' in mc_type:
+		mc_class.extend(['CHN'])
 	mc_class_final = []
 	for motif in mc_class:
 		mc_class_final.extend([''.join(i) for i in product(*[iub_dict[nuc] for nuc in motif])])
@@ -365,17 +367,17 @@ def metaplot(allc,annotations,genome_file,output=(),mc_type=['CG','CHG','CHH'],
 				#check if i is empty
 				if i.empty:
 					#if empty, add 0 column
-					j += ['NA','NA','NA','NA','NA']
+					j += ['NA']
 				#else if not empty
 				else:
 					l = get_mC_data(i,mc_type=k,cutoff=cutoff,site_cutoff_only=site_cutoff_only)
 					#Check if there are any sites
 					if l[1] == 'NA':
 						#If no sites, output 'NA'
-						j += ['NA','NA','NA','NA','NA']
+						j += ['NA']
 					else:
 						#Calculate weighted methylation and add this to list of data for other mc_types
-						j += [l[1],l[2],l[3],l[4],(float64(l[4])/float64(l[3]))]
+						j += [(float64(l[4])/float64(l[3]))]
 			#append the results for that window to the dataframe
 			b = b.append(pd.DataFrame([j],columns=c),ignore_index=True)
 			#count windows
@@ -481,7 +483,7 @@ def feature_methylation(allc,annotations,genome_file,output=(),mc_type=['CG','CH
 						j += ['NA','NA','NA','NA','NA']
 					else:
 						#Calculate weighted methylation and add this to list of data for other mc_types
-						j += [(float64(l[4])/float64(l[3]))]
+						j += [l[1],l[2],l[3],l[4],(float64(l[4])/float64(l[3]))]
 			#append the results for that window to the dataframe
 			b = b.append(pd.DataFrame([j],columns=c),ignore_index=True)
 	#output results
