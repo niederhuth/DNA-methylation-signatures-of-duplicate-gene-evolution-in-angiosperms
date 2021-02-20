@@ -31,25 +31,26 @@ Sb$variable <- gsub("_Weighted_mC","",Sb$variable)
 p <- ggplot(Os) + geom_line(aes(x=Window,y=value,color=variable,
                            linetype=Syntelogs),size=0.8) + 
   theme_bw() + scale_y_continuous("Weighted Methylation",labels=percent,
-                                  expand=c(0,0)) +
+                  limits=c(0,0.8),expand=c(0,0),breaks=c(0.2,0.4,0.6,0.8)) +
   scale_x_continuous("Coding Sequences",expand=c(0,0),breaks=c(1,20,40,60),
                      labels=c("-2000bp","Start","Stop","+2000bp")) +
   geom_vline(aes(xintercept=20),linetype="longdash",color="grey65") + 
   geom_vline(aes(xintercept=40),linetype="longdash",color="grey65") +
   scale_color_manual("mC Type",
                      values=c("violetred2","dodgerblue3","cyan3")) +
-  ggtitle("O. sativa")
+  ggtitle("O. sativa") + theme(plot.title = element_text(hjust = 0.5))
 ggsave("Osativa_GC_syntelog_metaplot.pdf",p,device="pdf")
 
 p <- ggplot(Sb) + geom_line(aes(x=Window,y=value,color=variable,
                                 linetype=Syntelogs),size=0.8) + 
   theme_bw() + scale_y_continuous("Weighted Methylation",labels=percent,
-                                  expand=c(0,0)) +
+                    limits=c(0,0.8),expand=c(0,0),breaks=c(0.2,0.4,0.6,0.8)) +
   scale_x_continuous("Coding Sequences",expand=c(0,0),breaks=c(1,20,40,60),
                      labels=c("-2000bp","Start","Stop","+2000bp")) +
   geom_vline(aes(xintercept=20),linetype="longdash",color="grey65") + 
   geom_vline(aes(xintercept=40),linetype="longdash",color="grey65") +
   scale_color_manual("mC Type",
                      values=c("violetred2","dodgerblue3","cyan3")) +
-  ggtitle("S. bicolor")
+  ggtitle("S. bicolor") + theme(plot.title = element_text(hjust = 0.5))
 ggsave("Sbicolor_GC_syntelog_metaplot.pdf",p,device="pdf")
+
