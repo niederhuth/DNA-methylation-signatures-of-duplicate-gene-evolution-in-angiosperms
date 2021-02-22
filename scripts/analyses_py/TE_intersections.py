@@ -2,6 +2,7 @@ import os
 import sys
 import pandas as pd
 import pybedtools as pbt
+import gffutils
 
 
 functionsfile = '../../scripts/functions.py'
@@ -22,8 +23,13 @@ output='methylpy/results/TE_intersections.tsv'
 chrs = list(pd.read_csv(genome_file,header=None,usecols=[0],dtype='str',sep="\t")[0])
 chrs = list(set(chrs).difference(filter_chr))
 
+#Create temporary gff database
+db = gffutils.create_db(gff, dbfn='temp.db', force=True, keep_order=True, merge_strategy='merge', sort_attribute_values=True)
+for pf in db.features_of_type('gene'):
+	pf_bed = pf_bed + '\t'.join([str(pf.seqid), str(pf.start), str(pf.stop), str(pf.attributes['Name'][0]), str('.'), str(pf.strand)] + '\n')
+
 #
-g_bed = pbt.BedTool(annotations).filter(functions.feature_filter,feature).filter(functions.chr_filter,chrs).saveas('g_bed.tmp')
+g_bed = pbt.BedTool(pf_bed, from_string=True).filter(functions.feature_filter,feature).filter(functions.chr_filter,chrs).saveas('g_bed.tmp')
 
 TE_table = pd.read_csv(g_bed.fn,header=None,usecols=[8],sep="\t")
 TE_table.rename(columns={8:'Gene'},inplace=True)
@@ -38,7 +44,7 @@ for a in updown_stream:
 
 for a in updown_stream:
 	b='up_'+str(a)+'bp'
-	s_bed = pbt.bedtool.BedTool.slop(g_bed,g=genome_file,l=a,r=0,s=True).saveas('s_bed.tmp')
+	s_bed = pbt.bedtool.BedTool.flank(g_bed,g=genome_file,l=a,r=0,s=True).saveas('s_bed.tmp')
 	mapping = pbt.bedtool.BedTool.intersect(s_bed,TEs,wa=True,wb=True)
 	m = pd.read_csv(mapping.fn,header=None,usecols=[8],sep="\t")
 	tmp = m[8].value_counts().to_dict()
@@ -46,7 +52,7 @@ for a in updown_stream:
 
 for a in updown_stream:
 	b='down_'+str(a)+'bp'
-	s_bed = pbt.bedtool.BedTool.slop(g_bed,g=genome_file,l=0,r=a,s=True).saveas('s_bed.tmp')
+	s_bed = pbt.bedtool.BedTool.flank(g_bed,g=genome_file,l=0,r=a,s=True).saveas('s_bed.tmp')
 	mapping = pbt.bedtool.BedTool.intersect(s_bed,TEs,wa=True,wb=True)
 	m = pd.read_csv(mapping.fn,header=None,usecols=[8],sep="\t")
 	tmp = m[8].value_counts().to_dict()
@@ -56,7 +62,7 @@ for a in updown_stream:
 TE_table.set_index('Gene',inplace=True)
 TE_table.to_csv(output, sep='\t', index=True)
 
-tmp=['g_bed.tmp','s_bed.tmp']
+tmp=['g_bed.tmp','s_bed.tmp','temp.db']
 for b in tmp:
 	os.remove(b)
 
