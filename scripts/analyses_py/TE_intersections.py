@@ -24,7 +24,8 @@ chrs = list(pd.read_csv(genome_file,header=None,usecols=[0],dtype='str',sep="\t"
 chrs = list(set(chrs).difference(filter_chr))
 
 #Create temporary gff database
-db = gffutils.create_db(gff, dbfn='temp.db', force=True, keep_order=True, merge_strategy='merge', sort_attribute_values=True)
+db = gffutils.create_db(annotations, dbfn='temp.db', force=True, keep_order=True, merge_strategy='merge', sort_attribute_values=True)
+pf_bed = ''
 for pf in db.features_of_type('gene'):
 	pf_bed = pf_bed + '\t'.join([str(pf.seqid), str(pf.start), str(pf.stop), str(pf.attributes['Name'][0]), str('.'), str(pf.strand)] + '\n')
 
@@ -35,7 +36,7 @@ TE_table = pd.read_csv(g_bed.fn,header=None,usecols=[8],sep="\t")
 TE_table.rename(columns={8:'Gene'},inplace=True)
 
 for a in updown_stream:
-	b=str(a)+'bp'
+	b='gene_updown_'+str(a)+'bp'
 	s_bed = pbt.bedtool.BedTool.slop(g_bed,g=genome_file,l=a,r=a,s=True).saveas('s_bed.tmp')
 	mapping = pbt.bedtool.BedTool.intersect(s_bed,TEs,wa=True,wb=True)
 	m = pd.read_csv(mapping.fn,header=None,usecols=[8],sep="\t")
