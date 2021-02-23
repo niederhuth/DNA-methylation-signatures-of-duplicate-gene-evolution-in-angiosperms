@@ -26,7 +26,7 @@ chrs = list(set(chrs).difference(filter_chr))
 db = gffutils.create_db(annotations, dbfn='temp.db', force=True, keep_order=True, merge_strategy='merge', sort_attribute_values=True)
 pf_bed = ''
 for pf in db.features_of_type('gene'):
-	pf_bed = pf_bed + '\t'.join([str(pf.seqid), str(pf.start), str(pf.stop), str(pf.attributes['Name'][0]),'.',str(pf.strand)]) + '\n'
+	pf_bed = pf_bed + '\t'.join([str(pf.seqid), str(pf.start), str(pf.stop), str(pf.id),'.',str(pf.strand)]) + '\n'
 
 #
 g_bed = pbt.BedTool(pf_bed, from_string=True).filter(functions.chr_filter,chrs).saveas('g_bed.tmp')

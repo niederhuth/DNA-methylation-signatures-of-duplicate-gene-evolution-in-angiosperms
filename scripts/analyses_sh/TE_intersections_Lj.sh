@@ -21,5 +21,5 @@ sample=$(pwd | sed s/.*data\\/// | sed s/\\/.*//)
 
 #get total weighted mC
 echo "TE intersections for $sample"
-python ../../scripts/analyses_py/TE_intersections.py $sample
+python ../../scripts/analyses_py/TE_intersections_Lj.py $sample
 
