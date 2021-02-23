@@ -1,15 +1,14 @@
 #!/bin/bash --login
-#SBATCH --time=10:00:00
+#SBATCH --time=12:00:00
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=1
-#SBATCH --mem=20GB
-#SBATCH --job-name TE_intersections
+#SBATCH --mem=100GB
+#SBATCH --job-name high_gc_metaplot
 #SBATCH --output=job_reports/%x-%j.SLURMout
 
 cd $PBS_O_WORKDIR
 export PATH="$HOME/miniconda3/envs/gene-duplication/bin:$PATH"
-export LD_LIBRARY_PATH="$HOME/miniconda3/envs/gene-duplication/lib:$LD_LIBRARY_PATH"
 
 #Set tmp directories
 export TMPDIR=$PBS_O_WORKDIR
@@ -20,6 +19,6 @@ export TEMP=$PBS_O_WORKDIR
 sample=$(pwd | sed s/.*data\\/// | sed s/\\/.*//)
 
 #get total weighted mC
-echo "TE intersections for $sample"
-python ../../scripts/analyses_py/TE_intersections.py $sample
+echo "Get gene metaplot data for $sample"
+python ../../scripts/GC_metaplot_scripts/high_gc.py $sample
 

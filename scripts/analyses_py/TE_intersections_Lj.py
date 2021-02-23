@@ -14,7 +14,7 @@ updown_stream=[100,250,500,750,1000,1500,2000,3000,4000,5000,7500,10000]
 annotations='ref/annotations/'+sys.argv[1]+'.gff'
 TEs='ref/annotations/'+sys.argv[1]+'-TEanno.gff'
 genome_file='ref/'+sys.argv[1]+'.fa.fai'
-feature='gene'
+feature='mRNA'
 filter_chr=['ChrL','ChrC','ChrM']
 output='methylpy/results/'+sys.argv[1]+'_TE_intersections.tsv'
 
@@ -25,8 +25,8 @@ chrs = list(set(chrs).difference(filter_chr))
 #Create temporary gff database
 db = gffutils.create_db(annotations, dbfn='temp.db', force=True, keep_order=True, merge_strategy='merge', sort_attribute_values=True)
 pf_bed = ''
-for pf in db.features_of_type('gene'):
-	pf_bed = pf_bed + '\t'.join([str(pf.seqid), str(pf.start), str(pf.stop), str(pf.id),'.',str(pf.strand)]) + '\n'
+for pf in db.features_of_type(feature):
+	pf_bed = pf_bed + '\t'.join([str(pf.seqid), str(pf.start), str(pf.stop), str(pf.attributes['Parent'][0]),'.',str(pf.strand)]) + '\n'
 
 #
 g_bed = pbt.BedTool(pf_bed, from_string=True).filter(functions.chr_filter,chrs).saveas('g_bed.tmp')
