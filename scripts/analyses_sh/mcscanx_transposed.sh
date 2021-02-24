@@ -4,7 +4,7 @@
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=1
 #SBATCH --mem=50GB
-#SBATCH --job-name MCScanX-transposed
+#SBATCH --job-name MCScanX_transposed
 #SBATCH --output=job_reports/%x-%j.SLURMout
 
 #Set this variable to the path to wherever you have conda installed
@@ -46,7 +46,7 @@ do
 	#Concatanate the BLAST files
 	cat diamond/${sample}-${outgroup}.m8 ../${outgroup}/diamond/${outgroup}-${sample}.m8 \
 	> mcscanx/data/${sample}_${outgroup}_unfiltered.blast
-	cp ../${outgroup}/ref/mcscanx/${outgroup}_orthogroups.tsv mcscanx/data/mcscanx/data
+	cp ../${outgroup}/ref/mcscanx/${outgroup}_orthogroups.tsv mcscanx/data/
 done
 
 #Filter BLAST hits based on orthogroup for the sample data
@@ -63,11 +63,11 @@ do
 	#This is necessary since MCScanX-transposed requires reciprocal BLAST hits
 	cat ${sample}_orthogroups.tsv ${outgroup}_orthogroups.tsv > tmp
 	join -1 2 -2 1 <(sort -k2,2 ${sample}_${outgroup}_unfiltered.blast) <(sort -k1,1 tmp) | \
-        tr ' ' '\t' > tmp2
-        join -1 2 -2 1 <(sort -k2,2 tmp2) <(sort -k1,1 tmp) | tr ' ' '\t' | \
-        awk -v OFS="\t" '{if ($13==$14) print $1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12}' | sort | \
-        uniq > ${sample}_${outgroup}.blast
-        rm tmp tmp2
+	tr ' ' '\t' > tmp2
+	join -1 2 -2 1 <(sort -k2,2 tmp2) <(sort -k1,1 tmp) | tr ' ' '\t' | \
+	awk -v OFS="\t" '{if ($13==$14) print $1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12}' | sort | \
+	uniq > ${sample}_${outgroup}.blast
+	rm tmp tmp2
 done
 #Make sure to move up a directory
 cd ..
@@ -75,7 +75,7 @@ cd ..
 #Copy the MCScanX-transposed scripts and untar/gz them
 #This is necessary since I have been too lazy to modify the scripts myself so that this isn't necessary
 cp ${path1}/MCScanX-transposed.tar.gz ./
-tar -xjvf MCScanX-transposed.tar.gz
+tar -xzvf MCScanX-transposed.tar.gz
 mv MCScanX-transposed/* ./
 rmdir MCScanX-transposed
 
@@ -83,12 +83,12 @@ rmdir MCScanX-transposed
 echo "Running MCScanX-transposed"
 perl MCScanX-transposed.pl \
 	-i data \
-	-t "${sample}" \
-	-c "${outgroup_list}" \
+	-t ${sample} \
+	-c ${outgroup_list} \
 	-o results \
-	-x "${epochs}"
+	-x ${epochs}
 #Remove all the junk...yeah, I know this step is super dangerous, sue me
-#rm *
+rm *
 
 #Now we are going to create a table of transposed pairs and which "epoch" they transposed in
 cd results
