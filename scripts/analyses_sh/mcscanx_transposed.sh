@@ -10,6 +10,10 @@
 #Set this variable to the path to wherever you have conda installed
 conda="${HOME}/miniconda3"
 
+#Set variables
+collinear_genes=5
+proximal_distance=10
+
 #Change to current directory
 cd ${PBS_O_WORKDIR}
 #Export paths to conda
@@ -86,7 +90,9 @@ perl MCScanX-transposed.pl \
 	-t ${sample} \
 	-c ${outgroup_list} \
 	-o results \
-	-x ${epochs}
+	-x ${epochs} \
+	-s ${collinear_genes} \
+	-d ${proximal_distance}
 #Remove all the junk...yeah, I know this step is super dangerous, sue me
 rm *
 

@@ -18,8 +18,8 @@ export LD_LIBRARY_PATH="$HOME/miniconda3/envs/gene-duplication/lib:$LD_LIBRARY_P
 #Set Variables
 sample=$(pwd | sed s/^.*\\///)
 outgroup=$(awk -v FS="," -v a="$sample" '$1 == a' ../../misc/genomes.csv | cut -d ',' -f 8)
-collinear_genes=3
-proximal_distance=20
+collinear_genes=5
+proximal_distance=10
 
 #Copy over data
 mkdir dupgen

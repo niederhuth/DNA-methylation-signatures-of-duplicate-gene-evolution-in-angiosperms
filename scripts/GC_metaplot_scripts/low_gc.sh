@@ -20,5 +20,5 @@ sample=$(pwd | sed s/.*data\\/// | sed s/\\/.*//)
 
 #get total weighted mC
 echo "Get gene metaplot data for $sample"
-python ../../scripts/GC_metaplot_scripts/tmp_scripts/low_gc.py $sample
+python ../../scripts/GC_metaplot_scripts/low_gc.py $sample
 
