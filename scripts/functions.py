@@ -589,11 +589,11 @@ def classify(row,min_sites=20,qvalue=0.05,uM_cutoff=0,uM_weighted_mC_cutoff=Fals
 	total_reads=(row['CG_Total_Reads']+row['CHG_Total_Reads']+row['CHH_Total_Reads'])
 	#Classify genes based on qvalue
 	if use_CH and row['CH_qvalue'] <= qvalue and row['CH_Total_C'] >= min_sites:
-		return 'TE-like'
+		return 'teM'
 	elif use_subCH and row['CHH_qvalue'] <= qvalue and row['CHH_Total_C'] >= min_sites:
-		return 'TE-like'
+		return 'teM'
 	elif use_subCH and row['CHG_qvalue'] <= qvalue and row['CHG_Total_C'] >= min_sites:
-		return 'TE-like'
+		return 'teM'
 	elif row['CG_qvalue'] <= qvalue and row['CG_Total_C'] >= min_sites:
 		return 'gbM'
 	#Check if number of methylated sites is at or below the cutoff to call unmethylated genes
