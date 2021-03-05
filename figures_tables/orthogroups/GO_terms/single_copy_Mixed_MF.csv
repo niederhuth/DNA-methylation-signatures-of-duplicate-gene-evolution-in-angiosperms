@@ -1,0 +1,21 @@
+GO.ID,Term,Annotated,Significant,Expected,Fisher,fdr
+GO:0016853,isomerase activity,208,53,16.28,4.9e-12,4.3561e-09
+GO:0016810,hydrolase activity, acting on carbon-nit...,98,31,7.67,5.6e-10,2.4892e-07
+GO:0003824,catalytic activity,6591,619,515.91,7.9e-09,1.778e-06
+GO:0003755,peptidyl-prolyl cis-trans isomerase acti...,55,19,4.31,8.0e-09,1.778e-06
+GO:0003690,double-stranded DNA binding,53,13,4.15,2.9e-08,5.1562e-06
+GO:0003723,RNA binding,516,59,40.39,1.1e-07,1.62983333333333e-05
+GO:0009982,pseudouridine synthase activity,18,14,1.41,8.6e-07,0.00010922
+GO:0016741,transferase activity, transferring one-c...,152,27,11.9,1.0e-06,0.000111125
+GO:0008144,drug binding,25,10,1.96,2.4e-06,0.000237066666666667
+GO:0003684,damaged DNA binding,20,7,1.57,4.9e-06,0.00043561
+GO:0008094,DNA-dependent ATPase activity,41,12,3.21,6.0e-06,0.000484909090909091
+GO:0008173,RNA methyltransferase activity,16,10,1.25,6.6e-06,0.00048895
+GO:0005527,macrolide binding,23,9,1.8,1.8e-05,0.00123092307692308
+GO:0000166,nucleotide binding,844,85,66.06,2.2e-05,0.001397
+GO:0140097,catalytic activity, acting on DNA,87,21,6.81,3.8e-05,0.00225213333333333
+GO:0004518,nuclease activity,136,24,10.65,8.5e-05,0.00454377777777778
+GO:0050897,cobalt ion binding,45,10,3.52,8.7e-05,0.00454377777777778
+GO:0033218,amide binding,50,12,3.91,9.2e-05,0.00454377777777778
+GO:0016779,nucleotidyltransferase activity,142,18,11.12,0.00013,0.00608263157894737
+GO:1901265,nucleoside phosphate binding,844,85,66.06,0.00033,0.0146685

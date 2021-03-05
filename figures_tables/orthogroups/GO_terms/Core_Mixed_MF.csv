@@ -1,0 +1,59 @@
+GO.ID,Term,Annotated,Significant,Expected,Fisher,fdr
+GO:0003824,catalytic activity,6591,3279,2604.96,1e-30,8.89e-28
+GO:1901265,nucleoside phosphate binding,844,453,333.57,4.3e-19,1.91135e-16
+GO:0005215,transporter activity,1078,551,426.06,1.6e-15,4.74133333333333e-13
+GO:0005198,structural molecule activity,453,256,179.04,1.2e-13,2.667e-11
+GO:0097367,carbohydrate derivative binding,625,341,247.02,5.6e-12,9.9568e-10
+GO:0030414,peptidase inhibitor activity,36,24,14.23,3.1e-11,4.59316666666667e-09
+GO:0001882,nucleoside binding,157,101,62.05,5.2e-10,6.604e-08
+GO:0016667,oxidoreductase activity, acting on a sul...,53,46,20.95,1.4e-09,1.55575e-07
+GO:0036094,small molecule binding,1110,548,438.7,7.2e-09,7.112e-07
+GO:0043168,anion binding,780,399,308.28,2.4e-08,2.1336e-06
+GO:0000166,nucleotide binding,844,453,333.57,2.0e-07,1.61636363636364e-05
+GO:0003723,RNA binding,516,232,203.94,2.8e-07,2.07433333333333e-05
+GO:0016836,hydro-lyase activity,70,45,27.67,9.4e-07,6.42815384615385e-05
+GO:0022836,gated channel activity,62,41,24.5,1.9e-06,0.00012065
+GO:0016853,isomerase activity,208,136,82.21,2.8e-06,0.000165946666666667
+GO:0016799,hydrolase activity, hydrolyzing N-glycos...,20,18,7.9,3.0e-06,0.0001666875
+GO:0061134,peptidase regulator activity,36,24,14.23,1.2e-05,0.000627529411764706
+GO:0030611,arsenate reductase activity,15,15,5.93,1.4e-05,0.000691444444444444
+GO:0005488,binding,6167,2571,2437.38,1.7e-05,0.000762
+GO:0008238,exopeptidase activity,69,47,27.27,1.8e-05,0.000762
+GO:0008047,enzyme activator activity,28,20,11.07,1.8e-05,0.000762
+GO:0050897,cobalt ion binding,45,31,17.79,2.0e-05,0.00077304347826087
+GO:0005515,protein binding,2555,1144,1009.81,2.0e-05,0.00077304347826087
+GO:0030613,oxidoreductase activity, acting on phosp...,14,14,5.53,2.9e-05,0.00107420833333333
+GO:0004659,prenyltransferase activity,31,21,12.25,3.5e-05,0.0012446
+GO:0005085,guanyl-nucleotide exchange factor activi...,31,19,12.25,4.7e-05,0.00160703846153846
+GO:0005507,copper ion binding,201,101,79.44,5.2e-05,0.00171214814814815
+GO:0090079,translation regulator activity, nucleic ...,124,65,49.01,5.6e-05,0.001778
+GO:0015932,nucleobase-containing compound transmemb...,44,35,17.39,6.8e-05,0.00208455172413793
+GO:0016614,oxidoreductase activity, acting on CH-OH...,140,88,55.33,8.4e-05,0.0024892
+GO:0016688,L-ascorbate peroxidase activity,8,8,3.16,9.8e-05,0.00275034375
+GO:0003697,single-stranded DNA binding,26,18,10.28,9.9e-05,0.00275034375
+GO:0140104,molecular carrier activity,16,14,6.32,0.00011,0.00296333333333333
+GO:0070008,serine-type exopeptidase activity,57,37,22.53,0.00012,0.00313764705882353
+GO:0038023,signaling receptor activity,51,25,20.16,0.00027,0.006858
+GO:0005527,macrolide binding,23,18,9.09,0.00029,0.00716138888888889
+GO:0016782,transferase activity, transferring sulfu...,32,26,12.65,0.00032,0.00748631578947368
+GO:0030246,carbohydrate binding,106,62,41.89,0.00032,0.00748631578947368
+GO:0004784,superoxide dismutase activity,8,8,3.16,0.00046,0.010485641025641
+GO:0008079,translation termination factor activity,11,11,4.35,0.00048,0.010668
+GO:0008144,drug binding,25,19,9.88,0.00052,0.0112751219512195
+GO:0015925,galactosidase activity,23,17,9.09,0.00065,0.0137583333333333
+GO:0020037,heme binding,13,7,5.14,0.00074,0.0152990697674419
+GO:0004683,calmodulin-dependent protein kinase acti...,36,29,14.23,0.00089,0.0179820454545455
+GO:0042578,phosphoric ester hydrolase activity,326,186,128.84,0.00118,0.0233115555555556
+GO:0004630,phospholipase D activity,12,11,4.74,0.00149,0.0287958695652174
+GO:0080031,methyl salicylate esterase activity,5,5,1.98,0.00186,0.0351817021276596
+GO:0005525,GTP binding,157,101,62.05,0.00205,0.0375557142857143
+GO:1901505,carbohydrate derivative transmembrane tr...,52,37,20.55,0.00207,0.0375557142857143
+GO:0019205,nucleobase-containing compound kinase ac...,25,20,9.88,0.00231,0.0410718
+GO:0019104,DNA N-glycosylase activity,15,13,5.93,0.00237,0.0410952830188679
+GO:0019001,guanyl nucleotide binding,157,101,62.05,0.00245,0.0410952830188679
+GO:0070717,poly-purine tract binding,11,11,4.35,0.00245,0.0410952830188679
+GO:0016721,oxidoreductase activity, acting on super...,8,8,3.16,0.00264,0.042672
+GO:0032561,guanyl ribonucleotide binding,157,101,62.05,0.00264,0.042672
+GO:0005088,Ras guanyl-nucleotide exchange factor ac...,15,14,5.93,0.00282,0.0447675
+GO:0019899,enzyme binding,144,81,56.91,0.00292,0.0455417543859649
+GO:0005506,iron ion binding,6,6,2.37,0.00311,0.0476687931034483
