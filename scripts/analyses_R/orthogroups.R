@@ -211,9 +211,24 @@ for(a in species$Species){
 top <- merge(top,ogCat,by="Orthogroup")
 write.csv(top,paste(path2,"/","top_orthogroups.csv",sep=""),quote=FALSE,row.names=FALSE)
 
+#This is an ugly workaround to reduce the size of the graphs by summarizing data
+pOG2 <- data.frame(Species=c(),Order=c(),ogCat=c(),mC=c(),Count=c(),pOG=c(),pmC=c())
+for(a in species$Species){
+	for(b in unique(pOG$ogCat)){
+		for(c in unique(pOG$variable)){
+			pOG2 <- rbind(pOG2,data.frame(Species=a,Order=species[species$Species == a,]$Order,
+				ogCat=b,mC=c,Count=sum(pOG[pOG$Species == a & pOG$ogCat == b & pOG$variable == c,]$value),
+				pOG=sum(pOG[pOG$Species == a & pOG$ogCat == b & pOG$variable == c,]$value)/
+					sum(pOG[pOG$Species == a & pOG$ogCat == b & pOG$variable == "Total",]$value),
+				pmC=sum(pOG[pOG$Species == a & pOG$ogCat == b & pOG$variable == c,]$value)/
+					sum(pOG[pOG$Species == a & pOG$variable == c,]$value)))
+		}
+	}
+}
+
 #Plot percentage of each methylation class that is in each type of orthogroup
 for(a in c("gbM","teM","Unmethylated","Unclassified","Missing")){
-	p <- ggplot(pOG[pOG$variable==a,]) + 
+	p <- ggplot(pOG2[pOG2$mC==a,]) + 
 		geom_bar(aes(x=reorder(Species,Order),y=pmC,fill=ogCat),stat="identity") + 
 		theme_bw() + theme(axis.text.x=element_text(angle=90,hjust=1,vjust=0.5),
 			axis.title.x=element_blank()) + 
@@ -224,8 +239,8 @@ for(a in c("gbM","teM","Unmethylated","Unclassified","Missing")){
 #Plot percentage of each type of orthogroup that is in each methylation class
 for(a in c("Species/Lineage Specific","Family Specific","Cross-Family","Core: Other",
 	"Core: Single Copy")){
-	p <- ggplot(pOG[pOG$ogCat==a & pOG$variable != "Total",]) + 
-		geom_bar(aes(x=reorder(Species,Order),y=pOG,fill=variable),stat="identity") + 
+	p <- ggplot(pOG2[pOG2$ogCat==a & pOG2$mC != "Total",]) + 
+		geom_bar(aes(x=reorder(Species,Order),y=pOG,fill=mC),stat="identity") + 
 		theme_bw() + theme(axis.text.x=element_text(angle=90,hjust=1,vjust=0.5),
 			axis.title.x=element_blank()) + 
 		scale_y_continuous("Percentage of Genes",expand=c(0,0)) +
