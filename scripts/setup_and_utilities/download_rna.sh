@@ -19,7 +19,7 @@ export TEMP=${PBS_O_WORKDIR}
 #List Variables
 species=$(pwd | sed s/^.*\\///)
 path1=$(pwd | sed s/data.*// | sed s/$/misc/)
-samples=$(cut -f 5 ${path1}/${species}_rna.tsv)
+samples=$(sed '1d' ${path1}/${species}_rna.tsv | cut -f 5)
 
 #Create working directory
 if [ -d rna ]
@@ -42,7 +42,7 @@ do
 		mkdir ${i}
 		cd ${i}
 		echo "Downloading SRA files for ${i}"
-		sra_list=$(awk -v a=${i} '$5==a' | cut -f4)
+		sra_list=$(awk -v a=${i} '$5==a' ${path1}/${species}_rna.tsv | cut -f4)
 		for sra in ${sra_list}
 		do
 			echo "Downloading ${sra}"
