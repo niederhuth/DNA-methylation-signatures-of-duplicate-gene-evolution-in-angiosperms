@@ -235,7 +235,7 @@ for(a in c("gbM","teM","Unmethylated","Unclassified","Missing")){
 		geom_bar(aes(x=reorder(Species,Order),y=pmC,fill=reorder(ogCat,Order2)),stat="identity") + 
 		theme_bw() + theme(axis.text.x=element_text(angle=90,hjust=1,vjust=0.5),
 			axis.title.x=element_blank()) + 
-		scale_y_continuous("Percentage of Genes",expand=c(0,0)) +
+		scale_y_continuous("Percentage of Genes",expand=c(0,0),labels=percent) +
 		scale_fill_discrete(name = "Orthogroup Class")
 	ggsave(paste(path2,"/",a,"_orthogroup_distribution.pdf",sep=""),p,width=10,height=4)
 }
@@ -246,7 +246,7 @@ for(a in c("Species/Lineage Specific","Family Specific","Cross-Family","Core: Ot
 		geom_bar(aes(x=reorder(Species,Order),y=pOG,fill=reorder(mC,Order3)),stat="identity") + 
 		theme_bw() + theme(axis.text.x=element_text(angle=90,hjust=1,vjust=0.5),
 			axis.title.x=element_blank()) + 
-		scale_y_continuous("Percentage of Genes",expand=c(0,0)) +
+		scale_y_continuous("Percentage of Genes",expand=c(0,0),labels=percent) +
 		scale_fill_discrete(name = "Methylation Class")
 	ggsave(paste(path2,"/",gsub(":","",gsub("/","-",gsub(" ","_",a))),"_methylation_distribution.pdf",
 		sep=""),p,width=10,height=4)
