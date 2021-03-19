@@ -225,11 +225,14 @@ for(a in species$Species){
 		}
 	}
 }
+pOG2$Order2 <- c(rep(5,6),rep(3,6),rep(1,6),rep(2,6),rep(4,6))
+pOG2$Order3 <- c(6,3,2,5,1)
+
 
 #Plot percentage of each methylation class that is in each type of orthogroup
 for(a in c("gbM","teM","Unmethylated","Unclassified","Missing")){
 	p <- ggplot(pOG2[pOG2$mC==a,]) + 
-		geom_bar(aes(x=reorder(Species,Order),y=pmC,fill=ogCat),stat="identity") + 
+		geom_bar(aes(x=reorder(Species,Order),y=pmC,fill=reorder(ogCat,Order2)),stat="identity") + 
 		theme_bw() + theme(axis.text.x=element_text(angle=90,hjust=1,vjust=0.5),
 			axis.title.x=element_blank()) + 
 		scale_y_continuous("Percentage of Genes",expand=c(0,0)) +
@@ -240,7 +243,7 @@ for(a in c("gbM","teM","Unmethylated","Unclassified","Missing")){
 for(a in c("Species/Lineage Specific","Family Specific","Cross-Family","Core: Other",
 	"Core: Single Copy")){
 	p <- ggplot(pOG2[pOG2$ogCat==a & pOG2$mC != "Total",]) + 
-		geom_bar(aes(x=reorder(Species,Order),y=pOG,fill=mC),stat="identity") + 
+		geom_bar(aes(x=reorder(Species,Order),y=pOG,fill=reorder(mC,Order3)),stat="identity") + 
 		theme_bw() + theme(axis.text.x=element_text(angle=90,hjust=1,vjust=0.5),
 			axis.title.x=element_blank()) + 
 		scale_y_continuous("Percentage of Genes",expand=c(0,0)) +
