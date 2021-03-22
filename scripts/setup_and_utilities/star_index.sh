@@ -13,6 +13,7 @@ conda="${HOME}/miniconda3"
 #Set variables
 threads=10
 read_length=50
+genomeSAindexNbases=12 #Default is 14
 
 #Change to current directory
 cd ${PBS_O_WORKDIR}
@@ -40,6 +41,7 @@ STAR \
 	--genomeDir STAR/ \
 	--genomeFastaFiles ${species}.fa \
 	--sjdbGTFfile annotations/${species}.gtf \
-	--sjdbOverhang ${sjdbOverhang}
+	--sjdbOverhang ${sjdbOverhang} \
+	--genomeSAindexNbases ${genomeSAindexNbases}
 
 echo "Done"
