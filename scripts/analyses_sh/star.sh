@@ -33,7 +33,7 @@ STAR \
 	--runMode alignReads \
 	--genomeDir ${index} \
 	--readFilesIn ${fastq} \
-	--outFileNamePrefix ${sample} \
+	--outFileNamePrefix ${sample}_ \
 	--readFilesCommand zcat \
 	--outSAMtype BAM SortedByCoordinate \
 	--outSAMstrandField intronMotif \
