@@ -24,9 +24,7 @@ path1=$(pwd | sed s/data.*//)
 species=$(pwd | sed s/^.*\\/data\\/// | sed s/\\/.*//)
 sample=$(pwd | sed s/^.*\\///)
 index="$(pwd | sed s/data.*/data/)/${species}/ref/STAR"
-
-#Fastq files, these should not have to be changed, but should set automatically
-
+fastq="*.fastq.gz"
 
 #Run Star
 echo "Running STAR for ${sample}"
