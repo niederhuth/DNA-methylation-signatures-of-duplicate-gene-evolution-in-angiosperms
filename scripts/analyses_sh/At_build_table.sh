@@ -15,12 +15,12 @@ export LD_LIBRARY_PATH="$HOME/miniconda3/envs/gene-duplication/lib:$LD_LIBRARY_P
 #Build Table
 cd variation
 
-cut -f1,23 ../methylpy/results/Athaliana_classified_genes.tsv | sed s/Classification/Reference/ > At_variation.tsv
+cut -f1,30 ../methylpy/results/Athaliana_classified_genes.tsv | sed s/Classification/Reference/ > At_variation.tsv
 
 for i in GSM*
 do
 	cut -f30 "$i"/"$i"_classified_genes.tsv | sed s/Classification/"$i"/ > tmp
-	paste -d ',' At_variation.tsv tmp > tmp2
+	paste -d '\t' At_variation.tsv tmp > tmp2
 	mv tmp2 At_variation.tsv
 	rm tmp
 done 
