@@ -23,4 +23,6 @@ for(i in c("Athaliana")){
 	coldata <- data.frame(rownames=colnames(df),condition=gsub("-.$","",samples))
 	#Create a DESeqDataSet from the matrix and coldata
 	dds <- DESeqDataSetFromMatrix(countData=df, colData=coldata, design = ~ condition)
+	dds <- estimateSizeFactors(dds)
+	dds <- estimateDispersions(dds,fitType="parametric")
 }
