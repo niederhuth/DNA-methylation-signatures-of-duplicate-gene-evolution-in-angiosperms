@@ -2,7 +2,7 @@ for(i in c("Athaliana")){
 	#Input data path
 	path1=paste(i,"/rna",sep="")
 	#Output data path
-	path2=paste("../figures_tables/",i)
+	path2=paste("../figures_tables/",i,sep="")
 	#Get list of samples from directories in rna
 	samples <- list.files(path=path1)
 	files <- list.files(path=path1,pattern="_ReadsPerGene.out.tab",recursive=TRUE)
@@ -18,7 +18,7 @@ for(i in c("Athaliana")){
 	#Add samples as column names 
 	colnames(df) <- samples
 	#Output as a table
-	write.csv(df,paste(path2,"/",i,"_gene_exp.csv",sep="\t"),quote=FALSE,row.names=TRUE)
+	write.csv(df,paste(path2,"/",i,"_gene_exp.csv",sep=""),quote=FALSE,row.names=TRUE)
 	#Create dataframe describing samples & replicates
 	coldata <- data.frame(rownames=colnames(df),condition=gsub("-.$","",samples))
 	#Create a DESeqDataSet from the matrix and coldata
