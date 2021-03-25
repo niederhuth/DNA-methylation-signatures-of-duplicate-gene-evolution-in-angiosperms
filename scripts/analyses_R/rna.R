@@ -1,3 +1,5 @@
+library(DESeq2)
+
 for(i in c("Athaliana")){
 	#Input data path
 	path1=paste(i,"/rna",sep="")
@@ -24,5 +26,16 @@ for(i in c("Athaliana")){
 	#Create a DESeqDataSet from the matrix and coldata
 	dds <- DESeqDataSetFromMatrix(countData=df, colData=coldata, design = ~ condition)
 	dds <- estimateSizeFactors(dds)
-	dds <- estimateDispersions(dds,fitType="parametric")
+	#dds <- estimateDispersions(dds,fitType="parametric")
+	df2 <- data.frame(counts(dds,normalized=TRUE))
+	df2$Feature <- row.names(df2)
+	df3 <- read.csv(paste("../figures_tables/",i,"/",i,"_KaKs_values.csv",sep=""),
+		header=TRUE,row.names=1)
+	df4 <- merge(df3,df2,by="Feature")
 }
+
+
+
+
+
+
