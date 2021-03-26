@@ -50,7 +50,7 @@ for(i in 1:3){
 		nrow=2,ncol=2),alternative="two.sided")$p.value))
 }
 
-#Boleracea
+#Boleracea: https://appliedbioinformatics.com.au/download/BOLEPan.pav.13062016.vcf.gz
 df1 <- read.table("Boleracea/methylpy/results/Boleracea_classified_genes.tsv",
 	header=TRUE,sep="\t")[,c(1,23)]
 df2 <- read.table("../../data/BOLEPan.pav.13062016.vcf",header=FALSE,
@@ -98,7 +98,7 @@ for(i in 1:3){
 		nrow=2,ncol=2),alternative="two.sided")$p.value))
 }
 
-#Slycopersicum
+#Slycopersicum #https://www.nature.com/articles/s41588-019-0410-2#Sec23
 df1 <- read.table("Slycopersicum/methylpy/results/Slycopersicum_classified_genes.tsv",
 	header=TRUE,sep="\t")[,c(1,23)]
 df2 <- read.table("../../data/Slycopersicum_PAV.txt",header=TRUE,
@@ -137,7 +137,7 @@ for(i in 1:3){
 		nrow=2,ncol=2),alternative="two.sided")$p.value))
 }
 
-#Stuberosum
+#Stuberosum http://www.plantcell.org/highwire/filestream/4514/field_highwire_adjunct_files/7/TPC2015-00538-RAR2_Supplemental_Data_Set_5.xlsx
 df1 <- read.table("Stuberosum/methylpy/results/Stuberosum_classified_genes.tsv",
 	header=TRUE,sep="\t")[,c(1,23)]
 df2 <- read.csv("../../data/TPC2015-00538-RAR2_Supplemental_Data_Set_5.csv",
