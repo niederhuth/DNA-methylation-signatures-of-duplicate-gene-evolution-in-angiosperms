@@ -1,5 +1,15 @@
 library(DESeq2)
 
+#Function to calculate tau for expression specificity. See Yanai et al. 2015 Bioinformatics
+tauSpecificity <- function(x){
+	i = 0
+	for(j in c(1:length(x))){
+		i = i + 1 - (log2(x[j])/log2(max(x)))
+	}
+	y = i/(length(x) - 1)
+	return(y)
+}
+
 for(i in c("Athaliana")){
 	#Input data path
 	path1=paste(i,"/rna",sep="")
@@ -22,17 +32,42 @@ for(i in c("Athaliana")){
 	#Output as a table
 	write.csv(df,paste(path2,"/",i,"_gene_exp.csv",sep=""),quote=FALSE,row.names=TRUE)
 	#Create dataframe describing samples & replicates
-	coldata <- data.frame(rownames=colnames(df),condition=gsub("-.$","",samples))
+	coldata <- data.frame(row.names=colnames(df),condition=gsub("-.$","",samples))
 	#Create a DESeqDataSet from the matrix and coldata
 	dds <- DESeqDataSetFromMatrix(countData=df, colData=coldata, design = ~ condition)
+	#Normalize data
 	dds <- estimateSizeFactors(dds)
-	#dds <- estimateDispersions(dds,fitType="parametric")
+	#Extract out normalized counts
 	df2 <- data.frame(counts(dds,normalized=TRUE))
-	df2$Feature <- row.names(df2)
-	df3 <- read.csv(paste("../figures_tables/",i,"/",i,"_KaKs_values.csv",sep=""),
+	#Create an empty dataframe to get means of different conditions
+	df3 <- data.frame(row.names=row.names(df2))
+	#Create a new table, where we get the mean of the conditions with replicates
+	#Since some conditions only had one replicate, we just keep the original value for those conditions
+	for(x in unique(coldata$condition)){
+		if(ncol(data.frame(df2[,grepl(x, colnames(df2))])) > 1){
+			df3[,x] <- rowMeans(df2[,grepl(x, colnames(df2))])
+		} else {
+			df3[,x] <- df2[,grepl(x, colnames(df2))]
+		}
+		#We are going to set genes with counts less than 1 (or some other number) to 0
+		df3[,x] <- ifelse(df3[,x] < 1,0,df3[,x])
+	}
+	#We need to add some number to the data, so that we can log transform samples with 0 read counts
+	#without getting infinite values
+	df3 <- df3 + 1
+	#We now create a new data frame, applying the tau tissue specificity 
+	df4 <- data.frame(tau=apply(df3,1,tauSpecificity))
+	#Add gene names as a column called features
+	df4$Feature <- row.names(df4)
+	#Read in KaKs table, with duplicate gene pairs and other relevant info
+	df5 <- read.csv(paste("../figures_tables/",i,"/",i,"_KaKs_values.csv",sep=""),
 		header=TRUE,row.names=1)
-	df4 <- merge(df3,df2,by="Feature")
+	#Merge the data frames together.
+	df6 <- merge(df5,df4,by="Feature")
+	df7 <- merge(df6,df6,by.x="Duplicate.2",by.y="Feature")
 }
+
+
 
 
 
