@@ -1,0 +1,16 @@
+,Species,Duplication,Similarity,Number
+1,Alyrata,dispersed,Different,1458
+2,Alyrata,proximal,Different,112
+3,Alyrata,tandem,Different,204
+4,Alyrata,transposed,Different,439
+5,Alyrata,wgd,Different,404
+6,Alyrata,dispersed,Same,3718
+7,Alyrata,proximal,Same,336
+8,Alyrata,tandem,Same,939
+9,Alyrata,transposed,Same,1263
+10,Alyrata,wgd,Same,2247
+11,Alyrata,dispersed,Undetermined,1844
+12,Alyrata,proximal,Undetermined,201
+13,Alyrata,tandem,Undetermined,456
+14,Alyrata,transposed,Undetermined,631
+15,Alyrata,wgd,Undetermined,1110

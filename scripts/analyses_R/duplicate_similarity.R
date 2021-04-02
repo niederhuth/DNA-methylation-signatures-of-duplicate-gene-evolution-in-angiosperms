@@ -25,8 +25,8 @@ for( a in species){
 		path3 <- paste(a,"/dupgen/results-unique/",a,".",b,".pairs-unique",sep="")
 		df3 <- read.table(path3,header=TRUE,sep="\t")[,c(1,3)]
 		colnames(df3) <- c("Duplicate.1","Duplicate.2")
-		df4 <- merge(df3,df2[,c(1,23)],by.x="Duplicate.1",by.y="Feature")
-		df5 <- na.omit(merge(df4,df2[,c(1,23)],by.x="Duplicate.2",by.y="Feature")[,c(2,3,1,4)])
+		df4 <- merge(df3,df2[,c(1,30)],by.x="Duplicate.1",by.y="Feature")
+		df5 <- na.omit(merge(df4,df2[,c(1,30)],by.x="Duplicate.2",by.y="Feature")[,c(2,3,1,4)])
 		colnames(df5) <- c("Duplicate.1","Duplicate.1_Methylation","Duplicate.2","Duplicate.2_Methylation")
 		df5$Duplication <- c(b)
 		df5$Similarity <- ifelse(df5$Duplicate.1_Methylation==df5$Duplicate.2_Methylation,"Same","Different")

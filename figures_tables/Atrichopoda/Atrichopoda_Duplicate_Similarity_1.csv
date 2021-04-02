@@ -1,0 +1,16 @@
+,Species,Duplication,Similarity,Number
+1,Atrichopoda,dispersed,Different,805
+2,Atrichopoda,proximal,Different,85
+3,Atrichopoda,tandem,Different,70
+4,Atrichopoda,transposed,Different,2
+5,Atrichopoda,wgd,Different,0
+6,Atrichopoda,dispersed,Same,13898
+7,Atrichopoda,proximal,Same,204
+8,Atrichopoda,tandem,Same,246
+9,Atrichopoda,transposed,Same,0
+10,Atrichopoda,wgd,Same,1
+11,Atrichopoda,dispersed,Undetermined,2928
+12,Atrichopoda,proximal,Undetermined,299
+13,Atrichopoda,tandem,Undetermined,388
+14,Atrichopoda,transposed,Undetermined,1
+15,Atrichopoda,wgd,Undetermined,0
