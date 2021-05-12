@@ -50,7 +50,7 @@ for(i in c("Athaliana")){
 			df3[,x] <- df2[,grepl(x, colnames(df2))]
 		}
 		#We are going to set genes with counts less than 1 (or some other number) to 0
-		df3[,x] <- ifelse(df3[,x] < 1,0,df3[,x])
+		#df3[,x] <- ifelse(df3[,x] < 1,0,df3[,x])
 	}
 	#We need to add some number to the data, so that we can log transform samples with 0 read counts
 	#without getting infinite values
@@ -63,7 +63,7 @@ for(i in c("Athaliana")){
 	df5 <- read.csv(paste("../figures_tables/",i,"/",i,"_KaKs_values.csv",sep=""),
 		header=TRUE,row.names=1)
 	#Merge the data frames together.
-	df6 <- merge(df5,df4,by="Feature")
+	df6 <- merge(df5,df4,by="Feature")[c("Feature","Duplication","Classification","Duplicate.2","tau")]
 	df7 <- merge(df6,df6,by.x="Duplicate.2",by.y="Feature")
 }
 
