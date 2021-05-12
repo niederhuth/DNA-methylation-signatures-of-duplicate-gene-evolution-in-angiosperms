@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Csativus,dispersed,Different,422,28
+Csativus,proximal,Different,89,28
+Csativus,tandem,Different,216,28
+Csativus,transposed,Different,228,28
+Csativus,wgd,Different,269,28
+Csativus,dispersed,Same,973,28
+Csativus,proximal,Same,208,28
+Csativus,tandem,Same,606,28
+Csativus,transposed,Same,487,28
+Csativus,wgd,Same,712,28
+Csativus,dispersed,Undetermined,458,28
+Csativus,proximal,Undetermined,109,28
+Csativus,tandem,Undetermined,279,28
+Csativus,transposed,Undetermined,229,28
+Csativus,wgd,Undetermined,338,28

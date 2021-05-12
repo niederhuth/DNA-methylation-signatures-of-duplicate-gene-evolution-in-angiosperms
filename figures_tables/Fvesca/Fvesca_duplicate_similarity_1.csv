@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Fvesca,dispersed,Different,699,32
+Fvesca,proximal,Different,245,32
+Fvesca,tandem,Different,219,32
+Fvesca,transposed,Different,429,32
+Fvesca,wgd,Different,207,32
+Fvesca,dispersed,Same,1965,32
+Fvesca,proximal,Same,775,32
+Fvesca,tandem,Same,906,32
+Fvesca,transposed,Same,781,32
+Fvesca,wgd,Same,778,32
+Fvesca,dispersed,Undetermined,489,32
+Fvesca,proximal,Undetermined,187,32
+Fvesca,tandem,Undetermined,134,32
+Fvesca,transposed,Undetermined,259,32
+Fvesca,wgd,Undetermined,266,32

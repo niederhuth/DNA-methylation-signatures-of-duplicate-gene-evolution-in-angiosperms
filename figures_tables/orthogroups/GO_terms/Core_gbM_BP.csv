@@ -1,4 +1,0 @@
-GO.ID,Term,Annotated,Significant,Expected,Fisher,fdr
-GO:0008152,metabolic process,314,42,27.94,0.00016,0.01957
-GO:0048519,negative regulation of biological proces...,16,7,1.42,0.00019,0.01957
-GO:0061919,process utilizing autophagic mechanism,5,4,0.44,0.00065,0.0446333333333333

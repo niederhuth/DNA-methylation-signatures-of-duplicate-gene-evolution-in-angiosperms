@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Fxananassa,dispersed,Different,312,33
+Fxananassa,proximal,Different,295,33
+Fxananassa,tandem,Different,262,33
+Fxananassa,transposed,Different,1068,33
+Fxananassa,wgd,Different,4266,33
+Fxananassa,dispersed,Same,1087,33
+Fxananassa,proximal,Same,957,33
+Fxananassa,tandem,Same,1089,33
+Fxananassa,transposed,Same,3028,33
+Fxananassa,wgd,Same,17546,33
+Fxananassa,dispersed,Undetermined,357,33
+Fxananassa,proximal,Undetermined,248,33
+Fxananassa,tandem,Undetermined,217,33
+Fxananassa,transposed,Undetermined,1091,33
+Fxananassa,wgd,Undetermined,10213,33

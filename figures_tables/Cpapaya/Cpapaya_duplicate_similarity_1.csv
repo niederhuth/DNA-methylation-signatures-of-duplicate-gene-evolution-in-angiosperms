@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Cpapaya,dispersed,Different,762,17
+Cpapaya,proximal,Different,101,17
+Cpapaya,tandem,Different,141,17
+Cpapaya,transposed,Different,203,17
+Cpapaya,wgd,Different,60,17
+Cpapaya,dispersed,Same,2090,17
+Cpapaya,proximal,Same,297,17
+Cpapaya,tandem,Same,522,17
+Cpapaya,transposed,Same,895,17
+Cpapaya,wgd,Same,234,17
+Cpapaya,dispersed,Undetermined,635,17
+Cpapaya,proximal,Undetermined,103,17
+Cpapaya,tandem,Undetermined,159,17
+Cpapaya,transposed,Undetermined,200,17
+Cpapaya,wgd,Undetermined,76,17

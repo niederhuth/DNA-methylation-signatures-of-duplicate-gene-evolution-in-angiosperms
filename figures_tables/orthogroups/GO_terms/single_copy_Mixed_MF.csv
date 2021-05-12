@@ -1,9 +1,0 @@
-GO.ID,Term,Annotated,Significant,Expected,Fisher,fdr
-GO:0016410,N-acyltransferase activity,31,11,2.15,4.2e-07,2.94e-05
-GO:0016407,acetyltransferase activity,31,11,2.15,4.2e-07,2.94e-05
-GO:0052689,carboxylic ester hydrolase activity,10,5,0.69,0.00039,0.0182
-GO:0140097,catalytic activity, acting on DNA,6,4,0.42,0.00100,0.02065
-GO:0003723,RNA binding,72,15,4.99,0.00111,0.02065
-GO:0003824,catalytic activity,775,74,53.75,0.00115,0.02065
-GO:1901363,heterocyclic compound binding,718,65,49.8,0.00118,0.02065
-GO:0097159,organic cyclic compound binding,718,65,49.8,0.00118,0.02065

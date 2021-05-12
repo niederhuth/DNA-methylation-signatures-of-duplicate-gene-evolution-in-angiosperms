@@ -1,4 +1,0 @@
-GO.ID,Term,Annotated,Significant,Expected,Fisher,fdr
-GO:0005576,extracellular region,14,14,7.66,0.00015,0.002775
-GO:0005615,extracellular space,14,14,7.66,0.00015,0.002775
-GO:0005739,mitochondrion,10,10,5.47,0.00074,0.00912666666666667

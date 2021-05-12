@@ -1,3 +1,4 @@
+library(dplyr)
 library(ggplot2)
 
 #List species to be analyzed
@@ -31,46 +32,26 @@ for(a in species){
 	df2 <- read.table(path3,header=TRUE,sep="\t")
 	#Merge the two into a new dataframe
 	df3 <- merge(df1,df2[,c(1,30)],by.x="Feature",by.y="Feature")
+	#Read in duplicate similarity
+	path4 <- paste("../figures_tables/", a,"/",a, "_Duplicate_pair_met2.csv",sep="")
+	df4 <- read.csv(path4,header=TRUE)
 	#This ugly addition was added later to combine analyses of all SDGs
 	df9 <- data.frame()
 	#Loop through each category of gene duplication
 	for(b in c("wgd","proximal","dispersed","tandem","transposed")){
 		#Read in appropriate kaks results
-		path4 <- paste(a,"/dupgen/results/kaks_results","/",a,".",b,".kaks",sep="")
-		df4 <- read.table(path4,header=T,sep="\t")
-		#Rename colnames so "Duplicate.1" is "Feature"
-		colnames(df4) <- c("Feature","Duplicate.2","Ka","Ks","Ka.Ks","P.Value")
-		#Because df3 has 1 gene per line, while df4 is for each gene pair,need to 
-		#create a duplicate copy of df4 (df5), with columns 1 & 2 inverted and 
-		#combine this with df4 so that can merge with df3 without loss of genes
-		df5 <- df4[c(2,1,3:6)]
-		#Make sure column names match for rbind to properly work
-		colnames(df5) <- colnames(df4)
-		df6 <- rbind(df4,df5)
-		#sometimes, a gene may be represented more than once, because it is ancestor
-		#to more than one gene. This will give it multiple Ka & Ks values and result
-		#in it being counted more than once. You can select the lowest Ks, highest Ks, 
-		#or randomly sample just unhash that line and add a just hash to the other.
-		df7 <- data.frame()
-		for(i in df3[df3$Duplication == b,]$Feature){
-			if(nrow(df6[df6$Feature==i,]) != 0){
-				#df7 <- rbind(df7,
-				#	df6[df6$Feature==i & df6$Ks == min(df6[df6$Feature==i,]$Ks),])
-				#df7 <- rbind(df7,
-				#	df6[df6$Feature==i & df6$Ks == max(df6[df6$Feature==i,]$Ks),])
-				df7 <- rbind(df7,
-					df6[row.names(df6) == sample(row.names(df6[df6$Feature==i,]),1),])
-			} else {
-				df7 <- rbind(df7,data.frame(Feature=i,Duplicate.2=NA,Ka=NA,Ks=NA,
-					Ka.Ks=NA,P.Value=NA))
-			}
-		}
-		#Merge with classified genes 
-		df8 <- merge(df3,df7,by="Feature")
-		#Because some genes in a duplicate pair may have arisen by other mechanisms,
-		#need to remove genes in df8 that are not themselves classified as the type of 
-		#duplication being analyzed
-		df8 <- df8[df8$Duplication==b,]
+		path5a <- paste(a,"/dupgen/results/kaks_results","/",a,".",b,".kaks",sep="")
+		path5u <- paste(a,"/dupgen/results-unique/kaks_results","/",a,".",b,".kaks",sep="")
+		df5a <- read.table(path5a,header=T,sep="\t")
+		df5u <- read.table(path5u,header=T,sep="\t")
+		df6 <- merge(df4,df5u,by=c("Duplicate.1","Duplicate.2"))
+		df7 <- setdiff(df4[df4$Duplication==b,],df6[c(1:7)])
+		df8 <- rbind(df6,merge(df7,df5a,by=c("Duplicate.1","Duplicate.2")))
+
+
+
+
+		
 		#Plot the density of genes for each methylation class based Ks
 		p <- ggplot(df8) +
 			geom_density(aes(x=Ks,color=Classification),position="dodge",size=1) + 

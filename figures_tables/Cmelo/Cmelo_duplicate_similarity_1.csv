@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Cmelo,dispersed,Different,521,27
+Cmelo,proximal,Different,103,27
+Cmelo,tandem,Different,195,27
+Cmelo,transposed,Different,321,27
+Cmelo,wgd,Different,248,27
+Cmelo,dispersed,Same,1702,27
+Cmelo,proximal,Same,322,27
+Cmelo,tandem,Same,567,27
+Cmelo,transposed,Same,1598,27
+Cmelo,wgd,Same,1167,27
+Cmelo,dispersed,Undetermined,653,27
+Cmelo,proximal,Undetermined,115,27
+Cmelo,tandem,Undetermined,229,27
+Cmelo,transposed,Undetermined,321,27
+Cmelo,wgd,Undetermined,329,27

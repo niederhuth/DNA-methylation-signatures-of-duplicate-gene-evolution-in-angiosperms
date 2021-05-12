@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Egrandis,dispersed,Different,241,13
+Egrandis,proximal,Different,210,13
+Egrandis,tandem,Different,382,13
+Egrandis,transposed,Different,229,13
+Egrandis,wgd,Different,188,13
+Egrandis,dispersed,Same,932,13
+Egrandis,proximal,Same,590,13
+Egrandis,tandem,Same,1767,13
+Egrandis,transposed,Same,720,13
+Egrandis,wgd,Same,890,13
+Egrandis,dispersed,Undetermined,754,13
+Egrandis,proximal,Undetermined,580,13
+Egrandis,tandem,Undetermined,1301,13
+Egrandis,transposed,Undetermined,691,13
+Egrandis,wgd,Undetermined,732,13

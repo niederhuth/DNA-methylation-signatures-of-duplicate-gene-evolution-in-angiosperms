@@ -103,10 +103,10 @@ pSC <- data.frame()
 for(i in colnames(singleCopy[1:58])){
 	pSC <- rbind(pSC,data.frame(Species=i,
 		OpSC=data.frame(table(singleCopy[i]))[2,2]/nrow(singleCopy),
-		OgbM=NA,OTE.like=NA,OUnmethylated=NA,OUnclassified=NA,OMissing=NA,
-		OpgbM=NA,OpTE.like=NA,OpUnmethylated=NA,OpUnclassified=NA,OpMissing=NA,
-		gbM=NA,TE.like=NA,Unmethylated=NA,Unclassified=NA,Missing=NA,Total=NA,
-		pgbM=NA,pTE.like=NA,pUnmethylated=NA,pUnclassified=NA,pMissing=NA))
+		OgbM=NA,OteM=NA,OunM=NA,OUnclassified=NA,OMissing=NA,
+		OpgbM=NA,OpteM=NA,OpunM=NA,OpUnclassified=NA,OpMissing=NA,
+		gbM=NA,teM=NA,unM=NA,Unclassified=NA,Missing=NA,Total=NA,
+		pgbM=NA,pteM=NA,punM=NA,pUnclassified=NA,pMissing=NA))
 }
 #Identify multiCopy core angiosperm genes
 multiCopy <- geneCounts[row.names(geneCounts) %in% row.names(coreGenes) & 
@@ -161,18 +161,18 @@ for(a in species$Species){
 	#and each row an orthogroup
 	df5 <- df4[df4$Classification=="gbM",c(1,3)]
 	df5 <- merge(df5,df4[df4$Classification=="teM",c(1,3)],by="V2")
-	df5 <- merge(df5,df4[df4$Classification=="Unmethylated",c(1,3)],by="V2")
+	df5 <- merge(df5,df4[df4$Classification=="unM",c(1,3)],by="V2")
 	df5 <- merge(df5,df4[df4$Classification=="Unclassified",c(1,3)],by="V2")
 	df5 <- merge(df5,df4[df4$Classification=="Missing",c(1,3)],by="V2")
 	#Rename columns
-	colnames(df5) <- c("Orthogroup","gbM","teM","Unmethylated","Unclassified","Missing")
+	colnames(df5) <- c("Orthogroup","gbM","teM","unM","Unclassified","Missing")
 	#Sum up each row
 	df5$Total <- rowSums(df5[c(2:6)])
 	#Reformat for easier plotting
 	df6 <- melt(df5)
 	#Populate the pSC dataframe for analysis
 	tmp <- data.frame(t(colSums(df5[df5$Orthogroup %in% row.names(singleCopy),c(2:7)])))
-	for(b in c('gbM','teM','Unmethylated','Unclassified','Missing','Total')){
+	for(b in c('gbM','teM','unM','Unclassified','Missing','Total')){
 		pSC[pSC$Species==a,b] <- tmp[b]
 		if(b != 'Total'){
 			pSC[pSC$Species==a,paste("p",b,sep="")] <- tmp[b]/tmp['Total']
@@ -230,7 +230,7 @@ pOG2$Order3 <- c(6,3,2,5,1)
 
 
 #Plot percentage of each methylation class that is in each type of orthogroup
-for(a in c("gbM","teM","Unmethylated","Unclassified","Missing")){
+for(a in c("gbM","teM","unM","Unclassified","Missing")){
 	p <- ggplot(pOG2[pOG2$mC==a,]) + 
 		geom_bar(aes(x=reorder(Species,Order),y=pmC,fill=reorder(ogCat,Order2)),stat="identity") + 
 		theme_bw() + theme(axis.text.x=element_text(angle=90,hjust=1,vjust=0.5),
@@ -254,7 +254,7 @@ for(a in c("Species/Lineage Specific","Family Specific","Cross-Family","Core: Ot
 
 #Examine core gene clustering based on methylation state
 cm <- data.frame(Orthogroup=unique(pOG[pOG$ogCat=="Core: Single Copy" | pOG$ogCat=="Core: Other",]$Orthogroup))
-for(a in c("gbM","teM","Unmethylated","Unclassified","Missing")){
+for(a in c("gbM","teM","unM","Unclassified","Missing")){
 	tmp <- data.frame(table(as.vector(pOG[pOG$ogCat=="Core: Single Copy" & pOG$variable==a 
 		& pOG$value > 0 | pOG$ogCat=="Core: Other" & pOG$variable==a & pOG$value > 0,]$Orthogroup)))
 	colnames(tmp) <- c("Orthogroup",a)
@@ -264,22 +264,22 @@ rm(tmp)
 cm[is.na(cm)] <- 0
 cm$Total <- rowSums(cm[c(2:6)])
 cm[8:12] <- cm[2:6]
-colnames(cm) <- c("Orthogroup","gbM","teM","Unmethylated","Unclassified","Missing","Total",
-	"percent_gbM","percent_teM","percent_Unmethylated","percent_Unclassified","percent_Missing")
+colnames(cm) <- c("Orthogroup","gbM","teM","unM","Unclassified","Missing","Total",
+	"percent_gbM","percent_teM","percent_unM","percent_Unclassified","percent_Missing")
 cm[c(8:12)] <- cm[c(8:12)]/cm$Total
 cm2 <- melt(cm[c(8:12)])
 cmHTM <- pheatmap(cm[c(8:12)])
 cairo_pdf(paste(path2,'/core_orthogroup_cluster_heatmap.pdf',sep=''),family="Arial")
 	pheatmap(cm[c(8:12)],cutree_rows=3,show_rownames=FALSE,
 		legend_breaks=c(0.2,0.4,0.6,0.8),legend_labels=c("20%","40%","60%","80%"),
-		labels_col=c("gbM","teM","Unmethylated","Unclassified","Missing"))
+		labels_col=c("gbM","teM","unM","Unclassified","Missing"))
 dev.off()
 cm <- cbind(cm,cluster=cutree(cmHTM$tree_row,3))
 write.table(cm,paste(path2,"/core_orthogroups.tsv",sep=""),quote=FALSE,row.names=FALSE,sep="\t")
 
 #Examine single copy gene clustering based on methylation state
 scm <- data.frame(Orthogroup=unique(pOG[pOG$ogCat=="Core: Single Copy",]$Orthogroup))
-for(a in c("gbM","teM","Unmethylated","Unclassified","Missing")){
+for(a in c("gbM","teM","unM","Unclassified","Missing")){
 	tmp <- data.frame(table(as.vector(pOG[pOG$ogCat=="Core: Single Copy" & 
 		pOG$variable==a & pOG$value > 0,]$Orthogroup)))
 	colnames(tmp) <- c("Orthogroup",a)
@@ -289,14 +289,14 @@ rm(tmp)
 scm[is.na(scm)] <- 0
 scm$Total <- rowSums(scm[c(2:6)])
 scm[8:12] <- scm[2:6]
-colnames(scm) <- c("Orthogroup","gbM","teM","Unmethylated","Unclassified","Missing","Total",
-	"percent_gbM","percent_teM","percent_Unmethylated","percent_Unclassified","percent_Missing")
+colnames(scm) <- c("Orthogroup","gbM","teM","unM","Unclassified","Missing","Total",
+	"percent_gbM","percent_teM","percent_unM","percent_Unclassified","percent_Missing")
 scm[c(8:12)] <- scm[c(8:12)]/cm$Total
 scmHTM <- pheatmap(scm[c(8:12)])
 cairo_pdf(paste(path2,'/single_copy_cluster_heatmap.pdf',sep=''),family="Arial")
 	pheatmap(scm[c(8:12)],cutree_rows=3,show_rownames=FALSE,
 		legend_breaks=c(0.2,0.4,0.6,0.8),legend_labels=c("20%","40%","60%","80%"),
-		labels_col=c("gbM","teM","Unmethylated","Unclassified","Missing"))
+		labels_col=c("gbM","teM","unM","Unclassified","Missing"))
 dev.off()
 scm <- cbind(scm,cluster=cutree(scmHTM$tree_row,3))
 write.table(scm,paste(path2,"/single_copy_orthogroups.tsv",sep=""),quote=FALSE,row.names=FALSE,sep="\t")
@@ -313,7 +313,7 @@ if(!file.exists(path3)){
 goTerms <- readMappings(file="Athaliana/ref/annotations/Athaliana-topGO.txt")
 #Read in orthogroup-gene mappings for Arabidopsis
 Og2At <- read.table("Athaliana/ref/mcscanx/Athaliana_orthogroups.tsv",header=FALSE,sep="\t")
-#Core Unmethylated
+#Core unM
 cm2AtUM <- factor(as.integer(Og2At$V1 %in% Og2At[Og2At$V2 %in% cm[cm$cluster==3,]$Orthogroup,]$V1))
 names(cm2AtUM) <- Og2At$V1
 topGO(cm2AtUM,goTerms,nodeSize=5,fdr=0.05,filename="Core_UM",path=path3,returnData=FALSE)
@@ -325,7 +325,7 @@ topGO(cm2AtgBM,goTerms,nodeSize=5,fdr=0.05,filename="Core_gbM",path=path3,return
 cm2AtMixed <- factor(as.integer(Og2At$V1 %in% Og2At[Og2At$V2 %in% cm[cm$cluster==1,]$Orthogroup,]$V1))
 names(cm2AtMixed) <- Og2At$V1
 topGO(cm2AtMixed,goTerms,nodeSize=5,fdr=0.05,filename="Core_Mixed",path=path3,returnData=FALSE)
-#Core Single Copy Unmethylated
+#Core Single Copy unM
 scm2AtUM <- factor(as.integer(Og2At$V1 %in% Og2At[Og2At$V2 %in% scm[scm$cluster==3,]$Orthogroup,]$V1))
 names(scm2AtUM) <- Og2At$V1
 topGO(scm2AtUM,goTerms,nodeSize=5,fdr=0.05,filename="single_copy_UM",path=path3,returnData=FALSE)

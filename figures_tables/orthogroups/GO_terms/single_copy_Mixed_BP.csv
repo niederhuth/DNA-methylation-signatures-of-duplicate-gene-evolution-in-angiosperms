@@ -1,6 +1,0 @@
-GO.ID,Term,Annotated,Significant,Expected,Fisher,fdr
-GO:0009987,cellular process,465,59,44,1.3e-05,0.002678
-GO:0071840,cellular component organization or bioge...,35,12,3.31,0.00048,0.03193
-GO:0033554,cellular response to stress,13,4,1.23,0.00059,0.03193
-GO:0006457,protein folding,22,9,2.08,0.00062,0.03193
-GO:0044281,small molecule metabolic process,22,8,2.08,0.00110,0.04532

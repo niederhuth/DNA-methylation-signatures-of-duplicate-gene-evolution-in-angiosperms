@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Mtruncatula,dispersed,Different,957,39
+Mtruncatula,proximal,Different,434,39
+Mtruncatula,tandem,Different,548,39
+Mtruncatula,transposed,Different,709,39
+Mtruncatula,wgd,Different,497,39
+Mtruncatula,dispersed,Same,2074,39
+Mtruncatula,proximal,Same,839,39
+Mtruncatula,tandem,Same,1206,39
+Mtruncatula,transposed,Same,1249,39
+Mtruncatula,wgd,Same,1632,39
+Mtruncatula,dispersed,Undetermined,1046,39
+Mtruncatula,proximal,Undetermined,562,39
+Mtruncatula,tandem,Undetermined,769,39
+Mtruncatula,transposed,Undetermined,643,39
+Mtruncatula,wgd,Undetermined,576,39

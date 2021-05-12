@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Ljaponicus,dispersed,Different,997,38
+Ljaponicus,proximal,Different,99,38
+Ljaponicus,tandem,Different,155,38
+Ljaponicus,transposed,Different,474,38
+Ljaponicus,wgd,Different,161,38
+Ljaponicus,dispersed,Same,2321,38
+Ljaponicus,proximal,Same,202,38
+Ljaponicus,tandem,Same,1046,38
+Ljaponicus,transposed,Same,888,38
+Ljaponicus,wgd,Same,523,38
+Ljaponicus,dispersed,Undetermined,1061,38
+Ljaponicus,proximal,Undetermined,92,38
+Ljaponicus,tandem,Undetermined,297,38
+Ljaponicus,transposed,Undetermined,446,38
+Ljaponicus,wgd,Undetermined,241,38

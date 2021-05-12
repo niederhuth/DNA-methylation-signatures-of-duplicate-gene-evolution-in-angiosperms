@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Mdomestica,dispersed,Different,286,31
+Mdomestica,proximal,Different,321,31
+Mdomestica,tandem,Different,332,31
+Mdomestica,transposed,Different,770,31
+Mdomestica,wgd,Different,1084,31
+Mdomestica,dispersed,Same,734,31
+Mdomestica,proximal,Same,825,31
+Mdomestica,tandem,Same,1124,31
+Mdomestica,transposed,Same,1139,31
+Mdomestica,wgd,Same,5555,31
+Mdomestica,dispersed,Undetermined,554,31
+Mdomestica,proximal,Undetermined,612,31
+Mdomestica,tandem,Undetermined,655,31
+Mdomestica,transposed,Undetermined,1181,31
+Mdomestica,wgd,Undetermined,4816,31

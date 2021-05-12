@@ -1,23 +1,28 @@
 library(reshape2)
 library(ggplot2)
+library(scales)
 
 #List species to be analyzed
-species = c("Aduranensis","Aipaensis","Alyrata","Athaliana","Atrichopoda",
+species <- data.frame(Species=c("Aduranensis","Aipaensis","Alyrata","Athaliana","Atrichopoda",
 	"Bdistachyon","Boleracea","Brapa","Bvulgaris","Cclementina","Cpapaya",
 	"Clanatus","Cmelo","Crubella","Csativus","Egrandis","Eguineensis",
 	"Esalsugineum","Fvesca","Fxananassa","Gmax","Graimondii","Ljaponicus",
 	"Macuminata","Mdomestica","Mesculenta","Mguttatus","Mtruncatula","Osativa",
 	"Phallii","Ppersica","Ptrichocarpa","Pvirgatum","Pvulgaris","Pxbretschneideri",
 	"Sbicolor","Sitalica","Slycopersicum","Stuberosum","Sviridis","Tcacao",
-	"Vvinifera","Zmays")
+	"Vvinifera","Zmays"),Order=c(35,34,20,19,1,5,23,22,40,14,17,26,27,18,28,13,2,21,32,33,37,
+	16,38,3,31,24,43,39,4,11,29,25,10,36,30,7,8,41,42,9,15,12,6))
 
+#setwd("data/")
+df12 <- df11 <- data.frame()
 
-setwd("~/Dropbox/ANALYSIS/GeneDuplication_V2/data/")
-
-for(a in species){
+for(a in species$Species){
 	path1 <- paste(a,"/dupgen/results-unique/classified_genes.tsv",sep="")
 	path2 <- paste(a,"/methylpy/results/",a,"_classified_genes.tsv",sep="")
 	path3 <- paste("../figures_tables/",a,"/",sep="")
+	if(!file.exists(path3)){
+		dir.create(path3)
+	}
 	df1 <- read.table(path1,header=TRUE,sep="\t")
 	df2 <- read.table(path2,header=TRUE,sep="\t")
 	df2$Classification <- gsub("Unmethylated","unM",df2$Classification)
@@ -82,57 +87,54 @@ for(a in species){
 	}
 	df8 <- unique(df8)
 
-	df9 <- data.frame(species=a,table(df8$Duplication,df8$Similarity))
-	colnames(df9) <- c("Species","Duplication","Similarity","Number")
-	df10 <- data.frame(species=a,table(df8$Duplication,df8$Classification))
-	colnames(df10) <- c("Species","Duplication","Classification","Number")
+	df9 <- data.frame(species=a,table(df8$Duplication,df8$Similarity),PhyloOrder=species[species$Species==a,]$Order)
+	colnames(df9) <- c("Species","Duplication","Similarity","Number","PhyloOrder")
+	df10 <- data.frame(species=a,table(df8$Duplication,df8$Classification),PhyloOrder=species[species$Species==a,]$Order)
+	colnames(df10) <- c("Species","Duplication","Classification","Number","PhyloOrder")
+	tmp <-  as.vector(table(df8$Classification))
+	names(tmp) <- names(table(df7$Classification))
 
-	write.csv(df8,paste(path3,a,"_Duplicate_pair_met2.csv",sep=""),quote=FALSE,row.names=FALSE)
-	write.csv(df9,paste(path3,a,"_duplicate_similarity2_1.csv",sep=""),row.names=FALSE,quote=FALSE)
-	write.csv(df10,paste(path3,a,"_duplicate_similarity2_2.csv",sep=""),row.names=FALSE,quote=FALSE)
+	write.csv(df8,paste(path3,a,"_duplicate_pair_met.csv",sep=""),quote=FALSE,row.names=FALSE)
+	write.csv(df9,paste(path3,a,"_duplicate_similarity_1.csv",sep=""),row.names=FALSE,quote=FALSE)
+	write.csv(df10,paste(path3,a,"_duplicate_similarity_2.csv",sep=""),row.names=FALSE,quote=FALSE)
+	df11 <- rbind(df11,df9)
+	df12 <- rbind(df12,data.frame(species=a,t(tmp)))
 }
 
-
-#### Duplicate-Similarity figure ####
-
-# First to make a file for all species 
-setwd("~/Dropbox/ANALYSIS/GeneDuplication_V2/figures_tables/")
-
-df10 <- read.csv("All_DuplicateSimilarity2.csv") # this could be improved, but for now, I create an empty 
-# ouptut file and add all files into this
-for (a in species){
-  path <- paste(a,"/", a,"_Duplicate_Similarity2_1.csv",sep="")
-  df11 <- read.csv(path, header=TRUE)
-  df10 <- rbind(df10, df11)
+#Output combined tables
+path5 <- paste("../figures_tables/duplicate_similarity")
+if(!file.exists(path5)){
+	dir.create(path1)
 }
-write.csv(df10, file ="All_DuplicateSimilarity2.csv")
+write.csv(df11,paste(path5,"/All_DuplicateSimilarity.csv",sep=""),row.names=FALSE,quote=FALSE)
+colnames(df12) <- gsub("\\.","-",colnames(df12))
+write.csv(df12,paste(path5,"/All_DuplicatePair_classification.csv",sep=""),row.names=FALSE,quote=FALSE)
 
-
-# Using the whole datset to generate faceted graphs
-
-library(scales) # necesssary for percent
-
-#All_DuplicateSimilarity2.csv is manually changed to include species order.
-
-df12 <- read.csv("All_DuplicateSimilarity2.csv")
-df12 <- merge(df12,unique(df12[c(1,2)]),by="Species") # for ordering based on slno.
-
-df12$Similarity <- factor(df12$Similarity, levels(df12$Similarity)[c(3,1,2)])
+#### Duplicate-Similarity figures ####
+df11$Percent <- NA
+for(i in 1:nrow(df9)){
+	df11[i,]$Percent <- df11[i,]$Number/
+	sum(df11[df9$Species==df11[i,]$Species & df11$Duplication==df11[i,]$Duplication,]$Number)
+}
 
 # To get one figure for all different types of duplicates
-p <- ggplot(df12, aes(fill=Similarity, y=Number, x=reorder(Species, Slno.x))) + 
-  geom_bar(position="stack", stat="identity") +   #position=fill gives percentage, position=stack gives stacked number barplot
-  theme_bw() +
-  scale_y_continuous("Percentage of genes",expand=c(0,0),labels=percent) #y-axis shows % rather than numbers
+p <- ggplot(df11, aes(fill=Similarity,y=Number,x=reorder(Species,PhyloOrder))) + 
+	geom_bar(position="stack",stat="identity") +   #position=fill gives percentage, position=stack gives stacked number barplot
+	theme_bw() +
+	scale_y_continuous("Percentage of genes",expand=c(0,0),labels=percent) + #y-axis shows % rather than numbers
+	scale_x_discrete("")
 p + facet_wrap(~Duplication, scales="free", nrow =5)
+ggsave(paste(path5,"/duplicate_similarity.pdf",sep=""),p,device="pdf")
+
 
 # To plot each types of duplicates seperately
+for(a in c("wgd","proximal","dispersed","tandem","transposed")){
+	p <- ggplot(df11[df11$Duplication==a,], aes(fill=Similarity,y=Percent,x=reorder(Species,PhyloOrder))) + 
+		geom_bar(position="fill",stat="identity") +   #position=fill gives percentage, position=stack gives stacked number barplot
+		theme_bw() +
+		scale_y_continuous("Percentage of genes",expand=c(0,0),labels=percent) #y-axis shows % rather than numbers
+	ggsave(paste(path5,"/",a,"_duplicate_simiarlity.pdf",sep=""),p,device="pdf")
+}
 
-df13 <- subset(df12, Duplication=="transposed") #Change duplication time for each plot
- q <- ggplot(df13, aes(fill=Similarity, y=Number, x=reorder(Species, Slno.x))) + 
-    geom_bar(position="fill", stat="identity") +   #position=fill gives percentage, position=stack gives stacked number barplot
-    theme_bw() +
-   scale_y_continuous("Percentage of genes",expand=c(0,0),labels=percent) #y-axis shows % rather than numbers
- q
  
 

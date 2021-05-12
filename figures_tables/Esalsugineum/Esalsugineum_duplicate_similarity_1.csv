@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Esalsugineum,dispersed,Different,211,21
+Esalsugineum,proximal,Different,80,21
+Esalsugineum,tandem,Different,150,21
+Esalsugineum,transposed,Different,205,21
+Esalsugineum,wgd,Different,89,21
+Esalsugineum,dispersed,Same,2268,21
+Esalsugineum,proximal,Same,482,21
+Esalsugineum,tandem,Same,1245,21
+Esalsugineum,transposed,Same,2017,21
+Esalsugineum,wgd,Same,3210,21
+Esalsugineum,dispersed,Undetermined,55,21
+Esalsugineum,proximal,Undetermined,52,21
+Esalsugineum,tandem,Undetermined,90,21
+Esalsugineum,transposed,Undetermined,55,21
+Esalsugineum,wgd,Undetermined,32,21

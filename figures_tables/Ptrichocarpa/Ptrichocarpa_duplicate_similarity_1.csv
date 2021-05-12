@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Ptrichocarpa,dispersed,Different,170,25
+Ptrichocarpa,proximal,Different,138,25
+Ptrichocarpa,tandem,Different,156,25
+Ptrichocarpa,transposed,Different,361,25
+Ptrichocarpa,wgd,Different,1043,25
+Ptrichocarpa,dispersed,Same,979,25
+Ptrichocarpa,proximal,Same,1013,25
+Ptrichocarpa,tandem,Same,1649,25
+Ptrichocarpa,transposed,Same,1432,25
+Ptrichocarpa,wgd,Same,7192,25
+Ptrichocarpa,dispersed,Undetermined,165,25
+Ptrichocarpa,proximal,Undetermined,153,25
+Ptrichocarpa,tandem,Undetermined,131,25
+Ptrichocarpa,transposed,Undetermined,284,25
+Ptrichocarpa,wgd,Undetermined,1779,25

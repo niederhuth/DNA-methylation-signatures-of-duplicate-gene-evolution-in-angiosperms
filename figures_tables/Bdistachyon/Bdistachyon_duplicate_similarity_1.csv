@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Bdistachyon,dispersed,Different,883,5
+Bdistachyon,proximal,Different,228,5
+Bdistachyon,tandem,Different,295,5
+Bdistachyon,transposed,Different,443,5
+Bdistachyon,wgd,Different,204,5
+Bdistachyon,dispersed,Same,2534,5
+Bdistachyon,proximal,Same,619,5
+Bdistachyon,tandem,Same,1099,5
+Bdistachyon,transposed,Same,1151,5
+Bdistachyon,wgd,Same,1255,5
+Bdistachyon,dispersed,Undetermined,1213,5
+Bdistachyon,proximal,Undetermined,295,5
+Bdistachyon,tandem,Undetermined,350,5
+Bdistachyon,transposed,Undetermined,488,5
+Bdistachyon,wgd,Undetermined,615,5

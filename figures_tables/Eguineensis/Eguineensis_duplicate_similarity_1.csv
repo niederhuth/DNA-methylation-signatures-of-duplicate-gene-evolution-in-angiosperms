@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Eguineensis,dispersed,Different,57,2
+Eguineensis,proximal,Different,11,2
+Eguineensis,tandem,Different,31,2
+Eguineensis,transposed,Different,111,2
+Eguineensis,wgd,Different,207,2
+Eguineensis,dispersed,Same,365,2
+Eguineensis,proximal,Same,74,2
+Eguineensis,tandem,Same,435,2
+Eguineensis,transposed,Same,486,2
+Eguineensis,wgd,Same,1570,2
+Eguineensis,dispersed,Undetermined,369,2
+Eguineensis,proximal,Undetermined,32,2
+Eguineensis,tandem,Undetermined,209,2
+Eguineensis,transposed,Undetermined,550,2
+Eguineensis,wgd,Undetermined,1747,2

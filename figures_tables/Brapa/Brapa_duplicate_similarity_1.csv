@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Brapa,dispersed,Different,153,22
+Brapa,proximal,Different,43,22
+Brapa,tandem,Different,108,22
+Brapa,transposed,Different,428,22
+Brapa,wgd,Different,471,22
+Brapa,dispersed,Same,1358,22
+Brapa,proximal,Same,380,22
+Brapa,tandem,Same,1447,22
+Brapa,transposed,Same,3238,22
+Brapa,wgd,Same,10486,22
+Brapa,dispersed,Undetermined,305,22
+Brapa,proximal,Undetermined,55,22
+Brapa,tandem,Undetermined,194,22
+Brapa,transposed,Undetermined,618,22
+Brapa,wgd,Undetermined,2283,22

@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Graimondii,dispersed,Different,553,16
+Graimondii,proximal,Different,165,16
+Graimondii,tandem,Different,345,16
+Graimondii,transposed,Different,620,16
+Graimondii,wgd,Different,1308,16
+Graimondii,dispersed,Same,1816,16
+Graimondii,proximal,Same,533,16
+Graimondii,tandem,Same,1574,16
+Graimondii,transposed,Same,1459,16
+Graimondii,wgd,Same,5468,16
+Graimondii,dispersed,Undetermined,639,16
+Graimondii,proximal,Undetermined,160,16
+Graimondii,tandem,Undetermined,287,16
+Graimondii,transposed,Undetermined,661,16
+Graimondii,wgd,Undetermined,2352,16
