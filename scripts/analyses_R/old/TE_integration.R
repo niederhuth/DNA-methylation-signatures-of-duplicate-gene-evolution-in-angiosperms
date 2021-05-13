@@ -65,7 +65,7 @@ for(i in c("Athaliana")){
 	#Plot df17
 	for(x in c("gbM","unM","teM")){
 		#Make the plot
-		p <- ggplot(df16[df16$Methylation=="unM",]) + 
+		p <- ggplot(df16[df16$Methylation==x,]) + 
 			geom_bar(aes(x=Duplicate_Methylation,y=Gene_Percent,fill=TE_Presence),stat="identity",position="dodge")
 		#Save the plot
 		ggsave(paste(path3,i,"_",x,"_TE_presence.pdf",sep=""),p)

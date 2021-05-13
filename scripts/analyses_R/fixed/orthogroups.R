@@ -251,7 +251,7 @@ for(i in 1:nrow(pOG2)){
 }
 rm(tmp)
 pOG2$p.adjust <- p.adjust(pOG2$p.value,method="BH")
-pOG3 <- na.omit(pOG2[,c(1,3,4,5,10,11)])
+pOG3 <- na.omit(pOG2[,c(1,3,4,5,10,11,12)])
 write.csv(pOG3,paste(path2,"/enrichment_test.csv",sep=""),row.names=FALSE,quote=FALSE)
 
 #Plot percentage of each methylation class that is in each type of orthogroup
