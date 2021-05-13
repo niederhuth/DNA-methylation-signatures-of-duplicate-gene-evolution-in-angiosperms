@@ -1,0 +1,118 @@
+GO.ID,Term,Annotated,Significant,Expected,Fisher,fdr
+GO:0009987,cellular process,13853,921,742.54,2.1e-30,5.1852e-27
+GO:0006259,DNA metabolic process,520,119,27.87,2.9e-30,5.1852e-27
+GO:0008152,metabolic process,10856,754,581.9,3.3e-25,3.9336e-22
+GO:0006974,cellular response to DNA damage stimulus,375,95,20.1,3.6e-24,2.64624e-21
+GO:0006396,RNA processing,844,135,45.24,3.7e-24,2.64624e-21
+GO:0034660,ncRNA metabolic process,471,81,25.25,1.3e-15,7.748e-13
+GO:0033554,cellular response to stress,1201,133,64.38,2.4e-15,1.22605714285714e-12
+GO:0009451,RNA modification,292,59,15.65,6.3e-15,2.8161e-12
+GO:0071840,cellular component organization or bioge...,3134,303,167.99,8.5e-14,3.37733333333333e-11
+GO:0022402,cell cycle process,479,74,25.68,5.8e-12,2.07408e-09
+GO:0046907,intracellular transport,732,85,39.24,1.1e-11,3.576e-09
+GO:0006996,organelle organization,1824,224,97.77,1.6e-11,4.768e-09
+GO:0051649,establishment of localization in cell,782,88,41.92,2.2e-11,6.05169230769231e-09
+GO:0010608,posttranscriptional regulation of gene e...,243,35,13.03,8.6e-11,2.19668571428571e-08
+GO:0007049,cell cycle,581,81,31.14,1.1e-10,2.6224e-08
+GO:0006260,DNA replication,165,31,8.84,8.9e-10,1.98915e-07
+GO:0006139,nucleobase-containing compound metabolic...,4206,375,225.45,9.8e-10,2.06145882352941e-07
+GO:0045184,establishment of protein localization,637,73,34.14,3.2e-09,6.35733333333333e-07
+GO:0046483,heterocycle metabolic process,4522,396,242.39,2.2e-08,4.14063157894737e-06
+GO:0006950,response to stress,3309,235,177.37,5.8e-08,1.00468571428571e-05
+GO:0022414,reproductive process,1959,159,105.01,5.9e-08,1.00468571428571e-05
+GO:0000003,reproduction,1968,159,105.49,7.9e-08,1.28410909090909e-05
+GO:0016071,mRNA metabolic process,471,64,25.25,1.0e-07,1.55478260869565e-05
+GO:0090304,nucleic acid metabolic process,3842,351,205.94,1.4e-07,2.086e-05
+GO:0007059,chromosome segregation,135,27,7.24,2.1e-07,3.00384e-05
+GO:0009793,embryo development ending in seed dorman...,547,69,29.32,2.3e-07,3.16338461538462e-05
+GO:0009790,embryo development,579,73,31.04,2.7e-07,3.576e-05
+GO:0042793,plastid transcription,11,6,0.59,3.1e-07,3.95914285714286e-05
+GO:0051321,meiotic cell cycle,186,36,9.97,5.7e-07,7.02868965517241e-05
+GO:0034641,cellular nitrogen compound metabolic pro...,5097,429,273.21,7.2e-07,8.5824e-05
+GO:1901360,organic cyclic compound metabolic proces...,4755,400,254.87,9.1e-07,0.000104972903225806
+GO:0044237,cellular metabolic process,9944,715,533.01,1.1e-06,0.000122925
+GO:0036503,ERAD pathway,59,14,3.16,1.7e-06,0.0001788
+GO:0016441,posttranscriptional gene silencing,100,26,5.36,1.7e-06,0.0001788
+GO:0016458,gene silencing,205,33,10.99,1.9e-06,0.000194125714285714
+GO:0051236,establishment of RNA localization,67,16,3.59,2.1e-06,0.0002086
+GO:0032392,DNA geometric change,34,17,1.82,2.4e-06,0.000231956756756757
+GO:0006807,nitrogen compound metabolic process,8357,630,447.95,2.7e-06,0.000254084210526316
+GO:0006725,cellular aromatic compound metabolic pro...,4660,394,249.78,2.8e-06,0.000256738461538462
+GO:0071705,nitrogen compound transport,873,82,46.79,3.5e-06,0.0003129
+GO:1901137,carbohydrate derivative biosynthetic pro...,464,50,24.87,5.3e-06,0.000449079069767442
+GO:0006406,mRNA export from nucleus,33,11,1.77,5.3e-06,0.000449079069767442
+GO:1903046,meiotic cell cycle process,170,32,9.11,5.4e-06,0.000449079069767442
+GO:0071897,DNA biosynthetic process,33,11,1.77,7.1e-06,0.000577036363636364
+GO:0033036,macromolecule localization,1029,90,55.16,7.9e-06,0.000627786666666667
+GO:0044042,glucan metabolic process,227,25,12.17,9.2e-06,0.0007152
+GO:0006401,RNA catabolic process,128,24,6.86,9.7e-06,0.00073755
+GO:0043414,macromolecule methylation,212,33,11.36,9.9e-06,0.00073755
+GO:0044247,cellular polysaccharide catabolic proces...,20,8,1.07,1.2e-05,0.000875755102040816
+GO:0032502,developmental process,3417,236,183.16,1.4e-05,0.00100128
+GO:0006661,phosphatidylinositol biosynthetic proces...,41,13,2.2,1.5e-05,0.00105176470588235
+GO:0051641,cellular localization,1000,99,53.6,1.9e-05,0.00130661538461538
+GO:0071702,organic substance transport,1063,92,56.98,2.2e-05,0.00148437735849057
+GO:0032501,multicellular organismal process,3122,217,167.34,2.3e-05,0.00152311111111111
+GO:0010239,chloroplast mRNA processing,10,7,0.54,2.5e-05,0.00162545454545455
+GO:0030433,ubiquitin-dependent ERAD pathway,44,13,2.36,4.4e-05,0.00280971428571429
+GO:1901566,organonitrogen compound biosynthetic pro...,1522,121,81.58,6.0e-05,0.00376421052631579
+GO:0030242,autophagy of peroxisome,5,5,0.27,6.5e-05,0.00400758620689655
+GO:0010212,response to ionizing radiation,29,10,1.55,6.9e-05,0.00418210169491525
+GO:0000959,mitochondrial RNA metabolic process,62,14,3.32,9.3e-05,0.0055428
+GO:0051052,regulation of DNA metabolic process,90,17,4.82,0.00011,0.00644852459016393
+GO:1903509,liposaccharide metabolic process,57,13,3.06,0.00012,0.00692129032258065
+GO:0060249,anatomical structure homeostasis,43,11,2.3,0.00014,0.00794666666666667
+GO:0006403,RNA localization,77,17,4.13,0.00015,0.00825230769230769
+GO:0070988,demethylation,37,10,1.98,0.00015,0.00825230769230769
+GO:0044248,cellular catabolic process,1295,124,69.41,0.00021,0.0112083582089552
+GO:0032259,methylation,268,35,14.37,0.00021,0.0112083582089552
+GO:0006268,DNA unwinding involved in DNA replicatio...,19,11,1.02,0.00026,0.0136729411764706
+GO:0046474,glycerophospholipid biosynthetic process,88,14,4.72,0.00027,0.0139930434782609
+GO:0009251,glucan catabolic process,28,8,1.5,0.00031,0.0158365714285714
+GO:0034622,cellular protein-containing complex asse...,519,53,27.82,0.00038,0.0185766233766234
+GO:0006281,DNA repair,341,92,18.28,0.00038,0.0185766233766234
+GO:0006506,GPI anchor biosynthetic process,31,11,1.66,0.00039,0.0185766233766234
+GO:0031503,protein-containing complex localization,66,16,3.54,0.00039,0.0185766233766234
+GO:0071166,ribonucleoprotein complex localization,54,14,2.89,0.00040,0.0185766233766234
+GO:0009101,glycoprotein biosynthetic process,159,21,8.52,0.00040,0.0185766233766234
+GO:0044238,primary metabolic process,9475,687,507.87,0.00040,0.0185766233766234
+GO:0015833,peptide transport,660,72,35.38,0.00042,0.0192553846153846
+GO:0061982,meiosis I cell cycle process,86,25,4.61,0.00044,0.0199169620253165
+GO:0043170,macromolecule metabolic process,7860,594,421.31,0.00047,0.021009
+GO:0006517,protein deglycosylation,7,4,0.38,0.00048,0.0211113253012048
+GO:0045010,actin nucleation,24,5,1.29,0.00049,0.0211113253012048
+GO:0006520,cellular amino acid metabolic process,413,48,22.14,0.00049,0.0211113253012048
+GO:0006821,chloride transport,10,3,0.54,0.00056,0.02384
+GO:0009247,glycolipid biosynthetic process,51,13,2.73,0.00058,0.0241172093023256
+GO:0071479,cellular response to ionizing radiation,7,5,0.38,0.00058,0.0241172093023256
+GO:0009314,response to radiation,817,71,43.79,0.00059,0.0242510344827586
+GO:0046467,membrane lipid biosynthetic process,92,14,4.93,0.00062,0.0251945454545455
+GO:0006505,GPI anchor metabolic process,31,11,1.66,0.00064,0.0257150561797753
+GO:0007076,mitotic chromosome condensation,5,4,0.27,0.00066,0.026224
+GO:0048519,negative regulation of biological proces...,1179,89,63.2,0.00067,0.0263287912087912
+GO:0000965,mitochondrial RNA 3'-end processing,5,4,0.27,0.00069,0.02682
+GO:0048316,seed development,764,77,40.95,0.00070,0.0269161290322581
+GO:0009100,glycoprotein metabolic process,170,23,9.11,0.00071,0.0270102127659574
+GO:0090407,organophosphate biosynthetic process,335,34,17.96,0.00073,0.0274787368421053
+GO:0044270,cellular nitrogen compound catabolic pro...,219,33,11.74,0.00076,0.02831
+GO:0060968,regulation of gene silencing,62,10,3.32,0.00078,0.0287554639175258
+GO:0042158,lipoprotein biosynthetic process,114,16,6.11,0.00083,0.0302865306122449
+GO:0007131,reciprocal meiotic recombination,62,20,3.32,0.00084,0.0303418181818182
+GO:0006611,protein export from nucleus,59,16,3.16,0.00085,0.030396
+GO:0044275,cellular carbohydrate catabolic process,46,11,2.47,0.00089,0.0315112871287129
+GO:0046488,phosphatidylinositol metabolic process,85,15,4.56,0.00091,0.0319035294117647
+GO:0043574,peroxisomal transport,20,8,1.07,0.00094,0.0326353398058252
+GO:0051276,chromosome organization,578,92,30.98,0.00099,0.0340407692307692
+GO:0006418,tRNA aminoacylation for protein translat...,58,10,3.11,0.00100,0.0340571428571429
+GO:0015931,nucleobase-containing compound transport,119,20,6.38,0.00103,0.0347479245283019
+GO:0008104,protein localization,811,82,43.47,0.00106,0.0350977777777778
+GO:0046700,heterocycle catabolic process,219,33,11.74,0.00106,0.0350977777777778
+GO:0051169,nuclear transport,114,24,6.11,0.00108,0.0354319266055046
+GO:0036388,pre-replicative complex assembly,7,5,0.38,0.00109,0.0354349090909091
+GO:0009873,ethylene-activated signaling pathway,81,9,4.34,0.00122,0.0393037837837838
+GO:1901361,organic cyclic compound catabolic proces...,242,34,12.97,0.00126,0.0401904424778761
+GO:1902299,pre-replicative complex assembly involve...,7,5,0.38,0.00127,0.0401904424778761
+GO:0005982,starch metabolic process,76,16,4.07,0.00132,0.0414063157894737
+GO:0044265,cellular macromolecule catabolic process,774,72,41.49,0.00136,0.0422900869565217
+GO:0016117,carotenoid biosynthetic process,26,6,1.39,0.00142,0.0437066666666667
+GO:0000184,nuclear-transcribed mRNA catabolic proce...,10,5,0.54,0.00143,0.0437066666666667

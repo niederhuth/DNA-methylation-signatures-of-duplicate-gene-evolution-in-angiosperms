@@ -142,6 +142,8 @@ for(a in species$Species){
 	#Read in the list of genes classified by methylation status
 	df1 <- read.table(paste(a,"/methylpy/results/",a,"_classified_genes.tsv",sep=""),
 		sep="\t",header=TRUE)
+	#Change Unmethylated to unM
+	df1$Classification <- gsub("Unmethylated","unM",df1$Classification)
 	#Set classification to character, so that R doesn't screw it up
 	df1$Classification <- as.character(df1$Classification)
 	#Change "NA" to "Missing"
@@ -227,6 +229,30 @@ for(a in species$Species){
 }
 pOG2$Order2 <- c(rep(5,6),rep(3,6),rep(1,6),rep(2,6),rep(4,6))
 pOG2$Order3 <- c(6,3,2,5,1)
+
+#Fisher's Exact test for enrichment/depletion
+pOG2$p.value <- pOG2$OR <- NA
+for(i in 1:nrow(pOG2)){
+	if(!(pOG2[i,]$mC %in% c("Total","Missing","Unclassified"))){
+		tmp <- fisher.test(matrix(c(
+			pOG2[pOG2$Species==pOG2[i,]$Species & pOG2$ogCat==pOG2[i,]$ogCat & pOG2$mC==pOG2[i,]$mC,]$Count,
+			pOG2[pOG2$Species==pOG2[i,]$Species & pOG2$ogCat==pOG2[i,]$ogCat & pOG2$mC == "Total",]$Count -
+			pOG2[pOG2$Species==pOG2[i,]$Species & pOG2$ogCat==pOG2[i,]$ogCat & pOG2$mC==pOG2[i,]$mC,]$Count,
+			sum(pOG2[pOG2$Species==pOG2[i,]$Species & pOG2$mC==pOG2[i,]$mC & pOG2$ogCat!=pOG2[i,]$ogCat,]$Count),
+			sum(pOG2[pOG2$Species==pOG2[i,]$Species & pOG2$ogCat!=pOG2[i,]$ogCat & 
+				pOG2$mC!=pOG2[i,]$mC & pOG2$mC != "Total",]$Count)
+			),c(2,2)),alternative ="two.sided")
+		pOG2[i,]$OR <- tmp$estimate
+		pOG2[i,]$p.value <- tmp$p.value
+		} else {
+			pOG2[i,]$OR <- NA
+			pOG2[i,]$p.value <- NA
+		}
+}
+rm(tmp)
+pOG2$p.adjust <- p.adjust(pOG2$p.value,method="BH")
+pOG3 <- na.omit(pOG2[,c(1,3,4,5,10,11)])
+write.csv(pOG3,paste(path2,"/enrichment_test.csv",sep=""),row.names=FALSE,quote=FALSE)
 
 #Plot percentage of each methylation class that is in each type of orthogroup
 for(a in c("gbM","teM","unM","Unclassified","Missing")){

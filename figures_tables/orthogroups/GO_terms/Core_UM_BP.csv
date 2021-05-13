@@ -1,0 +1,319 @@
+GO.ID,Term,Annotated,Significant,Expected,Fisher,fdr
+GO:0051171,regulation of nitrogen compound metaboli...,2738,949,621.13,1e-30,1.4304e-28
+GO:0032774,RNA biosynthetic process,2377,861,539.23,1e-30,1.4304e-28
+GO:0006351,transcription, DNA-templated,2373,861,538.33,1e-30,1.4304e-28
+GO:0051252,regulation of RNA metabolic process,2289,844,519.27,1e-30,1.4304e-28
+GO:0019219,regulation of nucleobase-containing comp...,2351,846,533.34,1e-30,1.4304e-28
+GO:0080090,regulation of primary metabolic process,2829,966,641.77,1e-30,1.4304e-28
+GO:0031323,regulation of cellular metabolic process,2984,1017,676.94,1e-30,1.4304e-28
+GO:0034654,nucleobase-containing compound biosynthe...,2637,895,598.22,1e-30,1.4304e-28
+GO:0060255,regulation of macromolecule metabolic pr...,3045,978,690.77,1e-30,1.4304e-28
+GO:0019438,aromatic compound biosynthetic process,2939,992,666.73,1e-30,1.4304e-28
+GO:1901362,organic cyclic compound biosynthetic pro...,3034,1022,688.28,1e-30,1.4304e-28
+GO:0018130,heterocycle biosynthetic process,2854,945,647.44,1e-30,1.4304e-28
+GO:0010556,regulation of macromolecule biosynthetic...,2403,884,545.13,1e-30,1.4304e-28
+GO:0010468,regulation of gene expression,2668,893,605.25,1e-30,1.4304e-28
+GO:0009059,macromolecule biosynthetic process,3642,1090,826.21,1e-30,1.4304e-28
+GO:1901576,organic substance biosynthetic process,5028,1442,1140.63,1e-30,1.4304e-28
+GO:0009889,regulation of biosynthetic process,2544,929,577.12,1e-30,1.4304e-28
+GO:0006355,regulation of transcription, DNA-templat...,2211,843,501.58,1e-30,1.4304e-28
+GO:2000112,regulation of cellular macromolecule bio...,2390,882,542.18,1e-30,1.4304e-28
+GO:0009058,biosynthetic process,5164,1491,1171.48,1e-30,1.4304e-28
+GO:0044249,cellular biosynthetic process,4926,1414,1117.49,1e-30,1.4304e-28
+GO:0019222,regulation of metabolic process,3326,1055,754.52,1e-30,1.4304e-28
+GO:0031326,regulation of cellular biosynthetic proc...,2507,913,568.73,1e-30,1.4304e-28
+GO:0032502,developmental process,3417,1063,775.16,1e-30,1.4304e-28
+GO:0044271,cellular nitrogen compound biosynthetic ...,3455,1038,783.78,1e-30,1.4304e-28
+GO:0034645,cellular macromolecule biosynthetic proc...,3577,1066,811.46,4.1e-30,5.63907692307692e-28
+GO:0050896,response to stimulus,5815,1627,1319.16,1.2e-28,1.58933333333333e-26
+GO:0042221,response to chemical,2875,991,652.21,5.5e-28,7.02428571428571e-26
+GO:0010467,gene expression,4013,1061,910.37,2.7e-25,3.32937931034483e-23
+GO:0071456,cellular response to hypoxia,242,128,54.9,3.1e-25,3.6952e-23
+GO:0065007,biological regulation,6102,1675,1384.27,3.9e-25,4.49883870967742e-23
+GO:0050789,regulation of biological process,5495,1515,1246.57,5.1e-23,5.69925e-21
+GO:0050794,regulation of cellular process,4816,1356,1092.53,7.4e-23,8.01890909090909e-21
+GO:0032501,multicellular organismal process,3122,925,708.24,1.3e-22,1.36729411764706e-20
+GO:0045229,external encapsulating structure organiz...,337,132,76.45,3.1e-22,3.16731428571429e-20
+GO:0071554,cell wall organization or biogenesis,560,229,127.04,9.6e-22,9.536e-20
+GO:0016070,RNA metabolic process,3443,934,781.06,8.1e-21,7.82854054054054e-19
+GO:2001141,regulation of RNA biosynthetic process,2213,843,502.03,8.8e-21,8.28126315789474e-19
+GO:0009719,response to endogenous stimulus,1408,528,319.41,2.0e-19,1.83384615384615e-17
+GO:0009755,hormone-mediated signaling pathway,641,212,145.41,2.5e-16,2.235e-14
+GO:0009698,phenylpropanoid metabolic process,135,77,30.63,6.4e-16,5.58204878048781e-14
+GO:0001666,response to hypoxia,269,134,61.02,2.1e-15,1.788e-13
+GO:0000272,polysaccharide catabolic process,143,61,32.44,1.5e-14,1.24744186046512e-12
+GO:0019220,regulation of phosphate metabolic proces...,154,65,34.94,3.4e-14,2.76327272727273e-12
+GO:0042325,regulation of phosphorylation,106,49,24.05,4.3e-14,3.41706666666667e-12
+GO:1903506,regulation of nucleic acid-templated tra...,2211,843,501.58,6.8e-14,5.28626086956522e-12
+GO:0090304,nucleic acid metabolic process,3842,965,871.58,1.1e-13,8.36936170212766e-12
+GO:0001932,regulation of protein phosphorylation,99,47,22.46,1.4e-13,1.043e-11
+GO:0048869,cellular developmental process,764,266,173.32,2.9e-13,2.11640816326531e-11
+GO:0070887,cellular response to chemical stimulus,1313,463,297.86,3.1e-13,2.21712e-11
+GO:0019748,secondary metabolic process,366,146,83.03,3.5e-13,2.45411764705882e-11
+GO:0010876,lipid localization,166,58,37.66,5.2e-13,3.576e-11
+GO:0015979,photosynthesis,221,98,50.13,6.6e-13,4.4531320754717e-11
+GO:0042545,cell wall modification,174,98,39.47,4.2e-12,2.78133333333333e-10
+GO:0009628,response to abiotic stimulus,2188,724,496.36,1.2e-11,7.80218181818182e-10
+GO:2000652,regulation of secondary cell wall biogen...,30,26,6.81,1.9e-11,1.21328571428571e-09
+GO:0010200,response to chitin,143,90,32.44,4.2e-11,2.63494736842105e-09
+GO:0031399,regulation of protein modification proce...,203,69,46.05,6.4e-11,3.94593103448276e-09
+GO:0071453,cellular response to oxygen levels,244,129,55.35,1.6e-10,9.69762711864407e-09
+GO:0019684,photosynthesis, light reaction,145,71,32.89,3.9e-10,2.3244e-08
+GO:0015706,nitrate transport,40,24,9.07,4.3e-10,2.5207868852459e-08
+GO:0048367,shoot system development,925,362,209.84,9.7e-10,5.59470967741935e-08
+GO:0048437,floral organ development,259,121,58.76,1.7e-09,9.64952380952381e-08
+GO:0000160,phosphorelay signal transduction system,111,39,25.18,2.0e-09,1.1175e-07
+GO:0070482,response to oxygen levels,274,135,62.16,2.1e-09,1.15532307692308e-07
+GO:0009699,phenylpropanoid biosynthetic process,104,64,23.59,2.6e-09,1.40872727272727e-07
+GO:0009414,response to water deprivation,405,165,91.88,2.8e-09,1.49444776119403e-07
+GO:1904029,regulation of cyclin-dependent protein k...,54,32,12.25,3.5e-09,1.84058823529412e-07
+GO:0016998,cell wall macromolecule catabolic proces...,33,18,7.49,8.3e-09,4.3015652173913e-07
+GO:0044550,secondary metabolite biosynthetic proces...,174,85,39.47,1.0e-08,5.10857142857143e-07
+GO:0050793,regulation of developmental process,836,298,189.65,1.4e-08,7.0512676056338e-07
+GO:0009834,plant-type secondary cell wall biogenesi...,89,59,20.19,1.6e-08,7.94666666666667e-07
+GO:0009827,plant-type cell wall modification,65,47,14.75,2.5e-08,1.22465753424658e-06
+GO:0042044,fluid transport,30,20,6.81,2.7e-08,1.30475675675676e-06
+GO:0051239,regulation of multicellular organismal p...,658,237,149.27,2.8e-08,1.33504e-06
+GO:0006979,response to oxidative stress,472,183,107.08,2.9e-08,1.36452631578947e-06
+GO:0042546,cell wall biogenesis,273,103,61.93,3.1e-08,1.43968831168831e-06
+GO:0006865,amino acid transport,54,26,12.25,5.4e-08,2.47569230769231e-06
+GO:0099402,plant organ development,1169,430,265.19,6.2e-08,2.80648101265823e-06
+GO:0015849,organic acid transport,123,45,27.9,6.6e-08,2.9502e-06
+GO:0010275,NAD(P)H dehydrogenase complex assembly,11,10,2.5,1.1e-07,4.79707317073171e-06
+GO:0051173,positive regulation of nitrogen compound...,724,210,164.24,1.1e-07,4.79707317073171e-06
+GO:0051259,protein complex oligomerization,54,26,12.25,2.4e-07,1.03402409638554e-05
+GO:0120254,olefinic compound metabolic process,75,37,17.01,3.7e-07,1.57514285714286e-05
+GO:1901360,organic cyclic compound metabolic proces...,4755,1184,1078.7,4.5e-07,1.89317647058824e-05
+GO:0010817,regulation of hormone levels,258,95,58.53,4.9e-07,2.03748837209302e-05
+GO:0006213,pyrimidine nucleoside metabolic process,14,12,3.18,7.4e-07,3.04165517241379e-05
+GO:1905784,regulation of anaphase-promoting complex...,9,6,2.04,7.7e-07,3.129e-05
+GO:0010143,cutin biosynthetic process,24,19,5.44,8.2e-07,3.29474157303371e-05
+GO:0009685,gibberellin metabolic process,37,22,8.39,8.4e-07,3.3376e-05
+GO:1905786,positive regulation of anaphase-promotin...,9,6,2.04,9.2e-07,3.6152967032967e-05
+GO:0048653,anther development,81,46,18.38,9.8e-07,3.80921739130435e-05
+GO:0008283,cell population proliferation,112,49,25.41,1.0e-06,3.84516129032258e-05
+GO:0033385,geranylgeranyl diphosphate metabolic pro...,10,10,2.27,1.1e-06,4.14063157894737e-05
+GO:0010604,positive regulation of macromolecule met...,758,219,171.96,1.1e-06,4.14063157894737e-05
+GO:0045935,positive regulation of nucleobase-contai...,557,181,126.36,1.2e-06,4.47e-05
+GO:0033386,geranylgeranyl diphosphate biosynthetic ...,10,10,2.27,1.5e-06,5.52989690721649e-05
+GO:0072529,pyrimidine-containing compound catabolic...,15,10,3.4,1.6e-06,5.77939393939394e-05
+GO:1901700,response to oxygen-containing compound,1642,625,372.5,1.6e-06,5.77939393939394e-05
+GO:0031325,positive regulation of cellular metaboli...,780,232,176.95,1.7e-06,6.0792e-05
+GO:0009095,aromatic amino acid family biosynthetic ...,15,10,3.4,1.8e-06,6.37306930693069e-05
+GO:0010227,floral organ abscission,30,21,6.81,2.2e-06,7.71294117647059e-05
+GO:0040007,growth,674,204,152.9,2.3e-06,7.9852427184466e-05
+GO:0001763,morphogenesis of a branching structure,41,27,9.3,2.4e-06,8.25230769230769e-05
+GO:0051952,regulation of amine transport,7,7,1.59,3.3e-06,0.000112388571428571
+GO:0005976,polysaccharide metabolic process,451,138,102.31,3.5e-06,0.000118075471698113
+GO:0110102,ribulose bisphosphate carboxylase comple...,9,8,2.04,3.7e-06,0.000122511111111111
+GO:0042445,hormone metabolic process,144,58,32.67,3.7e-06,0.000122511111111111
+GO:0006026,aminoglycan catabolic process,16,11,3.63,4.7e-06,0.000151416216216216
+GO:0043449,cellular alkene metabolic process,31,19,7.03,4.7e-06,0.000151416216216216
+GO:0046348,amino sugar catabolic process,16,11,3.63,4.7e-06,0.000151416216216216
+GO:0008285,negative regulation of cell population p...,42,26,9.53,5.3e-06,0.000169221428571429
+GO:0006725,cellular aromatic compound metabolic pro...,4660,1154,1057.14,7.2e-06,0.000227851327433628
+GO:0006869,lipid transport,136,45,30.85,7.4e-06,0.000232126315789474
+GO:0098754,detoxification,105,44,23.82,8.5e-06,0.000264313043478261
+GO:0009893,positive regulation of metabolic process,843,248,191.24,8.9e-06,0.000274365517241379
+GO:1903338,regulation of cell wall organization or ...,49,29,11.12,9.8e-06,0.000299528205128205
+GO:0072330,monocarboxylic acid biosynthetic process,255,87,57.85,1.0e-05,0.000300504201680672
+GO:0035337,fatty-acyl-CoA metabolic process,9,9,2.04,1.0e-05,0.000300504201680672
+GO:2000576,positive regulation of microtubule motor...,5,5,1.13,1.1e-05,0.0003278
+GO:0009409,response to cold,400,149,90.74,1.2e-05,0.000354644628099174
+GO:0006639,acylglycerol metabolic process,38,20,8.62,1.3e-05,0.000381049180327869
+GO:0048646,anatomical structure formation involved ...,224,99,50.82,1.4e-05,0.000407024390243902
+GO:0006820,anion transport,307,91,69.64,1.5e-05,0.00042912
+GO:0015840,urea transport,5,5,1.13,1.5e-05,0.00042912
+GO:0048518,positive regulation of biological proces...,1322,363,299.9,1.6e-05,0.000454095238095238
+GO:0043455,regulation of secondary metabolic proces...,67,38,15.2,1.8e-05,0.000498976744186046
+GO:0009838,abscission,41,26,9.3,1.8e-05,0.000498976744186046
+GO:0090567,reproductive shoot system development,507,196,115.02,1.8e-05,0.000498976744186046
+GO:0010258,NADH dehydrogenase complex (plastoquinon...,8,8,1.81,2.1e-05,0.000573251908396947
+GO:1901568,fatty acid derivative metabolic process,50,25,11.34,2.1e-05,0.000573251908396947
+GO:0009686,gibberellin biosynthetic process,35,21,7.94,3.1e-05,0.000839818181818182
+GO:0009164,nucleoside catabolic process,15,9,3.4,3.2e-05,0.000860390977443609
+GO:0046131,pyrimidine ribonucleoside metabolic proc...,11,10,2.5,3.8e-05,0.00101408955223881
+GO:0046463,acylglycerol biosynthetic process,30,17,6.81,3.9e-05,0.00103306666666667
+GO:0009415,response to water,414,170,93.92,4.1e-05,0.00107805882352941
+GO:0006857,oligopeptide transport,34,12,7.71,4.2e-05,0.00108834782608696
+GO:1900618,regulation of shoot system morphogenesis,36,25,8.17,4.2e-05,0.00108834782608696
+GO:0009966,regulation of signal transduction,342,103,77.58,4.3e-05,0.00109834285714286
+GO:0033383,geranyl diphosphate metabolic process,12,10,2.72,4.3e-05,0.00109834285714286
+GO:0051225,spindle assembly,46,13,10.44,4.6e-05,0.00116663829787234
+GO:0035434,copper ion transmembrane transport,7,6,1.59,4.7e-05,0.00118360563380282
+GO:1901657,glycosyl compound metabolic process,200,57,45.37,4.8e-05,0.00120033566433566
+GO:0051174,regulation of phosphorus metabolic proce...,155,65,35.16,5.0e-05,0.00123310344827586
+GO:0046394,carboxylic acid biosynthetic process,532,145,120.69,5.0e-05,0.00123310344827586
+GO:0032890,regulation of organic acid transport,7,7,1.59,5.4e-05,0.0013226301369863
+GO:0033384,geranyl diphosphate biosynthetic process,12,10,2.72,5.8e-05,0.0014109387755102
+GO:0015837,amine transport,8,7,1.81,6.0e-05,0.00144972972972973
+GO:0051254,positive regulation of RNA metabolic pro...,536,180,121.59,6.3e-05,0.00150192
+GO:0009765,photosynthesis, light harvesting,42,23,9.53,6.3e-05,0.00150192
+GO:0006334,nucleosome assembly,46,12,10.44,6.4e-05,0.00151565562913907
+GO:0009891,positive regulation of biosynthetic proc...,604,212,137.02,7.4e-05,0.00174094736842105
+GO:2000026,regulation of multicellular organismal d...,599,220,135.89,7.8e-05,0.00182305882352941
+GO:1905177,tracheary element differentiation,17,14,3.86,8.0e-05,0.00185766233766234
+GO:0016114,terpenoid biosynthetic process,156,57,35.39,8.1e-05,0.00186874838709677
+GO:0042447,hormone catabolic process,8,7,1.81,8.3e-05,0.00190261538461538
+GO:0045595,regulation of cell differentiation,102,47,23.14,9.2e-05,0.00209549044585987
+GO:0009269,response to desiccation,24,19,5.44,9.3e-05,0.00210486075949367
+GO:0010628,positive regulation of gene expression,580,189,131.58,9.5e-05,0.00213660377358491
+GO:0010731,protein glutathionylation,7,6,1.59,9.6e-05,0.0021456
+GO:0016101,diterpenoid metabolic process,43,25,9.75,0.00011,0.0024432298136646
+GO:1902170,cellular response to reactive nitrogen s...,15,10,3.4,0.00013,0.00286962962962963
+GO:0006949,syncytium formation,16,11,3.63,0.00014,0.00307141104294479
+GO:0043450,alkene biosynthetic process,31,19,7.03,0.00015,0.00325090909090909
+GO:2000143,negative regulation of DNA-templated tra...,6,6,1.36,0.00015,0.00325090909090909
+GO:0006139,nucleobase-containing compound metabolic...,4206,1021,954.15,0.00016,0.00340571428571429
+GO:0045337,farnesyl diphosphate biosynthetic proces...,15,11,3.4,0.00016,0.00340571428571429
+GO:0010374,stomatal complex development,66,34,14.97,0.00016,0.00340571428571429
+GO:0034656,nucleobase-containing small molecule cat...,15,9,3.4,0.00017,0.00351398843930636
+GO:2000574,regulation of microtubule motor activity,5,5,1.13,0.00017,0.00351398843930636
+GO:0019755,one-carbon compound transport,7,6,1.59,0.00017,0.00351398843930636
+GO:0010346,shoot axis formation,37,26,8.39,0.00017,0.00351398843930636
+GO:0048523,negative regulation of cellular process,784,224,177.85,0.00017,0.00351398843930636
+GO:0042440,pigment metabolic process,186,65,42.2,0.00018,0.00365727272727273
+GO:0000041,transition metal ion transport,85,25,19.28,0.00018,0.00365727272727273
+GO:1905582,response to mannose,7,7,1.59,0.00018,0.00365727272727273
+GO:0120255,olefinic compound biosynthetic process,63,32,14.29,0.00019,0.00381707865168539
+GO:0006333,chromatin assembly or disassembly,91,17,20.64,0.00019,0.00381707865168539
+GO:0032446,protein modification by small protein co...,738,135,167.42,0.00020,0.00397333333333333
+GO:0009299,mRNA transcription,17,13,3.86,0.00020,0.00397333333333333
+GO:0055076,transition metal ion homeostasis,97,36,22,0.00021,0.00412615384615385
+GO:0030574,collagen catabolic process,5,5,1.13,0.00021,0.00412615384615385
+GO:0022414,reproductive process,1959,508,444.41,0.00022,0.00429901639344262
+GO:0048438,floral whorl development,205,87,46.51,0.00023,0.00447
+GO:0006887,exocytosis,60,17,13.61,0.00027,0.00521902702702703
+GO:0000003,reproduction,1968,509,446.45,0.00028,0.0053544385026738
+GO:0009657,plastid organization,317,60,71.91,0.00028,0.0053544385026738
+GO:0051248,negative regulation of protein metabolic...,90,28,20.42,0.00030,0.00564631578947368
+GO:1990748,cellular detoxification,44,21,9.98,0.00030,0.00564631578947368
+GO:0120252,hydrocarbon metabolic process,89,35,20.19,0.00030,0.00564631578947368
+GO:0018198,peptidyl-cysteine modification,47,12,10.66,0.00032,0.00592911917098446
+GO:0034285,response to disaccharide,74,35,16.79,0.00032,0.00592911917098446
+GO:0001934,positive regulation of protein phosphory...,26,12,5.9,0.00032,0.00592911917098446
+GO:0009812,flavonoid metabolic process,96,37,21.78,0.00033,0.00605169230769231
+GO:0043649,dicarboxylic acid catabolic process,14,8,3.18,0.00033,0.00605169230769231
+GO:0031328,positive regulation of cellular biosynth...,587,202,133.16,0.00034,0.00617177664974619
+GO:0009914,hormone transport,119,41,27,0.00034,0.00617177664974619
+GO:0016049,cell growth,494,147,112.07,0.00035,0.00632121212121212
+GO:0006638,neutral lipid metabolic process,38,20,8.62,0.00036,0.0064368
+GO:0032973,amino acid export across plasma membrane,8,8,1.81,0.00036,0.0064368
+GO:1903047,mitotic cell cycle process,233,61,52.86,0.00043,0.00761227722772277
+GO:0051338,regulation of transferase activity,113,51,25.63,0.00043,0.00761227722772277
+GO:0048825,cotyledon development,56,25,12.7,0.00044,0.00771294117647059
+GO:0016052,carbohydrate catabolic process,234,68,53.08,0.00044,0.00771294117647059
+GO:0006749,glutathione metabolic process,77,28,17.47,0.00045,0.00781165048543689
+GO:0048522,positive regulation of cellular process,1053,289,238.88,0.00045,0.00781165048543689
+GO:0046483,heterocycle metabolic process,4522,1101,1025.84,0.00046,0.00794666666666667
+GO:0120253,hydrocarbon catabolic process,10,7,2.27,0.00047,0.00808038461538462
+GO:1900674,olefin biosynthetic process,31,19,7.03,0.00049,0.00838392344497608
+GO:0042327,positive regulation of phosphorylation,28,12,6.35,0.00051,0.00868457142857143
+GO:2000580,regulation of ATP-dependent microtubule ...,5,5,1.13,0.00052,0.00881289099526066
+GO:0010087,phloem or xylem histogenesis,128,62,29.04,0.00053,0.00894
+GO:0051667,establishment of plastid localization,30,9,6.81,0.00055,0.00923380281690141
+GO:0016102,diterpenoid biosynthetic process,38,23,8.62,0.00056,0.00935775700934579
+GO:0032269,negative regulation of cellular protein ...,89,28,20.19,0.00058,0.00964688372093023
+GO:0009828,plant-type cell wall loosening,37,33,8.39,0.00059,0.00976777777777778
+GO:1901605,alpha-amino acid metabolic process,289,61,65.56,0.00061,0.0100523502304147
+GO:0051172,negative regulation of nitrogen compound...,433,119,98.23,0.00062,0.0101702752293578
+GO:0042350,GDP-L-fucose biosynthetic process,5,4,1.13,0.00064,0.0104504109589041
+GO:1902223,erythrose 4-phosphate/phosphoenolpyruvat...,13,8,2.95,0.00066,0.010728
+GO:2000762,regulation of phenylpropanoid metabolic ...,27,18,6.13,0.00067,0.0108412669683258
+GO:0009611,response to wounding,244,91,55.35,0.00068,0.0109535135135135
+GO:0042326,negative regulation of phosphorylation,18,9,4.08,0.00070,0.0112251121076233
+GO:0045962,positive regulation of development, hete...,8,8,1.81,0.00071,0.0113346428571429
+GO:0006030,chitin metabolic process,16,11,3.63,0.00073,0.0116021333333333
+GO:0045490,pectin catabolic process,98,48,22.23,0.00074,0.0116574449339207
+GO:0009407,toxin catabolic process,46,17,10.44,0.00074,0.0116574449339207
+GO:0061640,cytoskeleton-dependent cytokinesis,56,15,12.7,0.00076,0.01192
+GO:0072659,protein localization to plasma membrane,19,7,4.31,0.00077,0.0120241048034934
+GO:0036294,cellular response to decreased oxygen le...,244,129,55.35,0.00081,0.0125392207792208
+GO:0009113,purine nucleobase biosynthetic process,11,8,2.5,0.00081,0.0125392207792208
+GO:0015711,organic anion transport,176,50,39.93,0.00083,0.0127934482758621
+GO:0032781,positive regulation of ATPase activity,14,6,3.18,0.00087,0.0133524463519313
+GO:0010345,suberin biosynthetic process,22,20,4.99,0.00088,0.0134482051282051
+GO:0042542,response to hydrogen peroxide,74,36,16.79,0.00091,0.0138474893617021
+GO:0009653,anatomical structure morphogenesis,1068,372,242.28,0.00092,0.0139403389830508
+GO:0048609,multicellular organismal reproductive pr...,213,75,48.32,0.00096,0.0144850632911392
+GO:0035864,response to potassium ion,6,5,1.36,0.00097,0.0145134728033473
+GO:0042127,regulation of cell population proliferat...,97,42,22,0.00097,0.0145134728033473
+GO:0010252,auxin homeostasis,39,19,8.85,0.00101,0.015049
+GO:0009116,nucleoside metabolic process,70,23,15.88,0.00105,0.0155157024793388
+GO:1903825,organic acid transmembrane transport,67,28,15.2,0.00105,0.0155157024793388
+GO:0046916,cellular transition metal ion homeostasi...,63,26,14.29,0.00113,0.0166291358024691
+GO:0043062,extracellular structure organization,23,11,5.22,0.00116,0.0170006557377049
+GO:0044419,interspecies interaction between organis...,1166,308,264.51,0.00117,0.0170772244897959
+GO:0006629,lipid metabolic process,910,244,206.44,0.00121,0.01745088
+GO:0046460,neutral lipid biosynthetic process,30,17,6.81,0.00121,0.01745088
+GO:0042446,hormone biosynthetic process,93,41,21.1,0.00122,0.01745088
+GO:0006144,purine nucleobase metabolic process,18,8,4.08,0.00122,0.01745088
+GO:0051955,regulation of amino acid transport,7,7,1.59,0.00122,0.01745088
+GO:0060688,regulation of morphogenesis of a branchi...,14,11,3.18,0.00125,0.017808764940239
+GO:0009725,response to hormone,1376,526,312.15,0.00133,0.0188733333333333
+GO:0003333,amino acid transmembrane transport,37,21,8.39,0.00136,0.019222766798419
+GO:0046294,formaldehyde catabolic process,10,7,2.27,0.00137,0.019287874015748
+GO:0009690,cytokinin metabolic process,40,19,9.07,0.00139,0.0194165625
+GO:0034728,nucleosome organization,63,12,14.29,0.00139,0.0194165625
+GO:0009850,auxin metabolic process,65,26,14.75,0.00142,0.0197584435797665
+GO:0071577,zinc ion transmembrane transport,22,9,4.99,0.00146,0.0202362790697674
+GO:0006285,base-excision repair, AP site formation,8,4,1.81,0.00153,0.0211246332046332
+GO:1903340,positive regulation of cell wall organiz...,8,7,1.81,0.00154,0.0211809230769231
+GO:0045937,positive regulation of phosphate metabol...,32,13,7.26,0.00157,0.0215108045977012
+GO:0090307,mitotic spindle assembly,12,7,2.72,0.00161,0.0219746564885496
+GO:0043928,exonucleolytic catabolism of deadenylate...,18,6,4.08,0.00173,0.0235227376425856
+GO:0042454,ribonucleoside catabolic process,13,9,2.95,0.00174,0.0235690909090909
+GO:0022900,electron transport chain,127,46,28.81,0.00178,0.0239296240601504
+GO:0006022,aminoglycan metabolic process,21,11,4.76,0.00178,0.0239296240601504
+GO:0007389,pattern specification process,220,85,49.91,0.00186,0.0249114606741573
+GO:0009813,flavonoid biosynthetic process,76,34,17.24,0.00189,0.0252188059701493
+GO:0010393,galacturonan metabolic process,169,66,38.34,0.00191,0.0253909293680297
+GO:0010207,photosystem II assembly,27,13,6.13,0.00199,0.0263564444444444
+GO:0062013,positive regulation of small molecule me...,27,14,6.13,0.00203,0.0267870110701107
+GO:0046292,formaldehyde metabolic process,10,7,2.27,0.00207,0.0272144117647059
+GO:0009065,glutamine family amino acid catabolic pr...,18,9,4.08,0.00217,0.0283208759124088
+GO:0009620,response to fungus,347,112,78.72,0.00217,0.0283208759124088
+GO:0006400,tRNA modification,83,11,18.83,0.00221,0.0287380363636364
+GO:0036211,protein modification process,2717,433,616.37,0.00226,0.0292817391304348
+GO:1903789,regulation of amino acid transmembrane t...,7,7,1.59,0.00232,0.0297574285714286
+GO:0010016,shoot system morphogenesis,203,92,46.05,0.00232,0.0297574285714286
+GO:0051784,negative regulation of nuclear division,31,10,7.03,0.00233,0.0297574285714286
+GO:0051644,plastid localization,31,9,7.03,0.00233,0.0297574285714286
+GO:0090698,post-embryonic plant morphogenesis,204,89,46.28,0.00240,0.0305423487544484
+GO:0060401,cytosolic calcium ion transport,7,4,1.59,0.00243,0.0308144680851064
+GO:0045165,cell fate commitment,95,46,21.55,0.00245,0.0309583038869258
+GO:0017014,protein nitrosylation,17,8,3.86,0.00251,0.0316047887323944
+GO:1901348,positive regulation of secondary cell wa...,7,7,1.59,0.00256,0.0321212631578947
+GO:0032787,monocarboxylic acid metabolic process,501,131,113.65,0.00257,0.032133986013986
+GO:0031145,anaphase-promoting complex-dependent cat...,22,6,4.99,0.00262,0.0325428373702422
+GO:0006542,glutamine biosynthetic process,7,5,1.59,0.00263,0.0325428373702422
+GO:0009404,toxin metabolic process,61,24,13.84,0.00263,0.0325428373702422
+GO:1900673,olefin metabolic process,31,19,7.03,0.00264,0.0325539310344828
+GO:0009888,tissue development,719,254,163.11,0.00265,0.0325649484536083
+GO:0042219,cellular modified amino acid catabolic p...,9,5,2.04,0.00275,0.0336780821917808
+GO:0009691,cytokinin biosynthetic process,22,13,4.99,0.00282,0.0344174744027304
+GO:0044770,cell cycle phase transition,89,27,20.19,0.00285,0.034665306122449
+GO:0017148,negative regulation of translation,47,17,10.66,0.00287,0.0347902372881356
+GO:0030150,protein import into mitochondrial matrix,28,9,6.35,0.00292,0.0352767567567568
+GO:2000582,positive regulation of ATP-dependent mic...,5,5,1.13,0.00300,0.0361212121212121
+GO:0045936,negative regulation of phosphate metabol...,23,10,5.22,0.00304,0.0362368
+GO:0009937,regulation of gibberellic acid mediated ...,26,15,5.9,0.00304,0.0362368
+GO:0001933,negative regulation of protein phosphory...,17,8,3.86,0.00304,0.0362368
+GO:0032963,collagen metabolic process,6,5,1.36,0.00327,0.0387202649006623
+GO:0006284,base-excision repair,29,7,6.58,0.00327,0.0387202649006623
+GO:0051560,mitochondrial calcium ion homeostasis,7,4,1.59,0.00333,0.0393005940594059
+GO:1901071,glucosamine-containing compound metaboli...,25,12,5.67,0.00367,0.0431223529411765
+GO:1990778,protein localization to cell periphery,22,7,4.99,0.00369,0.0431223529411765
+GO:2000038,regulation of stomatal complex developme...,16,11,3.63,0.00369,0.0431223529411765
+GO:0010557,positive regulation of macromolecule bio...,551,189,125,0.00375,0.0436807817589577
+GO:0010033,response to organic substance,1854,672,420.59,0.00382,0.0443516883116883
+GO:0009645,response to low light intensity stimulus,20,14,4.54,0.00396,0.0456805161290323
+GO:0046368,GDP-L-fucose metabolic process,5,4,1.13,0.00396,0.0456805161290323
+GO:0045839,negative regulation of mitotic nuclear d...,26,10,5.9,0.00408,0.0469134405144695
+GO:1901571,fatty acid derivative transport,5,4,1.13,0.00410,0.0469923076923077
+GO:0046135,pyrimidine nucleoside catabolic process,10,9,2.27,0.00416,0.0475276677316294
+GO:0071370,cellular response to gibberellin stimulu...,65,33,14.75,0.00424,0.0482873885350318
+GO:1900032,regulation of trichome patterning,5,5,1.13,0.00430,0.0488152380952381
+GO:0006000,fructose metabolic process,13,7,2.95,0.00440,0.0497924050632911
+GO:1905428,regulation of plant organ formation,18,13,4.08,0.00444,0.0499290566037736
+GO:0042753,positive regulation of circadian rhythm,12,8,2.72,0.00444,0.0499290566037736

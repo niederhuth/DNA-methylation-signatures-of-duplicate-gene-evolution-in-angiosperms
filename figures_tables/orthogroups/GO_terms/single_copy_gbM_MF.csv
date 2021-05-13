@@ -1,0 +1,16 @@
+GO.ID,Term,Annotated,Significant,Expected,Fisher,fdr
+GO:0016741,transferase activity, transferring one-c...,262,46,13.84,3.0e-15,3.999e-12
+GO:0003723,RNA binding,1599,137,84.46,2.1e-10,1.39965e-07
+GO:0003688,DNA replication origin binding,19,7,1,2.4e-09,1.0664e-06
+GO:0016853,isomerase activity,261,40,13.79,8.7e-08,2.899275e-05
+GO:0003755,peptidyl-prolyl cis-trans isomerase acti...,61,15,3.22,1.9e-07,5.0654e-05
+GO:0016810,hydrolase activity, acting on carbon-nit...,130,25,6.87,5.9e-07,0.0001233025
+GO:0008173,RNA methyltransferase activity,65,22,3.43,7.3e-07,0.0001233025
+GO:0003824,catalytic activity,8219,513,434.13,7.4e-07,0.0001233025
+GO:0140098,catalytic activity, acting on RNA,495,58,26.15,1.7e-06,0.000251788888888889
+GO:0008276,protein methyltransferase activity,71,16,3.75,1.9e-06,0.00025327
+GO:0003697,single-stranded DNA binding,87,13,4.6,2.1e-06,0.000254481818181818
+GO:0009982,pseudouridine synthase activity,20,10,1.06,1.1e-05,0.00122191666666667
+GO:0003712,transcription coregulator activity,166,9,8.77,2.2e-05,0.00225584615384615
+GO:0050897,cobalt ion binding,53,11,2.8,7.0e-05,0.006665
+GO:0016779,nucleotidyltransferase activity,160,15,8.45,0.00016,0.0142186666666667
