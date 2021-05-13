@@ -41,7 +41,7 @@ d = pd.read_csv(TE_intersections.fn,header=None,usecols=[3,13],sep="\t")
 #Create a list of windows
 w_list = pd.read_csv(w_bed.fn,header=None,usecols=[3],sep="\t").drop_duplicates().values.tolist()
 #List of column names for new table
-columns = ['Chr','Window','Genes','TEs','TE-nucleotidess','gbM','TE-like','Unmethylated','Unclassified']
+columns = ['Chr','Window','Genes','TEs','TE-nucleotidess','gbM','teM','unM','Unclassified']
 #Create empty dataframe with column names
 e = pd.DataFrame(columns=columns)
 #Iterate over windows list
@@ -58,13 +58,13 @@ for i in w_list:
 	#Count number of gbM genes
 	gbM = len(c[(c[3]==i[0]) & (c[8]=='gbM')])
 	#Count number of TE-like genes
-	TElike = len(c[(c[3]==i[0]) & (c[8]=='TE-like')])
+	teM = len(c[(c[3]==i[0]) & (c[8]=='teM')])
 	#Count number of Unmethylated genes
-	Unmethylated = len(c[(c[3]==i[0]) & (c[8]=='Unmethylated')])
+	unM = len(c[(c[3]==i[0]) & (c[8]=='unM')])
 	#Count number of Unclassified genes
 	Unclassified = len(c[(c[3]==i[0]) & (c[8]=='Unclassified')])
 	#Append to dataframe
-	e = e.append(pd.DataFrame([[Chr,Window,Genes,TEs,TEnts,gbM,TElike,Unmethylated,Unclassified]],columns=columns),ignore_index=True)
+	e = e.append(pd.DataFrame([[Chr,Window,Genes,TEs,TEnts,gbM,teM,unM,Unclassified]],columns=columns),ignore_index=True)
 #Save the results
 e.to_csv(output,sep='\t',index=False)
 #Remove tmp files
