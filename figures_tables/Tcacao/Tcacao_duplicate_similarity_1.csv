@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Tcacao,dispersed,Different,336,15
+Tcacao,proximal,Different,108,15
+Tcacao,tandem,Different,107,15
+Tcacao,transposed,Different,362,15
+Tcacao,wgd,Different,252,15
+Tcacao,dispersed,Same,939,15
+Tcacao,proximal,Same,759,15
+Tcacao,tandem,Same,1356,15
+Tcacao,transposed,Same,1016,15
+Tcacao,wgd,Same,1575,15
+Tcacao,dispersed,Undetermined,333,15
+Tcacao,proximal,Undetermined,131,15
+Tcacao,tandem,Undetermined,158,15
+Tcacao,transposed,Undetermined,299,15
+Tcacao,wgd,Undetermined,420,15

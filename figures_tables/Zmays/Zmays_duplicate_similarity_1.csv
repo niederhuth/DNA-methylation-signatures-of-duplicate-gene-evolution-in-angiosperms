@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Zmays,dispersed,Different,771,6
+Zmays,proximal,Different,87,6
+Zmays,tandem,Different,152,6
+Zmays,transposed,Different,1125,6
+Zmays,wgd,Different,717,6
+Zmays,dispersed,Same,3274,6
+Zmays,proximal,Same,425,6
+Zmays,tandem,Same,864,6
+Zmays,transposed,Same,2429,6
+Zmays,wgd,Same,3931,6
+Zmays,dispersed,Undetermined,898,6
+Zmays,proximal,Undetermined,111,6
+Zmays,tandem,Undetermined,125,6
+Zmays,transposed,Undetermined,907,6
+Zmays,wgd,Undetermined,1807,6

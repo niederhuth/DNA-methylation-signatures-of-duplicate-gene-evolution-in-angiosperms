@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Sitalica,dispersed,Different,794,8
+Sitalica,proximal,Different,188,8
+Sitalica,tandem,Different,290,8
+Sitalica,transposed,Different,423,8
+Sitalica,wgd,Different,322,8
+Sitalica,dispersed,Same,2288,8
+Sitalica,proximal,Same,678,8
+Sitalica,tandem,Same,1653,8
+Sitalica,transposed,Same,1375,8
+Sitalica,wgd,Same,1667,8
+Sitalica,dispersed,Undetermined,694,8
+Sitalica,proximal,Undetermined,191,8
+Sitalica,tandem,Undetermined,342,8
+Sitalica,transposed,Undetermined,418,8
+Sitalica,wgd,Undetermined,546,8

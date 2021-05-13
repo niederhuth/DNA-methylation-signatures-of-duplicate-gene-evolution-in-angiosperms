@@ -260,8 +260,8 @@ Cla97C05G098010,unM,Cla97C06G120440,unM,wgd,Same,unM-unM
 Cla97C05G097960,Unclassified,Cla97C06G120550,Unclassified,wgd,Undetermined,Unclassified-Unclassified
 Cla97C04G077710,Unclassified,Cla97C06G124120,Unclassified,wgd,Undetermined,Unclassified-Unclassified
 Cla97C05G104320,Unclassified,Cla97C06G124160,Unclassified,wgd,Undetermined,Unclassified-Unclassified
-Cla97C04G077820,gbM,Cla97C06G124170,gbM,wgd,Same,gbM-gbM
 Cla97C05G104350,gbM,Cla97C06G124170,gbM,wgd,Same,gbM-gbM
+Cla97C04G077820,gbM,Cla97C06G124170,gbM,wgd,Same,gbM-gbM
 Cla97C04G077880,unM,Cla97C06G124180,unM,wgd,Same,unM-unM
 Cla97C05G104410,unM,Cla97C06G124200,unM,wgd,Same,unM-unM
 Cla97C04G077920,unM,Cla97C06G124210,unM,wgd,Same,unM-unM
@@ -315,7 +315,7 @@ Cla97C05G085570,unM,Cla97C07G129050,unM,wgd,Same,unM-unM
 Cla97C05G085200,unM,Cla97C07G129260,unM,wgd,Same,unM-unM
 Cla97C05G085160,unM,Cla97C07G129280,unM,wgd,Same,unM-unM
 Cla97C05G085040,unM,Cla97C07G129380,unM,wgd,Same,unM-unM
-Cla97C06G116740,gbM,Cla97C07G129450,gbM,wgd,Same,gbM-gbM
+Cla97C05G085000,gbM,Cla97C07G129450,gbM,wgd,Same,gbM-gbM
 Cla97C05G084930,unM,Cla97C07G129460,unM,wgd,Same,unM-unM
 Cla97C06G116960,Unclassified,Cla97C07G129570,Unclassified,wgd,Undetermined,Unclassified-Unclassified
 Cla97C06G117010,unM,Cla97C07G129620,unM,wgd,Same,unM-unM
@@ -327,8 +327,8 @@ Cla97C06G117560,gbM,Cla97C07G130290,gbM,wgd,Same,gbM-gbM
 Cla97C02G043450,unM,Cla97C07G131170,unM,wgd,Same,unM-unM
 Cla97C02G043380,unM,Cla97C07G131270,unM,wgd,Same,unM-unM
 Cla97C02G043360,gbM,Cla97C07G131290,gbM,wgd,Same,gbM-gbM
-Cla97C02G046380,unM,Cla97C07G131490,unM,wgd,Same,unM-unM
 Cla97C04G075160,unM,Cla97C07G131490,unM,wgd,Same,unM-unM
+Cla97C02G046380,unM,Cla97C07G131490,unM,wgd,Same,unM-unM
 Cla97C02G046370,gbM,Cla97C07G131500,gbM,wgd,Same,gbM-gbM
 Cla97C04G074810,unM,Cla97C07G131710,unM,wgd,Same,unM-unM
 Cla97C02G046030,gbM,Cla97C07G131740,gbM,wgd,Same,gbM-gbM
@@ -386,8 +386,8 @@ Cla97C05G098830,gbM,Cla97C08G155920,gbM,wgd,Same,gbM-gbM
 Cla97C05G098790,Unclassified,Cla97C08G155940,Unclassified,wgd,Undetermined,Unclassified-Unclassified
 Cla97C05G098660,unM,Cla97C08G155990,unM,wgd,Same,unM-unM
 Cla97C05G098650,unM,Cla97C08G156000,unM,wgd,Same,unM-unM
-Cla97C07G139810,gbM,Cla97C08G156110,gbM,wgd,Same,gbM-gbM
 Cla97C05G098490,gbM,Cla97C08G156110,gbM,wgd,Same,gbM-gbM
+Cla97C07G139810,gbM,Cla97C08G156110,gbM,wgd,Same,gbM-gbM
 Cla97C05G098340,Unclassified,Cla97C08G156180,Unclassified,wgd,Undetermined,Unclassified-Unclassified
 Cla97C05G098120,Unclassified,Cla97C08G156630,Unclassified,wgd,Undetermined,Unclassified-Unclassified
 Cla97C05G098100,unM,Cla97C08G156660,unM,wgd,Same,unM-unM
@@ -412,8 +412,8 @@ Cla97C02G032270,gbM,Cla97C08G158830,gbM,wgd,Same,gbM-gbM
 Cla97C01G018680,Unclassified,Cla97C08G158860,Unclassified,wgd,Undetermined,Unclassified-Unclassified
 Cla97C05G100710,Unclassified,Cla97C08G158910,Unclassified,wgd,Undetermined,Unclassified-Unclassified
 Cla97C01G015220,unM,Cla97C08G158960,unM,wgd,Same,unM-unM
-Cla97C05G100740,unM,Cla97C08G158980,unM,wgd,Same,unM-unM
 Cla97C01G015240,unM,Cla97C08G158980,unM,wgd,Same,unM-unM
+Cla97C05G100740,unM,Cla97C08G158980,unM,wgd,Same,unM-unM
 Cla97C01G015410,Unclassified,Cla97C08G159030,Unclassified,wgd,Undetermined,Unclassified-Unclassified
 Cla97C05G100810,unM,Cla97C08G159060,unM,wgd,Same,unM-unM
 Cla97C01G015580,unM,Cla97C08G159100,unM,wgd,Same,unM-unM
@@ -427,9 +427,9 @@ Cla97C05G101580,gbM,Cla97C08G159630,gbM,wgd,Same,gbM-gbM
 Cla97C01G016000,unM,Cla97C08G159660,unM,wgd,Same,unM-unM
 Cla97C01G016030,Unclassified,Cla97C08G159690,Unclassified,wgd,Undetermined,Unclassified-Unclassified
 Cla97C05G101750,unM,Cla97C08G159750,unM,wgd,Same,unM-unM
-Cla97C02G033200,unM,Cla97C08G159810,unM,wgd,Same,unM-unM
-Cla97C05G101940,unM,Cla97C08G159810,unM,wgd,Same,unM-unM
 Cla97C01G016200,unM,Cla97C08G159810,unM,wgd,Same,unM-unM
+Cla97C05G101940,unM,Cla97C08G159810,unM,wgd,Same,unM-unM
+Cla97C02G033200,unM,Cla97C08G159810,unM,wgd,Same,unM-unM
 Cla97C05G102020,unM,Cla97C08G159900,unM,wgd,Same,unM-unM
 Cla97C02G033560,unM,Cla97C08G159930,unM,wgd,Same,unM-unM
 Cla97C05G102090,unM,Cla97C08G160000,unM,wgd,Same,unM-unM
@@ -438,8 +438,8 @@ Cla97C05G102140,Unclassified,Cla97C08G160030,Unclassified,wgd,Undetermined,Uncla
 Cla97C01G016420,unM,Cla97C08G160040,unM,wgd,Same,unM-unM
 Cla97C02G033730,Unclassified,Cla97C08G160100,Unclassified,wgd,Undetermined,Unclassified-Unclassified
 Cla97C05G102220,Unclassified,Cla97C08G160100,Unclassified,wgd,Undetermined,Unclassified-Unclassified
-Cla97C02G033740,unM,Cla97C08G160110,unM,wgd,Same,unM-unM
 Cla97C05G102250,unM,Cla97C08G160110,unM,wgd,Same,unM-unM
+Cla97C02G033740,unM,Cla97C08G160110,unM,wgd,Same,unM-unM
 Cla97C05G102260,unM,Cla97C08G160130,unM,wgd,Same,unM-unM
 Cla97C01G016810,unM,Cla97C08G160270,unM,wgd,Same,unM-unM
 Cla97C05G102400,unM,Cla97C08G160290,unM,wgd,Same,unM-unM
@@ -1114,7 +1114,6 @@ Cla97C02G040870,unM,Cla97C03G068090,unM,dispersed,Same,unM-unM
 Cla97C03G057680,unM,Cla97C03G068260,unM,dispersed,Same,unM-unM
 Cla97C02G039530,unM,Cla97C03G068310,unM,dispersed,Same,unM-unM
 Cla97C02G033830,teM,Cla97C04G068680,teM,dispersed,Same,teM-teM
-Cla97C02G035260,teM,Cla97C04G068690,teM,dispersed,Same,teM-teM
 Cla97C02G049960,gbM,Cla97C04G069120,gbM,dispersed,Same,gbM-gbM
 Cla97C03G068330,Unclassified,Cla97C04G069280,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
 Cla97C02G050130,gbM,Cla97C04G069390,gbM,dispersed,Same,gbM-gbM
@@ -1186,8 +1185,8 @@ Cla97C02G036620,Unclassified,Cla97C05G091080,Unclassified,dispersed,Undetermined
 Cla97C01G007420,Unclassified,Cla97C05G091600,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
 Cla97C02G043430,gbM,Cla97C05G091680,gbM,dispersed,Same,gbM-gbM
 Cla97C03G055270,unM,Cla97C05G091730,unM,dispersed,Same,unM-unM
-Cla97C01G015850,unM,Cla97C05G092430,unM,dispersed,Same,unM-unM
 Cla97C02G038480,unM,Cla97C05G092430,unM,dispersed,Same,unM-unM
+Cla97C01G015850,unM,Cla97C05G092430,unM,dispersed,Same,unM-unM
 Cla97C01G016020,Unclassified,Cla97C05G092470,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
 Cla97C01G007050,gbM,Cla97C05G092860,gbM,dispersed,Same,gbM-gbM
 Cla97C02G044660,gbM,Cla97C05G092870,gbM,dispersed,Same,gbM-gbM
@@ -1280,7 +1279,6 @@ Cla97C01G017140,unM,Cla97C06G123330,unM,dispersed,Same,unM-unM
 Cla97C05G093380,unM,Cla97C06G123830,unM,dispersed,Same,unM-unM
 Cla97C02G034190,Unclassified,Cla97C06G123990,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
 Cla97C05G103870,gbM,Cla97C06G124050,gbM,dispersed,Same,gbM-gbM
-Cla97C04G068480,unM,Cla97C06G124460,unM,dispersed,Same,unM-unM
 Cla97C01G006790,unM,Cla97C06G124580,unM,dispersed,Same,unM-unM
 Cla97C06G110310,unM,Cla97C06G124580,unM,dispersed,Same,unM-unM
 Cla97C01G010260,unM,Cla97C06G125510,unM,dispersed,Same,unM-unM
@@ -1304,9 +1302,9 @@ Cla97C01G010970,unM,Cla97C07G131250,unM,dispersed,Same,unM-unM
 Cla97C03G052900,gbM,Cla97C07G131470,gbM,dispersed,Same,gbM-gbM
 Cla97C02G045800,Unclassified,Cla97C07G132350,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
 Cla97C06G118620,teM,Cla97C07G132860,teM,dispersed,Same,teM-teM
-Cla97C02G030090,teM,Cla97C07G132930,teM,dispersed,Same,teM-teM
 Cla97C02G047700,teM,Cla97C07G132930,teM,dispersed,Same,teM-teM
 Cla97C06G113120,teM,Cla97C07G132930,teM,dispersed,Same,teM-teM
+Cla97C02G030090,teM,Cla97C07G132930,teM,dispersed,Same,teM-teM
 Cla97C03G051240,Unclassified,Cla97C07G133130,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
 Cla97C03G065520,gbM,Cla97C07G133370,gbM,dispersed,Same,gbM-gbM
 Cla97C06G117620,teM,Cla97C07G133650,teM,dispersed,Same,teM-teM
@@ -1337,7 +1335,6 @@ Cla97C06G109880,Unclassified,Cla97C07G137990,Unclassified,dispersed,Undetermined
 Cla97C01G001790,unM,Cla97C07G138220,unM,dispersed,Same,unM-unM
 Cla97C01G001730,Unclassified,Cla97C07G138310,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
 Cla97C06G121070,unM,Cla97C07G139080,unM,dispersed,Same,unM-unM
-Cla97C06G121320,gbM,Cla97C07G139190,gbM,dispersed,Same,gbM-gbM
 Cla97C07G138920,gbM,Cla97C07G139230,gbM,dispersed,Same,gbM-gbM
 Cla97C06G123270,gbM,Cla97C07G139630,gbM,dispersed,Same,gbM-gbM
 Cla97C06G118190,unM,Cla97C07G139870,unM,dispersed,Same,unM-unM
@@ -1365,14 +1362,14 @@ Cla97C06G125280,unM,Cla97C07G143210,unM,dispersed,Same,unM-unM
 Cla97C04G078650,Unclassified,Cla97C07G143310,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
 Cla97C07G139000,gbM,Cla97C07G143630,gbM,dispersed,Same,gbM-gbM
 Cla97C05G088060,Unclassified,Cla97C07G143650,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
-Cla97C01G007830,unM,Cla97C07G144050,unM,dispersed,Same,unM-unM
 Cla97C01G007840,unM,Cla97C07G144050,unM,dispersed,Same,unM-unM
+Cla97C01G007830,unM,Cla97C07G144050,unM,dispersed,Same,unM-unM
 Cla97C07G130860,unM,Cla97C07G144080,unM,dispersed,Same,unM-unM
 Cla97C05G083560,Unclassified,Cla97C07G144250,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
 Cla97C04G068450,unM,Cla97C08G144570,unM,dispersed,Same,unM-unM
 Cla97C03G060970,teM,Cla97C08G144600,teM,dispersed,Same,teM-teM
 Cla97C04G070030,unM,Cla97C08G144640,unM,dispersed,Same,unM-unM
-Cla97C00G000530,teM,Cla97C08G145000,teM,dispersed,Same,teM-teM
+Cla97C04G068690,teM,Cla97C08G145000,teM,dispersed,Same,teM-teM
 Cla97C05G106470,Unclassified,Cla97C08G145090,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
 Cla97C05G104110,gbM,Cla97C08G145380,gbM,dispersed,Same,gbM-gbM
 Cla97C07G133460,teM,Cla97C08G145580,teM,dispersed,Same,teM-teM
@@ -1399,7 +1396,7 @@ Cla97C07G137220,teM,Cla97C08G147380,teM,dispersed,Same,teM-teM
 Cla97C07G143590,gbM,Cla97C08G147390,gbM,dispersed,Same,gbM-gbM
 Cla97C05G092040,gbM,Cla97C08G147420,gbM,dispersed,Same,gbM-gbM
 Cla97C04G069040,teM,Cla97C08G147760,teM,dispersed,Same,teM-teM
-Cla97C05G097610,teM,Cla97C08G147830,teM,dispersed,Same,teM-teM
+Cla97C04G069640,teM,Cla97C08G147830,teM,dispersed,Same,teM-teM
 Cla97C02G027410,teM,Cla97C08G147860,teM,dispersed,Same,teM-teM
 Cla97C08G145350,Unclassified,Cla97C08G148060,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
 Cla97C04G069250,gbM,Cla97C08G148380,gbM,dispersed,Same,gbM-gbM
@@ -1410,8 +1407,8 @@ Cla97C06G124290,unM,Cla97C08G149360,unM,dispersed,Same,unM-unM
 Cla97C08G147030,gbM,Cla97C08G149700,gbM,dispersed,Same,gbM-gbM
 Cla97C03G061570,gbM,Cla97C08G149720,gbM,dispersed,Same,gbM-gbM
 Cla97C08G146620,gbM,Cla97C08G149810,gbM,dispersed,Same,gbM-gbM
-Cla97C01G011270,teM,Cla97C08G149950,teM,dispersed,Same,teM-teM
 Cla97C07G133830,teM,Cla97C08G149950,teM,dispersed,Same,teM-teM
+Cla97C01G011270,teM,Cla97C08G149950,teM,dispersed,Same,teM-teM
 Cla97C01G009960,teM,Cla97C08G149950,teM,dispersed,Same,teM-teM
 Cla97C02G027330,Unclassified,Cla97C08G150040,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
 Cla97C05G107020,Unclassified,Cla97C08G150160,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
@@ -1428,8 +1425,8 @@ Cla97C04G069930,Unclassified,Cla97C08G151320,Unclassified,dispersed,Undetermined
 Cla97C03G064460,gbM,Cla97C08G151380,gbM,dispersed,Same,gbM-gbM
 Cla97C03G064280,gbM,Cla97C08G151430,gbM,dispersed,Same,gbM-gbM
 Cla97C08G150820,gbM,Cla97C08G151540,gbM,dispersed,Same,gbM-gbM
-Cla97C08G151650,teM,Cla97C08G151820,teM,dispersed,Same,teM-teM
 Cla97C08G147380,teM,Cla97C08G151820,teM,dispersed,Same,teM-teM
+Cla97C08G151650,teM,Cla97C08G151820,teM,dispersed,Same,teM-teM
 Cla97C06G126140,unM,Cla97C08G151860,unM,dispersed,Same,unM-unM
 Cla97C03G060040,unM,Cla97C08G151870,unM,dispersed,Same,unM-unM
 Cla97C08G145000,teM,Cla97C08G151970,teM,dispersed,Same,teM-teM
@@ -1510,7 +1507,7 @@ Cla97C06G128150,Unclassified,Cla97C09G168410,Unclassified,dispersed,Undetermined
 Cla97C03G054850,gbM,Cla97C09G168560,gbM,dispersed,Same,gbM-gbM
 Cla97C07G128390,unM,Cla97C09G169280,unM,dispersed,Same,unM-unM
 Cla97C02G041600,gbM,Cla97C09G169640,gbM,dispersed,Same,gbM-gbM
-Cla97C06G110580,gbM,Cla97C09G170750,gbM,dispersed,Same,gbM-gbM
+Cla97C05G084460,gbM,Cla97C09G170750,gbM,dispersed,Same,gbM-gbM
 Cla97C07G142490,unM,Cla97C09G170950,unM,dispersed,Same,unM-unM
 Cla97C02G042030,teM,Cla97C09G171060,teM,dispersed,Same,teM-teM
 Cla97C07G143160,Unclassified,Cla97C09G171410,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
@@ -1528,8 +1525,8 @@ Cla97C09G172560,gbM,Cla97C09G173360,gbM,dispersed,Same,gbM-gbM
 Cla97C01G021670,unM,Cla97C09G173520,unM,dispersed,Same,unM-unM
 Cla97C01G010100,Unclassified,Cla97C09G173770,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
 Cla97C06G117450,teM,Cla97C09G174130,teM,dispersed,Same,teM-teM
-Cla97C02G036960,teM,Cla97C09G174250,teM,dispersed,Same,teM-teM
 Cla97C08G149950,teM,Cla97C09G174250,teM,dispersed,Same,teM-teM
+Cla97C02G036960,teM,Cla97C09G174250,teM,dispersed,Same,teM-teM
 Cla97C07G133750,Unclassified,Cla97C09G174640,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
 Cla97C01G011270,teM,Cla97C09G174940,teM,dispersed,Same,teM-teM
 Cla97C09G172140,unM,Cla97C09G175090,unM,dispersed,Same,unM-unM
@@ -1539,7 +1536,7 @@ Cla97C08G154480,teM,Cla97C09G175720,teM,dispersed,Same,teM-teM
 Cla97C06G116880,teM,Cla97C09G175770,teM,dispersed,Same,teM-teM
 Cla97C08G147830,teM,Cla97C09G175780,teM,dispersed,Same,teM-teM
 Cla97C04G071400,gbM,Cla97C09G176000,gbM,dispersed,Same,gbM-gbM
-Cla97C02G026960,gbM,Cla97C09G176160,gbM,dispersed,Same,gbM-gbM
+Cla97C01G014580,gbM,Cla97C09G176160,gbM,dispersed,Same,gbM-gbM
 Cla97C06G118920,unM,Cla97C09G176340,unM,dispersed,Same,unM-unM
 Cla97C08G151500,gbM,Cla97C09G176520,gbM,dispersed,Same,gbM-gbM
 Cla97C05G092300,unM,Cla97C09G176790,unM,dispersed,Same,unM-unM
@@ -1549,8 +1546,8 @@ Cla97C08G154000,gbM,Cla97C09G177400,gbM,dispersed,Same,gbM-gbM
 Cla97C01G007220,unM,Cla97C09G177570,unM,dispersed,Same,unM-unM
 Cla97C01G018010,gbM,Cla97C09G177600,gbM,dispersed,Same,gbM-gbM
 Cla97C03G063000,Unclassified,Cla97C09G177820,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
-Cla97C07G134650,teM,Cla97C09G178000,teM,dispersed,Same,teM-teM
 Cla97C01G011630,teM,Cla97C09G178000,teM,dispersed,Same,teM-teM
+Cla97C07G134650,teM,Cla97C09G178000,teM,dispersed,Same,teM-teM
 Cla97C01G017570,gbM,Cla97C09G178020,gbM,dispersed,Same,gbM-gbM
 Cla97C09G174470,gbM,Cla97C09G178630,gbM,dispersed,Same,gbM-gbM
 Cla97C09G175850,Unclassified,Cla97C09G178720,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
@@ -1683,8 +1680,8 @@ Cla97C04G071010,unM,Cla97C10G198500,unM,dispersed,Same,unM-unM
 Cla97C08G146430,Unclassified,Cla97C10G198620,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
 Cla97C05G088820,Unclassified,Cla97C10G198730,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
 Cla97C10G196410,gbM,Cla97C10G198850,gbM,dispersed,Same,gbM-gbM
-Cla97C03G064540,gbM,Cla97C10G198860,gbM,dispersed,Same,gbM-gbM
 Cla97C04G072530,gbM,Cla97C10G198860,gbM,dispersed,Same,gbM-gbM
+Cla97C03G064540,gbM,Cla97C10G198860,gbM,dispersed,Same,gbM-gbM
 Cla97C08G147990,gbM,Cla97C10G199160,gbM,dispersed,Same,gbM-gbM
 Cla97C08G153610,gbM,Cla97C10G199160,gbM,dispersed,Same,gbM-gbM
 Cla97C04G072570,Unclassified,Cla97C10G199420,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
@@ -1714,8 +1711,8 @@ Cla97C05G093950,unM,Cla97C10G204380,unM,dispersed,Same,unM-unM
 Cla97C02G045730,Unclassified,Cla97C10G205090,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
 Cla97C01G026200,Unclassified,Cla97C10G205190,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
 Cla97C04G073760,unM,Cla97C10G205320,unM,dispersed,Same,unM-unM
-Cla97C02G045540,unM,Cla97C10G205390,unM,dispersed,Same,unM-unM
 Cla97C09G164190,unM,Cla97C10G205390,unM,dispersed,Same,unM-unM
+Cla97C02G045540,unM,Cla97C10G205390,unM,dispersed,Same,unM-unM
 Cla97C02G045140,Unclassified,Cla97C10G205860,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
 Cla97C03G050940,unM,Cla97C10G205870,unM,dispersed,Same,unM-unM
 Cla97C03G050860,gbM,Cla97C10G206160,gbM,dispersed,Same,gbM-gbM
@@ -1740,6 +1737,7 @@ Cla97C10G197660,Unclassified,Cla97C11G209460,Unclassified,dispersed,Undetermined
 Cla97C07G139070,gbM,Cla97C11G209730,gbM,dispersed,Same,gbM-gbM
 Cla97C07G139050,unM,Cla97C11G209990,unM,dispersed,Same,unM-unM
 Cla97C06G121400,unM,Cla97C11G210050,unM,dispersed,Same,unM-unM
+Cla97C07G139190,gbM,Cla97C11G210160,gbM,dispersed,Same,gbM-gbM
 Cla97C06G121320,gbM,Cla97C11G210160,gbM,dispersed,Same,gbM-gbM
 Cla97C06G121260,gbM,Cla97C11G210220,gbM,dispersed,Same,gbM-gbM
 Cla97C07G135950,unM,Cla97C11G210650,unM,dispersed,Same,unM-unM
@@ -1784,8 +1782,8 @@ Cla97C08G157880,unM,Cla97C11G215390,unM,dispersed,Same,unM-unM
 Cla97C01G013810,Unclassified,Cla97C11G215570,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
 Cla97C01G006130,unM,Cla97C11G215680,unM,dispersed,Same,unM-unM
 Cla97C01G006240,unM,Cla97C11G215850,unM,dispersed,Same,unM-unM
-Cla97C08G149950,teM,Cla97C11G215910,teM,dispersed,Same,teM-teM
 Cla97C07G135060,teM,Cla97C11G215910,teM,dispersed,Same,teM-teM
+Cla97C08G149950,teM,Cla97C11G215910,teM,dispersed,Same,teM-teM
 Cla97C11G207490,unM,Cla97C11G216070,unM,dispersed,Same,unM-unM
 Cla97C09G170840,unM,Cla97C11G216080,unM,dispersed,Same,unM-unM
 Cla97C05G084100,Unclassified,Cla97C11G216140,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
@@ -1811,11 +1809,11 @@ Cla97C01G020500,Unclassified,Cla97C11G217300,Unclassified,dispersed,Undetermined
 Cla97C09G163660,gbM,Cla97C11G217610,gbM,dispersed,Same,gbM-gbM
 Cla97C07G134600,Unclassified,Cla97C11G217660,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
 Cla97C08G158640,unM,Cla97C11G217840,unM,dispersed,Same,unM-unM
-Cla97C08G148600,gbM,Cla97C11G218020,gbM,dispersed,Same,gbM-gbM
 Cla97C07G142650,gbM,Cla97C11G218020,gbM,dispersed,Same,gbM-gbM
+Cla97C08G148600,gbM,Cla97C11G218020,gbM,dispersed,Same,gbM-gbM
 Cla97C06G117590,Unclassified,Cla97C11G218390,Unclassified,dispersed,Undetermined,Unclassified-Unclassified
-Cla97C03G060970,teM,Cla97C11G218940,teM,dispersed,Same,teM-teM
 Cla97C05G095680,teM,Cla97C11G218940,teM,dispersed,Same,teM-teM
+Cla97C03G060970,teM,Cla97C11G218940,teM,dispersed,Same,teM-teM
 Cla97C08G146130,gbM,Cla97C11G219180,gbM,dispersed,Same,gbM-gbM
 Cla97C05G091800,gbM,Cla97C11G219350,gbM,dispersed,Same,gbM-gbM
 Cla97C09G169400,unM,Cla97C11G219710,unM,dispersed,Same,unM-unM
@@ -2088,6 +2086,7 @@ Cla97C04G074510,unM,Cla97C04G074520,unM,tandem,Same,unM-unM
 Cla97C04G074550,Unclassified,Cla97C04G074560,Unclassified,tandem,Undetermined,Unclassified-Unclassified
 Cla97C04G075810,teM,Cla97C04G075820,teM,tandem,Same,teM-teM
 Cla97C04G075830,teM,Cla97C04G075840,teM,tandem,Same,teM-teM
+Cla97C04G075840,teM,Cla97C04G075850,teM,tandem,Same,teM-teM
 Cla97C04G075850,teM,Cla97C04G075860,teM,tandem,Same,teM-teM
 Cla97C04G076270,teM,Cla97C04G076280,teM,tandem,Same,teM-teM
 Cla97C04G076560,unM,Cla97C04G076570,unM,tandem,Same,unM-unM
@@ -2466,8 +2465,8 @@ Cla97C02G036700,gbM,Cla97C02G029560,gbM,transposed,Same,gbM-gbM
 Cla97C02G036600,unM,Cla97C02G029760,unM,transposed,Same,unM-unM
 Cla97C08G151960,unM,Cla97C02G029760,unM,transposed,Same,unM-unM
 Cla97C02G036400,unM,Cla97C02G029870,unM,transposed,Same,unM-unM
-Cla97C08G150330,gbM,Cla97C02G030980,gbM,transposed,Same,gbM-gbM
 Cla97C08G157750,gbM,Cla97C02G030980,gbM,transposed,Same,gbM-gbM
+Cla97C08G150330,gbM,Cla97C02G030980,gbM,transposed,Same,gbM-gbM
 Cla97C08G158070,unM,Cla97C02G031640,unM,transposed,Same,unM-unM
 Cla97C10G189890,unM,Cla97C02G031810,unM,transposed,Same,unM-unM
 Cla97C02G034000,unM,Cla97C02G031810,unM,transposed,Same,unM-unM
@@ -2499,7 +2498,6 @@ Cla97C10G196420,gbM,Cla97C02G048830,gbM,transposed,Same,gbM-gbM
 Cla97C08G153540,gbM,Cla97C02G048930,gbM,transposed,Same,gbM-gbM
 Cla97C03G063580,gbM,Cla97C02G049410,gbM,transposed,Same,gbM-gbM
 Cla97C09G166580,gbM,Cla97C02G049460,gbM,transposed,Same,gbM-gbM
-Cla97C08G154270,unM,Cla97C02G049550,unM,transposed,Same,unM-unM
 Cla97C07G137200,teM,Cla97C02G049650,teM,transposed,Same,teM-teM
 Cla97C09G165000,Unclassified,Cla97C03G052360,Unclassified,transposed,Undetermined,Unclassified-Unclassified
 Cla97C05G102540,Unclassified,Cla97C03G053280,Unclassified,transposed,Undetermined,Unclassified-Unclassified
@@ -2518,6 +2516,7 @@ Cla97C08G155100,unM,Cla97C03G058920,unM,transposed,Same,unM-unM
 Cla97C02G043610,unM,Cla97C03G059000,unM,transposed,Same,unM-unM
 Cla97C02G043700,unM,Cla97C03G059090,unM,transposed,Same,unM-unM
 Cla97C11G224070,unM,Cla97C03G059470,unM,transposed,Same,unM-unM
+Cla97C08G154270,unM,Cla97C03G063620,unM,transposed,Same,unM-unM
 Cla97C09G166070,gbM,Cla97C03G063950,gbM,transposed,Same,gbM-gbM
 Cla97C02G049790,gbM,Cla97C03G063990,gbM,transposed,Same,gbM-gbM
 Cla97C02G034420,Unclassified,Cla97C03G065390,Unclassified,transposed,Undetermined,Unclassified-Unclassified
@@ -2684,8 +2683,8 @@ Cla97C06G128250,Unclassified,Cla97C06G123560,Unclassified,transposed,Undetermine
 Cla97C09G183580,Unclassified,Cla97C06G123560,Unclassified,transposed,Undetermined,Unclassified-Unclassified
 Cla97C06G110880,Unclassified,Cla97C06G123560,Unclassified,transposed,Undetermined,Unclassified-Unclassified
 Cla97C11G210660,Unclassified,Cla97C06G123590,Unclassified,transposed,Undetermined,Unclassified-Unclassified
-Cla97C11G215610,unM,Cla97C06G124210,unM,transposed,Same,unM-unM
 Cla97C08G147810,unM,Cla97C06G124210,unM,transposed,Same,unM-unM
+Cla97C11G215610,unM,Cla97C06G124210,unM,transposed,Same,unM-unM
 Cla97C07G134720,unM,Cla97C06G125360,unM,transposed,Same,unM-unM
 Cla97C04G078900,gbM,Cla97C06G125420,gbM,transposed,Same,gbM-gbM
 Cla97C01G018430,gbM,Cla97C06G125600,gbM,transposed,Same,gbM-gbM
@@ -2910,11 +2909,11 @@ Cla97C05G083990,unM,Cla97C06G117460,Unclassified,wgd,Undetermined,unM-Unclassifi
 Cla97C05G098070,unM,Cla97C06G120360,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C05G097940,unM,Cla97C06G120580,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C05G104250,unM,Cla97C06G124110,Unclassified,wgd,Undetermined,unM-Unclassified
-Cla97C04G078420,unM,Cla97C06G124990,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C05G105580,unM,Cla97C06G124990,Unclassified,wgd,Undetermined,unM-Unclassified
+Cla97C04G078420,unM,Cla97C06G124990,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C04G079220,unM,Cla97C06G125830,Unclassified,wgd,Undetermined,unM-Unclassified
-Cla97C05G106440,unM,Cla97C06G125880,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C04G079380,unM,Cla97C06G125880,Unclassified,wgd,Undetermined,unM-Unclassified
+Cla97C05G106440,unM,Cla97C06G125880,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C05G106700,unM,Cla97C06G125980,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C05G107060,unM,Cla97C06G126250,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C01G013040,unM,Cla97C06G126410,Unclassified,wgd,Undetermined,unM-Unclassified
@@ -2970,8 +2969,8 @@ Cla97C02G042420,unM,Cla97C09G170150,Unclassified,wgd,Undetermined,unM-Unclassifi
 Cla97C06G116140,unM,Cla97C09G170150,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C02G042490,unM,Cla97C09G170230,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C01G015760,unM,Cla97C09G178920,Unclassified,wgd,Undetermined,unM-Unclassified
-Cla97C01G015610,unM,Cla97C09G179030,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C02G032570,unM,Cla97C09G179030,Unclassified,wgd,Undetermined,unM-Unclassified
+Cla97C01G015610,unM,Cla97C09G179030,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C01G015530,unM,Cla97C09G179080,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C01G015360,unM,Cla97C09G179330,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C01G013270,unM,Cla97C09G179890,Unclassified,wgd,Undetermined,unM-Unclassified
@@ -3006,9 +3005,9 @@ Cla97C08G150350,unM,Cla97C10G203430,Unclassified,wgd,Undetermined,unM-Unclassifi
 Cla97C04G075590,unM,Cla97C10G203560,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C04G075540,unM,Cla97C10G203620,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C04G075480,unM,Cla97C10G203840,Unclassified,wgd,Undetermined,unM-Unclassified
-Cla97C02G046670,unM,Cla97C10G204020,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C02G039210,unM,Cla97C10G204020,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C04G075240,unM,Cla97C10G204020,Unclassified,wgd,Undetermined,unM-Unclassified
+Cla97C02G046670,unM,Cla97C10G204020,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C07G131770,unM,Cla97C10G204500,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C04G073790,unM,Cla97C10G205120,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C07G132680,unM,Cla97C10G205410,Unclassified,wgd,Undetermined,unM-Unclassified
@@ -3143,9 +3142,9 @@ Cla97C07G143360,unM,Cla97C08G153230,Unclassified,dispersed,Undetermined,unM-Uncl
 Cla97C05G105760,unM,Cla97C08G153260,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C08G146600,unM,Cla97C08G153720,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C06G121230,unM,Cla97C08G156940,Unclassified,dispersed,Undetermined,unM-Unclassified
-Cla97C02G041130,unM,Cla97C08G157620,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C01G019930,unM,Cla97C08G157620,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C01G023350,unM,Cla97C08G157620,Unclassified,dispersed,Undetermined,unM-Unclassified
+Cla97C02G041130,unM,Cla97C08G157620,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C06G112150,unM,Cla97C08G158510,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C03G054380,unM,Cla97C08G161240,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C02G035950,unM,Cla97C09G164210,Unclassified,dispersed,Undetermined,unM-Unclassified
@@ -3164,15 +3163,16 @@ Cla97C03G052920,unM,Cla97C09G181480,Unclassified,dispersed,Undetermined,unM-Uncl
 Cla97C01G020930,unM,Cla97C09G182520,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C02G043640,unM,Cla97C10G186770,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C04G077910,unM,Cla97C10G186880,Unclassified,dispersed,Undetermined,unM-Unclassified
-Cla97C05G094590,unM,Cla97C10G188830,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C09G182810,unM,Cla97C10G188830,Unclassified,dispersed,Undetermined,unM-Unclassified
-Cla97C03G054510,unM,Cla97C10G188830,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C01G010030,unM,Cla97C10G188830,Unclassified,dispersed,Undetermined,unM-Unclassified
+Cla97C05G094590,unM,Cla97C10G188830,Unclassified,dispersed,Undetermined,unM-Unclassified
+Cla97C03G054510,unM,Cla97C10G188830,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C01G021350,unM,Cla97C10G189250,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C09G173960,unM,Cla97C10G189410,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C09G173520,unM,Cla97C10G189570,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C08G149150,unM,Cla97C10G190770,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C01G026080,unM,Cla97C10G191870,Unclassified,dispersed,Undetermined,unM-Unclassified
+Cla97C01G017350,unM,Cla97C10G192070,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C09G177720,unM,Cla97C10G192600,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C01G017720,unM,Cla97C10G192690,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C05G102180,unM,Cla97C10G193480,Unclassified,dispersed,Undetermined,unM-Unclassified
@@ -3201,7 +3201,6 @@ Cla97C07G138870,unM,Cla97C11G218870,Unclassified,dispersed,Undetermined,unM-Uncl
 Cla97C05G091770,unM,Cla97C11G219270,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C08G154490,unM,Cla97C11G219320,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C01G017500,unM,Cla97C11G220740,Unclassified,dispersed,Undetermined,unM-Unclassified
-Cla97C01G017350,unM,Cla97C11G220850,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C08G161810,unM,Cla97C11G223790,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C03G059340,unM,Cla97C11G223880,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C10G190470,unM,Cla97C11G224620,Unclassified,dispersed,Undetermined,unM-Unclassified
@@ -3350,7 +3349,6 @@ Cla97C07G134450,unM,Cla97C05G089780,Unclassified,transposed,Undetermined,unM-Unc
 Cla97C01G016280,unM,Cla97C05G090420,Unclassified,transposed,Undetermined,unM-Unclassified
 Cla97C01G016290,unM,Cla97C05G090420,Unclassified,transposed,Undetermined,unM-Unclassified
 Cla97C11G215870,unM,Cla97C05G095450,Unclassified,transposed,Undetermined,unM-Unclassified
-Cla97C01G021760,unM,Cla97C05G095800,Unclassified,transposed,Undetermined,unM-Unclassified
 Cla97C07G130440,unM,Cla97C05G099590,Unclassified,transposed,Undetermined,unM-Unclassified
 Cla97C09G176200,unM,Cla97C05G099960,Unclassified,transposed,Undetermined,unM-Unclassified
 Cla97C07G135610,unM,Cla97C05G100440,Unclassified,transposed,Undetermined,unM-Unclassified
@@ -3384,6 +3382,7 @@ Cla97C03G057720,unM,Cla97C09G179030,Unclassified,transposed,Undetermined,unM-Unc
 Cla97C10G188620,unM,Cla97C09G183100,Unclassified,transposed,Undetermined,unM-Unclassified
 Cla97C09G178750,unM,Cla97C10G186120,Unclassified,transposed,Undetermined,unM-Unclassified
 Cla97C07G134770,unM,Cla97C10G187990,Unclassified,transposed,Undetermined,unM-Unclassified
+Cla97C01G021760,unM,Cla97C10G189810,Unclassified,transposed,Undetermined,unM-Unclassified
 Cla97C01G010580,unM,Cla97C10G194470,Unclassified,transposed,Undetermined,unM-Unclassified
 Cla97C05G107480,unM,Cla97C10G197000,Unclassified,transposed,Undetermined,unM-Unclassified
 Cla97C08G151190,unM,Cla97C10G201130,Unclassified,transposed,Undetermined,unM-Unclassified
@@ -3525,8 +3524,8 @@ Cla97C10G201610,unM,Cla97C01G011310,Unclassified,wgd,Undetermined,unM-Unclassifi
 Cla97C10G202080,unM,Cla97C04G076830,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C10G202200,unM,Cla97C04G076740,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C10G203130,unM,Cla97C04G076190,Unclassified,wgd,Undetermined,unM-Unclassified
-Cla97C10G203830,unM,Cla97C02G039460,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C10G203830,unM,Cla97C02G046790,Unclassified,wgd,Undetermined,unM-Unclassified
+Cla97C10G203830,unM,Cla97C02G039460,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C10G204390,unM,Cla97C03G052360,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C10G204620,unM,Cla97C07G131890,Unclassified,wgd,Undetermined,unM-Unclassified
 Cla97C10G205080,unM,Cla97C04G073840,Unclassified,wgd,Undetermined,unM-Unclassified
@@ -3592,7 +3591,6 @@ Cla97C02G035820,unM,Cla97C01G010160,Unclassified,dispersed,Undetermined,unM-Uncl
 Cla97C02G036420,unM,Cla97C02G029970,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C02G036580,unM,Cla97C02G029690,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C02G036720,unM,Cla97C01G010500,Unclassified,dispersed,Undetermined,unM-Unclassified
-Cla97C02G036720,unM,Cla97C02G035570,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C02G036810,unM,Cla97C02G030340,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C02G036980,unM,Cla97C02G031830,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C02G042990,unM,Cla97C01G022370,Unclassified,dispersed,Undetermined,unM-Unclassified
@@ -3606,6 +3604,7 @@ Cla97C03G064880,unM,Cla97C03G062470,Unclassified,dispersed,Undetermined,unM-Uncl
 Cla97C03G064900,unM,Cla97C02G040850,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C03G068300,unM,Cla97C01G010250,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C04G068790,unM,Cla97C01G010500,Unclassified,dispersed,Undetermined,unM-Unclassified
+Cla97C04G069760,unM,Cla97C01G000910,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C04G073450,unM,Cla97C01G023740,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C04G073780,unM,Cla97C02G045710,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C04G074430,unM,Cla97C01G013370,Unclassified,dispersed,Undetermined,unM-Unclassified
@@ -3630,6 +3629,7 @@ Cla97C06G119180,unM,Cla97C02G042740,Unclassified,dispersed,Undetermined,unM-Uncl
 Cla97C06G121670,unM,Cla97C05G097200,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C06G122950,unM,Cla97C05G081320,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C06G124090,unM,Cla97C02G034190,Unclassified,dispersed,Undetermined,unM-Unclassified
+Cla97C06G124460,unM,Cla97C04G072230,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C06G127790,unM,Cla97C06G117110,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C06G128030,unM,Cla97C01G008120,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C06G128260,unM,Cla97C03G061120,Unclassified,dispersed,Undetermined,unM-Unclassified
@@ -3674,8 +3674,8 @@ Cla97C09G165540,unM,Cla97C05G096900,Unclassified,dispersed,Undetermined,unM-Uncl
 Cla97C09G165920,unM,Cla97C02G050090,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C09G166350,unM,Cla97C05G099290,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C09G168010,unM,Cla97C02G027500,Unclassified,dispersed,Undetermined,unM-Unclassified
-Cla97C09G169050,unM,Cla97C05G092920,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C09G169050,unM,Cla97C05G092930,Unclassified,dispersed,Undetermined,unM-Unclassified
+Cla97C09G169050,unM,Cla97C05G092920,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C09G171290,unM,Cla97C05G088870,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C09G172390,unM,Cla97C02G028680,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C09G172920,unM,Cla97C08G149770,Unclassified,dispersed,Undetermined,unM-Unclassified
@@ -3722,8 +3722,8 @@ Cla97C11G211640,unM,Cla97C08G153310,Unclassified,dispersed,Undetermined,unM-Uncl
 Cla97C11G211910,unM,Cla97C06G124840,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C11G214890,unM,Cla97C05G108530,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C11G215730,unM,Cla97C06G124130,Unclassified,dispersed,Undetermined,unM-Unclassified
-Cla97C11G215900,unM,Cla97C03G061660,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C11G215900,unM,Cla97C08G148990,Unclassified,dispersed,Undetermined,unM-Unclassified
+Cla97C11G215900,unM,Cla97C03G061660,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C11G216060,unM,Cla97C10G196090,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C11G216680,unM,Cla97C06G117000,Unclassified,dispersed,Undetermined,unM-Unclassified
 Cla97C11G219010,unM,Cla97C02G039070,Unclassified,dispersed,Undetermined,unM-Unclassified
@@ -3950,9 +3950,9 @@ Cla97C01G002240,teM,Cla97C01G005500,Unclassified,dispersed,Undetermined,teM-Uncl
 Cla97C01G005000,teM,Cla97C01G006710,Unclassified,dispersed,Undetermined,teM-Unclassified
 Cla97C02G044750,teM,Cla97C03G055260,Unclassified,dispersed,Undetermined,teM-Unclassified
 Cla97C02G035630,teM,Cla97C03G061310,Unclassified,dispersed,Undetermined,teM-Unclassified
+Cla97C02G035260,teM,Cla97C03G065100,Unclassified,dispersed,Undetermined,teM-Unclassified
 Cla97C00G000530,teM,Cla97C03G065100,Unclassified,dispersed,Undetermined,teM-Unclassified
 Cla97C03G061510,teM,Cla97C04G077400,Unclassified,dispersed,Undetermined,teM-Unclassified
-Cla97C04G068690,teM,Cla97C05G086460,Unclassified,dispersed,Undetermined,teM-Unclassified
 Cla97C03G058300,teM,Cla97C05G098510,Unclassified,dispersed,Undetermined,teM-Unclassified
 Cla97C05G094790,teM,Cla97C06G118580,Unclassified,dispersed,Undetermined,teM-Unclassified
 Cla97C04G069470,teM,Cla97C06G118580,Unclassified,dispersed,Undetermined,teM-Unclassified
@@ -4053,6 +4053,7 @@ Cla97C06G117900,teM,Cla97C05G096670,Unclassified,dispersed,Undetermined,teM-Uncl
 Cla97C06G120260,teM,Cla97C04G070560,Unclassified,dispersed,Undetermined,teM-Unclassified
 Cla97C06G127270,teM,Cla97C05G108290,Unclassified,dispersed,Undetermined,teM-Unclassified
 Cla97C07G132120,teM,Cla97C05G101270,Unclassified,dispersed,Undetermined,teM-Unclassified
+Cla97C08G145000,teM,Cla97C03G065100,Unclassified,dispersed,Undetermined,teM-Unclassified
 Cla97C08G145300,teM,Cla97C04G070560,Unclassified,dispersed,Undetermined,teM-Unclassified
 Cla97C08G145910,teM,Cla97C01G011370,Unclassified,dispersed,Undetermined,teM-Unclassified
 Cla97C08G147090,teM,Cla97C08G146950,Unclassified,dispersed,Undetermined,teM-Unclassified
@@ -4190,8 +4191,8 @@ Cla97C04G074980,gbM,Cla97C10G204290,Unclassified,wgd,Undetermined,gbM-Unclassifi
 Cla97C04G074940,gbM,Cla97C10G204310,Unclassified,wgd,Undetermined,gbM-Unclassified
 Cla97C04G074310,gbM,Cla97C10G204830,Unclassified,wgd,Undetermined,gbM-Unclassified
 Cla97C04G073810,gbM,Cla97C10G205100,Unclassified,wgd,Undetermined,gbM-Unclassified
-Cla97C04G073800,gbM,Cla97C10G205110,Unclassified,wgd,Undetermined,gbM-Unclassified
 Cla97C07G132420,gbM,Cla97C10G205110,Unclassified,wgd,Undetermined,gbM-Unclassified
+Cla97C04G073800,gbM,Cla97C10G205110,Unclassified,wgd,Undetermined,gbM-Unclassified
 Cla97C07G132760,gbM,Cla97C10G205500,Unclassified,wgd,Undetermined,gbM-Unclassified
 Cla97C04G072730,gbM,Cla97C10G206270,Unclassified,wgd,Undetermined,gbM-Unclassified
 Cla97C03G065750,gbM,Cla97C11G208100,Unclassified,wgd,Undetermined,gbM-Unclassified
@@ -4242,6 +4243,7 @@ Cla97C03G066760,gbM,Cla97C05G087220,Unclassified,dispersed,Undetermined,gbM-Uncl
 Cla97C03G058420,gbM,Cla97C05G088180,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C02G039600,gbM,Cla97C05G094430,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C01G023930,gbM,Cla97C05G094430,Unclassified,dispersed,Undetermined,gbM-Unclassified
+Cla97C05G088330,gbM,Cla97C05G094640,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C01G014730,gbM,Cla97C05G096540,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C01G019980,gbM,Cla97C05G096570,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C02G042850,gbM,Cla97C05G097660,Unclassified,dispersed,Undetermined,gbM-Unclassified
@@ -4290,8 +4292,8 @@ Cla97C01G002800,gbM,Cla97C09G169160,Unclassified,dispersed,Undetermined,gbM-Uncl
 Cla97C03G066990,gbM,Cla97C09G169290,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C05G086590,gbM,Cla97C09G170190,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C08G145860,gbM,Cla97C09G170440,Unclassified,dispersed,Undetermined,gbM-Unclassified
-Cla97C07G142740,gbM,Cla97C09G170780,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C07G143630,gbM,Cla97C09G170780,Unclassified,dispersed,Undetermined,gbM-Unclassified
+Cla97C07G142740,gbM,Cla97C09G170780,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C04G070900,gbM,Cla97C09G171410,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C05G083940,gbM,Cla97C09G171790,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C08G149630,gbM,Cla97C09G172500,Unclassified,dispersed,Undetermined,gbM-Unclassified
@@ -4574,7 +4576,7 @@ Cla97C10G197190,gbM,Cla97C06G126530,Unclassified,wgd,Undetermined,gbM-Unclassifi
 Cla97C10G201640,gbM,Cla97C04G077150,Unclassified,wgd,Undetermined,gbM-Unclassified
 Cla97C10G201880,gbM,Cla97C02G048320,Unclassified,wgd,Undetermined,gbM-Unclassified
 Cla97C10G202030,gbM,Cla97C04G076870,Unclassified,wgd,Undetermined,gbM-Unclassified
-Cla97C10G202240,gbM,Cla97C02G048030,Unclassified,wgd,Undetermined,gbM-Unclassified
+Cla97C10G202240,gbM,Cla97C04G076660,Unclassified,wgd,Undetermined,gbM-Unclassified
 Cla97C10G202380,gbM,Cla97C04G076620,Unclassified,wgd,Undetermined,gbM-Unclassified
 Cla97C10G203190,gbM,Cla97C08G150550,Unclassified,wgd,Undetermined,gbM-Unclassified
 Cla97C10G203330,gbM,Cla97C04G076000,Unclassified,wgd,Undetermined,gbM-Unclassified
@@ -4621,6 +4623,7 @@ Cla97C02G034150,gbM,Cla97C01G017070,Unclassified,dispersed,Undetermined,gbM-Uncl
 Cla97C02G036230,gbM,Cla97C01G021330,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C02G036490,gbM,Cla97C02G029630,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C02G037550,gbM,Cla97C01G015010,Unclassified,dispersed,Undetermined,gbM-Unclassified
+Cla97C02G038820,gbM,Cla97C01G015560,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C02G048230,gbM,Cla97C00G000210,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C03G058290,gbM,Cla97C01G024480,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C03G061460,gbM,Cla97C02G032850,Unclassified,dispersed,Undetermined,gbM-Unclassified
@@ -4710,8 +4713,8 @@ Cla97C10G189160,gbM,Cla97C09G173820,Unclassified,dispersed,Undetermined,gbM-Uncl
 Cla97C10G189380,gbM,Cla97C01G010040,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C10G189420,gbM,Cla97C02G043880,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C10G189560,gbM,Cla97C00G000190,Unclassified,dispersed,Undetermined,gbM-Unclassified
-Cla97C10G192370,gbM,Cla97C05G094430,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C10G192370,gbM,Cla97C03G058810,Unclassified,dispersed,Undetermined,gbM-Unclassified
+Cla97C10G192370,gbM,Cla97C05G094430,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C10G192490,gbM,Cla97C07G144230,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C10G192490,gbM,Cla97C01G018000,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C10G192680,gbM,Cla97C08G154780,Unclassified,dispersed,Undetermined,gbM-Unclassified
@@ -4751,7 +4754,6 @@ Cla97C11G219850,gbM,Cla97C08G160970,Unclassified,dispersed,Undetermined,gbM-Uncl
 Cla97C11G221340,gbM,Cla97C01G018300,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C11G221560,gbM,Cla97C06G119220,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C11G222620,gbM,Cla97C10G203550,Unclassified,dispersed,Undetermined,gbM-Unclassified
-Cla97C11G224520,gbM,Cla97C05G094640,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C11G224610,gbM,Cla97C01G013920,Unclassified,dispersed,Undetermined,gbM-Unclassified
 Cla97C01G004460,gbM,Cla97C01G004450,Unclassified,tandem,Undetermined,gbM-Unclassified
 Cla97C01G007740,gbM,Cla97C01G007730,Unclassified,tandem,Undetermined,gbM-Unclassified
@@ -4952,7 +4954,6 @@ Cla97C01G011750,gbM,Cla97C04G076680,unM,dispersed,Different,gbM-unM
 Cla97C03G068290,gbM,Cla97C05G088610,unM,dispersed,Different,gbM-unM
 Cla97C03G057610,gbM,Cla97C05G091590,unM,dispersed,Different,gbM-unM
 Cla97C05G083010,gbM,Cla97C05G093600,unM,dispersed,Different,gbM-unM
-Cla97C02G038820,gbM,Cla97C05G101080,unM,dispersed,Different,gbM-unM
 Cla97C01G008250,gbM,Cla97C06G110970,unM,dispersed,Different,gbM-unM
 Cla97C02G047000,gbM,Cla97C06G117580,unM,dispersed,Different,gbM-unM
 Cla97C03G064090,gbM,Cla97C06G120220,unM,dispersed,Different,gbM-unM
@@ -5090,8 +5091,8 @@ Cla97C07G141870,gbM,Cla97C01G002050,unM,wgd,Different,gbM-unM
 Cla97C07G144300,gbM,Cla97C01G005240,unM,wgd,Different,gbM-unM
 Cla97C08G151210,gbM,Cla97C05G103730,unM,wgd,Different,gbM-unM
 Cla97C08G156730,gbM,Cla97C05G098030,unM,wgd,Different,gbM-unM
-Cla97C08G157010,gbM,Cla97C05G097510,unM,wgd,Different,gbM-unM
 Cla97C08G157010,gbM,Cla97C07G139210,unM,wgd,Different,gbM-unM
+Cla97C08G157010,gbM,Cla97C05G097510,unM,wgd,Different,gbM-unM
 Cla97C08G157970,gbM,Cla97C05G099870,unM,wgd,Different,gbM-unM
 Cla97C08G159000,gbM,Cla97C02G032360,unM,wgd,Different,gbM-unM
 Cla97C08G159080,gbM,Cla97C01G015540,unM,wgd,Different,gbM-unM
@@ -5158,6 +5159,7 @@ Cla97C05G107010,gbM,Cla97C01G004470,unM,dispersed,Different,gbM-unM
 Cla97C05G108470,gbM,Cla97C01G006740,unM,dispersed,Different,gbM-unM
 Cla97C06G111690,gbM,Cla97C01G001310,unM,dispersed,Different,gbM-unM
 Cla97C06G115950,gbM,Cla97C02G042300,unM,dispersed,Different,gbM-unM
+Cla97C06G120330,gbM,Cla97C01G001550,unM,dispersed,Different,gbM-unM
 Cla97C07G135970,gbM,Cla97C02G049390,unM,dispersed,Different,gbM-unM
 Cla97C07G136730,gbM,Cla97C05G083970,unM,dispersed,Different,gbM-unM
 Cla97C07G138680,gbM,Cla97C06G122310,unM,dispersed,Different,gbM-unM
@@ -5289,8 +5291,8 @@ Cla97C05G101520,unM,Cla97C08G159520,teM,wgd,Different,unM-teM
 Cla97C02G032900,unM,Cla97C08G159520,teM,wgd,Different,unM-teM
 Cla97C02G033130,unM,Cla97C08G159770,teM,wgd,Different,unM-teM
 Cla97C05G101840,unM,Cla97C08G159770,teM,wgd,Different,unM-teM
-Cla97C05G101960,unM,Cla97C08G159830,teM,wgd,Different,unM-teM
 Cla97C02G033270,unM,Cla97C08G159830,teM,wgd,Different,unM-teM
+Cla97C05G101960,unM,Cla97C08G159830,teM,wgd,Different,unM-teM
 Cla97C07G141340,unM,Cla97C09G163190,teM,wgd,Different,unM-teM
 Cla97C03G065120,unM,Cla97C09G163190,teM,wgd,Different,unM-teM
 Cla97C01G019970,unM,Cla97C10G185100,teM,wgd,Different,unM-teM

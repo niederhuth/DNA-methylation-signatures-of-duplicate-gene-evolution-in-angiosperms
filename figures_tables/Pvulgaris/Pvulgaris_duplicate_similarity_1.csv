@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Pvulgaris,dispersed,Different,253,36
+Pvulgaris,proximal,Different,96,36
+Pvulgaris,tandem,Different,155,36
+Pvulgaris,transposed,Different,177,36
+Pvulgaris,wgd,Different,282,36
+Pvulgaris,dispersed,Same,1353,36
+Pvulgaris,proximal,Same,579,36
+Pvulgaris,tandem,Same,1871,36
+Pvulgaris,transposed,Same,1348,36
+Pvulgaris,wgd,Same,3153,36
+Pvulgaris,dispersed,Undetermined,297,36
+Pvulgaris,proximal,Undetermined,51,36
+Pvulgaris,tandem,Undetermined,81,36
+Pvulgaris,transposed,Undetermined,169,36
+Pvulgaris,wgd,Undetermined,459,36

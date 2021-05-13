@@ -1,10 +1,10 @@
 Species,Duplication,Similarity,Number,PhyloOrder
-Aduranensis,dispersed,Different,1021,35
+Aduranensis,dispersed,Different,1024,35
 Aduranensis,proximal,Different,204,35
-Aduranensis,tandem,Different,228,35
+Aduranensis,tandem,Different,229,35
 Aduranensis,transposed,Different,749,35
 Aduranensis,wgd,Different,578,35
-Aduranensis,dispersed,Same,3555,35
+Aduranensis,dispersed,Same,3556,35
 Aduranensis,proximal,Same,730,35
 Aduranensis,tandem,Same,779,35
 Aduranensis,transposed,Same,3048,35
@@ -13,4 +13,4 @@ Aduranensis,dispersed,Undetermined,952,35
 Aduranensis,proximal,Undetermined,183,35
 Aduranensis,tandem,Undetermined,167,35
 Aduranensis,transposed,Undetermined,476,35
-Aduranensis,wgd,Undetermined,572,35
+Aduranensis,wgd,Undetermined,573,35

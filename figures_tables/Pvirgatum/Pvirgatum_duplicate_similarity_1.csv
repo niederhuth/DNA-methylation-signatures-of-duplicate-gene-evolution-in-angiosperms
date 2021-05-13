@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Pvirgatum,dispersed,Different,576,10
+Pvirgatum,proximal,Different,239,10
+Pvirgatum,tandem,Different,252,10
+Pvirgatum,transposed,Different,738,10
+Pvirgatum,wgd,Different,895,10
+Pvirgatum,dispersed,Same,1802,10
+Pvirgatum,proximal,Same,1121,10
+Pvirgatum,tandem,Same,1769,10
+Pvirgatum,transposed,Same,2349,10
+Pvirgatum,wgd,Same,10936,10
+Pvirgatum,dispersed,Undetermined,857,10
+Pvirgatum,proximal,Undetermined,504,10
+Pvirgatum,tandem,Undetermined,614,10
+Pvirgatum,transposed,Undetermined,1796,10
+Pvirgatum,wgd,Undetermined,8537,10

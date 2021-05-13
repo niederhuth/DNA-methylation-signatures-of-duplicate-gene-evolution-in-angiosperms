@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Slycopersicum,dispersed,Different,535,41
+Slycopersicum,proximal,Different,137,41
+Slycopersicum,tandem,Different,226,41
+Slycopersicum,transposed,Different,399,41
+Slycopersicum,wgd,Different,342,41
+Slycopersicum,dispersed,Same,1467,41
+Slycopersicum,proximal,Same,544,41
+Slycopersicum,tandem,Same,1115,41
+Slycopersicum,transposed,Same,976,41
+Slycopersicum,wgd,Same,1419,41
+Slycopersicum,dispersed,Undetermined,1161,41
+Slycopersicum,proximal,Undetermined,473,41
+Slycopersicum,tandem,Undetermined,1051,41
+Slycopersicum,transposed,Undetermined,835,41
+Slycopersicum,wgd,Undetermined,1387,41

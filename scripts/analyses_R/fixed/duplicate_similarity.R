@@ -101,29 +101,41 @@ for(a in species$Species){
 	df12 <- rbind(df12,data.frame(species=a,t(tmp)))
 }
 
+df11$Percent <- df11$Percent2 <- NA
+for(i in 1:nrow(df11)){
+	df11[i,]$Percent <- df11[i,]$Number/
+	sum(df11[df11$Species==df11[i,]$Species & df11$Duplication==df11[i,]$Duplication,]$Number)
+	if(df11[i,]$Similarity=="Undetermined"){
+		df11[i,]$Percent2 <- NA
+	} else {
+		df11[i,]$Percent2 <- df11[i,]$Number/
+		sum(df11[df11$Species==df11[i,]$Species & df11$Duplication==df11[i,]$Duplication & 
+			df11$Similarity != "Undetermined",]$Number)
+	}
+}
+df11$Similarity <- factor(df11$Similarity, levels(df11$Similarity)[c(3,1,2)])
+
 #Output combined tables
 path5 <- paste("../figures_tables/duplicate_similarity")
 if(!file.exists(path5)){
-	dir.create(path1)
+	dir.create(path5)
 }
+
 write.csv(df11,paste(path5,"/All_DuplicateSimilarity.csv",sep=""),row.names=FALSE,quote=FALSE)
 colnames(df12) <- gsub("\\.","-",colnames(df12))
 write.csv(df12,paste(path5,"/All_DuplicatePair_classification.csv",sep=""),row.names=FALSE,quote=FALSE)
 
 #### Duplicate-Similarity figures ####
-df11$Percent <- NA
-for(i in 1:nrow(df9)){
-	df11[i,]$Percent <- df11[i,]$Number/
-	sum(df11[df9$Species==df11[i,]$Species & df11$Duplication==df11[i,]$Duplication,]$Number)
-}
 
 # To get one figure for all different types of duplicates
-p <- ggplot(df11, aes(fill=Similarity,y=Number,x=reorder(Species,PhyloOrder))) + 
+p <- ggplot(df11, aes(fill=Similarity,y=Percent,x=reorder(Species,PhyloOrder))) + 
 	geom_bar(position="stack",stat="identity") +   #position=fill gives percentage, position=stack gives stacked number barplot
 	theme_bw() +
 	scale_y_continuous("Percentage of genes",expand=c(0,0),labels=percent) + #y-axis shows % rather than numbers
-	scale_x_discrete("")
-p + facet_wrap(~Duplication, scales="free", nrow =5)
+	scale_x_discrete("") + 
+	facet_wrap(~Duplication, scales="free", nrow =5) + 
+	theme(axis.text.x=element_blank()) + 
+	scale_fill_manual(values=c("Different"="goldenrod","Same"="dodgerblue4","Undetermined"="grey45"))
 ggsave(paste(path5,"/duplicate_similarity.pdf",sep=""),p,device="pdf")
 
 
@@ -132,7 +144,9 @@ for(a in c("wgd","proximal","dispersed","tandem","transposed")){
 	p <- ggplot(df11[df11$Duplication==a,], aes(fill=Similarity,y=Percent,x=reorder(Species,PhyloOrder))) + 
 		geom_bar(position="fill",stat="identity") +   #position=fill gives percentage, position=stack gives stacked number barplot
 		theme_bw() +
-		scale_y_continuous("Percentage of genes",expand=c(0,0),labels=percent) #y-axis shows % rather than numbers
+		scale_y_continuous("Percentage of genes",expand=c(0,0),labels=percent) + #y-axis shows % rather than numbers
+		theme(axis.text.x=element_blank()) + 
+		scale_fill_manual(values=c("Different"="goldenrod","Same"="dodgerblue4","Undetermined"="grey45"))
 	ggsave(paste(path5,"/",a,"_duplicate_simiarlity.pdf",sep=""),p,device="pdf")
 }
 

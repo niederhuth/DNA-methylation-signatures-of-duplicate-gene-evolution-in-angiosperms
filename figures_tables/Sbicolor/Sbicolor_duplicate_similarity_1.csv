@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Sbicolor,dispersed,Different,667,7
+Sbicolor,proximal,Different,161,7
+Sbicolor,tandem,Different,269,7
+Sbicolor,transposed,Different,309,7
+Sbicolor,wgd,Different,281,7
+Sbicolor,dispersed,Same,1721,7
+Sbicolor,proximal,Same,529,7
+Sbicolor,tandem,Same,1257,7
+Sbicolor,transposed,Same,922,7
+Sbicolor,wgd,Same,1360,7
+Sbicolor,dispersed,Undetermined,873,7
+Sbicolor,proximal,Undetermined,195,7
+Sbicolor,tandem,Undetermined,327,7
+Sbicolor,transposed,Undetermined,438,7
+Sbicolor,wgd,Undetermined,509,7

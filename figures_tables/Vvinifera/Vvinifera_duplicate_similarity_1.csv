@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Vvinifera,dispersed,Different,550,12
+Vvinifera,proximal,Different,303,12
+Vvinifera,tandem,Different,434,12
+Vvinifera,transposed,Different,504,12
+Vvinifera,wgd,Different,280,12
+Vvinifera,dispersed,Same,1018,12
+Vvinifera,proximal,Same,633,12
+Vvinifera,tandem,Same,1387,12
+Vvinifera,transposed,Same,688,12
+Vvinifera,wgd,Same,1187,12
+Vvinifera,dispersed,Undetermined,469,12
+Vvinifera,proximal,Undetermined,249,12
+Vvinifera,tandem,Undetermined,246,12
+Vvinifera,transposed,Undetermined,289,12
+Vvinifera,wgd,Undetermined,311,12

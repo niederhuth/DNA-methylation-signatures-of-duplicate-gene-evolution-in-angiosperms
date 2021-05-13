@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Pxbretschneideri,dispersed,Different,35,30
+Pxbretschneideri,proximal,Different,28,30
+Pxbretschneideri,tandem,Different,77,30
+Pxbretschneideri,transposed,Different,86,30
+Pxbretschneideri,wgd,Different,187,30
+Pxbretschneideri,dispersed,Same,186,30
+Pxbretschneideri,proximal,Same,113,30
+Pxbretschneideri,tandem,Same,399,30
+Pxbretschneideri,transposed,Same,336,30
+Pxbretschneideri,wgd,Same,1518,30
+Pxbretschneideri,dispersed,Undetermined,262,30
+Pxbretschneideri,proximal,Undetermined,189,30
+Pxbretschneideri,tandem,Undetermined,528,30
+Pxbretschneideri,transposed,Undetermined,518,30
+Pxbretschneideri,wgd,Undetermined,2160,30

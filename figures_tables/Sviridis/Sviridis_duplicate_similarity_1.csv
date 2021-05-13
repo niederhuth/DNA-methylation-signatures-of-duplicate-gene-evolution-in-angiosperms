@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Sviridis,dispersed,Different,728,9
+Sviridis,proximal,Different,163,9
+Sviridis,tandem,Different,223,9
+Sviridis,transposed,Different,398,9
+Sviridis,wgd,Different,232,9
+Sviridis,dispersed,Same,2815,9
+Sviridis,proximal,Same,885,9
+Sviridis,tandem,Same,1650,9
+Sviridis,transposed,Same,1364,9
+Sviridis,wgd,Same,1657,9
+Sviridis,dispersed,Undetermined,1061,9
+Sviridis,proximal,Undetermined,249,9
+Sviridis,tandem,Undetermined,335,9
+Sviridis,transposed,Undetermined,538,9
+Sviridis,wgd,Undetermined,760,9

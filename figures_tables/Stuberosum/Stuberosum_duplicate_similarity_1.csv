@@ -1,0 +1,16 @@
+Species,Duplication,Similarity,Number,PhyloOrder
+Stuberosum,dispersed,Different,431,42
+Stuberosum,proximal,Different,146,42
+Stuberosum,tandem,Different,287,42
+Stuberosum,transposed,Different,484,42
+Stuberosum,wgd,Different,624,42
+Stuberosum,dispersed,Same,926,42
+Stuberosum,proximal,Same,311,42
+Stuberosum,tandem,Same,766,42
+Stuberosum,transposed,Same,1057,42
+Stuberosum,wgd,Same,3195,42
+Stuberosum,dispersed,Undetermined,484,42
+Stuberosum,proximal,Undetermined,257,42
+Stuberosum,tandem,Undetermined,634,42
+Stuberosum,transposed,Undetermined,501,42
+Stuberosum,wgd,Undetermined,856,42

@@ -1,5 +1,5 @@
 Species,Duplication,Classification,Number,PhyloOrder
-Atrichopoda,dispersed,gbM-gbM,115,1
+Atrichopoda,dispersed,gbM-gbM,116,1
 Atrichopoda,proximal,gbM-gbM,31,1
 Atrichopoda,tandem,gbM-gbM,50,1
 Atrichopoda,transposed,gbM-gbM,0,1
@@ -9,7 +9,7 @@ Atrichopoda,proximal,gbM-teM,16,1
 Atrichopoda,tandem,gbM-teM,19,1
 Atrichopoda,transposed,gbM-teM,2,1
 Atrichopoda,wgd,gbM-teM,0,1
-Atrichopoda,dispersed,gbM-Unclassified,220,1
+Atrichopoda,dispersed,gbM-Unclassified,219,1
 Atrichopoda,proximal,gbM-Unclassified,70,1
 Atrichopoda,tandem,gbM-Unclassified,77,1
 Atrichopoda,transposed,gbM-Unclassified,1,1
@@ -39,12 +39,12 @@ Atrichopoda,proximal,unM-teM,33,1
 Atrichopoda,tandem,unM-teM,15,1
 Atrichopoda,transposed,unM-teM,0,1
 Atrichopoda,wgd,unM-teM,0,1
-Atrichopoda,dispersed,unM-Unclassified,289,1
+Atrichopoda,dispersed,unM-Unclassified,288,1
 Atrichopoda,proximal,unM-Unclassified,118,1
 Atrichopoda,tandem,unM-Unclassified,132,1
 Atrichopoda,transposed,unM-Unclassified,0,1
 Atrichopoda,wgd,unM-Unclassified,0,1
-Atrichopoda,dispersed,unM-unM,186,1
+Atrichopoda,dispersed,unM-unM,187,1
 Atrichopoda,proximal,unM-unM,84,1
 Atrichopoda,tandem,unM-unM,112,1
 Atrichopoda,transposed,unM-unM,0,1
