@@ -1,0 +1,80 @@
+GO.ID,Term,Annotated,Significant,Expected,Fisher,fdr
+GO:0034660,ncRNA metabolic process,471,90,25.4,8.9e-29,3.18264e-25
+GO:0006396,RNA processing,844,117,45.51,4.7e-21,8.4036e-18
+GO:0009451,RNA modification,292,58,15.74,2.5e-19,2.98e-16
+GO:0006259,DNA metabolic process,520,78,28.04,4.1e-14,3.6654e-11
+GO:0033554,cellular response to stress,1201,95,64.76,2.7e-13,1.93104e-10
+GO:0006260,DNA replication,165,28,8.9,4.7e-11,2.8012e-08
+GO:0006974,cellular response to DNA damage stimulus,375,58,20.22,3.8e-10,1.8327e-07
+GO:2001289,lipid X metabolic process,10,8,0.54,4.1e-10,1.8327e-07
+GO:0043414,macromolecule methylation,212,37,11.43,7.4e-10,2.94026666666667e-07
+GO:0071840,cellular component organization or bioge...,3134,253,168.98,1.1e-08,3.9336e-06
+GO:0008152,metabolic process,10856,676,585.34,3.8e-08,1.23534545454545e-05
+GO:0032259,methylation,268,41,14.45,6.9e-08,2.0562e-05
+GO:0044237,cellular metabolic process,9944,643,536.16,1.6e-07,4.40123076923077e-05
+GO:0008213,protein alkylation,111,19,5.98,2.9e-07,7.40742857142857e-05
+GO:0051604,protein maturation,94,19,5.07,5.2e-07,0.000123968
+GO:0009790,embryo development,579,52,31.22,5.9e-07,0.000131865
+GO:0034470,ncRNA processing,394,80,21.24,8.6e-07,0.000180903529411765
+GO:0009793,embryo development ending in seed dorman...,547,50,29.49,1.6e-06,0.000317866666666667
+GO:0018193,peptidyl-amino acid modification,416,39,22.43,2.8e-06,0.000526989473684211
+GO:1901420,negative regulation of response to alcoh...,53,10,2.86,3.1e-06,0.00055428
+GO:0033108,mitochondrial respiratory chain complex ...,43,16,2.32,3.4e-06,0.000578971428571429
+GO:0009657,plastid organization,317,51,17.09,3.6e-06,0.000585163636363636
+GO:0007059,chromosome segregation,135,23,7.28,3.9e-06,0.000606365217391304
+GO:0009987,cellular process,13853,819,746.93,4.1e-06,0.0006109
+GO:0043604,amide biosynthetic process,689,52,37.15,4.6e-06,0.000657984
+GO:0009968,negative regulation of signal transducti...,110,12,5.93,8.8e-06,0.00121033846153846
+GO:0009668,plastid membrane organization,58,18,3.13,1.0e-05,0.00132444444444444
+GO:0046471,phosphatidylglycerol metabolic process,12,6,0.65,1.2e-05,0.00153257142857143
+GO:0000075,cell cycle checkpoint,43,11,2.32,2.9e-05,0.003576
+GO:0007093,mitotic cell cycle checkpoint,33,9,1.78,3.1e-05,0.0036952
+GO:0006655,phosphatidylglycerol biosynthetic proces...,11,6,0.59,5.7e-05,0.00657522580645161
+GO:0071028,nuclear mRNA surveillance,17,6,0.92,6.1e-05,0.00674331428571429
+GO:0071025,RNA surveillance,21,6,1.13,6.3e-05,0.00674331428571429
+GO:0010154,fruit development,791,61,42.65,6.5e-05,0.00674331428571429
+GO:0009788,negative regulation of abscisic acid-act...,53,10,2.86,6.6e-05,0.00674331428571429
+GO:0042254,ribosome biogenesis,362,58,19.52,7.3e-05,0.00725133333333333
+GO:0051726,regulation of cell cycle,239,22,12.89,7.8e-05,0.00753859459459459
+GO:0010257,NADH dehydrogenase complex assembly,32,12,1.73,8.5e-05,0.00788553846153846
+GO:0006996,organelle organization,1824,163,98.35,8.6e-05,0.00788553846153846
+GO:0042793,plastid transcription,11,4,0.59,9.3e-05,0.0083142
+GO:1901566,organonitrogen compound biosynthetic pro...,1522,106,82.06,0.00012,0.0104663414634146
+GO:0016226,iron-sulfur cluster assembly,36,9,1.94,0.00013,0.0110685714285714
+GO:1901991,negative regulation of mitotic cell cycl...,24,8,1.29,0.00020,0.0162545454545455
+GO:1903046,meiotic cell cycle process,170,22,9.17,0.00020,0.0162545454545455
+GO:0009314,response to radiation,817,47,44.05,0.00021,0.016688
+GO:0034308,primary alcohol metabolic process,14,5,0.75,0.00022,0.0171026086956522
+GO:0007131,reciprocal meiotic recombination,62,16,3.34,0.00024,0.0182604255319149
+GO:0009791,post-embryonic development,1748,101,94.25,0.00026,0.01937
+GO:0006081,cellular aldehyde metabolic process,52,11,2.8,0.00028,0.0204342857142857
+GO:0097237,cellular response to toxic substance,45,7,2.43,0.00031,0.0217364705882353
+GO:0043933,protein-containing complex subunit organ...,686,74,36.99,0.00031,0.0217364705882353
+GO:0051026,chiasma assembly,16,7,0.86,0.00037,0.0254446153846154
+GO:0046939,nucleotide phosphorylation,67,7,3.61,0.00038,0.0256392452830189
+GO:0006040,amino sugar metabolic process,42,10,2.26,0.00040,0.0264888888888889
+GO:0022402,cell cycle process,479,47,25.83,0.00043,0.0276042105263158
+GO:1901990,regulation of mitotic cell cycle phase t...,49,10,2.64,0.00044,0.0276042105263158
+GO:0043467,regulation of generation of precursor me...,26,6,1.4,0.00044,0.0276042105263158
+GO:0090305,nucleic acid phosphodiester bond hydroly...,83,15,4.48,0.00045,0.0277448275862069
+GO:0016485,protein processing,58,11,3.13,0.00053,0.0321233898305085
+GO:0044085,cellular component biogenesis,1448,142,78.07,0.00062,0.036952
+GO:0009966,regulation of signal transduction,342,21,18.44,0.00065,0.0381049180327869
+GO:1901360,organic cyclic compound metabolic proces...,4755,331,256.38,0.00067,0.03855375
+GO:0048316,seed development,764,60,41.19,0.00068,0.03855375
+GO:0051052,regulation of DNA metabolic process,90,12,4.85,0.00069,0.03855375
+GO:0007005,mitochondrion organization,188,30,10.14,0.00071,0.0390609230769231
+GO:0010648,negative regulation of cell communicatio...,114,12,6.15,0.00079,0.042164776119403
+GO:0051321,meiotic cell cycle,186,22,10.03,0.00079,0.042164776119403
+GO:0090407,organophosphate biosynthetic process,335,30,18.06,0.00082,0.0431223529411765
+GO:0044282,small molecule catabolic process,245,27,13.21,0.00084,0.0435339130434783
+GO:0010109,regulation of photosynthesis,41,7,2.21,0.00086,0.0439337142857143
+GO:0023057,negative regulation of signaling,114,12,6.15,0.00093,0.04619
+GO:1905957,regulation of cellular response to alcoh...,122,12,6.58,0.00093,0.04619
+GO:0070192,chromosome organization involved in meio...,60,13,3.24,0.00095,0.0465369863013699
+GO:0045786,negative regulation of cell cycle,79,14,4.26,0.00099,0.04768
+GO:1905958,negative regulation of cellular response...,53,10,2.86,0.00100,0.04768
+GO:0016108,tetraterpenoid metabolic process,36,7,1.94,0.00106,0.0490553846153846
+GO:0007049,cell cycle,581,53,31.33,0.00106,0.0490553846153846
+GO:0090304,nucleic acid metabolic process,3842,266,207.15,0.00107,0.0490553846153846
+GO:0017004,cytochrome complex assembly,30,10,1.62,0.00110,0.0497924050632911

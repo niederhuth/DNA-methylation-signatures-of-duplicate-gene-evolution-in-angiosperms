@@ -1,0 +1,32 @@
+GO.ID,Term,Annotated,Significant,Expected,Fisher,fdr
+GO:0005488,binding,10089,696,516.2,4.8e-28,6.3984e-25
+GO:0140097,catalytic activity, acting on DNA,194,62,9.93,5.8e-26,3.8657e-23
+GO:0003824,catalytic activity,8219,572,420.53,4.7e-21,2.08836666666667e-18
+GO:0016817,hydrolase activity, acting on acid anhyd...,728,124,37.25,1.2e-16,3.999e-14
+GO:0140098,catalytic activity, acting on RNA,495,80,25.33,3.0e-13,7.998e-11
+GO:0003684,damaged DNA binding,41,17,2.1,2.2e-12,4.88766666666667e-10
+GO:0003688,DNA replication origin binding,19,9,0.97,2.1e-11,3.999e-09
+GO:0003697,single-stranded DNA binding,87,22,4.45,9.1e-11,1.5162875e-08
+GO:0003723,RNA binding,1599,179,81.81,5.4e-10,7.5981e-08
+GO:0030983,mismatched DNA binding,15,9,0.77,5.7e-10,7.5981e-08
+GO:0016887,ATPase activity,441,103,22.56,2.8e-08,3.39309090909091e-06
+GO:0004518,nuclease activity,253,37,12.94,3.5e-08,3.88791666666667e-06
+GO:0008094,DNA-dependent ATPase activity,106,46,5.42,7.9e-08,8.10053846153846e-06
+GO:0016787,hydrolase activity,2827,255,144.64,1.1e-07,1.04735714285714e-05
+GO:0051011,microtubule minus-end binding,10,7,0.51,3.2e-06,0.000284373333333333
+GO:0042162,telomeric DNA binding,29,7,1.48,5.2e-06,0.000433225
+GO:0051020,GTPase binding,50,12,2.56,5.8e-06,0.000454788235294118
+GO:0008270,zinc ion binding,613,55,31.36,1.8e-05,0.001333
+GO:0008237,metallopeptidase activity,86,16,4.4,2.4e-05,0.00168378947368421
+GO:0005253,anion channel activity,26,5,1.33,4.8e-05,0.0031992
+GO:0016888,endodeoxyribonuclease activity, producin...,14,8,0.72,5.2e-05,0.0033007619047619
+GO:0003712,transcription coregulator activity,166,9,8.49,5.6e-05,0.00339309090909091
+GO:2001070,starch binding,11,5,0.56,6.1e-05,0.00353534782608696
+GO:0035639,purine ribonucleoside triphosphate bindi...,601,61,30.75,9.0e-05,0.00499875
+GO:0016779,nucleotidyltransferase activity,160,22,8.19,0.00017,0.0090644
+GO:0016874,ligase activity,220,30,11.26,0.00028,0.0143553846153846
+GO:0004386,helicase activity,155,51,7.93,0.00044,0.021722962962963
+GO:0016627,oxidoreductase activity, acting on the C...,84,11,4.3,0.00047,0.0223753571428571
+GO:0008235,metalloexopeptidase activity,17,7,0.87,0.00052,0.0239020689655172
+GO:0140142,nucleocytoplasmic carrier activity,27,6,1.38,0.00054,0.023994
+GO:0003676,nucleic acid binding,3553,287,181.79,0.00059,0.02537

@@ -1,0 +1,4 @@
+GO.ID,Term,Annotated,Significant,Expected,Fisher,fdr
+GO:0051540,metal cluster binding,67,12,1.96,8.8e-08,0.000117304
+GO:0016853,isomerase activity,261,21,7.65,6.1e-06,0.00406565
+GO:0008810,cellulase activity,29,6,0.85,3.3e-05,0.014663

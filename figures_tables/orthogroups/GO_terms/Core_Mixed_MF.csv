@@ -1,0 +1,106 @@
+GO.ID,Term,Annotated,Significant,Expected,Fisher,fdr
+GO:0003824,catalytic activity,8219,3577,2900.67,1e-30,4.44333333333333e-28
+GO:0005488,binding,10089,4031,3560.64,1e-30,4.44333333333333e-28
+GO:0003723,RNA binding,1599,753,564.32,1e-30,4.44333333333333e-28
+GO:0003712,transcription coregulator activity,166,83,58.59,4.0e-18,1.333e-15
+GO:0003697,single-stranded DNA binding,87,58,30.7,2.5e-15,6.665e-13
+GO:0005215,transporter activity,1319,592,465.51,8.5e-14,1.88841666666667e-11
+GO:1901265,nucleoside phosphate binding,1108,514,391.04,6.8e-12,1.29491428571429e-09
+GO:0008047,enzyme activator activity,122,63,43.06,3.0e-10,4.99875e-08
+GO:0003688,DNA replication origin binding,19,17,6.71,5.7e-10,8.44233333333333e-08
+GO:0060589,nucleoside-triphosphatase regulator acti...,91,51,32.12,8.5e-10,1.13305e-07
+GO:0036094,small molecule binding,1338,629,472.21,1.1e-08,1.333e-06
+GO:0080031,methyl salicylate esterase activity,19,16,6.71,3.3e-08,3.38376923076923e-06
+GO:0080032,methyl jasmonate esterase activity,19,16,6.71,3.3e-08,3.38376923076923e-06
+GO:0097602,cullin family protein binding,29,26,10.23,4.2e-08,3.999e-06
+GO:0016740,transferase activity,3423,1608,1208.05,5.4e-08,4.7988e-06
+GO:0070279,vitamin B6 binding,99,63,34.94,1.4e-07,1.166375e-05
+GO:0008066,glutamate receptor activity,20,16,7.06,2.4e-07,1.88188235294118e-05
+GO:0016853,isomerase activity,261,153,92.11,4.5e-07,3.3325e-05
+GO:0000287,magnesium ion binding,132,83,46.59,1.4e-06,9.8221052631579e-05
+GO:0019842,vitamin binding,136,90,48,1.6e-06,0.00010664
+GO:0003735,structural constituent of ribosome,331,162,116.82,1.8e-06,0.000114257142857143
+GO:0016614,oxidoreductase activity, acting on CH-OH...,213,105,75.17,5.0e-06,0.000302954545454545
+GO:0010857,calcium-dependent protein kinase activit...,47,35,16.59,7.3e-06,0.000423082608695652
+GO:0015932,nucleobase-containing compound transmemb...,86,58,30.35,8.1e-06,0.0004498875
+GO:0022836,gated channel activity,96,52,33.88,1.1e-05,0.00058652
+GO:0008173,RNA methyltransferase activity,65,49,22.94,1.2e-05,0.000615230769230769
+GO:0044390,ubiquitin-like protein conjugating enzym...,56,41,19.76,1.5e-05,0.000740555555555556
+GO:0009975,cyclase activity,42,32,14.82,1.6e-05,0.000761714285714286
+GO:0008238,exopeptidase activity,88,57,31.06,2.6e-05,0.00119510344827586
+GO:0008417,fucosyltransferase activity,17,16,6,2.8e-05,0.00124413333333333
+GO:0030170,pyridoxal phosphate binding,99,63,34.94,3.1e-05,0.001333
+GO:0071617,lysophospholipid acyltransferase activit...,11,11,3.88,3.4e-05,0.0014163125
+GO:0016829,lyase activity,344,186,121.41,3.8e-05,0.0015349696969697
+GO:0140104,molecular carrier activity,27,20,9.53,4.5e-05,0.00176426470588235
+GO:0016866,intramolecular transferase activity,64,51,22.59,4.7e-05,0.00179002857142857
+GO:0050897,cobalt ion binding,53,36,18.7,5.6e-05,0.00207355555555556
+GO:0009931,calcium-dependent protein serine/threoni...,47,35,16.59,6.9e-05,0.00242044736842105
+GO:0016667,oxidoreductase activity, acting on a sul...,121,63,42.7,6.9e-05,0.00242044736842105
+GO:0004298,threonine-type endopeptidase activity,10,10,3.53,8.1e-05,0.00276853846153846
+GO:0008649,rRNA methyltransferase activity,26,23,9.18,9.8e-05,0.00326585
+GO:1901505,carbohydrate derivative transmembrane tr...,93,59,32.82,0.00011,0.00357634146341463
+GO:0005048,signal sequence binding,50,32,17.65,0.00013,0.00393840909090909
+GO:0019783,ubiquitin-like protein-specific protease...,13,12,4.59,0.00013,0.00393840909090909
+GO:0140102,catalytic activity, acting on a rRNA,27,23,9.53,0.00013,0.00393840909090909
+GO:0022804,active transmembrane transporter activit...,497,253,175.4,0.00016,0.00473955555555556
+GO:0030234,enzyme regulator activity,457,132,161.29,0.00018,0.00510510638297872
+GO:0016817,hydrolase activity, acting on acid anhyd...,728,343,256.93,0.00018,0.00510510638297872
+GO:0045182,translation regulator activity,116,60,40.94,0.00020,0.00555416666666667
+GO:0015276,ligand-gated ion channel activity,32,25,11.29,0.00023,0.0061318
+GO:0000217,DNA secondary structure binding,41,22,14.47,0.00023,0.0061318
+GO:0004683,calmodulin-dependent protein kinase acti...,47,34,16.59,0.00024,0.00627294117647059
+GO:0042578,phosphoric ester hydrolase activity,387,179,136.58,0.00026,0.00653924528301887
+GO:0031418,L-ascorbic acid binding,18,17,6.35,0.00026,0.00653924528301887
+GO:0140223,general transcription initiation factor ...,21,12,7.41,0.00032,0.00789925925925926
+GO:0010385,double-stranded methylated DNA binding,8,7,2.82,0.00034,0.00824036363636364
+GO:0005347,ATP transmembrane transporter activity,16,14,5.65,0.00037,0.00880732142857143
+GO:0001016,RNA polymerase III transcription regulat...,5,5,1.76,0.00039,0.00912052631578947
+GO:0008276,protein methyltransferase activity,71,47,25.06,0.00052,0.0117748333333333
+GO:0080030,methyl indole-3-acetate esterase activit...,36,18,12.71,0.00053,0.0117748333333333
+GO:0016741,transferase activity, transferring one-c...,262,149,92.47,0.00053,0.0117748333333333
+GO:0043167,ion binding,2878,1223,1015.71,0.00055,0.0120188524590164
+GO:0016838,carbon-oxygen lyase activity, acting on ...,40,29,14.12,0.00057,0.012255
+GO:0005516,calmodulin binding,171,90,60.35,0.00060,0.0126952380952381
+GO:0031543,peptidyl-proline dioxygenase activity,16,14,5.65,0.00064,0.01333
+GO:0008327,methyl-CpG binding,20,14,7.06,0.00073,0.0149216417910448
+GO:0140098,catalytic activity, acting on RNA,495,250,174.7,0.00075,0.0149216417910448
+GO:0022834,ligand-gated channel activity,32,25,11.29,0.00075,0.0149216417910448
+GO:0008252,nucleotidase activity,12,11,4.24,0.00079,0.0154550724637681
+GO:0016776,phosphotransferase activity, phosphate g...,31,24,10.94,0.00080,0.0154550724637681
+GO:0031386,protein tag,33,21,11.65,0.00084,0.015996
+GO:0000992,RNA polymerase III cis-regulatory region...,5,5,1.76,0.00087,0.0163339436619718
+GO:0005198,structural molecule activity,450,191,158.82,0.00090,0.0166625
+GO:0008270,zinc ion binding,613,280,216.34,0.00093,0.0169820547945205
+GO:0003973,(S)-2-hydroxy-acid oxidase activity,7,7,2.47,0.00095,0.0171128378378378
+GO:0090079,translation regulator activity, nucleic ...,112,57,39.53,0.00100,0.0177148684210526
+GO:0004674,protein serine/threonine kinase activity,549,259,193.75,0.00101,0.0177148684210526
+GO:0008477,purine nucleosidase activity,5,5,1.76,0.00103,0.017831038961039
+GO:0015086,cadmium ion transmembrane transporter ac...,13,11,4.59,0.00116,0.019573164556962
+GO:0031490,chromatin DNA binding,44,22,15.53,0.00116,0.019573164556962
+GO:0097367,carbohydrate derivative binding,846,380,298.57,0.00123,0.0202418518518519
+GO:0016615,malate dehydrogenase activity,16,14,5.65,0.00123,0.0202418518518519
+GO:0005085,guanyl-nucleotide exchange factor activi...,17,10,6,0.00129,0.0209703658536585
+GO:0003841,1-acylglycerol-3-phosphate O-acyltransfe...,6,6,2.12,0.00156,0.0250539759036145
+GO:0061630,ubiquitin protein ligase activity,249,127,87.88,0.00160,0.0253904761904762
+GO:0015217,ADP transmembrane transporter activity,14,12,4.94,0.00164,0.0257190588235294
+GO:0016624,oxidoreductase activity, acting on the a...,12,10,4.24,0.00168,0.02604
+GO:0033743,peptide-methionine (R)-S-oxide reductase...,9,9,3.18,0.00182,0.0278857471264368
+GO:0016634,oxidoreductase activity, acting on the C...,12,9,4.24,0.00188,0.0284777272727273
+GO:0019205,nucleobase-containing compound kinase ac...,40,28,14.12,0.00193,0.0289066292134831
+GO:0030246,carbohydrate binding,177,90,62.47,0.00198,0.0291502197802198
+GO:0022890,inorganic cation transmembrane transport...,382,191,134.82,0.00199,0.0291502197802198
+GO:0010428,methyl-CpNpG binding,8,8,2.82,0.00208,0.0298133333333333
+GO:0010429,methyl-CpNpN binding,8,8,2.82,0.00208,0.0298133333333333
+GO:0047259,glucomannan 4-beta-mannosyltransferase a...,8,6,2.82,0.00223,0.0316232978723404
+GO:0061659,ubiquitin-like protein ligase activity,252,128,88.94,0.00228,0.031992
+GO:0004020,adenylylsulfate kinase activity,8,8,2.82,0.00236,0.0327695833333333
+GO:0140096,catalytic activity, acting on a protein,2342,1077,826.55,0.00241,0.0331188659793814
+GO:0004518,nuclease activity,253,119,89.29,0.00244,0.0331889795918367
+GO:0052793,pectin acetylesterase activity,12,8,4.24,0.00256,0.034469494949495
+GO:0016790,thiolester hydrolase activity,47,28,16.59,0.00320,0.0423656435643564
+GO:0080107,8-methylthiopropyl glucosinolate S-oxyge...,5,5,1.76,0.00321,0.0423656435643564
+GO:0016744,transferase activity, transferring aldeh...,11,10,3.88,0.00326,0.0426037254901961
+GO:0019899,enzyme binding,402,188,141.87,0.00358,0.0463314563106796
+GO:0004784,superoxide dismutase activity,8,6,2.82,0.00386,0.0492575238095238
+GO:0140323,solute:anion antiporter activity,34,24,12,0.00388,0.0492575238095238
