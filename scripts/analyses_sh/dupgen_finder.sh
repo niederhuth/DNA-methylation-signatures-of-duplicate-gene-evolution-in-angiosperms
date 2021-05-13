@@ -75,7 +75,7 @@ do
         sed '1d' $i | awk -v b=$a -v OFS="\t" '{ print $1,b }' >> classified_genes.tsv
 done
 cut -f1 classified_genes.tsv > tmp
-fgrep -v -f tmp "$sample".gff.sorted > tmp2
+fgrep -w -v -f tmp "$sample".gff.sorted > tmp2
 awk -v OFS="\t" '{ print $1,"unclassified" }' tmp2 >> classified_genes.tsv
 rm tmp tmp2
 
