@@ -1,5 +1,10 @@
 library(scales)
 library(ggplot2)
+library(stats)
+library(gplots)
+library(pheatmap)
+library(RColorBrewer)
+library(dplyr)
 
 species = c("Aduranensis", "Aipaensis", "Alyrata","Athaliana","Atrichopoda",
             "Bdistachyon","Boleracea","Brapa","Bvulgaris","Cclementina","Cpapaya",
@@ -17,7 +22,8 @@ for(i in species){
 	path3 <- paste("../figures_tables/",i,"/",sep="")
 	df1 <- read.table(paste(path1,"_classified_genes.tsv",sep=""),
 		header=TRUE,sep="\t")[c("Feature","Classification")]
-	df1 <- df1[df1$Classification != "Unclassified",]
+	df1$Classification <- gsub("Unmethylated","unM",df1$Classification)
+	df1 <- df1[df1$Classification %in% c("gbM","teM","unM"),]
 	df2 <- read.table(paste(path2,"classified_genes.tsv",sep=""),header=TRUE,sep="\t")
 	df2 <- df2[df2$Duplication != "unclassified" & df2$Duplication != "singletons",]
 	df3 <- read.table(paste(path1,"_TE_intersections.tsv",sep=""),header=TRUE,sep="\t")
@@ -41,27 +47,48 @@ for(i in species){
 	df8 <- rbind(df8,data.frame(Species=i,data.frame(table(df5$Classification,df5$TE2))))
 	colnames(df8) <- c("Species","Classification","TE_Presence","Gene_Count")
 	for(x in unique(df7$Classification)){
-		df9 <- rbind(df9,data.frame(Species=i,Classification=x,Duplicate.1=gsub("-.*","",x),
-			Duplicate.2=gsub(".*-","",x),table(df7[df7$Classification == x,c(12,17)])))
+		if(nrow(data.frame(table(df7[df7$Classification == x,c(12,17)]))) == 4){
+			df9 <- rbind(df9,data.frame(Species=i,Classification=x,Duplicate.1=gsub("-.*","",x),
+				Duplicate.2=gsub(".*-","",x),table(df7[df7$Classification == x,c(12,17)])))
+		} else {
+			tmp <- data.frame(Species=i,Classification=x,Duplicate.1=gsub("-.*","",x),
+					Duplicate.2=gsub(".*-","",x),table(df7[df7$Classification == x,c(12,17)]))
+			if(nrow(tmp[tmp$TE2.x == 0 & tmp$TE2.y == 0,]) == 0){
+				tmp <- rbind(tmp,data.frame(Species=i,Classification=x,Duplicate.1=gsub("-.*","",x),
+					Duplicate.2=gsub(".*-","",x),TE2.x=as.factor(0),TE2.y=as.factor(0),Freq=0))
+			} 
+			if(nrow(tmp[tmp$TE2.x == 1 & tmp$TE2.y == 0,]) == 0){
+				tmp <- rbind(tmp,data.frame(Species=i,Classification=x,Duplicate.1=gsub("-.*","",x),
+					Duplicate.2=gsub(".*-","",x),TE2.x=as.factor(1),TE2.y=as.factor(0),Freq=0))
+			}
+			if(nrow(tmp[tmp$TE2.x == 0 & tmp$TE2.y == 1,]) == 0){
+				tmp <- rbind(tmp,data.frame(Species=i,Classification=x,Duplicate.1=gsub("-.*","",x),
+					Duplicate.2=gsub(".*-","",x),TE2.x=as.factor(0),TE2.y=as.factor(1),Freq=0))
+			}
+			if(nrow(tmp[tmp$TE2.x == 0 & tmp$TE2.y == 1,]) == 0){
+				tmp <- rbind(tmp,data.frame(Species=i,Classification=x,Duplicate.1=gsub("-.*","",x),
+					Duplicate.2=gsub(".*-","",x),TE2.x=as.factor(1),TE2.y=as.factor(1),Freq=0))
+			}
+			df9 <- rbind(df9,tmp)
+		}
 	}
 	p <- ggplot(df8) +
 	  geom_bar(aes(x=Classification,y=Gene_Count,fill=TE_Presence),stat="identity", position = "dodge") +
 	  theme_bw() +
 	  scale_y_continuous("Number of genes", expand=c(0.01,0.01)) +
 	  scale_fill_discrete(name = "Transposons", labels = c("Absent", "Present"))
-	
 	q <- ggplot(df8) +
 	  geom_bar(aes(x=Classification,y=Gene_Count,fill=TE_Presence),stat="identity", position = "fill") +
 	  theme_bw() +
 	  scale_y_continuous("Percent genes", expand=c(0.01,0.01), labels = percent) +
 	  scale_fill_discrete(name = "Transposons", labels = c("Absent", "Present"))
-	ggsave(paste(path3,"/",i,"_TE_integration_dodge.pdf",sep=""),p,device="pdf", width = 4, height = 3)
-	ggsave(paste(path3,"/",i,"_TE_integration_percent.pdf",sep=""),q,device="pdf", width = 4, height = 3)
-	#write.csv(df8,paste(path3,i,"_TE_integration.csv",sep=""),quote=FALSE,row.names=FALSE)
+	ggsave(paste(path3,"/",i,"_TE_intersection_dodge.pdf",sep=""),p,device="pdf", width = 4, height = 3)
+	ggsave(paste(path3,"/",i,"_TE_intersection_percent.pdf",sep=""),q,device="pdf", width = 4, height = 3)
+	write.csv(df8,paste(path3,i,"_TE_intersection.csv",sep=""),quote=FALSE,row.names=FALSE)
 	colnames(df9) <- c("Species","Classification","Duplicate.1","Duplicate.2"
 						,"Duplicate.1_TE_presence","Duplicate.2_TE_presence","Gene_Count")
-	df10 <- df9[df9$Species==i,]
 	#df10 will have all the 1-0 genes for gbM-gbM, unM-unM, and teM-teM set to 0-1
+	df10 <- df9
 	df10[df10$Duplicate.1==df10$Duplicate.2 & df10$Duplicate.1_TE_presence==0 & 
 		df10$Duplicate.2_TE_presence==1,]$Gene_Count <- df10[df10$Duplicate.1==df10$Duplicate.2 & 
 			df10$Duplicate.1_TE_presence==0 & df10$Duplicate.2_TE_presence==1,]$Gene_Count + 
@@ -75,7 +102,7 @@ for(i in species){
 									df10$Classification==df10[x,]$Classification,]$Gene_Count)
 	}
 	df10$TE_Group <- paste(df10$Duplicate.1_TE_presence,df10$Duplicate.2_TE_presence,sep="-")
-	#write.csv(df10,paste(path3,i,"_TE_integration_AllClassification.csv",sep=""),quote=FALSE,row.names=FALSE)
+	write.csv(df10,paste(path3,i,"_TE_intersection_classification.csv",sep=""),quote=FALSE,row.names=FALSE)
 	df11 <- rbind(df11,df10)
 	df12 <- merge(df5,df6,by.x="Feature",by.y="Duplicate.1")
 	df13 <- merge(df5,df6,by.x="Feature",by.y="Duplicate.2")
@@ -89,7 +116,7 @@ for(i in species){
 	}
 	df16 <- df16[df16$Gene_Percent != "NaN",]
 	colnames(df16) <- c("Species","Methylation","TE_Presence","Duplicate_Methylation","Gene_Count","Gene_Percent")
-	write.csv(df16,paste(path3,i,"_TE_integration_switching.csv",sep=""),quote=FALSE,row.names=FALSE)
+	write.csv(df16,paste(path3,i,"_TE_intersection_switching.csv",sep=""),quote=FALSE,row.names=FALSE)
 	df17 <- rbind(df17,df16)
 	#Plot df16
 	for(x in c("gbM","unM","teM")){
@@ -101,64 +128,72 @@ for(i in species){
 		  scale_fill_discrete(name = "Transposons", labels = c("Absent", "Present"))
 		#Save the plot
 		ggsave(paste(path3,i,"_",x,"_TE_presence-fill.pdf",sep=""),p, width = 4, height = 3)
-	} #End loop	
+	}
 }
-write.csv(df11, "../figures_tables/All_TE_integration_AllClassification.csv",quote=FALSE,row.names=FALSE)
-write.csv(df17, "../figures_tables/All_TE_integration_Switching.csv",quote=FALSE,row.names=FALSE)
-
-
-
-#### making a table for all species ####
-
-df20 <- read.csv("../figures_tables/All_TE_Integration.csv") # this could be improved, but for now, I create an empty 
-# ouptut file and add all files into this
-for (a in species){
-  path <- paste("../figures_tables/",a,"/", a,"_TE_integration.csv",sep="")
-  df21 <- read.csv(path, header=TRUE)
-  df20 <- rbind(df20, df21)
+#save tables
+path4 <- "../figures_tables/TE_intersections/"
+if(!file.exists(path4)){
+	dir.create(path4)
 }
-#write.csv(df20, file ="../figures_tables/All_TE_Integration.csv")
+write.csv(df11,paste(path4,"All_TE_intersection_classification.csv",sep=""),quote=FALSE,row.names=FALSE)
+write.csv(df17,paste(path4,"All_TE_intersection_switching.csv",sep=""),quote=FALSE,row.names=FALSE)
 
-alltables <- read.table("../figures_tables/TE_Integration_Contigency3_unM.txt", header = TRUE)
-data <- apply(alltables,1, function(x) fisher.test(matrix(x,nr=2), alternative ="two.sided")$p.value)
-write.csv(data, file ="TE_Int3_Fisher_pvalue.csv") 
-
-data <- apply(alltables,1, function(x) fisher.test(matrix(x,nr=2), alternative ="two.sided")$estimate) #getting odds ratio
-write.csv(data, file ="TE_int3_Fisher_estimate.csv")
-
-data <- apply(alltables,1, function(x) fisher.test(matrix(x,nr=2), alternative ="two.sided")$conf.int) #getting confidence interval ratio
-write.csv(data, file ="TE_int3_Fisher_confint.csv")
-
-
-#Multiple test correction using BH
-
-q <- read.csv("TE_int3_Fisher_pvalue.csv")
-p <- q[,2]
-BH <- p.adjust(p, method = "BH", n = length(p))
-
-tmp <- read.csv("TE_int3_Fisher_pvalue.csv")
-tmp <- cbind(tmp, BH)
-write.csv(tmp, "TE_int3_Fisher_pvalue_BH.csv")
-
-#### TE-Integration switching ####
-
-df23 <- read.csv("../figures_tables/All_TE_integration_switching.csv") # this could be improved, but for now, I create an empty 
-# ouptut file and add all files into this
-for (a in species){
-  path <- paste("../figures_tables/", a,"/", a,"_TE_integration_switching.csv",sep="")
-  df24 <- read.csv(path, header=TRUE)
-  df23 <- rbind(df23, df24)
+df17$p.value <- df17$OR <- NA
+for(i in c(1:nrow(df17))){
+	tmp <- fisher.test(matrix(c(
+				sum(df17[df17$Species==df17[i,]$Species & df17$Methylation==df17[i,]$Methylation & df17$TE_Presence==1,]$Gene_Count),
+				sum(df17[df17$Species==df17[i,]$Species & df17$Methylation != df17[i,]$Methylation & df17$TE_Presence==1,]$Gene_Count),
+				sum(df17[df17$Species==df17[i,]$Species & df17$Methylation==df17[i,]$Methylation & df17$TE_Presence==0,]$Gene_Count),
+				sum(df17[df17$Species==df17[i,]$Species & df17$Methylation != df17[i,]$Methylation & df17$TE_Presence==0,]$Gene_Count)
+			),c(2,2)),alternative ="two.sided")
+	df17[i,]$OR <- tmp$estimate
+	df17[i,]$p.value <- tmp$p.value
 }
-write.csv(df23, file ="../figures_tables/All_TE_integration_switching.csv")
 
-#To make a big multiple faceted figure
+df18 <-data.frame()
+for(a in species){
+	for(b in c("gbM","unM","teM")){
+		df18 <- rbind(df18,data.frame(Species=a,Methylation=b,
+			OR=unique(df17[df17$Species==a & df17$Methylation==b,]$OR),
+			p.value=unique(df17[df17$Species==a & df17$Methylation==b,]$p.value)))
+	}
+}
+df18$p.adjust <- p.adjust(df18$p.value,method="BH")
+write.csv(df18,paste(path4,"TE_enrichment.csv",sep=""),quote=FALSE,row.names=FALSE)
 
-df11 <- read.csv("../figures_tables/All_TE_integration_Switching.csv") # manually modified to change the order of species using Slno
-df11$TE_Presence <- as.factor(df11$TE_Presence)
-df12 <- subset(df11, Methylation=="unM") # Change methylation types for the three classification
-p <- ggplot(df12, aes(fill=TE_Presence, y=Gene_Count, x=reorder(Species, Slno))) + 
-  geom_bar(position="fill", stat="identity") +   #position=fill gives percentage, position=stack gives stacked number barplot
-  theme_bw() +
-  scale_fill_discrete(name = "Transposons", labels = c("Absent", "Present")) +
-  scale_y_continuous("Percentage of genes",expand=c(0,0),labels=percent) #y-axis shows % rather than numbers
-p + facet_wrap(~Duplicate_Methylation, scales="free", nrow =3)
+#Make tables for heatmap
+#If starting from table, then start from next line
+df18 <- read.csv(paste(path4,"TE_enrichment.csv",sep=""),header=TRUE,row.names=1)
+df20 <- df19 <-data.frame()
+for(a in species){
+	df19 <- rbind(df19,data.frame(Species=a,gbM=df18[df18$Species==a & df18$Methylation=="gbM",]$OR,
+		unM=df18[df18$Species==a & df18$Methylation=="unM",]$OR,
+		teM=df18[df18$Species==a & df18$Methylation=="teM",]$OR))
+	df20 <- rbind(df20,data.frame(Species=a,gbM=df18[df18$Species==a & df18$Methylation=="gbM",]$p.adjust,
+		unM=df18[df18$Species==a & df18$Methylation=="unM",]$p.adjust,
+		teM=df18[df18$Species==a & df18$Methylation=="teM",]$p.adjust))
+}
+rownames(df19) <- df19$Species
+rownames(df20) <- df20$Species
+df20$gbM <- ifelse(df20$gbM < 0.05,NA,"NS")
+df20$unM <- ifelse(df20$unM < 0.05,NA,"NS")
+df20$teM <- ifelse(df20$teM < 0.05,NA,"NS")
+df20$order <- df19$order <- c(35,34,20,19,1,5,23,22,40,14,17,26,27,18,28,13,2,21,32,33,37,
+	16,38,3,31,24,43,39,4,11,29,25,10,36,30,7,8,41,42,9,15,12,6)
+df19 <- arrange(df19,order)
+df20 <- arrange(df20,order)
+#TE Enrichment Heatmap
+pdf(paste(path4,"TE_enrichment.pdf",sep=""))
+heatmap.2(as.matrix(df19[,c(2:4)]), 
+          dendrogram='none', 
+          cellnote=as.matrix(df20[,c(2:4)]), notecol="black", notecex = 0.75,
+          Rowv=FALSE, Colv= FALSE, key = FALSE,      
+          breaks = c(0, 0.25, 0.375, 0.5, 0.625, 0.75, 0.875, 1.00, 1.25, 1.375, 1.5, 1.625, 1.75, 1.875, 2),
+          density.info = "none", trace ="none", 
+          sepcolor = TRUE,
+          srtCol=60, cexRow = 1, cexCol = 1, offsetCol = FALSE,
+          col = cm.colors(14), margins=c(6,8))
+dev.off()
+
+
+
