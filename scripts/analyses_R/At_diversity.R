@@ -6,16 +6,13 @@
 library(ggplot2)
 library(Cairo)
 
-#setwd("~/Dropbox/ANALYSIS/GeneDuplication_V2/data/Athaliana")
-setwd("C:/Users/kench/Dropbox/ANALYSIS/GeneDuplication_V2/data/Athaliana") #new Laptop
-
-df <- read.table("methylpy/results/Athaliana_classified_genes.tsv",header=T,
+df1 <- read.table("Athaliana/methylpy/results/Athaliana_classified_genes.tsv",header=T,
 	sep="\t")[c("Feature","Classification")]
-df2 <- read.table("dupgen/results-unique/classified_genes.tsv",header=T,sep="\t")
-df3 <- merge(df,df2,by="Feature")
+df2 <- read.table("Athaliana/dupgen/results-unique/classified_genes.tsv",header=T,sep="\t")
+df3 <- merge(df1,df2,by="Feature")
 
 #Read in the table of 928 accessions
-df4 <- read.table("methylpy/results/At_variation.tsv",header=TRUE,sep="\t")
+df4 <- read.table("Athaliana/methylpy/results/At_variation.tsv",header=TRUE,sep="\t")
 #Convert "NAs" to "Missing"
 df4[is.na(df4)] <- "Missing"
 #Create an empty dataframe to summarize methylation frequencies
@@ -64,7 +61,7 @@ df6$unMgroup <- ifelse(df6$p_unM < 0.5, 3, df6$unMgroup)
 df6$unMgroup <- ifelse(df6$p_unM < 0.25, 2, df6$unMgroup)
 df6$unMgroup <- ifelse(is.na(df6$p_unM), 1, df6$unMgroup)
 #Read in KaKs values from KaKs.R script
-df7 <- read.csv("../../figures_tables/Athaliana/Athaliana_KaKs_duplicatePair.csv",header=TRUE, check.names = F)
+df7 <- read.csv("../figures_tables/Athaliana/Athaliana_KaKs_duplicatePair.csv",header=TRUE, check.names = F)
 #Merge files
 df8 <- merge(df6,df7,by="Feature",all=TRUE)
 #Create new df of only duplicate pairs
