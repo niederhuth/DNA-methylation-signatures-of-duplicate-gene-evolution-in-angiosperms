@@ -62,23 +62,25 @@ for(a in species){
 	}
 	write.csv(df9,paste(path1,"/",a,"_kaks_values.csv",sep=""),row.names=FALSE,quote=FALSE)
 	#Perform K-S test on each distribution
-	for(c in c("gbM-gbM","gbM-teM","gbM-unM","unM-unM","unM-teM","teM-teM")){
-		if(nrow(df9[df9$Classification == c,]) != 0){
-			tmp <- ks.test(df9[df9$Classification == c,]$Ks,
-					sample(df9$Ks,size=nrow(df9[df9$Classification == c,]),replace=FALSE))
-			Ks <- rbind(Ks,data.frame(Species=a,Duplication=b,Methylation=c,
+	for(b in c("wgd","proximal","dispersed","tandem","transposed")){
+		for(c in c("gbM-gbM","gbM-teM","gbM-unM","unM-unM","unM-teM","teM-teM")){
+			if(nrow(df9[df9$Classification == c,]) != 0){
+				tmp <- ks.test(df9[df9$Classification == c,]$Ks,
+						sample(df9$Ks,size=nrow(df9[df9$Classification == c,]),replace=FALSE))
+				Ks <- rbind(Ks,data.frame(Species=a,Duplication=b,Methylation=c,
+											D.statistic=tmp$stat,p.value=tmp$p.value))
+				tmp <- ks.test(df9[df9$Classification == c,]$Ka.Ks,
+						sample(df9$Ka.Ks,size=nrow(df9[df9$Classification == c,]),replace=FALSE))
+				KaKs <- rbind(KaKs,data.frame(Species=a,Duplication=b,Methylation=c,
 										D.statistic=tmp$stat,p.value=tmp$p.value))
-			tmp <- ks.test(df9[df9$Classification == c,]$Ka.Ks,
-					sample(df9$Ka.Ks,size=nrow(df9[df9$Classification == c,]),replace=FALSE))
-			KaKs <- rbind(KaKs,data.frame(Species=a,Duplication=b,Methylation=c,
-										D.statistic=tmp$stat,p.value=tmp$p.value))
-		} else {
-			Ks <- rbind(Ks,data.frame(Species=a,Duplication=b,Methylation=c,
-										D.statistic=NA,p.value=NA))
-			KaKs <- rbind(KaKs,data.frame(Species=a,Duplication=b,Methylation=c,
-										D.statistic=NA,p.value=NA))
+			} else {
+				Ks <- rbind(Ks,data.frame(Species=a,Duplication=b,Methylation=c,
+											D.statistic=NA,p.value=NA))
+				KaKs <- rbind(KaKs,data.frame(Species=a,Duplication=b,Methylation=c,
+											D.statistic=NA,p.value=NA))
+			}
 		}
-	}
+	}	
 
 	#remove duplicates with undetermined similarity
 	df10 <- df9[df9$Similarity != "Undetermined",]

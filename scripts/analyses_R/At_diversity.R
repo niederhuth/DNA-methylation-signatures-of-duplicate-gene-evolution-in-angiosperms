@@ -1,4 +1,3 @@
-
 ##############################
 #   plots from methylome data (928 Arabidopsis accesions) 
 ##############################
@@ -18,8 +17,8 @@ df4[is.na(df4)] <- "Missing"
 #Create an empty dataframe to summarize methylation frequencies
 df5 <- data.frame(Feature=character(),gbM=numeric(),teM=numeric(),unM=numeric(),
 	Unclassified=numeric(),Missing=numeric())
-#Loop over every gene in 
-for(i in c(1:nrow(df))){df[i,]
+#Loop over every gene in df1 to build frequency table
+for(i in c(1:nrow(df1))){df1[i,]
 	#create a temporary dataframe after tabling the classifications in df4
 	x <- as.data.frame(table(t(df4[i,])))
 	#add these values to each column in df5, if that value is not present, set to "NA"
