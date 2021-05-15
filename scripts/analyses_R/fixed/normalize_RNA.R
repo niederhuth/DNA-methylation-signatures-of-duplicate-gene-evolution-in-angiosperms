@@ -1,6 +1,7 @@
 #Script for normalizing count data and combining replicates
 
 library(DESeq2)
+library(reshape2)
 
 species=c("Athaliana","Gmax","Pvulgaris","Sbicolor")
 
