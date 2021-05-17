@@ -44,25 +44,20 @@ for( a in species){
 	}
 	TE_path <- paste(a,"/methylpy/results/",a,"_TE_gene_distribution.tsv",sep="")
 	TE_path2 <- paste(a,"/methylpy/results/",a,"_TE_gene_distribution_duplicates.tsv",sep="")
-	#met_path <- paste(a,"/methylpy/results/", a,"_MetClassified_genes.csv",sep="")
-	#met_path2 <- paste(a,"/methylpy/results/",sep="")
 
 	#All Genes
 	df1 <- read.table(TE_path, header = TRUE)
-	#df1$Chr <-paste(df1$Chr, df1$Window, sep="_")  # combines columns Chr and Window sepreated by "_" 
-													# and merges it into the Chr column
-	df2 <- subset(df1, select = -c(Chr, Window))	# Removing columns Chr and Window
+	df2 <- subset(df1,select = -c(Chr,Window))		# Removing columns Chr and Window
 													# not needed for the correlation matrix
 
 	cor_3 <- rcorr(as.matrix(df2), type = "pearson")  #Pearson correlations
 	my_cor_matrix <- flat_cor_mat(cor_3$r, cor_3$P)
 	my_cor_matrix$sps <- a
 
-	write.csv(my_cor_matrix, file =(paste(saving,"/", a, "_TE_PearsonCorr.csv", sep="")))
+	write.csv(my_cor_matrix, file =(paste(saving,"/",a,"_TE_PearsonCorr.csv",sep="")))
 	all_cor <- rbind(all_cor,as.data.frame(my_cor_matrix))
 
-	df3 <- df2[,1:6]
-	df3 <- df3[, -1]
+	df3 <- df2[,2:6]
 
 	cor_4 <- rcorr(as.matrix(df3))  # unclassified is removed
 	my_cor_matrix <- flat_cor_mat(cor_4$r, cor_4$P)
@@ -71,8 +66,8 @@ for( a in species){
 	p_mat <- cor_4$P
 	test <- cor_4$r
 
-	colnames(test) = c("TEs", "TE-nucleotides", "gbM genes", "teM genes", "UnM genes")
-	rownames(test) = c("TEs", "TE-nucleotides", "gbM genes", "teM genes", "UnM genes")
+	colnames(test) <- c("TEs","TE-nucleotides","gbM genes","teM genes","UnM genes")
+	rownames(test) <- c("TEs","TE-nucleotides","gbM genes","teM genes","UnM genes")
 
 	pdf(file = paste(saving,"/",a,"_TE_correlations_6x6.pdf", sep=""), width = 6, height = 6)
 	col <- colorRampPalette(c("#BB4444", "#EE9988", "#FFFFFF", "#77AADD", "#4477AA"))
@@ -82,35 +77,32 @@ for( a in species){
 
 	#Duplicate Genes
 	df1 <- read.table(TE_path2, header = TRUE)
-	#df1$Chr <-paste(df1$Chr, df1$Window, sep="_")  # combines columns Chr and Window sepreated by "_" 
-													# and merges it into the Chr column
-	df2 <- subset(df1, select = -c(Chr, Window))	# Removing columns Chr and Window
+	df2 <- subset(df1,select = -c(Chr,Window))		# Removing columns Chr and Window
 													# not needed for the correlation matrix
 
 	cor_3 <- rcorr(as.matrix(df2), type = "pearson")  #Pearson correlations
-	my_cor_matrix <- flat_cor_mat(cor_3$r, cor_3$P)
-	my_cor_matrix$sps <- a
+	my_cor_matrix2 <- flat_cor_mat(cor_3$r, cor_3$P)
+	my_cor_matrix2$sps <- a
 
-	write.csv(my_cor_matrix, file =(paste(saving,"/", a, "_TE_PearsonCorr_duplicates.csv", sep="")))
-	all_cor2 <- rbind(all_cor,as.data.frame(my_cor_matrix))
+	write.csv(my_cor_matrix2,file=(paste(saving,"/",a,"_TE_PearsonCorr_duplicates.csv",sep="")))
+	all_cor2 <- rbind(all_cor2,as.data.frame(my_cor_matrix2))
 
-	df3 <- df2[,1:6]
-	df3 <- df3[, -1]
+	df3 <- df2[,2:6]
 
 	cor_4 <- rcorr(as.matrix(df3))  # unclassified is removed
-	my_cor_matrix <- flat_cor_mat(cor_4$r, cor_4$P)
+	my_cor_matrix2 <- flat_cor_mat(cor_4$r, cor_4$P)
 
 	# Making correlation plots for individual species for supplemental figure.
 	p_mat <- cor_4$P
 	test <- cor_4$r
 
-	colnames(test) = c("TEs", "TE-nucleotides", "gbM genes", "teM genes", "UnM genes")
-	rownames(test) = c("TEs", "TE-nucleotides", "gbM genes", "teM genes", "UnM genes")
+	colnames(test) <- c("TEs","TE-nucleotides","gbM genes","teM genes","UnM genes")
+	rownames(test) <- c("TEs","TE-nucleotides","gbM genes","teM genes","UnM genes")
 
-	pdf(file = paste(saving,"/",a,"_TE_correlations_duplicates_6x6.pdf", sep=""), width = 6, height = 6)
-	col <- colorRampPalette(c("#BB4444", "#EE9988", "#FFFFFF", "#77AADD", "#4477AA"))
-	corrplot(test, method = "color", col = col(20), type = "upper", tl.col = "darkblue", 
-		tl.srt = 45, p.mat = p_mat, sig.level = 0.001)
+	pdf(file = paste(saving,"/",a,"_TE_correlations_duplicates_6x6.pdf",sep=""),width=6,height=6)
+	col <- colorRampPalette(c("#BB4444","#EE9988","#FFFFFF","#77AADD","#4477AA"))
+	corrplot(test,method="color",col=col(20),type="upper",tl.col="darkblue", 
+		tl.srt=45,p.mat=p_mat,sig.level=0.001)
 	dev.off()
 }
 all_cor$p.adjust <- p.adjust(all_cor$p,method="BH")
