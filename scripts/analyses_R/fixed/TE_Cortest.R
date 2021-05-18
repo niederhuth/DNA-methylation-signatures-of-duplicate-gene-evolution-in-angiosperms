@@ -49,7 +49,6 @@ for( a in species){
 	df1 <- read.table(TE_path, header = TRUE)
 	df2 <- subset(df1,select = -c(Chr,Window))		# Removing columns Chr and Window
 													# not needed for the correlation matrix
-
 	cor_3 <- rcorr(as.matrix(df2), type = "pearson")  #Pearson correlations
 	my_cor_matrix <- flat_cor_mat(cor_3$r, cor_3$P)
 	my_cor_matrix$sps <- a
@@ -79,7 +78,6 @@ for( a in species){
 	df1 <- read.table(TE_path2, header = TRUE)
 	df2 <- subset(df1,select = -c(Chr,Window))		# Removing columns Chr and Window
 													# not needed for the correlation matrix
-
 	cor_3 <- rcorr(as.matrix(df2), type = "pearson")  #Pearson correlations
 	my_cor_matrix2 <- flat_cor_mat(cor_3$r, cor_3$P)
 	my_cor_matrix2$sps <- a
