@@ -13,7 +13,7 @@ FE <- data.frame()
 #Zmays
 df1 <- read.table("Zmays/methylpy/results/Zmays_classified_genes.tsv",
 	header=TRUE,sep="\t")[,c(1,23)]
-df2 <- read.csv("../misc/Zmays_PAV.csv",header=TRUE)
+df2 <- read.csv("../misc/PAV/Zmays_PAV.csv",header=TRUE)
 df3 <- melt(df2)
 colnames(df3) <- c("Feature","Variety","PAV")
 df4 <- merge(df3,df1,by="Feature")
@@ -101,7 +101,7 @@ for(i in 1:3){
 #Slycopersicum #https://www.nature.com/articles/s41588-019-0410-2#Sec23
 df1 <- read.table("Slycopersicum/methylpy/results/Slycopersicum_classified_genes.tsv",
 	header=TRUE,sep="\t")[,c(1,23)]
-df2 <- read.table("../../data/Slycopersicum_PAV.txt",header=TRUE,
+df2 <- read.table("../../misc/PAV/Slycopersicum_PAV.txt",header=TRUE,
 	sep="\t")
 df4 <- merge(df2,df1,by="Feature")
 df5 <- data.frame(table(df4$Classification),
