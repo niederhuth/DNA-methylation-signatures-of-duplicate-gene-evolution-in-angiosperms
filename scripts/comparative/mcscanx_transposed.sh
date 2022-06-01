@@ -78,10 +78,7 @@ cd ..
 
 #Copy the MCScanX-transposed scripts and untar/gz them
 #This is necessary since I have been too lazy to modify the scripts myself so that this isn't necessary
-cp ${path1}/MCScanX-transposed.tar.gz ./
-tar -xzvf MCScanX-transposed.tar.gz
-mv MCScanX-transposed/* ./
-rmdir MCScanX-transposed
+cp ${path1}/comparative/MCScanX-transposed/* ./
 
 #Run MCScanX-transposed
 echo "Running MCScanX-transposed"

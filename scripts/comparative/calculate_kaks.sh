@@ -11,7 +11,7 @@ cd $PBS_O_WORKDIR
 sample=$(pwd | sed s/^.*\\///)
 SCRIPTS=$(pwd | sed s/angiosperms.*/angiosperms\\/scripts/)
 export PATH="$HOME/miniconda3/envs/gene-duplication/bin:$PATH"
-export PATH="$SCRIPTS/calculate_Ka_Ks_pipeline:$PATH"
+export PATH="$SCRIPTS/comparative/calculate_Ka_Ks_pipeline:$PATH"
 export LD_LIBRARY_PATH="$HOME/miniconda3/envs/gene-duplication/lib:$LD_LIBRARY_PATH"
 export PERL5LIB="$HOME/miniconda3/envs/gene-duplication/lib/perl5/site_perl/5.22.0"
 

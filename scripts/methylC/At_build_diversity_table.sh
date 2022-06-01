@@ -4,7 +4,7 @@
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=1
 #SBATCH --mem=1GB
-#SBATCH --job-name job_reports/build_table
+#SBATCH --job-name job_reports/At_build_diversity_table
 #SBATCH --output=%x-%j.SLURMout
 
 cd $PBS_O_WORKDIR

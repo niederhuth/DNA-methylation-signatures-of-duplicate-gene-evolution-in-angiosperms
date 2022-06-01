@@ -1,10 +1,10 @@
 #!/bin/bash --login
-#SBATCH --time=48:00:00
+#SBATCH --time=6:00:00
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=1
-#SBATCH --mem=100GB
-#SBATCH --job-name CDS_methylation
+#SBATCH --mem=160GB
+#SBATCH --job-name total_mC
 #SBATCH --output=job_reports/%x-%j.SLURMout
 
 cd $PBS_O_WORKDIR
@@ -20,7 +20,7 @@ export TEMP=$PBS_O_WORKDIR
 sample=$(pwd | sed s/.*data\\/// | sed s/\\/.*//)
 
 #get total weighted mC
-echo "Get gene CDS methylation data for $sample"
+echo "Get total methylation of $sample"
 cd methylpy
-python ../../../scripts/analyses_py/CDS_methylation.py $sample
+python ../../../scripts/methylC/py/total_mC.py $sample
 

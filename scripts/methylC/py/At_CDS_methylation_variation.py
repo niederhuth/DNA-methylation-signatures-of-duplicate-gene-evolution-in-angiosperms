@@ -2,15 +2,15 @@ import os
 import sys
 import pandas as pd
 
-functionsfile = '../../../scripts/new_functions.py'
+functionsfile = '../../../../scripts/functions.py'
 sys.path.append(os.path.dirname(os.path.expanduser(functionsfile)))
 
 import new_functions as functions
 
 #define variables
-allc='allc_'+sys.argv[1]+'.tsv.gz'
-gff='../ref/annotations/'+sys.argv[1]+'.gff'
-genome_file='../ref/'+sys.argv[1]+'.fa.fai'
+allc='tmp.gz'
+gff='../../ref/annotations/Athaliana.gff'
+genome_file='../../ref/Athaliana.fa.fai'
 filter_chr=['ChrL','ChrC','ChrM']
 mc_type=['CG','CHG','CHH','CH']
 updown_stream=0
@@ -19,7 +19,7 @@ site_cutoff_only=True
 primary_feature='gene'
 secondary_feature='CDS'
 bedfile="allc.bed"
-output='results/CDS_methylation.tsv'
+output='CDS_methylation.tsv'
 
 #get chromosome list
 chrs = list(pd.read_csv(genome_file,header=None,usecols=[0],dtype='str',sep="\t")[0])

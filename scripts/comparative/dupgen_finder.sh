@@ -10,7 +10,7 @@
 cd $PBS_O_WORKDIR
 SCRIPTS=$(pwd | sed s/angiosperms.*/angiosperms\\/scripts/)
 export PATH="$HOME/miniconda3/envs/gene-duplication/bin:$PATH"
-export PATH="$SCRIPTS/DupGen_finder:$PATH"
+export PATH="$SCRIPTS/comparative/DupGen_finder:$PATH"
 export LD_LIBRARY_PATH="$HOME/miniconda3/envs/gene-duplication/lib:$LD_LIBRARY_PATH"
 
 #export PATH="../../../scripts/DupGen_finder:$PATH"

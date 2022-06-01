@@ -32,7 +32,7 @@ fi
 	
 #get total weighted mC
 echo "Get gene CDS methylation data"
-python ../../../../scripts/analyses_py/At_CDS_methylation_variation.py
+python ../../../../scripts/methylC/py/At_CDS_methylation_variation.py
 
 rm tmp.gz allc.bed
 
