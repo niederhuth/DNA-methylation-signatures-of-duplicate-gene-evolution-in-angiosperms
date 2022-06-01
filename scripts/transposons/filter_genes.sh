@@ -8,7 +8,7 @@
 #SBATCH --output=%x-%j.SLURMout
 
 #Set this variable to the path to wherever you have conda installed
-conda="${HOME}/anaconda3"
+conda="${HOME}/miniconda3"
 
 #Set variables
 threads=20
