@@ -4,7 +4,7 @@
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=20
 #SBATCH --mem=50GB
-#SBATCH --job-name ../job_reports/filter_genes
+#SBATCH --job-name=../job_reports/filter_genes
 #SBATCH --output=job_reports/%x-%j.SLURMout
 
 #Set this variable to the path to wherever you have conda installed
