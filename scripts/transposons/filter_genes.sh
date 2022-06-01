@@ -66,7 +66,7 @@ hmmscan \
 
 #Generate maker standard gene list
 echo "Generating Pfam filtered Gene List"
-perl ${path2}/annotation/pl/create_filtered_gene_list.pl \
+perl ${path2}/transposons/pl/create_filtered_gene_list.pl \
 	--input_gff ../annotations/${species}.gff \
 	--pfam_results prot_domains.out \
 	--pfam_cutoff 1e-10 \
@@ -117,7 +117,7 @@ hmmscan \
 
 #Create a genelist with no TEs
 echo "Creating gene list with TEs removed"
-python ${path2}/annotation/py/create_no_TE_genelist.py \
+python ${path2}/transposons/py/create_no_TE_genelist.py \
 	--input_file_TEpfam ${path1}/TE_Pfam_domains.txt \
 	--input_file_maxPfam prot_domains.out \
 	--input_file_geneList_toKeep pfam_filtered_gene_list.txt \
