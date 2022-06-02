@@ -90,7 +90,7 @@ echo "Running diamond blastp on Transposases"
 diamond blastp \
 	--threads ${threads} \
 	--db Tpases020812.dmnd \
-	--query ${proteins} \
+	--query ${species}-proteins.fa \
 	--out TE_blast.out\
 	--evalue 1e-10 \
 	--outfmt 6
@@ -113,7 +113,7 @@ hmmscan \
 	-o gypsy_alignments.out \
 	--tblout gypsyHMM_analysis.out \
 	all_gypsy.hmm \
-	${proteins}
+	${species}-proteins.fa
 
 #Create a genelist with no TEs
 echo "Creating gene list with TEs removed"
