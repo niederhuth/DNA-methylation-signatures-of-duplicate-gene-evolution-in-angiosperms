@@ -62,7 +62,7 @@ hmmscan \
 	-o pfam_alignments.out \
 	--tblout prot_domains.out \
 	Pfam-A.hmm \
-	../mcscanx/${species}-proteins.fa
+	../mcscanx/${species}-protein.fa
 
 #Generate maker standard gene list
 echo "Generating Pfam filtered Gene List"
@@ -90,7 +90,7 @@ echo "Running diamond blastp on Transposases"
 diamond blastp \
 	--threads ${threads} \
 	--db Tpases020812.dmnd \
-	--query ${species}-proteins.fa \
+	--query ../mcscanx/${species}-protein.fa \
 	--out TE_blast.out\
 	--evalue 1e-10 \
 	--outfmt 6
@@ -113,7 +113,7 @@ hmmscan \
 	-o gypsy_alignments.out \
 	--tblout gypsyHMM_analysis.out \
 	all_gypsy.hmm \
-	${species}-proteins.fa
+	../mcscanx/${species}-protein.fa
 
 #Create a genelist with no TEs
 echo "Creating gene list with TEs removed"
