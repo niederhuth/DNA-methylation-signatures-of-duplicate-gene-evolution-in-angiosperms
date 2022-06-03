@@ -110,7 +110,7 @@ with open(input_file_TEblast) as input_fh_TEblast:
             blastSet.add(gene)
 output_blast = open("blast_filtered_genes.txt", 'w') 
 for each_element in blastSet:
-    blast.write("%s\n"%(each_element))
+    output_blast.write("%s\n"%(each_element))
 output_blast.close()    
 print("Number of TE-related genes from blast: ", len(blastSet)) 
 print("Number of TE-related genes filtered: ", len(TEgeneSet))
