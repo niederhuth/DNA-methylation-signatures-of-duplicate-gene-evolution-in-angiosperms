@@ -112,7 +112,7 @@ output_blast = open("blast_filtered_genes.txt", 'w')
 for each_element in blastSet:
     blast.write("%s\n"%(each_element))
 output_blast.close()    
-print("Number of TE-related genes from blast: ", len(gyspySet)) 
+print("Number of TE-related genes from blast: ", len(gypsySet)) 
 print("Number of TE-related genes filtered: ", len(TEgeneSet))
 
 #This loop adds all genes from the gene list file to a list
