@@ -3,7 +3,7 @@
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=20
-#SBATCH --mem=50GB
+#SBATCH --mem=100GB
 #SBATCH --job-name=../job_reports/filter_genes
 #SBATCH --output=%x-%j.SLURMout
 
