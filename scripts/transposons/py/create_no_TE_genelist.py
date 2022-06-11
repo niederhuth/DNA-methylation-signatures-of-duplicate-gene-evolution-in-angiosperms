@@ -95,11 +95,11 @@ output_gypsy = open("gypsy_filtered_genes.txt", 'w')
 for each_element in gypsySet:
     output_gypsy.write("%s\n"%(each_element))
 output_gypsy.close()    
-print("Number of TE-related genes from gypsy hmmscan: ", len(gyspySet))            
+print("Number of TE-related genes from gypsy hmmscan: ", len(gypsySet))            
 
 #Add blast results (outfmt 6 (table))
 blastHits = []
-blastSet = set(gypsyHits)
+blastSet = set(blastHits)
 with open(input_file_TEblast) as input_fh_TEblast:
     for each_line in input_fh_TEblast:
         if "#" not in each_line[0]:
@@ -110,9 +110,9 @@ with open(input_file_TEblast) as input_fh_TEblast:
             blastSet.add(gene)
 output_blast = open("blast_filtered_genes.txt", 'w') 
 for each_element in blastSet:
-    blast.write("%s\n"%(each_element))
+    output_blast.write("%s\n"%(each_element))
 output_blast.close()    
-print("Number of TE-related genes from blast: ", len(gyspySet)) 
+print("Number of TE-related genes from blast: ", len(blastSet)) 
 print("Number of TE-related genes filtered: ", len(TEgeneSet))
 
 #This loop adds all genes from the gene list file to a list

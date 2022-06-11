@@ -102,7 +102,7 @@ while (my $line = <GFF>) {
     my @elems = split "\t", $line;
 
     if ($elems[2] eq 'gene') {
-	if ($elems[8] =~ /Name=([^;]+)/) {
+	if ($elems[8] =~ /ID=([^;]+)/) {
             my $id = $1;
 	    print OUT "$id\n";
 	}
