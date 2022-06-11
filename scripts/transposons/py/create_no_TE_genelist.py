@@ -34,7 +34,7 @@ TEgeneSet = set()
 #Filter based on pfam hits
 if args.pfamhmm:
 	#Check to make sure Tpfam_list is set
-	if not TEpfam_list:
+	if not args.TEpfam_list:
 		print('ERROR: --pfamhmm requires --TEhpfam_list')
 		sys.exit()
 	#Check for pfamhmm input
