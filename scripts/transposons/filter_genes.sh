@@ -44,9 +44,15 @@ export TMPDIR=$(pwd)
 export TMP=$(pwd)
 export TEMP=$(pwd)
 
+#Generate a gene list from gff file
+echo "Generating Gene List"
+perl ${path2}/transposons/pl/create_gene_list.pl \
+	--input_gff ../annotations/${species}.gff \
+	--output_file input_gene_list.txt
+
 #Check for Pfam A
 echo "Downloading Pfam-A"
-wget http://ftp.ebi.ac.uk/pub/databases/Pfam/current_release/Pfam-A.hmm.gz
+wget -q http://ftp.ebi.ac.uk/pub/databases/Pfam/current_release/Pfam-A.hmm.gz
 gunzip Pfam-A.hmm.gz
 
 #Prepare Pfam A hmm-database
@@ -64,17 +70,9 @@ hmmscan \
 	Pfam-A.hmm \
 	../mcscanx/${species}-protein.fa
 
-#Generate maker standard gene list
-echo "Generating Pfam filtered Gene List"
-perl ${path2}/transposons/pl/create_filtered_gene_list.pl \
-	--input_gff ../annotations/${species}.gff \
-	--pfam_results prot_domains.out \
-	--pfam_cutoff 1e-10 \
-	--output_file pfam_filtered_gene_list.txt
-
 #Download and make Transposase blast DB
 echo "Downloading Tpases020812"
-wget http://www.hrt.msu.edu/uploads/535/78637/Tpases020812.gz
+wget -q http://www.hrt.msu.edu/uploads/535/78637/Tpases020812.gz
 gunzip Tpases020812.gz
 #remove trailing white space in the Tpases020812 file
 sed -i 's/[ \t]*$//' Tpases020812
@@ -95,9 +93,10 @@ diamond blastp \
 	--evalue 1e-10 \
 	--outfmt 6
 
+#Still running this, even though we will not use for the final analysis
 #Download Gypsy DB hmm files and format the hmm database
 echo "Downloading GyDB_collection"
-wget https://gydb.org/extensions/Collection/collection/db/GyDB_collection.zip
+wget -q https://gydb.org/extensions/Collection/collection/db/GyDB_collection.zip
 unzip GyDB_collection.zip
 echo "Combining GyDB hmm profiles"
 cat GyDB_collection/profiles/*hmm > all_gypsy.hmm
@@ -115,15 +114,39 @@ hmmscan \
 	all_gypsy.hmm \
 	../mcscanx/${species}-protein.fa
 
+#Still running this, even though we will not use for the final analysis
 #Create a genelist with no TEs
 echo "Creating gene list with TEs removed"
 python ${path2}/transposons/py/create_no_TE_genelist.py \
-	--input_file_TEpfam ${path1}/TE_Pfam_domains.txt \
-	--input_file_maxPfam prot_domains.out \
-	--input_file_geneList_toKeep pfam_filtered_gene_list.txt \
-	--input_file_TEhmm gypsyHMM_analysis.out \
-	--input_file_TEblast TE_blast.out \
+	--input_geneList input_gene_list.txt \
+	--pfamhmm prot_domains.out \
+	--TEpfam_list ${path1}/TE_Pfam_domains.txt \
+	--TEblast TE_blast.out \
 	--output_file noTE_gene_list.txt
+	#Removed TEhmm against gypsy genes as this resulted in a high number of false positives
+	#--TEhmm gypsyHMM_analysis.out
+
+#Now combine with ortholog & methylation calls
+cat pfam_filtered_genes.txt blast_filtered_genes.txt gypsy_filtered_genes.txt | sort | uniq > filtered_genes.tsv
+fgrep -f filtered_genes.tsv ../mcscanx/${species}_orthogroups.tsv | sort -k1,1 > tmp
+if [ -f ../../methylpy/results/${species}_classified_genes.tsv ]
+then
+	fgrep -f filtered_genes.tsv ../../methylpy/results/${species}_classified_genes.tsv | cut -f1,30 | sort -k1,1 > tmp2
+	cut -f1 tmp2 > tmp3
+	fgrep -v -f tmp3 filtered_genes.tsv > tmp4
+	awk -v OFS="\t" '{print $1,"NA"}' tmp4 >> tmp2
+	sort -k1,1 tmp2 > tmp5
+	join -1 1 -2 1 tmp tmp5 | tr ' ' '\t' > filtered_genes.tsv
+else
+	mv tmp filtered_genes.tsv
+fi
+#Count the number & percentage of genes for filtered orthogroups 
+cut -f2 filtered_genes.tsv | sort | uniq > orthogroups.txt
+cut -f2 filtered_genes.tsv | sort | uniq -c | sed 's/^ *//' | tr ' ' '\t' | sort -k2,2 > tmp
+cut -f2 tmp > tmp2
+fgrep -f tmp2 ../mcscanx/${i}_orthogroups.tsv | cut -f2 | sort | uniq -c | sed 's/^ *//' | tr ' ' '\t' | sort -k2,2 > tmp3
+join -1 2 -2 2 tmp3 tmp | tr ' ' '\t' | awk -v OFS="\t" '{print $1,$2,$3,$3/$2}' > filtered_orthgroup_counts.tsv
+rm tmp*
 
 echo "Done"
 
