@@ -1,52 +1,73 @@
+#!/bin/bash --login
+#SBATCH --time=3:59:00
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=1
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=1GB
+#SBATCH --job-name=good_orthogroups
+#SBATCH --output=%x-%j.SLURMout
 
-for i in *
-do
-	if [ -d ${i}/ref/gene_filtering ]
-	then
-		echo $i
-		cd ${i}/ref/gene_filtering
-		cat pfam_filtered_genes.txt blast_filtered_genes.txt gypsy_filtered_genes.txt | sort | uniq > filtered_genes.tsv
-		fgrep -f filtered_genes.tsv ../mcscanx/${i}_orthogroups.tsv | sort -k1,1 > tmp
-		if [ -f ../../methylpy/results/${i}_classified_genes.tsv ]
-		then
-			fgrep -f filtered_genes.tsv ../../methylpy/results/${i}_classified_genes.tsv | cut -f1,30 | sort -k1,1 > tmp2
-			cut -f1 tmp2 > tmp3
-			fgrep -v -f tmp3 filtered_genes.tsv > tmp4
-			awk -v OFS="\t" '{print $1,"NA"}' tmp4 >> tmp2
-			sort -k1,1 tmp2 > tmp5
-			join -1 1 -2 1 tmp tmp5 | tr ' ' '\t' > filtered_genes.tsv
-		else
-			mv tmp filtered_genes.tsv
-		fi
-		cut -f2 filtered_genes.tsv | sort | uniq > orthogroups.txt
-		cut -f2 filtered_genes.tsv | sort | uniq -c | sed 's/^ *//' | tr ' ' '\t' | sort -k2,2 > tmp
-		cut -f2 tmp > tmp2
-		fgrep -f tmp2 ../mcscanx/${i}_orthogroups.tsv | cut -f2 | sort | uniq -c | sed 's/^ *//' | tr ' ' '\t' | sort -k2,2 > tmp3
-		join -1 2 -2 2 tmp3 tmp | tr ' ' '\t' | awk -v OFS="\t" '{print $1,$2,$3,$3/$2}' > filtered_ortholog_counts.tsv
-		rm tmp*
-		cd ../../../
-	fi
-done
+#Set variables
+number_of_species=5
+percent_cutoff=0.5
 
-
-
-#All genes
-mkdir orthofinder/gene_filtering/
-cat */ref/gene_filtering/orthogroups.txt | sort | uniq -c | sed 's/^ *//' | tr ' ' '\t' > orthofinder/gene_filtering/tmp
+#Cound up orthogroups with putative TE-like genes and percentage of that orthogroup across species identified as TE-like
+mkdir gene_filtering/
+cat */ref/gene_filtering/orthogroups.txt | sort | uniq -c | sed 's/^ *//' | tr ' ' '\t' > gene_filtering/tmp
 
 for i in *
 do
 	if [ -f ${i}/ref/mcscanx/${i}_orthogroups.tsv ]
 	then
-		cut -f2 ${i}/ref/mcscanx/${i}_orthogroups.tsv | sort | uniq | awk -v OFS="\t" -v a=${i} '{print a,$0}' >> orthofinder/gene_filtering/tmp2
+		cut -f2 ${i}/ref/mcscanx/${i}_orthogroups.tsv | sort | uniq | awk -v OFS="\t" -v a=${i} '{print a,$0}' >> gene_filtering/tmp2
 	fi
 done
-cd orthofinder/gene_filtering/
+cd gene_filtering/
 cut -f2 tmp2 | sort | uniq -c | sed 's/^ *//' | tr ' ' '\t' > tmp3
 join -1 2 -2 2 tmp3 tmp | tr ' ' '\t' | awk -v OFS="\t" '{print $1,$2,$3,$3/$2}' > filtered_ortholog_counts.tsv
 rm tmp*
 
+#Get a list of orthogroups to keep
+awk -v a=${number_of_species} -v b=${percent_cutoff} '$2>a && $4<b' filtered_ortholog_counts.tsv | cut -f1 > orthogroups_to_keep.tsv
 
-awk '$2>40 && $4<0.5' filtered_ortholog_counts.tsv | cut -f1 > tmp5
+#Get a list of putative TE-like orthogroups
+fgrep -v -f orthogroups_to_keep.tsv filtered_ortholog_counts.tsv | cut -f1 > putative_TE_orthogroups.tsv
 
-fgrep -f tmp5 Athaliana/ref/gene_filtering/filtered_genes.tsv | cut -f3 | sort | uniq -c
+#Get genes to keep for that species and annotations info if available
+cd ../
+for i in *
+do
+	if [ -f ${i}/ref/mcscanx/${i}_orthogroups.tsv ]
+	then
+		echo ${i}
+		fgrep -f gene_filtering/orthogroups_to_keep.tsv ${i}/ref/gene_filtering/filtered_genes.tsv | sort -k1,1 > gene_filtering/${i}_genes_to_keep.tsv
+		cut -f1 gene_filtering/${i}_genes_to_keep.tsv > gene_filtering/tmp
+		if [ -f ${i}/ref/annotations/${i}-annotations.txt ]
+		then
+			fgrep -f gene_filtering/tmp ${i}/ref/annotations/${i}-annotations.txt | cut -f2,13 | tr ' ' ';' | sort -k1,1 > gene_filtering/tmp2
+			join -1 1 -2 1 gene_filtering/${i}_genes_to_keep.tsv gene_filtering/tmp2 | tr ' ' '\t' | tr ';' ' ' > gene_filtering/tmp3
+			mv gene_filtering/tmp3 gene_filtering/${i}_genes_to_keep.tsv
+		fi
+		cat ${i}/ref/gene_filtering/noTE_gene_list.txt gene_filtering/tmp > ${i}/ref/gene_filtering/noTE_gene_list_2.txt
+		fgrep -v -f ${i}/ref/gene_filtering/noTE_gene_list_2.txt ${i}/ref/gene_filtering/filtered_genes.tsv > ${i}/ref/gene_filtering/filtered_genes_2.tsv
+		rm gene_filtering/tmp*
+	fi
+done
+
+#Get putative TE-like genes for that species and annotations info if available
+for i in *
+do
+	if [ -f ${i}/ref/mcscanx/${i}_orthogroups.tsv ]
+	then
+		echo ${i}
+		fgrep -f gene_filtering/putative_TE_orthogroups.tsv ${i}/ref/gene_filtering/filtered_genes.tsv | sort -k1,1 > gene_filtering/${i}_putative_TEs.tsv
+		cut -f1 gene_filtering/${i}_putative_TEs.tsv > gene_filtering/tmp
+		if [ -f ${i}/ref/annotations/${i}-annotations.txt ]
+		then
+			fgrep -f gene_filtering/tmp ${i}/ref/annotations/${i}-annotations.txt | cut -f2,13 | tr ' ' ';' | sort -k1,1 > gene_filtering/tmp2
+			join -1 1 -2 1 gene_filtering/${i}_putative_TEs.tsv gene_filtering/tmp2 | tr ' ' '\t' | tr ';' ' ' > gene_filtering/tmp3
+			mv gene_filtering/tmp3 gene_filtering/${i}_putative_TEs.tsv
+		fi
+		rm gene_filtering/tmp*
+	fi
+done
