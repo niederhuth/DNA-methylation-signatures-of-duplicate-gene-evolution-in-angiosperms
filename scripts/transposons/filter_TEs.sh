@@ -4,7 +4,7 @@
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=20
 #SBATCH --mem=100GB
-#SBATCH --job-name=../job_reports/filter_genes
+#SBATCH --job-name=../job_reports/filter_TEs
 #SBATCH --output=%x-%j.SLURMout
 
 #Set this variable to the path to wherever you have conda installed
@@ -28,7 +28,7 @@ export TEMP=$(pwd)
 species=$(pwd | sed s/^.*\\/data\\/// | sed s/\\/.*//)
 path1=$(pwd | sed s/data.*/misc/)
 path2=$(pwd | sed s/data.*/scripts/)
-path3="gene_filtering"
+path3="TE_filtering"
 
 #Make & cd to directory
 if [ -d ${path3} ]
@@ -140,13 +140,14 @@ then
 else
 	mv tmp filtered_genes.tsv
 fi
-#Count the number & percentage of genes for filtered orthogroups 
+
+#Count the number & percentage of genes for filtered orthogroups
+#Useful for reducing false positives
 cut -f2 filtered_genes.tsv | sort | uniq > orthogroups.txt
 cut -f2 filtered_genes.tsv | sort | uniq -c | sed 's/^ *//' | tr ' ' '\t' | sort -k2,2 > tmp
 cut -f2 tmp > tmp2
 fgrep -f tmp2 ../mcscanx/${species}_orthogroups.tsv | cut -f2 | sort | uniq -c | sed 's/^ *//' | tr ' ' '\t' | sort -k2,2 > tmp3
 join -1 2 -2 2 tmp3 tmp | tr ' ' '\t' | awk -v OFS="\t" '{print $1,$2,$3,$3/$2}' > filtered_orthgroup_counts.tsv
-rm tmp*
 
 echo "Done"
 
