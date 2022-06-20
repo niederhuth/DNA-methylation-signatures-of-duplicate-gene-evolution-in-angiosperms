@@ -82,7 +82,7 @@ then
 	echo "Filtering based on the percentage of genes across the phylogeny with filtered as TE-like"
 	awk -v a=${phylo_number_species} -v b=${phylo_number_genes} \
 	-v c=${phylo_perc_gene_cutoff} '$2>=a && $5>=b && $7<=c' filtered_orthogroups.tsv > phylo_genes_filter_keep.tsv
-	cut -f1 perc_species_filter_keep.tsv > phylo_genes_filter_keep_list.txt
+	cut -f1 phylo_species_filter_keep.tsv > phylo_genes_filter_keep_list.txt
 	mkdir phylo_genes
 fi
 #For species filter, we will only create the directory, as this has to be applied to each individual species
