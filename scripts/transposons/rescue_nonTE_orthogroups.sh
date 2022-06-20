@@ -52,7 +52,7 @@ cut -f1 tmp | sort | uniq | while read line
 do
 	grep ${line} tmp | awk -v OFS="\t" '{a+=$2;b+=$3}END{print $1,a,b,b/a}' >> tmp2
 done
-sort -k1,1 tmp2 > filtered_othogroup_gene_counts.tsv
+sort -k1,1 tmp2 > filtered_orthogroup_gene_counts.tsv
 #Count up number of species per orthogroup
 cut -f2 species_orthogroup_list.txt | sort | uniq -c | sed 's/^ *//' | tr ' ' '\t' > tmp3
 #Count up the number of species per filtered orthogroup
@@ -62,7 +62,7 @@ rm tmp*
 #Combine some files
 #Add a header
 echo "Orthogroup Total_Species Total_Species_TE Perc_Species_TE Total_Genes Total_Genes_TE Perc_Species_TE" | tr ' ' '\t' > tmp
-join -1 1 -2 1 filtered_orthogroup_counts.tsv filtered_othogroup_gene_counts.tsv | tr ' ' '\t'> tmp2
+join -1 1 -2 1 filtered_orthogroup_counts.tsv filtered_orthogroup_gene_counts.tsv | tr ' ' '\t'> tmp2
 cat tmp tmp2 > filtered_orthogroups.tsv
 rm tmp tmp2
 
