@@ -93,28 +93,6 @@ diamond blastp \
 	--evalue 1e-10 \
 	--outfmt 6
 
-#Still running this, even though we will not use for the final analysis
-#Download Gypsy DB hmm files and format the hmm database
-echo "Downloading GyDB_collection"
-wget -q https://gydb.org/extensions/Collection/collection/db/GyDB_collection.zip
-unzip GyDB_collection.zip
-echo "Combining GyDB hmm profiles"
-cat GyDB_collection/profiles/*hmm > all_gypsy.hmm
-echo "Formatting all_gypsy.hmm database"
-hmmpress all_gypsy.hmm
-
-#Search gypsy hmm profiles
-echo "Searching against gypsy hmm profiles"
-hmmscan \
-	--domE 1e-5 \
-	-E 1e-5 \
-	--cpu ${threads} \
-	-o gypsy_alignments.out \
-	--tblout gypsyHMM_analysis.out \
-	all_gypsy.hmm \
-	../mcscanx/${species}-protein.fa
-
-#Still running this, even though we will not use for the final analysis
 #Create a genelist with no TEs
 echo "Creating gene list with TEs removed"
 python ${path2}/transposons/py/create_no_TE_genelist.py \
@@ -123,8 +101,6 @@ python ${path2}/transposons/py/create_no_TE_genelist.py \
 	--TEpfam_list ${path1}/TE_Pfam_domains.txt \
 	--TEblast TE_blast.out \
 	--output_file noTE_gene_list.txt
-	#Removed TEhmm against gypsy genes as this resulted in a high number of false positives
-	#--TEhmm gypsyHMM_analysis.out
 
 #Now combine with ortholog & methylation calls
 cat pfam_filtered_genes.txt blast_filtered_genes.txt gypsy_filtered_genes.txt | sort | uniq > filtered_genes.tsv
@@ -143,7 +119,6 @@ fi
 
 #Count the number & percentage of genes for filtered orthogroups
 #Useful for reducing false positives
-cut -f2 filtered_genes.tsv | sort | uniq > orthogroups.txt
 cut -f2 filtered_genes.tsv | sort | uniq -c | sed 's/^ *//' | tr ' ' '\t' | sort -k2,2 > tmp
 cut -f2 tmp > tmp2
 fgrep -f tmp2 ../mcscanx/${species}_orthogroups.tsv | cut -f2 | sort | uniq -c | sed 's/^ *//' | tr ' ' '\t' | sort -k2,2 > tmp3
