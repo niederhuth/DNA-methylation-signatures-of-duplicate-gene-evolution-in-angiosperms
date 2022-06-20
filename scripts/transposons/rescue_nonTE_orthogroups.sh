@@ -12,13 +12,15 @@ perc_species_filter=TRUE #Filter based on percentage of species in an orthogroup
 number_of_species=5 #Min number of species in an orthogroup
 species_perc_cutoff=0.2 #Max percentage of species in an orthogroup with putative TE hits
 phylo_gene_filter=TRUE #Filter based on percentage of genes in across phylogeny with TE-like hits; TRUE or FALSE
-phylo_number_species=1 #Min number of species an orthogroups has to be present in to be considered
+phylo_number_species=2 #Min number of species an orthogroups has to be present in to be considered
 phylo_number_genes=5 #Min number of genes in an orthogroup across the phylogeny to consider the orthogroup
 phylo_perc_gene_cutoff=0.2 #Max percentage of genes in an orthogroup across the phylogeny to retain the orthogroup
 species_gene_filter=TRUE #Filter based on percentage of genes within a species with TE-like hits; TRUE or FALSe
 species_number_genes=5 #Min number of genes in an orthogroup within the species to consider the orthogroup
 species_perc_gene_cutoff=0.2 #Max percentage of genes in an orthogroup within the species to retain the orthogroup
 
+#Change to current directory
+cd ${PBS_O_WORKDIR}
 #The following shouldn't need to be changed, but should set automatically
 path1="TE_filtering"
 
