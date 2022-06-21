@@ -51,7 +51,7 @@ cd ${path1}/
 #column 4: percentage of TE-like genes across all species
 cut -f1 tmp | sort | uniq | while read line
 do
-	count1=$(grep ${line} ${path1}/species_orthogroup_list.txt | awk -v OFS="\t" '{a+=$3}END{print $2,a}')
+	count1=$(grep ${line} species_orthogroup_list.txt | awk -v OFS="\t" '{a+=$3}END{print a}')
 	count2=$(grep ${line} tmp | awk -v OFS="\t" '{a+=$3}END{print a}')
 	awk -v OFS="\t" -v a=${line} -v b=${count1} -v c=${count2} '{print a,b,c,c/b}' >> tmp2
 done
