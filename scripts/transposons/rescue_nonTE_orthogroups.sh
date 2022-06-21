@@ -253,7 +253,7 @@ do
 		cut -f1 ${path1}/rescued_genes/${i}_rescue_genes.tsv | sort | uniq > ${path1}/rescued_genes/tmp
 		cat ${i}/ref/${path1}/noTE_gene_list.txt ${path1}/rescued_genes/tmp > ${i}/ref/${path1}/noTE_gene_list_w_rescued_genes.txt
 		#Create list of putative TEs remaining
-		if [ -d {$i}/methylpy ]
+		if [ -d ${i}/methylpy ]
 		then
 			fgrep -w -v -f ${path1}/rescued_genes/tmp ${i}/ref/${path1}/filtered_genes.tsv | \
 			sort -k1,1 > ${path1}/putative_TEs/${i}_putative_TEs.tsv
@@ -262,27 +262,31 @@ do
 			fgrep -w -v -f ${path1}/rescued_genes/tmp ${i}/ref/${path1}/filtered_genes.tsv | awk -v OFS="\t" '{print $0,"NA"}' | \
 			sort -k1,1 > ${path1}/putative_TEs/${i}_putative_TEs.tsv
 		fi
-		#Get list of putative TEs
-		cut -f1 ${path1}/putative_TEs/${i}_putative_TEs.tsv > ${path1}/putative_TEs/tmp
 		#Add annotation data if present for putative TEs
 		if [ -f ${i}/ref/annotations/${i}-annotations.txt ]
-			then
-				#Grep the genes
-				cat ${path1}/putative_TEs/tmp | while read line
-				do
-					anno=$(grep ${line} ${i}/ref/annotations/${i}-annotations.txt | cut -f2,13 | tr ' ' ';' | sort | uniq | cut -f2 | tr '\n' ';')
-					echo "${line} ${anno}" | tr ' ' '\t' >> ${path1}/putative_TEs/tmp2
-				done
-				sort -k1,1 ${path1}/putative_TEs/tmp2 > ${path1}/putative_TEs/tmp3
-				#Join the tables
-				join -1 1 -2 1 ${path1}/putative_TEs/${i}_putative_TEs.tsv ${path1}/putative_TEs/tmp3 | \
-				tr ' ' '\t' | tr ';' ' ' > ${path1}/putative_TEs/tmp4
-				#Check if any genes were lost
-				cut -f1 ${path1}/putative_TEs/tmp4 > ${path1}/putative_TEs/tmp5
-				fgrep -w -v -f ${path1}/putative_TEs/tmp5 ${path1}/putative_TEs/${i}_putative_TEs.tsv > ${path1}/putative_TEs/tmp6
-				#Combine
-				cat ${path1}/putative_TEs/tmp4 ${path1}/putative_TEs/tmp6 > ${path1}/putative_TEs/${i}_putative_TEs.tsv
-			fi
+		then
+			#Get list of putative TEs
+			cut -f1 ${path1}/putative_TEs/${i}_putative_TEs.tsv > ${path1}/putative_TEs/tmp
+			#Grep the genes
+			cat ${path1}/putative_TEs/tmp | while read line
+			do
+				anno=$(grep ${line} ${i}/ref/annotations/${i}-annotations.txt | cut -f2,13 | tr ' ' ';' | sort | uniq | cut -f2 | tr '\n' ';')
+				echo "${line} ${anno}" | tr ' ' '\t' >> ${path1}/putative_TEs/tmp2
+			done
+			sort -k1,1 ${path1}/putative_TEs/tmp2 > ${path1}/putative_TEs/tmp3
+			#Join the tables
+			join -1 1 -2 1 ${path1}/putative_TEs/${i}_putative_TEs.tsv ${path1}/putative_TEs/tmp3 | \
+			tr ' ' '\t' | tr ';' ' ' > ${path1}/putative_TEs/tmp4
+			#Check if any genes were lost
+			cut -f1 ${path1}/putative_TEs/tmp4 > ${path1}/putative_TEs/tmp5
+			fgrep -w -v -f ${path1}/putative_TEs/tmp5 ${path1}/putative_TEs/${i}_putative_TEs.tsv > ${path1}/putative_TEs/tmp6
+			#Combine
+			cat ${path1}/putative_TEs/tmp4 ${path1}/putative_TEs/tmp6 > ${path1}/putative_TEs/${i}_putative_TEs.tsv
+		#Add empty column if no annotation info
+		else
+			awk -v OFS="\t" '{print $0,"NA"}' ${path1}/putative_TEs/${i}_putative_TEs.tsv > ${path1}/putative_TEs/tmp
+			mv ${path1}/putative_TEs/tmp ${path1}/putative_TEs/${i}_putative_TEs.tsv
+		fi
 		#Copy list of putative TEs to species folder
 		cp ${path1}/putative_TEs/${i}_putative_TEs.tsv ${i}/ref/${path1}/${i}_putative_TEs.tsv
 		#Cleanup
