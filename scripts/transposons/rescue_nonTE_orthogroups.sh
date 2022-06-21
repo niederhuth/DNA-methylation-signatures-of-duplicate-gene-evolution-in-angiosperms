@@ -207,12 +207,12 @@ do
 		if [ species_genes_filter="TRUE" ]
 		then
 			#Apply the filter to the orthogroups for that species
-			awk -v a=${species_number_genes} -v b=${species_perc_gene_cutoff} '$2>=a && $4<=b' $i/ref/${path1}/filtered_orthogroup_counts.tsv | 
+			awk -v a=${species_number_genes} -v b=${species_perc_gene_cutoff} '$2>=a && $4<=b' ${i}/ref/${path1}/filtered_orthogroup_counts.tsv | 
 			cut -f1 > ${path1}/species_genes/tmp
 			#Get the list of genes for that species, with methylation info
 			if [ -d ${i}/methylpy ]
 			then
-				fgrep -w -f ${path1}/species_genes_filter_keep_list.txt ${i}/ref/${path1}/filtered_genes.tsv | \
+				fgrep -w -f ${path1}/species_genes/tmp ${i}/ref/${path1}/filtered_genes.tsv | \
 				sort -k1,1 > ${path1}/species_genes/${i}_genes_to_keep.tsv
 			#If species missing methylation info, then add a filler
 			else
