@@ -33,6 +33,21 @@ else
 	mkdir ${path1}
 fi
 
+#Fix filtered_orthogroup_counts.tsv
+for i in *
+do
+	if [ -f ${i}/ref/mcscanx/${i}_orthogroups.tsv ]
+	then
+		cd ${i}/ref/TE_filtering
+		cut -f2 filtered_genes.tsv | sort | uniq -c | sed 's/^ *//' | tr ' ' '\t' | sort -k2,2 > tmp
+		cut -f2 tmp > tmp2
+		fgrep -w -f tmp2 ../mcscanx/${species}_orthogroups.tsv | cut -f2 | sort | uniq -c | sed 's/^ *//' | tr ' ' '\t' | sort -k2,2 > tmp3
+		join -1 2 -2 2 tmp3 tmp | tr ' ' '\t' | awk -v OFS="\t" '{print $1,$2,$3,$3/$2}' > filtered_orthgroup_counts.tsv
+		rm tmp*
+		cd ../../../
+	fi
+done
+
 #Count up orthogroups with putative TE-like genes and percentage of that orthogroup across species identified as TE-like
 #Combine list of filtered orthogroups and their individual counts
 cat */ref/${path1}/filtered_orthgroup_counts.tsv > ${path1}/tmp
@@ -51,12 +66,11 @@ cd ${path1}/
 #column 4: percentage of TE-like genes across all species
 cut -f1 tmp | sort | uniq | while read line
 do
-	count1=$(grep ${line} species_orthogroup_list.txt | awk -v OFS="\t" '{a+=$3}END{print a}')
-	count2=$(grep ${line} tmp | awk -v OFS="\t" '{a+=$3}END{print a}')
-	awk -v OFS="\t" -v a=${line} -v b=${count1} -v c=${count2} '{print a,b,c,c/b}' >> tmp2
+	count1=$(grep -w ${line} species_orthogroup_list.txt | awk -v OFS="\t" '{a+=$3}END{print a}')
+	count2=$(grep -w ${line} tmp | awk -v OFS="\t" '{a+=$3}END{print a}')
+	echo ${line} ${count1} ${count2} | tr ' ' '\t' | awk -v OFS="\t" '{print $1,$2,$3,$3/$2}' >> tmp2
 done
 sort -k1,1 tmp2 > filtered_orthogroup_gene_counts.tsv
-
 
 #Count up number of species per orthogroup
 cut -f2 species_orthogroup_list.txt | sort | uniq -c | sed 's/^ *//' | tr ' ' '\t' > tmp3
@@ -96,9 +110,6 @@ then
 	mkdir species_genes
 fi
 
-#Get a list of putative TE-like orthogroups
-#fgrep -v -f orthogroups_to_keep.tsv filtered_orthogroup_counts.tsv | cut -f1 > putative_TE_orthogroups.tsv
-
 #Now loop over each species and get the rescued genes
 mkdir putative_TEs rescued_genes
 cd ../
@@ -113,11 +124,11 @@ do
 			#Get the list of genes for that species, with methylation info
 			if [ -d ${i}/methylpy ]
 			then
-				fgrep -f ${path1}/perc_species_filter_keep_list.txt ${i}/ref/${path1}/filtered_genes.tsv | \
+				fgrep -w -f ${path1}/perc_species_filter_keep_list.txt ${i}/ref/${path1}/filtered_genes.tsv | \
 				sort -k1,1 > ${path1}/perc_species/${i}_genes_to_keep.tsv
 			#If species missing methylation info, then add a filler
 			else
-				fgrep -f ${path1}/perc_species_filter_keep_list.txt ${i}/ref/${path1}/filtered_genes.tsv | awk -v OFS="\t" '{print $0,"NA"}' | \
+				fgrep -w -f ${path1}/perc_species_filter_keep_list.txt ${i}/ref/${path1}/filtered_genes.tsv | awk -v OFS="\t" '{print $0,"NA"}' | \
 				sort -k1,1 > ${path1}/perc_species/${i}_genes_to_keep.tsv
 			fi
 			#Get gene list
@@ -137,7 +148,7 @@ do
 				tr ' ' '\t' | tr ';' ' ' > ${path1}/perc_species/tmp4
 				#Check if any genes were
 				cut -f1 ${path1}/perc_species/tmp4 > ${path1}/perc_species/tmp5
-				fgrep -v -f ${path1}/perc_species/tmp5 ${path1}/perc_species/${i}_genes_to_keep.tsv > ${path1}/perc_species/tmp6
+				fgrep -w -v -f ${path1}/perc_species/tmp5 ${path1}/perc_species/${i}_genes_to_keep.tsv > ${path1}/perc_species/tmp6
 				#Combine
 				cat ${path1}/perc_species/tmp4 ${path1}/perc_species/tmp6 > ${path1}/perc_species/${i}_genes_to_keep.tsv
 			#Add empty column if no annotation info
@@ -155,11 +166,11 @@ do
 		then
 			if [ -d ${i}/methylpy ]
 			then
-				fgrep -f ${path1}/phylo_genes_filter_keep_list.txt ${i}/ref/${path1}/filtered_genes.tsv | \
+				fgrep -w -f ${path1}/phylo_genes_filter_keep_list.txt ${i}/ref/${path1}/filtered_genes.tsv | \
 				sort -k1,1 > ${path1}/phylo_genes/${i}_genes_to_keep.tsv
 			#If species missing methylation info, then add a filler
 			else
-				fgrep -f ${path1}/phylo_genes_filter_keep_list.txt ${i}/ref/${path1}/filtered_genes.tsv | awk -v OFS="\t" '{print $0,"NA"}' | \
+				fgrep -w -f ${path1}/phylo_genes_filter_keep_list.txt ${i}/ref/${path1}/filtered_genes.tsv | awk -v OFS="\t" '{print $0,"NA"}' | \
 				sort -k1,1 > ${path1}/phylo_genes/${i}_genes_to_keep.tsv
 			fi
 			#Get gene list
@@ -179,7 +190,7 @@ do
 				tr ' ' '\t' | tr ';' ' ' > ${path1}/phylo_genes/tmp4
 				#Check if any genes were lost
 				cut -f1 ${path1}/phylo_genes/tmp4 > ${path1}/phylo_genes/tmp5
-				fgrep -v -f ${path1}/phylo_genes/tmp5 ${path1}/phylo_genes/${i}_genes_to_keep.tsv > ${path1}/phylo_genes/tmp6
+				fgrep -w -v -f ${path1}/phylo_genes/tmp5 ${path1}/phylo_genes/${i}_genes_to_keep.tsv > ${path1}/phylo_genes/tmp6
 				#Combine
 				cat ${path1}/phylo_genes/tmp4 ${path1}/phylo_genes/tmp6 > ${path1}/phylo_genes/${i}_genes_to_keep.tsv
 			#Add empty column if no annotation info
@@ -201,11 +212,11 @@ do
 			#Get the list of genes for that species, with methylation info
 			if [ -d ${i}/methylpy ]
 			then
-				fgrep -f ${path1}/species_genes_filter_keep_list.txt ${i}/ref/${path1}/filtered_genes.tsv | \
+				fgrep -w -f ${path1}/species_genes_filter_keep_list.txt ${i}/ref/${path1}/filtered_genes.tsv | \
 				sort -k1,1 > ${path1}/species_genes/${i}_genes_to_keep.tsv
 			#If species missing methylation info, then add a filler
 			else
-				fgrep -f ${path1}/species_genes_filter_keep_list.txt ${i}/ref/${path1}/filtered_genes.tsv | awk -v OFS="\t" '{print $0,"NA"}' | \
+				fgrep -w -f ${path1}/species_genes_filter_keep_list.txt ${i}/ref/${path1}/filtered_genes.tsv | awk -v OFS="\t" '{print $0,"NA"}' | \
 				sort -k1,1 > ${path1}/species_genes/${i}_genes_to_keep.tsv
 			fi
 			#Get gene list
@@ -225,7 +236,7 @@ do
 				tr ' ' '\t' | tr ';' ' ' > ${path1}/species_genes/tmp5
 				#Check if any genes were lost
 				cut -f1 ${path1}/species_genes/tmp5 > ${path1}/species_genes/tmp6
-				fgrep -v -f ${path1}/species_genes/tmp6 ${path1}/species_genes/${i}_genes_to_keep.tsv > ${path1}/species_genes/tmp7
+				fgrep -w -v -f ${path1}/species_genes/tmp6 ${path1}/species_genes/${i}_genes_to_keep.tsv > ${path1}/species_genes/tmp7
 				#Combine
 				cat ${path1}/species_genes/tmp5 ${path1}/species_genes/tmp7 > ${path1}/species_genes/${i}_genes_to_keep.tsv
 			#Add empty column if no annotation info
@@ -244,11 +255,11 @@ do
 		#Create list of putative TEs remaining
 		if [ -d {$i}/methylpy ]
 		then
-			fgrep -v -f ${path1}/rescued_genes/tmp ${i}/ref/${path1}/filtered_genes.tsv | \
+			fgrep -w -v -f ${path1}/rescued_genes/tmp ${i}/ref/${path1}/filtered_genes.tsv | \
 			sort -k1,1 > ${path1}/putative_TEs/${i}_putative_TEs.tsv
 		#If species missing methylation info, then add a filler
 		else
-			fgrep -v -f ${path1}/rescued_genes/tmp ${i}/ref/${path1}/filtered_genes.tsv | awk -v OFS="\t" '{print $0,"NA"}' | \
+			fgrep -w -v -f ${path1}/rescued_genes/tmp ${i}/ref/${path1}/filtered_genes.tsv | awk -v OFS="\t" '{print $0,"NA"}' | \
 			sort -k1,1 > ${path1}/putative_TEs/${i}_putative_TEs.tsv
 		fi
 		#Get list of putative TEs
@@ -268,7 +279,7 @@ do
 				tr ' ' '\t' | tr ';' ' ' > ${path1}/putative_TEs/tmp4
 				#Check if any genes were lost
 				cut -f1 ${path1}/putative_TEs/tmp4 > ${path1}/putative_TEs/tmp5
-				fgrep -v -f ${path1}/putative_TEs/tmp5 ${path1}/putative_TEs/${i}_putative_TEs.tsv > ${path1}/putative_TEs/tmp6
+				fgrep -w -v -f ${path1}/putative_TEs/tmp5 ${path1}/putative_TEs/${i}_putative_TEs.tsv > ${path1}/putative_TEs/tmp6
 				#Combine
 				cat ${path1}/putative_TEs/tmp4 ${path1}/putative_TEs/tmp6 > ${path1}/putative_TEs/${i}_putative_TEs.tsv
 			fi
