@@ -122,7 +122,7 @@ fi
 cut -f2 filtered_genes.tsv | sort | uniq -c | sed 's/^ *//' | tr ' ' '\t' | sort -k2,2 > tmp
 cut -f2 tmp > tmp2
 fgrep -w -f tmp2 ../mcscanx/${species}_orthogroups.tsv | cut -f2 | sort | uniq -c | sed 's/^ *//' | tr ' ' '\t' | sort -k2,2 > tmp3
-join -1 2 -2 2 tmp3 tmp | tr ' ' '\t' | awk -v OFS="\t" '{print $1,$2,$3,$3/$2}' > filtered_orthgroup_counts.tsv
+join -1 2 -2 2 tmp3 tmp | tr ' ' '\t' | awk -v OFS="\t" '{print $1,$2,$3,$3/$2}' > filtered_orthogroup_counts.tsv
 rm tmp*
 
 echo "Done"
