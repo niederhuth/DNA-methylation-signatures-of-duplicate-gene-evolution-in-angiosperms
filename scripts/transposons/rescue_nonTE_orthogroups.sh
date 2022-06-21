@@ -50,7 +50,7 @@ done
 
 #Count up orthogroups with putative TE-like genes and percentage of that orthogroup across species identified as TE-like
 #Combine list of filtered orthogroups and their individual counts
-cat */ref/${path1}/filtered_orthgroup_counts.tsv > ${path1}/tmp
+cat */ref/${path1}/filtered_orthogroup_counts.tsv > ${path1}/tmp
 #Combine the uniq orthogroups for each species and output a table with two columns, column 1 is speces, column 2 the orthogroup
 for i in *
 do
