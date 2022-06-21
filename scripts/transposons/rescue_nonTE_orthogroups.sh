@@ -207,7 +207,7 @@ do
 		if [ species_genes_filter="TRUE" ]
 		then
 			#Apply the filter to the orthogroups for that species
-			awk -v a=${species_number_genes} -v b=${species_perc_gene_cutoff} '$2>=a && $4<=b' $i/ref/${path1}/filtered_orthgroup_counts.tsv | 
+			awk -v a=${species_number_genes} -v b=${species_perc_gene_cutoff} '$2>=a && $4<=b' $i/ref/${path1}/filtered_orthogroup_counts.tsv | 
 			cut -f1 > ${path1}/species_genes/tmp
 			#Get the list of genes for that species, with methylation info
 			if [ -d ${i}/methylpy ]
