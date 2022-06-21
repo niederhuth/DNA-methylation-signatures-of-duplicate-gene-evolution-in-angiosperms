@@ -106,7 +106,7 @@ do
 		if [ perc_species_filter="TRUE" ]
 		then
 			#Get the list of genes for that species, with methylation info
-			if [ -d {$i}/methylpy ]
+			if [ -d ${i}/methylpy ]
 			then
 				fgrep -f ${path1}/perc_species_filter_keep_list.txt ${i}/ref/${path1}/filtered_genes.tsv | \
 				sort -k1,1 > ${path1}/perc_species/${i}_genes_to_keep.tsv
@@ -148,7 +148,7 @@ do
 		#Get data for phylo_genes_filter
 		if [ phylo_genes_filter="TRUE" ]
 		then
-			if [ -d {$i}/methylpy ]
+			if [ -d ${i}/methylpy ]
 			then
 				fgrep -f ${path1}/phylo_genes_filter_keep_list.txt ${i}/ref/${path1}/filtered_genes.tsv | \
 				sort -k1,1 > ${path1}/phylo_genes/${i}_genes_to_keep.tsv
@@ -194,7 +194,7 @@ do
 			awk -v a=${species_number_genes} -v b=${species_perc_gene_cutoff} '$2>=a && $4<=b' $i/ref/${path1}/filtered_orthgroup_counts.tsv | 
 			cut -f1 > ${path1}/species_genes/tmp
 			#Get the list of genes for that species, with methylation info
-			if [ -d {$i}/methylpy ]
+			if [ -d ${i}/methylpy ]
 			then
 				fgrep -f ${path1}/species_genes_filter_keep_list.txt ${i}/ref/${path1}/filtered_genes.tsv | \
 				sort -k1,1 > ${path1}/species_genes/${i}_genes_to_keep.tsv
