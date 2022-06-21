@@ -12,13 +12,15 @@ perc_species_filter=TRUE #Filter based on percentage of species in an orthogroup
 number_of_species=5 #Min number of species in an orthogroup
 species_perc_cutoff=0.2 #Max percentage of species in an orthogroup with putative TE hits
 phylo_gene_filter=TRUE #Filter based on percentage of genes in across phylogeny with TE-like hits; TRUE or FALSE
-phylo_number_species=1 #Min number of species an orthogroups has to be present in to be considered
+phylo_number_species=2 #Min number of species an orthogroups has to be present in to be considered
 phylo_number_genes=5 #Min number of genes in an orthogroup across the phylogeny to consider the orthogroup
 phylo_perc_gene_cutoff=0.2 #Max percentage of genes in an orthogroup across the phylogeny to retain the orthogroup
 species_gene_filter=TRUE #Filter based on percentage of genes within a species with TE-like hits; TRUE or FALSe
 species_number_genes=5 #Min number of genes in an orthogroup within the species to consider the orthogroup
 species_perc_gene_cutoff=0.2 #Max percentage of genes in an orthogroup within the species to retain the orthogroup
 
+#Change to current directory
+cd ${PBS_O_WORKDIR}
 #The following shouldn't need to be changed, but should set automatically
 path1="TE_filtering"
 
@@ -50,7 +52,7 @@ cut -f1 tmp | sort | uniq | while read line
 do
 	grep ${line} tmp | awk -v OFS="\t" '{a+=$2;b+=$3}END{print $1,a,b,b/a}' >> tmp2
 done
-sort -k1,1 tmp2 > filtered_othogroup_gene_counts.tsv
+sort -k1,1 tmp2 > filtered_orthogroup_gene_counts.tsv
 #Count up number of species per orthogroup
 cut -f2 species_orthogroup_list.txt | sort | uniq -c | sed 's/^ *//' | tr ' ' '\t' > tmp3
 #Count up the number of species per filtered orthogroup
@@ -60,7 +62,7 @@ rm tmp*
 #Combine some files
 #Add a header
 echo "Orthogroup Total_Species Total_Species_TE Perc_Species_TE Total_Genes Total_Genes_TE Perc_Species_TE" | tr ' ' '\t' > tmp
-join -1 1 -2 1 filtered_orthogroup_counts.tsv filtered_othogroup_gene_counts.tsv | tr ' ' '\t'> tmp2
+join -1 1 -2 1 filtered_orthogroup_counts.tsv filtered_orthogroup_gene_counts.tsv | tr ' ' '\t'> tmp2
 cat tmp tmp2 > filtered_orthogroups.tsv
 rm tmp tmp2
 
@@ -80,7 +82,7 @@ then
 	echo "Filtering based on the percentage of genes across the phylogeny with filtered as TE-like"
 	awk -v a=${phylo_number_species} -v b=${phylo_number_genes} \
 	-v c=${phylo_perc_gene_cutoff} '$2>=a && $5>=b && $7<=c' filtered_orthogroups.tsv > phylo_genes_filter_keep.tsv
-	cut -f1 perc_species_filter_keep.tsv > phylo_genes_filter_keep_list.txt
+	cut -f1 phylo_genes_filter_keep.tsv > phylo_genes_filter_keep_list.txt
 	mkdir phylo_genes
 fi
 #For species filter, we will only create the directory, as this has to be applied to each individual species

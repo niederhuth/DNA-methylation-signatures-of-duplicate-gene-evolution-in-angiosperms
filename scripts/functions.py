@@ -598,10 +598,10 @@ def classify(row,min_sites=20,qvalue=0.05,uM_cutoff=0,uM_weighted_mC_cutoff=Fals
 		return 'gbM'
 	#Check if number of methylated sites is at or below the cutoff to call unmethylated genes
 	elif mC_sites <= uM_cutoff and total_sites >= min_sites:
-		return 'Unmethylated'
+		return 'unM'
 	#Setting a hard cutoff on unmethylated sites may be too harsh
 	elif (mC_reads/total_reads) < uM_weighted_mC_cutoff and total_sites >= min_sites:
-			return 'Unmethylated'
+			return 'unM'
 	elif total_sites >= min_sites:
 		return 'Unclassified'
 	else:
