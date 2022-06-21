@@ -41,7 +41,8 @@ for i in *
 do
 	if [ -f ${i}/ref/mcscanx/${i}_orthogroups.tsv ]
 	then
-		cut -f2 ${i}/ref/mcscanx/${i}_orthogroups.tsv | sort | uniq | awk -v OFS="\t" -v a=${i} '{print a,$0}' >> ${path1}/species_orthogroup_list.txt
+		cut -f2 ${i}/ref/mcscanx/${i}_orthogroups.tsv | sort | uniq -c | sed 's/^ *//' | tr ' ' '\t' | \
+		awk -v OFS="\t" -v a=${i} '{print a,$2,$1}' >> ${path1}/species_orthogroup_list.txt
 	fi
 done
 cd ${path1}/
@@ -50,9 +51,13 @@ cd ${path1}/
 #column 4: percentage of TE-like genes across all species
 cut -f1 tmp | sort | uniq | while read line
 do
-	grep ${line} tmp | awk -v OFS="\t" '{a+=$2;b+=$3}END{print $1,a,b,b/a}' >> tmp2
+	count1=$(grep ${line} ${path1}/species_orthogroup_list.txt | awk -v OFS="\t" '{a+=$3}END{print $2,a}')
+	count2=$(grep ${line} tmp | awk -v OFS="\t" '{a+=$3}END{print a}')
+	awk -v OFS="\t" -v a=${line} -v b=${count1} -v c=${count2} '{print a,b,c,c/b}' >> tmp2
 done
 sort -k1,1 tmp2 > filtered_orthogroup_gene_counts.tsv
+
+
 #Count up number of species per orthogroup
 cut -f2 species_orthogroup_list.txt | sort | uniq -c | sed 's/^ *//' | tr ' ' '\t' > tmp3
 #Count up the number of species per filtered orthogroup
