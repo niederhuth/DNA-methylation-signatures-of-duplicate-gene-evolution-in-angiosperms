@@ -156,11 +156,11 @@ def feature_methylation(mC_bed, gff, output, mc_type=['CG','CHG','CHH'], primary
 				for i in db.children(pf, featuretype=secondary_feature, order_by='start'):
 					#Create our bed file, by joining together the sequence id (chromosome), start, stop,
 					#and primary feature id
-					sf_bed = sf_bed + '\t'.join([str(i.seqid), str(i.start), str(i.stop), str(pf.id)]) + '\n'
+					sf_bed = sf_bed + '\t'.join([str(i.seqid), str(i.start-1), str(i.stop), str(pf.id)]) + '\n'
 			#if a secondary feature is not provided, We again create a new bed file as above, but using,
 			#using the coordinates of the primary feature. 
 			else:
-				sf_bed = sf_bed + '\t'.join([str(pf.seqid), str(pf.start), str(pf.stop), str(pf.id)]) + '\n'
+				sf_bed = sf_bed + '\t'.join([str(pf.seqid), str(pf.start-1), str(pf.stop), str(pf.id)]) + '\n'
 	#We then create pybedtools objects for both our input mC_bed from allc2bed and our sf_bed.
 	#We then find the intersection of these two bed file, outputing the records for both
 	map_bed = pbt.bedtool.BedTool.intersect(pbt.BedTool(mC_bed), 
